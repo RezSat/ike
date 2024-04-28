@@ -10,15 +10,24 @@
 <body bgcolor="151313" class="h-screen flex items-center">
 	<div class="container mx-auto px-4 py-8 flex justify-center">
 		<center>
-		    <h1 class="text-3xl font-bold mb-10 text-[#BEADFA]">Type the question or take/upload a picture of the question</h1>
+			<a href="/si/subject">
+				<i class="fa fa-arrow-circle-left mt-5 mb-5 text-[#BEADFA] text-6xl" aria-hidden="true"></i>
+			</a>
 
-		    <div class="relative w-full max-w-md rounded-lg overflow-hidden bg-white shadow-md flex items-center">
+		    <h1 class="text-3xl font-bold mb-10 text-[#BEADFA]">ප්‍රශ්නය ටයිප් කරන්න හෝ ප්‍රශ්නයේ පින්තූරයක් එවන්න</h1>
 
-      			<input type="text" class="w-full p-4 pl-8 text-[#151313] rounded-lg focus:outline-none focus:ring-4 focus:ring-inset focus:ring-[#BEADFA]  focus:ring-offset-4" placeholder="Type your question">
+		    <form method="POST" action="/si/answer">
+		    	<input type="text" name="subject" value="{{ subject }}" hidden>
 
-      			<i class=" mr-4 fa fa-search text-[#BEADFA] hover:text-[#151313] cursor-pointer text-3xl " aria-hidden="true"></i>
+			    <div class="relative w-full max-w-md rounded-lg overflow-hidden bg-white shadow-md flex items-center">
 
-    		</div>
+	      			<input type="text" class="w-full p-4 pl-8 text-[#151313] rounded-lg focus:outline-none focus:ring-4 focus:ring-inset focus:ring-[#BEADFA]  focus:ring-offset-4" placeholder="ප්‍රශ්නය ටයිප් කරන්න" name="question" id="question">
+
+	      			<button type="submit">
+	      				<i class=" mr-4 fa fa-search text-[#BEADFA] hover:text-[#151313] cursor-pointer text-3xl " aria-hidden="true"></i>
+	      			</button>
+	    		</div>
+	    	</form>
     		
     		<br>
 

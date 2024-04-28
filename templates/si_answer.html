@@ -9,12 +9,15 @@
 </head>
 <body class="h-screen flex flex-col items-center justify-center bg-[#151313]">  
 
+	<a href="/si/{{ subject }}/ask">
+		<i class="fa fa-arrow-circle-left mt-5 text-[#BEADFA] text-6xl" aria-hidden="true"></i>
+	</a>
+	
+	<h1 class="text-2xl font-bold mb-30 mt-5 ml-10 mr-10 text-[#BEADFA]">ඔබ ඇතුළු කළ ප්‍රශ්නය:</h1>
+	<br>
+	 <h1 class="text-2xl font-bold mb-30 mt-5 ml-10 mr-10 text-[#BEADFA]">{{ question }}</h1> 
 
-	<i class="fa fa-arrow-circle-left mt-5 text-[#BEADFA] text-6xl" aria-hidden="true"></i>
-
-	<h1 class="text-2xl font-bold mb-30 mt-5 ml-10 mr-10 text-[#BEADFA]">Your Question: {{ question }}</h1> 
-
-	<h1 class="text-1xl font-bold mb-10 mt-10 text-[#BEADFA]">Answer:</h1> 
+	<h1 class="text-1xl font-bold mb-10 mt-10 text-[#BEADFA]">පිළිතුර:</h1> 
 
 	<div class="w-full max-h-screen overflow-y-auto rounded-lg bg-white shadow-md p-4">
 
