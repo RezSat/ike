@@ -1,5 +1,5 @@
 from flask import Flask, request, url_for, render_template
-from flaskext.markdown import Markdown
+import markdown
 
 from langchain_google_genai import GoogleGenerativeAIEmbeddings,ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
@@ -12,7 +12,6 @@ from subject import Prompts, LocalVectorStore
 from file_finder import *
 
 app = Flask(__name__)
-Markdown(app)
 
 subj = {
 	0: "history",
@@ -78,7 +77,7 @@ def answer(lang):
 	else:
 		answer = get_answer(question, subject)
 
-	return render_template(f"{lang}_answer.html", question=question, answer=answer, subject=subject)
+	return render_template(f"{lang}_answer.html", question=question, answer=markdown.markdown(answer), subject=subject)
 
 if __name__ == '__main__':
 	saved = open('saved', 'r').read()
