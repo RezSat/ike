@@ -1,5 +1,5 @@
 from flask import Flask, request, url_for, render_template
-from flask_markdown import Markdown
+from flaskext.markdown import Markdown
 
 from langchain_google_genai import GoogleGenerativeAIEmbeddings,ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
