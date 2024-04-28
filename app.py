@@ -3,7 +3,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings,ChatGoogleGenera
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.document_loaders import TextLoader
 from langchain_community.vectorstores import FAISS
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 from config import google_api_key
 from subject import Prompts, LocalVectorStore
 from file_finder import *
@@ -21,6 +21,17 @@ subj = {
 }
 vector_store = LocalVectorStore()
 prompt = Prompts()
+
+def english2sinhala(text):
+    translator = GoogleTranslator(source='en', target='si')
+    text = translator.translate(text)
+    return text
+
+def sinhala2enlgish(text):
+    translator = GoogleTranslator(source='si', target='en')
+    text = translator.translate(text)
+    return text
+
 
 def load_embeddings(subject):
 	new_db = FAISS.load_local(os.path.join(CWD, DATASETS, VECTOR_STORE, subject), vector_store.embeddings, allow_dangerous_deserialization=True)
@@ -55,7 +66,11 @@ def answer(lang):
 		question = request.form['question']
 		subject = request.form['subject']
 
-	answer = get_answer(question, subject)
+	if lang=='si':
+		question = sinhala2enlgish(question)
+		answer = english2sinhala(get_answer(question, subject))
+	else:
+		answer = get_answer(question, subject)
 
 	return render_template(f"{lang}_answer.html", question=question, answer=answer, subject=subject)
 

@@ -4,4 +4,4 @@ langchain-google-genai
 google-generativeai
 langchain-text-splitters
 faiss-cpu
-googletrans
+deep-translator
