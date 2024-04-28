@@ -60,7 +60,7 @@ def answer(lang):
 	return render_template(f"{lang}_answer.html", question=question, answer=answer, subject=subject)
 
 if __name__ == '__main__':
-	saved = open('SAVED', 'r').read()
+	saved = open('saved', 'r').read()
 	if saved == 'FALSE':
 		vector_store.history() 
 		vector_store.science()
@@ -69,7 +69,7 @@ if __name__ == '__main__':
 		vector_store.entrepreneurship()
 		vector_store.civic()
 		vector_store.ict()
-		with open('SAVED', 'w') as f:
+		with open('saved', 'w') as f:
 			f.write("TRUE")
 			f.close()
 
