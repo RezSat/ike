@@ -15,6 +15,7 @@ HEALTH_TXT = os.path.join(CWD, DATASETS, TEXT, "health")
 HISTORY_TXT = os.path.join(CWD, DATASETS, TEXT, "history")
 ICT_TXT = os.path.join(CWD, DATASETS, TEXT, "ict")
 SCIENCE_TXT = os.path.join(CWD, DATASETS, TEXT, "science")
+MATH_TXT = os.path.join(CWD, DATASETS, TEXT, "mathematics")
 
 
 def read_files(dir):
@@ -26,5 +27,5 @@ def read_files(dir):
 	return text+"\n\n"
 
 def merge_all():
-	text = read_files(BUSINESS_TXT) + read_files(CIVIC_TXT) + read_files(ENGLISH_TXT) + read_files(ENTREPRENEURSHIP_TXT) + read_files(GEOGRAPHY_TXT) + read_files(HEALTH_TXT) + read_files(HISTORY_TXT) + read_files(ICT_TXT) + read_files(SCIENCE_TXT)
+	text = read_files(BUSINESS_TXT) + read_files(CIVIC_TXT) + read_files(ENGLISH_TXT) + read_files(ENTREPRENEURSHIP_TXT) + read_files(GEOGRAPHY_TXT) + read_files(HEALTH_TXT) + read_files(HISTORY_TXT) + read_files(ICT_TXT) + read_files(SCIENCE_TXT) + read_files(MATH_TXT)
 	return text

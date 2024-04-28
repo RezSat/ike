@@ -16,7 +16,8 @@ subj = {
 	3: "geography",
 	4: "entrepreneurship",
 	5: "civic",
-	6: "ict"
+	6: "ict",
+	7: "mathematics"
 
 }
 vector_store = LocalVectorStore()

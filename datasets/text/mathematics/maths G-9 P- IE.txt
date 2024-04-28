@@ -1,0 +1,4893 @@
+iMATHEMATICS
+Grade 9
+ Part - I 
+Educational Publications Department
+
+Published by Educational Publications Department
+Printed by Savinda Graphic Systems (Pvt) Ltd, No. 145,
+UDA Industrial Estate, Katuwana Road, Homagama.
+iiFirst Print  2017
+Second Print  2018
+Third Print    2019
+All Rights Reserved
+ISBN 978-955-25-0157-9
+Published by Educational Publications Department
+Printed by Vishwa Graphics (Pvt) Ltd. 
+No. 439/3/3, Hokandara Road, Pannipitiya. 
+iii
+The National Anthem of Sri Lanka
+ Sri Lanka Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+ Sundara siri barinee, surendi athi sobamana Lanka
+ Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya 
+ Apa hata sepa siri setha sadana jeewanaye matha
+ Piliganu mena apa bhakthi pooja Namo Namo Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+ Oba we apa vidya
+ Obamaya apa sathya
+ Oba we apa shakthi
+  Apa hada thula bhakthi
+ Oba apa aloke 
+  Apage anuprane
+ Oba apa jeevana we 
+ Apa mukthiya oba we
+ Nava jeevana demine, nithina apa pubudukaran matha
+ Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+ Eka mavakage daru kela bevina
+ Yamu yamu vee nopama
+ Prema vada sema bheda durerada
+ Namo, Namo Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+v
+ ivwms fjuq tl ujlf. orefjda
+tl ksjfiys fjfikd
+tl mdge;s tl reêrh fõ
+wm lh ;=< ÿjkd
+tneúks wms fjuq fidhqre fidhqßfhda
+tl f,i tys jefvkd
+Ôj;a jk wm fuu ksjfia
+fid¢k isáh hq;= fõ
+ieug u fu;a lreKd .=fKkS
+fj<S iu.s oñkS
+rka ñKs uq;= fkd j th u h iem;d
+lsis l, fkdu Èrkd
+wdkkao iurfldaka
+J¸ uõ´ ©UPÒ |õ©õ÷Áõ®
+Jß÷Ó |õ® ÁõÊ® CÀ»®|ß÷Ó Eh¼À Kk®Jß÷Ó |® S¸v {Ó®
+AuÚõÀ \÷Põuµº |õ©õ÷Áõ®
+JßÓõ´ ÁõÊ® ÁÍ¸® |õ® |ßÓõ´ CÆ CÀ¼Û÷»|»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ
+¯õÁ¸® Aß¦ P¸øn²hß
+JØÖø© ]ÓUP ÁõÌ¢vkuÀö£õßÝ® ©o²® •zx©À» & Ax÷Á¯õßÖ ©È¯õa ö\ÀÁ©ß÷Óõ.
+  BÚ¢u \©µU÷Põß
+  PÂøu°ß ö£¯º¨¦.
+v
+v
+viForeword 
+ The educational objectives of the contemporary world are becoming more 
+complex along with the economic, social, cultural and technological development. 
+The learning and teaching process too is changing in relation to human experiences, 
+technological differences, research and new indices. Therefore, it is required to 
+produce the textbook by including subject related information according to the 
+objectives in the syllabus in order to maintain the teaching process by organizing 
+learning experiences that suit to the learner needs. The textbook is not merely 
+a learning tool for the learner. It is a blessing that contributes to obtain a higher 
+education along with a development of conduct and attitudes, to develop values and 
+to obtain learning experiences.
+ The government in its realization of the concept of free education has offered 
+you all the textbooks from grades 1-11. I would like to remind you that you should 
+make the maximum use of these textbooks and protect them well. I sincerely hope 
+that this textbook would assist you to obtain the expertise to become a virtuous 
+citizen with a complete personality who would be a valuable asset to the country.
+ I would like to bestow my sincere thanks on the members of the editorial 
+and writer boards as well as on the staff of the Educational Publications Department 
+who have strived to offer this textbook to you. 
+W . M. Jayantha Wickramanayaka,
+Commissioner General of Educational Publications,
+Educational Publications Department,
+Isurupaya,
+Battaramulla.
+2019.04.10    
+viiMonitoring and Supervision   
+W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
+      Educational Publications Department
+Direction          
+W. A. Nirmala Piyaseeli -   Commissioner of Education Publications (Development)
+     Educational Publications Department
+Co-ordination    
+Thanuja Maithrie Witharana -  Assistant Commissioner, Educational Publications Department
+T. D. C. Kalhari Gunasekara -  Assistant Commissioner, Educational Publications Department
+(Reprint 2019)
+ Board of Editors
+Dr. Romaine Jayewardene    - Senior Lecturer, University of Colombo
+Dr. D.K. Mallawa Arachchi   -   Senior Lecturer, University of Kelaniya
+Dr. Naleen Ganegoda - Senior Lecturer, University of Sri Jayawardanapura
+Shrima Dasanayake -   Assistant Director of Education, Ministry Of Education
+G. P. H. Jagath Kumara -   Senior Lecturer, National Institute of Education
+S. Rajendram  - Senior Lecturer, National Institute of Education
+Thanuja Maithrie Witharana -   Assistant Commissioner, Educational Publications Department
+Board of Writers
+Dr. J. Rathnayake - Senior Lecturer, University of Colombo
+K. U. S. Somarathna -  Lecturer, University of Moratuwa
+H. M. A. Jayasena - In Service Adviser (Retired)
+Y . V . R. Vitarama -   In Service Adviser, Zonal Education Office, Dehiowita
+W. M. W. C. Walisinghe -  In Service Adviser, Zonal Education Office, Kegalle
+Ajith Ranasinghe -   In Service Adviser, Zonal Education Office, Homagama
+Anura Weerasinghe -   In Service Adviser, (Priven), Matara District
+W. M. D. Lal Wijekantha -  Teacher, St. Thomas College, Mt. Lavinia
+B. M. Bisomanike -   Teacher, Maliyadewa Girls' College, Kurunegala
+Mewan B. Dabarera -   Teacher, C. W. W Kannangara Vidyalaya, Colombo 08
+M. Ruberu Gunasekara -   Principal (Retired)
+N. Vageesamoorthy -   Director of Education (Retired)
+R. S. E. Pushparajan -   Assistant Director of Education (Retired)
+M. S. M. Rafeethu - In Service Adviser (Retired)
+U. Vivekananthan -   Teacher (Retired)
+       
+Language Editing
+G. S. P. Gallage -   Teacher, C. W. W. Kannangara Vidyalaya, Colombo 08
+Proof Reading
+M. A. K. Samurdhi - Teacher, Sirimavo Bandaranaike Vidyalaya, Colombo 07  
+Illustrations, and Technical Assistance
+R. D. Thilini Sewwandi -   Educational Publications Department
+B. T. Chathurani Perera -  Educational Publications Department
+Cover Page
+R. M. Rajitha Sampath -  Educational Publications Department
+B. T. Chathurani Perera -  Educational Publications Department
+viiiMessage of the Board of Compilers
+This textbook has been compiled in accordance with the new syllabus to be 
+implemented from 2015. 
+Textbooks are compiled for students. Therefore, we have made an attempt to 
+compile this textbook in a simple and detailed manner making it possible for you to 
+read and understand it on your own. 
+We have included descriptions, activities and examples to introduce the subject 
+concepts in an attractive manner and to establish them. Moreover, activities are 
+organized from simple to complex to develop an interest to do them. 
+We have used the terms related to mathematical concepts in accordance with the 
+glossary of technical terms of mathematics compiled by the Department of Official 
+Languages.
+Some subject matter learnt during the earlier grades is necessary to learn the subject 
+content in the grade 9 syllabus. Thus, review exercises are included at the begin -
+ning of each chapter to revise previous knowledge. You will be prepared by them 
+for the subject content of grade 9.
+You will gain maximum benefit from this textbook by reading the chapters and do -
+ing the review exercises of each chapter even before your teacher teaches them in 
+the classroom.
+We hope that studying mathematics will be an interesting, joyful  and productive 
+experience.
+Board of Compilers
+ix
+Contents
+         Page
+1. Number Patterns  1
+2. Binary Numbers 16
+3. Fractions 27
+4. Percentages 42
+5.  Algebraic Expressions  60
+6.  Factors of Algebraic Expressions 69
+7.  Axioms 81
+8.  Angles related to straight lines and parallel lines  94
+9.  Liquid Measurements 117
+ Revision Exercise  126
+ Glossary 132
+ Lesson Sequence  134
+g'''msúfikak ksoyfia i;=áka 
+±kqu fidhd''www.e-thaksalawa.moe.gov.lk g '''
+x
+1
+                        for free distributionNumber Patterns 1
+ 
+By studying this lesson you will be able to;
+² develop the general term of a number pattern with the same difference between 
+adjacent terms,
+² develop the number pattern when the general term is known,
+² solve problems associated with number patterns.
+ 
+Introduction to number patterns 
+Several number patterns are given below.
+i.  3, 3, 3, 3, 3, ...
+ii.  2, 4, 6, 8, 10, ...
+iii.  5, 8, 11, 14, 17, ...
+iv.  2, 4, 8, 16, 32, ...
+v.  1, 1, 2, 2, 3, 3, 4, 4, 5, 5, ...
+vi.  1, 2, 2, 3, 3, 3, 4, 4, 4, 4, ... 
+The first number pattern is very simple. Every number of this number pattern is 3.
+While the first number of the second number pattern is 2, all the numbers thereafter 
+are obtained by adding 2 to the previous number.
+While the first number of the third number pattern is 5, all the numbers thereafter 
+are obtained by adding 3 to the previous number.
+While the first number of the fourth number pattern is 2, all the numbers thereafter 
+are obtained by multiplying the previous number by 2.
+The fifth and sixth number patterns have characteristics which are inherent to them.
+The numbers of a number pattern are called “terms”. 
+For example, each term of the first number pattern is 3.
+Introduction to number patterns 
+2
+  for free distributionThe first term of the second number pattern is 2, the second term is 4, the third term 
+is 6, etc. In this pattern, each term which comes after the first term is obtained by 
+adding 2 to the previous term.
+The first term of the third number pattern is 5, the second term is 8, the third term 
+is 11, etc. In this pattern, each term which comes after the first term is obtained by 
+adding 3 to the previous term.
+In the fourth number pattern, each term which comes after the first term is obtained 
+by multiplying the previous term by 2.
+The ways in which the terms of the fifth and sixth number patterns are obtained can 
+also be described as above. However, the descriptions will be more complicated.
+Observe that the terms of the number patterns given above are separated by commas 
+and that there are three dots (ellipsis) at the end of each number pattern. This is how 
+number patterns are usually written. The three dots indicate that the number pattern 
+continues. 
+In mathematics, the word “sequence” is used for the word “pattern”. 
+Accordingly, six “number sequences” (or simply “sequences”) are given above. 
+The order of the terms of a sequence is important. 
+For example, although the sequence  1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, ...  
+and the sequence 1, 2, 1, 2, 3, 4, 3, 4, 5, 6, 5, 6, ...  consist of the same numbers, they 
+are two different sequences.
+In the above examples of sequences, only a few initial terms are given. However, it 
+is incorrect to presume the pattern of the sequence by considering only a few initial 
+terms.
+For example,
+1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, ...
+is a number pattern; that is, a sequence. If only the first five terms of the sequence 
+are given (that is, 1, 2, 3, 4, 5, …), and a person is asked what the next term is, one 
+may be provided with the incorrect answer 6. Hence, asking for the next term (or 
+next few terms) after giving only the first few terms of a sequence is mathematically 
+incorrect. 
+A method of describing a sequence accurately is by providing a rule by which each 
+term of the sequence can be calculated. 
+3
+                        for free distributionThe uniqueness (or characteristic) of the second and third sequences of the six 
+sequences given above can be explained as follows.
+In the second sequence, every term which comes after the first term is obtained by 
+adding the constant value 2 to the previous term. This can be illustrated as follows.
+2
++24 6 8 10
++2 +2 +2
+In the third sequence, every term which comes after the first term is obtained by 
+adding the constant value 3 to the previous term. This can be illustrated as follows.
+5
++38 11 14 17
++3 +3 +3
+Here, the meaning of “constant value” is “the value remains unchanged”. 
+The characteristic which is common to both these patterns can be described as 
+follows.
+“The value obtained by subtracting the previous term from any term (except the 
+first term) is a constant (that is, a constant value).”
+The value of this constant is 2 for the sequence 2, 4, 6, 8, 10, …
+(since 4 − 2 = 6 − 4 = 8 − 6 = 10 − 8 = 2).
+The value of this constant is 3 for the sequence 5, 8, 11, 14, 17, …
+(since 8 − 5 = 11 − 8 = 14 − 11 = 17 − 14 = 3).
+Let us study further about sequences of which the difference between every pair of 
+consecutive terms is a constant value. 
+This constant value is known as the common difference of the sequence. Accordingly, 
+ common difference = any term except the first term – the previous term
+
+4
+  for free distributionIt can be seen that the first sequence 3, 3, 3, 3, 3, … also has the same characteristic. 
+3
++03 3 3 3
++0 +0 +0
+Here, the constant value added (that is the common difference) is 0. 
+Another sequence with the same characteristic is given below.
+17
+−512 7 2 − 3...
+−5 −5 −5
+The first term of this sequence is 17. Every term which comes thereafter is obtained 
+by subtracting 5 from the previous term. That is, by adding −5 to the previous term. 
+Accordingly, the common difference of this sequence is −5. 
+Common difference = 12 − 17 = 7 − 12 = 2 − 7 = −3 − 2 = −5.   
+If the value of the common difference and the first term of a sequence with a 
+common difference are known, the first few terms of the sequence can be written 
+easily. A couple of examples of such sequences are given below.
+Example 1 
+The first three terms of the sequence with first term 4 and common difference 3 are 
+4, 7 and 10. 
+Example 2 
+The first five terms of the sequence with first term 7 and common difference − 4 
+are 7, 3. −1, −5 and −9.
+The first few terms of a sequence with a common difference can be written easily, 
+when the first term and common difference are given. But it is not so easy to find, 
+say the 50th term or the 834th term. The reason is because 50 and 834 are fairly 
+large numbers.  
+It is important to know the general term of a sequence to be able to find any term of 
+the sequence easily. Now let us see what is meant by the general term.
+5
+                        for free distributionThe general term of a number pattern
+First, let us introduce a specific notation to denote the terms of a sequence. For a 
+given sequence, let us denote
+the first term by  T1,
+the second term by T2,
+the third term by  T3, etc.
+For example, with regard to the sequence
+5, 11, 17, 23, ...
+we can indicate the terms as follows:
+the first term , T1 = 5
+the second term , T2 = 11
+the third term , T3 = 17
+the fourth term , T4 = 23
+It is very important to consider the nth term of a sequence, as is usually done in 
+mathematics. Here, n represents any positive integer. The reason for this is that the 
+values n can assume are positive integers such as 1, 2, 3, ... . The  1
+2th term, the 
+−4th term, the 3.5th term, etc., have no meaning. When considering a value n, the 
+corresponding nth term is denoted by Tn. This is called the general term  of the 
+sequence. Accordingly,
+the general term ( nth term) of a sequence is denoted by  Tn.
+1.1 Developing the number sequence when the general  term is
+      given
+In the previous section we learnt the notation that is used to denote the terms of a 
+sequence, in particular, the general term. Now, through a couple of examples, let us 
+consider how to develop the number sequence and how to find a named term of the 
+sequence, when the general term is given.
+The general term of a number pattern
+1.1 Developing the number sequence when the general  term is
+      given
+6
+  for free distributionExample 1 
+Consider the number sequence with general term Tn =  2n + 3.
+(i) Write the first three terms of this sequence.
+(ii) Find the 20th term.  
+(iii) Which term is equal to 123?
+(iv) Find the ( n + 1)th term in terms of n.
+(i) Since the general term Tn = 2n + 3,
+when  n = 1; the first term T1= (2 × 1) + 3 = 2 + 3 = 5,
+when  n = 2; the second term T2 = (2 × 2) + 3 = 4 + 3 = 7,
+when  n = 3; the third term T3 = (2 × 3) + 3 = 6 + 3 = 9.
+Therefore, the first three terms of this number pattern are 5, 7, 9.
+(ii) The 20th term is obtained by substituting  n = 20 in 2 n + 3.
+The 20th term,  T20 = (2 × 20) + 3  = 40 + 3
+= 43
+Therefore, the 20th term is 43.
+(iii) Let us assume that the nth term is 123.
+Then, 2n + 3 = 123 
+2n + 3 – 3 = 123 – 3
+2n = 120
+n = 2120  
+= 60
+Therefore, 123 is the 60th term of the number pattern.
+(iv) In order to obtain the  (n + 1)th term, let us substitute  (n + 1) for n.
+The ( n + 1)th term , 
+Tn + 1 = 2 ( n + 1) + 3
+= 2n + 2 + 3
+= 2n + 5
+Therefore, the ( n + 1)th term, in terms of n, is 2 n + 5.
+7
+                        for free distributionExample 2 
+Consider the number pattern with general term Tn = 56 – 4n.  
+(i) Write the first three terms of this number pattern.
+(ii) Find the 12th term.
+(iii) Show that 0 is a term of this number pattern.
+(iv) Show that 18 is not a term of this number pattern.
+(i) Since the general term  Tn = 56 – 4n,
+when  n = 1; the first term T1 = 56 – (4 × 1)  = 56 – 4 = 52
+when  n = 2; the second term T2 = 56 – (4 × 2) = 56 – 8 = 48
+when  n = 3; the third term  T3 = 56 – (4 × 3)  = 56 – 12 = 44
+Therefore, the first three terms of the number pattern are 52, 48, 44.
+(ii)The 12th term = 56 – 4 × 12
+= 56 – 48
+= 8
+(iii) If 0 is a term of the number pattern, then for some integer n, we have
+ 
+56 – 4n = 0. 
+∴ 56 – 4n + 4n = 4n (adding 4 n to both sides)
+456 = 44n
+14 = n
+n = 14     
+The 14th term of the number pattern is 0.Therefore 0 is a term of this number 
+pattern.
+(iv) If 18 is a term of this number pattern, then for some integer n, we have                    
+        56 – 4n = 18. 
+Then, 56 – 4n + 4n = 18 + 4 n
+56 – 18 = 18 – 18 + 4 n 
+38 = 4 n 
+921 = n
+If 18 is a term of this number pattern, the value of n should be a whole number. 
+Since n = 921, 18 is not a term of this number pattern.
+8
+  for free distribution
+Exercise 1.1
+1.  Complete the table.
+The gen -
+eral term 
+of the 
+number 
+patternThe first term 
+when  n = 1The second term 
+when  n = 2The third term 
+when  n = 3First three 
+terms of 
+the num -
+ber pattern
+3n + 2
+5n – 1
+2n + 5
+20 – 2n
+50 – 4n
+35 – n (3 × 1 ) + 2 = 5
+(5 × 1 ) – 1 = 4
+.........................
+.........................
+.........................
+.........................(3 × 2 ) + 2 = 8
+.........................
+.........................
+.........................
+.........................
+.........................(3 × 3 ) + 2 = 11
+.........................
+.........................
+.........................
+.........................
+.........................5, 8, 11
+..., ..., ...
+..., ..., ...
+..., ..., ...
+..., ..., ...
+..., ..., ...
+2. The general term of a number pattern is  4n – 3.
+i.  Write the first three terms of this number pattern.
+ii. Find the 12th term.
+iii. Which term is equal to 97?
+iv. Show that 75 is not a term of this number pattern.
+3. Consider the number pattern with nth term 7n + 1.
+ i.  Write the first three terms of this number pattern.
+ii.  Find the 5th term.
+iii. Which term is equal to 36?
+iv.  Write the ( n+1)th term, in terms of  n.
+4. Consider the number pattern with general term  Tn = 50 − 7n.
+ i.  Write the first three terms of this number pattern.
+ii.  Find the 10th term.
+iii. Write the ( n + 1)th term, in terms of n. 
+iv.  Show that the terms which come after the 7th term are negative numbers.
+9
+                        for free distribution1.2  Obtaining an expression for the general term ( Tn) 
+In the previous section an expression was given for the general term Tn. Our objective 
+in this section, is to obtain an expression for Tn in terms of n. Then, any term of the 
+sequence can easily be found by using the obtained expression. Now let us consider 
+how we can develop such an expression, through an example. 
+Suppose we want to find the 80th term of the sequence 5, 11, 17, 23…, which is a 
+sequence with a common difference. That is, we want to find the value of T80. First, 
+examine the pattern given in the following table.
+n TnHow Tn can be written in terms of n and 
+the common difference 6.
+1
+2
+3
+4
+55
+11
+17
+23
+296 × 1 − 1  or 5 + 0 × 6 
+6 × 2 − 1  or 5 + 1 × 6 
+6 × 3 − 1  or 5 + 2 × 6
+6 × 4 − 1  or 5 + 3 × 6 
+6 × 5 − 1  or 5 + 4 × 6
+You may be wondering why the expressions 6 × 1 − 1, 6 × 2 − 1, 6 × 3 – 1, etc., 
+given in the 3rd column of the table have been written. Especially, the reason why 
+1 is subtracted from each term may be unclear to you. This can be explained as 
+follows. 
+Since the common difference of the given sequence 5, 11, 17, 23, … is 6, let us 
+write the given sequence first and several multiples of 6 below it. 
+5, 11, 17, 23, 29, ...
+6, 12, 18, 24, 30, ...  
+It is clear that the given sequence can be obtained by subtracting 1 from each 
+multiple of 6.
+That is,
+the first term of the sequence = the first multiple of 6 – 1
+the second term of the sequence = the second multiple of 6 –1
+the third term of the sequence = the third multiple of 6 – 1
+Accordingly,  
+the nth term of the sequence = the nth multiple of 6 – 1 
+∴ Tn = 6n − 1
+1.2  Obtaining an expression for the general term ( Tn) 
+10
+  for free distributionAccordingly,  
+T80 = 6 × 80 − 1 = 479.
+Therefore, the 80th term is 479.
+Moreover, an expression for the general term Tn of this sequence was found above 
+as Tn = 6n − 1.
+We can find any term of the sequence using this expression. For example, in order 
+to find the 24th term of this sequence, n has to be substituted with 24.
+T24 = 6 × 24 −1 = 143 
+Therefore, the 24th term of the sequence is 143. 
+Let us consider another example.
+Example 1 
+Given that the sequence with first four terms15, 19, 23, 27 has a common difference, 
+let us find an expression for the nth term. 
+The common difference  = 19 − 15 = 4' 
+Let us write the first few terms of the given sequence, and several multiples (positive 
+integer multiples) of 4 below them.
+15, 19, 23, 27, ... 
+4, 8, 12, 16, ...
+It is clear that the given number pattern is obtained by adding 11 to each multiple 
+of 4.
+Therefore, the expression for the general term Tn is given by Tn = 4n + 11. 
+Let us find the 100th term using this expression. 
+ T100 = 4 × 100 + 11 = 411
+Now let us consider a sequence with a negative common difference, which therefore 
+consists of terms which are decreasing in value.
+Example 2 
+Let us find an expression for the general term Tn of the sequence with a common 
+difference, of which the first four terms are 10, 7, 4, 1.
+The common difference of the sequence 10, 7, 4, 1, … = 7 − 10 = − 3.
+11
+                        for free distributionTherefore, let us write the first few terms of the given sequence and a few multiples 
+of −3 (integral), one below the other.
+10, 7, 4, ...
+− 3, − 6, − 9, ...
+It can be seen that the terms of the sequence are obtained by adding 13 to the 
+multiples of −3. Therefore, the general term can be written as 
+Tn = − 3 n + 13
+(Or else, it can be written as Tn = 13 − 3 n with the positive term first.)
+For example, in order to find the 30th term, n = 30 should be substituted in the 
+expression for Tn.
+ T30 = − 3  × 30 + 13 = − 77
+Therefore, the 30th term is − 77.
+Exercise 1.2
+All sequences in this exercise have a common difference.
+1. Copy the following table in your exercise book and complete it.
+Pattern The difference 
+between two 
+successive termsThe number, whose 
+multiples are used to 
+develop the pattern
+5, 8, 11, 14,...
+10, 17, 24, 31, ...
+221, 4, 521, 7, ...
+20, 17, 14, 11, ...
+50, 45, 40, 35, ...
+0.5, 0.8, 1.1, 1.4, ...8 − 5 = 3 3
+12
+  for free distribution2. Complete the table in relation to the number pattern 10, 17, 24, 31, ...,  
+Sequential order of 
+the termsTerm How the pattern has 
+been developed
+1st term
+2nd term
+3rd term
+4th term
+nth term10
+17
+24
+31
+....7 × 1 + ...
+7 × 2 + ...
+... + ...
+... + ...
+... + ... = ...
+3. Find the general term of each of the number patterns given below.
+a. 1, 4, 7, 10, ...
+b. 1, 7, 13, 19, ...
+c. 9, 17, 25, 33, ...
+d. 4, 10, 16, 22, ...
+e. 22, 19, 16, 13, ...
+f. 22, 20, 18, 16, ...
+1.3 Solving mathematical problems involving number patterns
+We can solve various mathematical problems by developing number patterns using 
+information that is given.
+Example 1 
+A long distance runner trains every day. On the first day he runs 500 m and on each 
+day thereafter he runs 100 m more than on the previous day. 
+ i.  Write separately the distances he runs on the first three days.
+ii.  Find the general term Tn for the distance he runs on the nth day, in terms of n.
+iii. Find the distance he runs on the 20th day.
+iv. On which day does he run 3km?  
+i.         The distance run on the first day   = 500 m
+The distance run on the second day = 500 m + 100 m = 600 m
+The distance run on the third day  = 500 m + 100 m + 100 m = 700 m
+∴ The first three terms of the number pattern are  500, 600, 700
+1.3 Solving mathematical problems involving number patterns
+13
+                        for free distributionii. Let us take the day as n.
+The number pattern of the distance run by the athlete is built up by multiples 
+of 100.
+Therefore, the general term Tn = 100 n + 400
+iii. It is clear that the distance run on the 20th day is represented by the 20th term.
+     The 20th term, T20 = (100 × 20) + 400
+= 2000 + 400
+= 2400 m
+= 2.4 km
+∴ The distance run on the 20th day is 2.4 km.
+iv. Let us assume that 3000 m are run on the nth day.
+Then, 100 n + 400 = 3000
+100n + 400  – 400 = 3000 – 400
+100 n = 2600 
+∴ n = 1002600 
+= 26
+Therefore, 3km are run on the 26th day.
+Exercise 1.3
+1. A pattern created by using matchsticks is shown below.
+   1 2 3 4
+Complete the table in relation to the pattern given above.
+Figure Number 1 2 3 4
+Total number 
+of matchsticks.... 9 .... ....
+ 
+i.  Find the number of matchsticks needed to create the 20th figure.
+ii.  219 matchsticks are required to create which figure of this pattern?
+iii.  Show that one matchstick remains after creating a figure of this pattern by 
+using the maximum number of match sticks from 75 matchsticks.
+14
+  for free distribution2.  A worker cuts pieces of rods of different lengths from iron rods which are  
+5 m in length, in order to build a gate by welding pieces together. The length 
+of the shortest piece of iron rod that is cut is 15 cm. All the other pieces are 
+cut such that the difference in length between two successive pieces which 
+are cut is 10 cm.
+i.  Write the lengths of the shortest three pieces cut by the worker.
+ ii. Find the length of the 20th piece, when arranged in ascending order of the 
+ length, starting from the shortest piece.
+ iii. Show that a 5 m long rod will not be sufficient to cut the 50th piece, when  
+  arranged in ascending order of the length.
+3.  On the day that their school celebrated “Annual Savings Day”, Yesmi and 
+Indunil start saving money by putting Rs 100 each into their respective savings 
+boxes. After that, they put money into their savings boxes once a week, on the 
+same day of the week that they started saving money. Yesmi put Rs 10 and 
+Indunil put Rs  5 each week into their respective boxes. 
+ i.  How much does Yesmi have in her savings box in the 5th week?
+ ii.  How much does Indunil have in her savings box in the 10th week?
+ iii. At the end of 50 weeks, both of them open their savings boxes and check  
+the amount that each has saved. How much more money has Yesmi saved 
+than Indunil in the 50 weeks?
+4.  The seats in an outdoor stadium are arranged for a drama in 15 rows according 
+to a pattern with a common difference, such that the first row consists of 9 
+seats, the second row of 12 seats, the third row of 15 seats, etc.
+ i. How many seats are there in total in the first five rows?
+ ii.  How many seats are there in the 15th row?
+ iii.  Show that the 10th row has 4 times the number of seats in the first row,  
+ according to this pattern.
+ iv.  Which row consists of 51 seats?
+Miscellaneous Exercise
+1. The general terms of a few number patterns are given below.
+    (a) 3n – 5       (b) 6n + 5     (c) 6n − 5 
+  For each number pattern,
+ i. write the first three terms.
+ii.  find the 20th term.
+ iii. find the  (n – 1)th term in terms of n. 
+15
+                        for free distribution2. Find the general term of each number pattern given below, given that each has 
+a common difference.
+  i. – 3, 1, 5, 9, ... ii. 0, 4, 8, 12, ...
+ iii. 11
+2, 2, 21
+2, ... iv. – 6, – 3, 0, 3, ... 
+3. Show that the general term of the number pattern 42, 36, 30, 24, ... with a 
+common difference is 6 (8 – n).
+4. Uditha is employed in a private company. His first monthly salary is                                    
+Rs 25 000. From the beginning of the second year onwards, he receives an 
+annual salary increment of Rs 2400 per month.
+ i.  How much is his monthly salary at the beginning of the second year?
+ ii.  Write separately, Uditha’s monthly salary during the first three years.
+ iii.  Write an expression for his salary in the nth year in terms o f n.
+ iv.  Find Uditha’s monthly salary in the 5th year, by using the expression  
+  obtained in (iii) above.
+ 
+Summary
+Summary
+²  common difference = any term except the first term – the previous term
+²  The general term of a sequence is denoted by Tn .
+²  Any term of a sequence can easily be found by using the general term.
+16
+  for free distributionBinary Numbers 2
+By studying this lesson, you will be able to;
+ ²identify binary numbers,
+ ²convert a decimal number into a binary number,
+ ²convert a binary number into a decimal number,
+ ²add and subtract binary numbers,
+ ²identify instances where binary numbers are used.
+ Introduction
+Let us recall how numbers are written in the Hindu - Arabic number system, which 
+is the number system we use. 
+As an example, let us consider the number 3 725. According to what we have learnt 
+in previous grades,
+5 denotes the number of 1s (that is, the number of 100s), 
+2 denotes the number of 10s (that is, the number of 101s), 
+7 denotes the number of 100s (that is, the number of 102s),
+3 denotes the number of 1000s (that is, the number of 103s).
+The above can be represented on an abacus as shown below.
+ 
+  
+ 
+     1000       100      10      1 
+103102101100   
+Observe that the number 3 725 can also be written in terms of powers of 10 as 
+shown below.
+  3 725 = 3 × 1000 + 7 × 100 + 2 × 10 + 5 × 1 
+That is,  3 725 = 3 ×103 + 7 × 10 2 + 2 ×101 + 5 × 100
+17
+  for free distributionIf we consider 603 as another example, we can write it as shown below.
+ 603 = 6 × 10 2 + 0 × 10 1 + 3 × 10 0 
+In the Hindu - Arabic number system which we use, the place values are powers of 
+ten such as 1, 10, 100 and 1000. Moreover, we use the 10 digits 0, 1, 2, 3, 4, 5, 6, 
+7, 8 and 9 to write numbers in the Hindu - Arabic number system. The method of 
+writing numbers using these 10 digits and assigning place values which are powers 
+of ten, is called writing the numbers in “base 10”. When studying about number 
+bases, these numbers are called “decimal numbers”. 
+Note : 100 = 1. Similarly, any nonzero base raised to the power zero is always 
+              equal to one. Accordingly, 20 = 1.
+2.1  Expressing numbers in the binary number system
+We can use number bases other than base ten to express numbers. For example, we 
+can express numbers in “base two” by using only the digits 0 and 1, and assigning 
+place values which are powers of two. To do this, let us first identify several powers 
+of two. 
+We can write them as;
+ 20 = 1  25 = 32
+ 21 = 2  26 = 64
+ 22 = 4  27 = 128
+ 23 = 8  28 = 256
+ 24 = 16  29 = 512
+To understand the method of writing numbers in base two, let us first consider the 
+base ten number 13 as an example. Let us see how we can write 13 as a sum of 
+powers of two. 
+The first few powers of two are;
+ 1, 2, 4 and 8.
+Using these numbers which are powers of two, we can write,
+13 = 8 + 4 + 1
+i.e., 13 = 23 + 22 + 20 
+i.e., 13 = 1 × 23 + 1 × 22 + 0 × 21 + 1 × 20.
+18
+  for free distributionHere, we have written all the non - negative powers of two in descending order, 
+starting from 23 and continuing with 22, 21 and 20. Also, since the power 23 is 
+included, it is written as 1 × 23 and since the power 21 is not included, it is written as 
+0 × 21. Recall that we use only the digits 1 and 0 when writing base two numbers. 
+Considering the above facts, we can write 13 as a base two number as follows. 
+     1101
+The digits 0 and 1 appearing in this base two number can be described as follows.
+  1  1  0  1
+23222120
+We can also express it using an abacus as follows.
+      
+ 
+       23      22     21    201 1 0 1
+To indicate that 1101 is a base two number, we usually write “two” as a subscript 
+and express the number as 1101two. In this lesson, whenever necessary, we indicate 
+base ten numbers with the subscript “ten” to differentiate the base two numbers 
+from the base ten numbers. For example, the decimal number 603 is written as 
+603ten.
+Let us consider another example. Let us write the base ten number 20 ten as a base 
+two number.
+By recalling the powers of two, we can write; 
+  20 = 16 + 4 
+  = 24 + 22 
+= 1 × 24 + 0 × 23 + 1 × 22 + 0 × 21 + 0 × 20.  
+Hence,
+ 20ten = 10100two.
+There is an important fact to remember here. There is only one way of writing 
+any number as a sum of distinct descending powers of two. For example,                                          
+20 = 16 + 4 can only be written as 24 + 22 as a sum of distinct descending powers 
+of two. There is no other way. You can see this for yourself by attempting to find 
+a different way. Moreover, any number can be written as a sum of powers of two. 
+You can verify this too by writing different decimal numbers as a sum of distinct 
+powers of two.
+19
+  for free distributionThe above method of writing a decimal number as a sum of distinct descending 
+powers of two, cannot be considered as a precise method. The reason for this is 
+because it is difficult to decide what powers of two add up to a number, when the 
+number is large. For example, it is not easy to determine the powers of two that add 
+up to the decimal number 3905ten. 
+Therefore, let us now consider another method that can be used to convert any 
+decimal number to a binary number fairly easily.
+Consider 22ten as an example. To write this as a binary number, we need to first 
+divide 22 by 2 and write the remainder also.
+  222
+11  remainder  0
+Next we need to divide the quotient 11 which we obtained by dividing 22 by 2, 
+again by 2.
+      222
+211 remainder   0
+5 remainder   1
+We need to continue dividing the quotient by 2 and noting down the remainder, 
+until we get 0 as the quotient and 1 as the remainder. The complete division is 
+shown below.
+  
+ 
+10110two222
+2
+2
+2
+211  remainder  0
+5  remainder  1
+2  remainder  1
+1  remainder  0
+0  remainder  1
+When the highlighted remainders are written from bottom to top, we obtain the 
+required base two number. 
+  22ten = 10110two
+Let us see whether we can verify this answer using the method we discussed earlier 
+of writing the number as a sum of powers of two.
+22 = 16 + 4 + 2 = 24 + 22 + 21 = 1 × 24 + 0 × 23 + 1 × 22 + 1 × 21 + 0 × 20  
+  = 10110two
+The answer is verified.
+20
+  for free distributionExample 1
+Write each decimal number given below as a binary number.
+1542
+2
+2
+2
+277         
+38          
+19    
+9    
+4    
+2    2
+1    2
+2
+0
+154ten = 10011010twoii.  154ten
+0
+1
+0
+1
+1
+0
+0
+1i. 32ten             322
+2
+2
+2
+216    
+8     
+4   
+2     
+1    
+0   20
+0
+0
+0
+0
+1                                                     
+   
+32ten = 100000two
+Exercise 2.1
+Convert the decimal numbers (base ten numbers) given below into binary numbers 
+(base two numbers).
+a. 4 b. 9 c. 16  d. 20   e. 29
+f. 35   g. 43  h. 52 i. 97              j. 168
+2.2 Converting binary numbers into decimal numbers
+Decimal numbers were converted into binary numbers in the above section 2.1. 
+In this section we consider the inverse process; that is, converting binary numbers 
+into decimal numbers. This can be done fairly easily.  Let us learn how to do this 
+by considering an example.
+In section 2.1, when we wrote the decimal number 13 as a binary number, we 
+obtained 1101two. Let us recall what the digits 1, 1, 0 and 1 represent.
+    1  1  0  1
+number 
+of 23snumber 
+of 22s number 
+of 21snumber 
+of 20s
+Therefore, by adding all the values of the powers of two in 1101two we get the 
+corresponding decimal representation.
+1 × 23 + 1 × 22 + 0 × 21 + 1 × 20 = 1 × 8 + 1 × 4 + 0 × 2 + 1 × 1 
+= 8 + 4 + 1 = 13. 
+21
+  for free distributionBy simplifying, we obtain the corresponding decimal number 13.
+Example 1
+Write 101100two as a decimal number.
+First, it should be noted that the place value of the leftmost digit of this base two 
+number is 25 and that the other place values are obtained by reducing the index by 
+one (starting from 5) for each move from left to right. Then the required decimal 
+number can be found by multiplying each power of two (place value) by the relevant 
+co-efficient and adding all the terms together.
+101100two= 1× 25 + 0 ×  24 + 1 ×  23 + 1 ×  22 + 0 ×  21 + 0 ×  20 
+= 25 + 23 + 22 = 32 + 8 + 4
+= 44ten
+Therefore, when 101100twois written in base 10 we obtain 44ten. 
+Note: This answer can be verified by converting 44ten back into a binary 
+           number.   
+Exercise 2.2
+Convert the binary numbers given below into base ten numbers (decimal numbers). 
+a. 101two b. 1101two c. 1011two d. 1100two   e. 11111two
+f. 100111two  g. 110111two  h. 111000two  i. 111110two      j. 110001two
+2.3 Adding binary numbers
+When representing binary numbers on an abacus, the maximum number of counters 
+that can be placed on a rod is 1. Moreover, instead of placing two counters on a rod, 
+we always place one counter on the rod to the left of it. 
+Let us learn how to add binary numbers with the aid of two abacuses. 
+Let us simplify 101two+ 10two .
+       22 21 20   +     22 21 20
+     =   22 21 20  
+                101two                                   10two                111two
+               A    B   C
+22
+  for free distributionLet us represent the sum of the numbers represented on the abacuses A and B on 
+the abacus  C. 
+When we consider the two abacuses A and B;
+  the sum of the counters on the 20 rods is 1,
+  the sum of the counters on the 21 rods is 1,
+  the sum of the counters on the 22 rods is 1.
+Therefore, 101two + 10two = 111two
+Now, let us obtain the value of 101two + 1two using the abacuses. 
+        22 21 20  +    22 21 20  =   22 21 20
+         A    B    C
+The counter on the 20 rod in A and the counter on the 20 rod in B, cannot both be 
+placed on the 20 rod in C, because there cannot be two counters on any rod of an 
+abacus used to represent a binary number. Instead, one counter should be placed on 
+the rod to the left of the 20 rod. This is shown on the rod 21 in C.
+Therefore,  101two +  1two = 110two' 
+This is clarified further by adding the numbers vertically.
+    101two
+110two1two +
+Adding from right to left; first, one 20s + one 20s = one 21s and zero 20s. 
+Then, one 21s + zero 21s = one 21s. Finally, one 22s  + zero 22s = one 22s.  
+Example 1
+Find the value. 
+(i) 11101two  + 1101two  (ii) 1110two  + 111two 
+23
+  for free distribution(i)
+  11101two  
+101010two  1101two  +11    1
+                   (ii)
+     1110two  
+10101two    111two  +11    
+Note:  When adding binary numbers observe the relationships given below.  
+1two + 0two =  1two
+1two + 1two =  10two
+1two + 1two +  1two = 11two
+   
+1.  Find the value.
+ 111two 
+101two +a. 10111two 
+  1011two + b. 1011two 
+11101two +  c.
+ d. 11101two  + 1110two   e. 11011two + 11two     f. 100111two  + 11two  + 1two 
+   g. 11two  + 111two + 1111two    h. 11110two  + 1110two  + 110two 
+2. Fill each cage with the suitable digit.
+ 1 1 1 0two 
+   10     0 1two    1       two +d.11two 
+1   1two 1  two +a.
+1  1  two 
+ 1 000two    1    1 two +e.
+1 1  1 two 
+ 1  1two 1 1 1 0 two +f.1 10    two 
+1  10 0two    1 1two +b. 10 0 1two 
+   00     0two      1  two +c.
+Exercise 2.3
+24
+  for free distribution2.4 Subtracting binary numbers  
+When adding binary numbers, we saw that whenever we obtained a sum of 2 in a 
+particular position, we replaced it with 1 in the position left of it. 
+  101two
+    1two +
+110two  ^right hand column:  1two+ 1two = 10two&  
+Now let us find the value of 110two− 1two . According to the above addition, the 
+answer should be 101two . Let us consider how this answer is obtained.
+         22  21     20
+0 two
+1 two1 1
+1 01 two−         
+       
+We cannot subtract 1 from 0 in the rightmost column. Therefore, let us take 1 from 
+the 21 column which is to the left of it.The value of this is 2 in the 20 column. Now 
+we subtract 1 from this 2 to obtain 1 in the rightmost column. Now there is 0 instead 
+of 1 in the column 21.
+Therefore,110two− 1two= 101two' 
+Example 1
+  1101two 
+   111two −
+110two 
+   
+ Let us check the accuracy of the answer by considering 110two + 111two. 
+                   110two+ 111two = 1101 two  
+25
+  for free distributionNote:    It is very important to develop the habit of checking the accuracy of an 
+answer to a subtraction problem using addition as shown above.
+Exercise 2.4
+1. Find the value.
+    11two
+   1two−a.       10two
+          1two  −b.101two
+      1two −c.101two
+    11two −  d.
+  e. 111two−  11two f. 110two−  11two g. 1100two−  111two 10001two
+       111two − h.
+ 
+100000two
+       11011two −i.  100011two 
+       10001two −j.  k. 11000two− 1111two  l. 101010two−  10101two
+2.5 Applications of binary numbers
+The fundamental digits in the binary number system are 0 and 1. Many modern 
+digital instruments are made based on this feature. When designing lighting system 
+circuits, “current off” and “current on” conditions are represented by 0 and 1.
+If   is used to represent the current “on” condition and      to represent the 
+current “off” condition, then the combination      is represented by 1001two. 
+The storing of data and computations done in computers and calculators are based 
+on this concept. Any number system can be developed under the same principles 
+used to develop the binary number system. Storing of data can be done using other 
+number systems too.
+Note:  If a number system is developed using base four, only the fundamental digits 
+0, 1, 2 and 3 are used.
+ For example, the decimal number 4 is expressed as 10four in this number 
+system.
+ In the base five number system, the fundamental digits are 0, 1, 2, 3 and 4, 
+and the decimal number 5 is expressed as 10five in this system.
+26
+  for free distribution1. Find the value.
+a. 1101two + 111two − 1011two   b. 11111two − (101two+ 11two)
+ c. 110011two − 1100two − 110two 
+  
+2.  Write the next number, after adding 1 to each given number. 1two , 11two, 111two, 
+1111two,  11111two,  111111two 
+3. Represent the decimal number 42 as a binary number.
+4. i.  Simplify 49ten - 32ten and convert the answer into a binary number.
+ii. Convert 49ten  and 32ten into binary numbers and find their difference. See 
+whether the answer you obtain is the same as the answer in (1) above.Miscellaneous Exercise
+ 
+Summary
+Summary 
+²  In the binary number system, the fundamental digits are 0 and 1. 
+²  The place values of the binary number system are; 20, 21, 22, 23, 24, 25, 26, 
+etc.
+27
+                For free distribution.3
+ 
+By studying this lesson, you will be able to;
+• simplify expressions of fractions which contain “of”,
+• simplify expressions of fractions which contain brackets,
+• identify the BODMAS method and solve problems involving fractions. 
+Fractions 
+Let us recall the facts that were learnt about fractions in previous grades. The circle 
+shown below is divided into five equal parts of which three are shaded. 
+  
+The shaded region can be expressed as   3
+5 of the whole region. We can express 
+this in terms of the area of the circle too. That is, the shaded area is  3
+5 of the area 
+of the whole figure. If the total area of the circle is taken as 1 unit, then the shaded 
+area is  3
+5 units.
+When an object is divided into equal portions, one portion or several portions can 
+be expressed as a fraction. A portion of a collection can also be expressed as a 
+fraction.
+For example, if we consider a team consisting of three boys and two girls, then the 
+boys in the team can be considered as   3
+5 of the team. Here, if the whole team is 
+considered as a unit, then the boys in the team can be expressed as  3
+5.Fractions
+28
+    For free distribution.You have learnt that fractions between zero and one such as  3
+4,  1
+2 and  2
+3 are 
+called proper fractions.
+Let us now recall the facts that have been learnt previously about mixed numbers 
+and improper fractions. 
+Two identical circles are given below. One is shaded completely and three parts of 
+the other (which is divided into equal parts) are shaded.  
+ 
+If a circle is considered as one unit, the shaded fraction is 1 + 3
+8. This is usually 
+written as 1 3
+8, which is called a mixed number (“mixed fractions” are most 
+often called “mixed numbers”). This can also be written as 11
+ 8, which is called an 
+improper fraction. It is important to remember here that the mixed number and the 
+improper fraction are expressed by taking a circle as one unit. 
+ Some other examples of mixed numbers are  1 1
+2, 3 2
+5 , 2 3
+7. 
+3
+2, 8
+5 , 11
+4 are examples of improper fractions. Fractions such as  3
+3, 5
+5, 1
+1 which are 
+equal to 1 are also considered as improper fractions.
+You have learnt to represent mixed numbers as improper fractions and improper 
+fractions as mixed numbers. 
+Accordingly,
+ (i)  1 1
+2 = 3
+2  and 
+(ii)  5
+3 = 1 2
+3 '
+We can obtain a fraction equivalent to a given fraction by multiplying or dividing 
+both the denominator and the numerator by the same number (which is not zero). 
+29
+                For free distribution.For example,
+2
+5 = 2 × 2
+5 × 2 = 4
+10 
+8
+12 = 8 ÷ 4
+12 ÷ 4 = 2
+3  
+The addition and subtraction of fractions can be performed easily if the denominators 
+of the fractions are equal. 
+For example,
+(i)   1
+5  + 4
+5 − 2
+5 
+ 1
+5  + 4
+5 − 2
+5 = 1 + 4 − 2 
+5  
+= 3
+5 
+If the denominators of the fractions are unequal, then we convert the fractions into 
+equivalent fractions with equal denominators.
+For example,
+(ii)  1
+4  + 2
+3 − 5
+6  = 1 × 3
+4 × 3 + 2 × 4
+3 × 4 − 5 × 2
+6 × 2   
+= 3
+12 + 8
+12  − 10
+12  
+= 3 + 8 −  10 
+12 
+= 1
+12  
+• When multiplying two fractions, the numerator of the product is obtained by 
+multiplying the numerators of the two fractions and the denominator is obtained 
+by multiplying the denominators of the two fractions.
+Example 1                           
+    2
+5  ×  1
+3                                           
+2
+5  ×  1
+3   = 2 × 1
+5 × 3   = 2
+15 
+                                     
+30
+    For free distribution.Example 2 
+1 1
+3  × 1 3
+4 
+  1 1
+3  × 1 3
+4  =  4
+3 × 7
+4  
+= 7
+3  
+= 2 1
+3  
+ ^converting the mixed numbers into improper fractions &1
+1
+• If the product of two numbers is 1, then each number is said to be the reciprocal 
+of the other. 
+Accordingly, since 2 × 1
+2 = 1, 
+2 is the reciprocal of  1
+2 and 1
+2 is the reciprocal of 2.
+You have learnt that the reciprocal of a number can be obtained by interchanging 
+the denominator and the numerator.
+Hence, the reciprocal of  a
+b is b
+a (In the same way, the reciprocal of  b
+a is a
+b .)
+  
+•  In grade 8 you learnt that dividing a number by another number means multiplying 
+the first number by the reciprocal of the second number.
+ 
+Let us revise this by considering a couple of examples.
+Example 3                                   Example 4
+12
+7 ÷ 11
+2 
+12
+7 ÷ 11
+2 = 9
+7 ÷ 3
+2  
+= 9
+72
+3×3
+1
+= 6
+74
+3 ÷ 2
+4
+3 ÷ 2 = 4
+31
+2×2
+1
+= 2
+3
+31
+                For free distribution.Do the following review exercise to revise what you have learnt thus far about 
+fractions.
+Review Exercise
+1. For each of the fractions given below, write two equivalent fractions.
+     i.  2
+3  ii.  4
+5  iii.  4
+8  iv.  16
+24 
+2. Express each mixed number given below as an improper fraction.
+   i.  11
+2   ii. 2 3
+4  iii. 3 2
+5      iv. 5  7
+10 
+3. Express each improper fraction given below as a mixed number.
+i.  7
+3  ii.  19
+4  iii.  43
+4  iv.   36
+7 
+4. Find the value.
+i. 3
+7 + 2
+7  ii.  5
+6 − 2
+3  iii.  7
+12+ 3
+4 − 2
+3  
+iv. 1 1
+2 + 2 1
+4  v.  3 5
+6 − 1 2
+3  vi.  1 1
+2 + 2 1
+4 − 1 2
+3 
+5. Simplify.
+i. 1
+2 × 4
+7  ii.  2
+3 × 5
+8 × 3
+10  iii.  1 3
+5 × 2 1
+2        iv. 3 3
+10 × 2 1
+3 × 4 2
+7  
+6. Write the reciprocal of each of the following. 
+i.  1
+3  ii.  1
+7 iii.  3
+8  iv. 5 v.  2 3
+5
+7.  Simplify.
+i. 6
+7 ÷ 3 ii.  8  ÷ 4
+5   iii.  9
+28 ÷ 3
+7   iv.  5 1
+5  ÷ 6
+7 v. 1 1
+2 ÷ 2 1
+4
+32
+    For free distribution.3.1 Simplifying expressions of fractions containing “of” 
+We know that  1
+2  of 100 rupees is 50 rupees.
+We also know that this is one half of 100 rupees and that its value can be obtained 
+by dividing 100 by 2.
+This can be written as  100 ÷ 2.
+That is,  100 × 1
+2 (multiplying by the reciprocal).
+Accordingly, 1
+2  of 100  = 100 × 1
+2  = × 100   1
+2 = 50. 
+According to the above facts, 1
+2 of 100 can be written as  1
+2 × 100.
+Let us similarly determine how much  1
+5  of 20 kilogrammes is. 
+This amount can be considered as one part from 5 equal parts into which 20 
+kilogrammes is divided.
+We can write this as 20 ÷ 5.
+That is, 20 × 1
+5  (multiplying by the reciprocal). 
+20 × 1
+5  =  × 20  4 1
+5 = 4'
+According to the above facts, 1
+5 of 20 can be written as 1
+5 × 20.
+It can be seen from the above instances that we can replace the term “of” by the 
+operation “×”.
+ 1
+2 of 100 rupees = 1
+2  × 100 rupees
+   1
+5 of 20 kilogrammes = 1
+5  × 20 kilogrammes
+Now let us find the value of   1
+2 of  1
+3. Let us illustrate this using figures.
+When a unit is divided into three equal parts, one part is  1
+3 .
+33
+                For free distribution.  
+ If this figure is taken as one unit,  1
+3   of it is shown below.
+1
+3
+  
+Let  us separate out  1
+2 of the shaded region. 
+                  
+1
+2
+Accordingly                    ,
+1
+31
+21
+3of = 1
+6
+According to the figure, it is clear that 
+1
+2 of 1
+3 is 1
+6 .
+More accurately, if  1
+3 of a unit is taken and then  1
+2 of that 1
+3 is separated out, the 
+portion we get is  1
+6  of the original unit.
+Moreover, based on what we have learnt regarding multiplying fractions, we obtain  
+1
+2 × 1
+3  = 1
+6.
+Accordingly, we can express 1
+2 of  1
+3   as 1
+2 × 1
+3.
+Let us consider another example to verify this. Let us simplify  1
+3 of 4
+5 .
+Let us consider the rectangle given below as one unit. 
+34
+    For free distribution.      4
+151
+34
+54
+5of
+     
+According to the figure, it is clear that 1
+3  of  4
+5 is 4
+15.
+Moreover, 1
+3 × 4
+5  = 4
+15.
+Therefore we can write,  1
+3 of 4
+5 = 1
+3 × 4
+5 . 
+It is clear that , we can replace “of” by the mathematical operation “multiplication” 
+in the expressions 1
+2 of 1
+3 and  1
+3 of  4
+5 .
+Example 3                                 
+How much is 3
+5 of 500 metres?
+  3
+5 of 500 = 3
+5 × 500 
+= 300 m
+                    
+ 
+=  2
+3 × 9
+5  
+=  6
+5
+=  11
+5 2
+3 of 14
+5  Example 2    
+Example 1                            
+       
+Find the value of 1
+2 of  2
+3 .
+1
+2 of 2
+3  = 1
+2 × 2
+3   (writing × for ''of")   
+=  1
+3How much is  2
+3 of 14
+5 ?
+  
+  
+ 
+                                                                       
+             
+35
+                For free distribution.1. Simplify the following expressions.
+i. 2
+3 of  4
+5   ii. 6
+7 of  1
+3    iii.  2
+5 of 5
+8   iv.  5
+6 of 9
+11  
+v. 2
+7  of 1 3
+4   vi. 1 1
+3 of 2  5
+8     vii. 1 3
+11 of 5 1
+2    viii. 5
+9 of 1 4
+5   
+2. Find the value.
+i. How much is  3
+4 of 64 rupees?
+ii. How many grammes is 2
+5 of 400 g?
+iii. How many hectares is 1
+3 of 6 ha?
+iv. How many metres is  1
+8 of 1 km?
+3.  A person who owns 3
+5 of a land, gives 1
+3 of it to his daughter. What is the 
+portion received by the daughter as a fraction of the whole land?
+4. Nimal’s monthly income is 40 000 rupees. He spends 1
+8 of this on travelling. 
+How much does he spend on travelling?
+Exercise 3.1
+3.2 Simplifying expressions with brackets according to the
+      BODMAS rule
+A numerical expression (or algebraic expression) may involve several of the 
+operations addition, subtraction, division, multiplication and raising to the power 
+of. There should be agreement on the order in which these operations should be 
+performed and a set of rules describing it. In previous grades we learnt these rules 
+to some extent. In this section we will discuss the “BODMAS” rule that is used 
+when simplifying fractions.
+The acronym “BODMAS” stands for brackets, orders/of, division, multiplication, 
+addition and subtraction. When simplify numerical expressions, priority is given 
+according to the BODMAS order. However, some operations have the same priority. 
+Multiplication and division have equal priority and so do addition and subtraction. 
+Accordingly, expressions should be simplified as follows. 
+1. First, simplify all expressions within brackets. 
+36
+    For free distribution.2. Then simplify powers and roots (expressions with indices) and the expressions 
+with “of ” .
+* Simplifying expressions with powers and roots is not included in the syllabus.
+3. Next, perform divisions and multiplications. These have equal priority and 
+hence if both these operations are involved, priority is given from left to right.
+4. Finally perform addition and subtraction. Since these too have equal priority, 
+precedence is given from left to right, as in 3 above.
+The BODMAS rule can be used to simplify expressions with fractions too. In some 
+expressions of fractions the term “of” is used. 
+For example,
+5
+12 of 6
+25 
+As learnt in the previous section, this means  6
+255
+12×  .
+A consensus is needed on how a fairly complex expression such as                                                
+2
+3 ÷ 6
+25 of  5
+12 × 1
+2 is to be simplified. Here, precedence is given to “of” over  ÷  
+and  ×. 
+Note:   Since “of” and “raising to the power of” have the same priority, the “O” 
+in BODMAS is considered to stand for both “of” and “order”. However 
+in this syllabus only  “of” is considered.
+Now, let us consider how the BODMAS rule is used in simplifying the expression
+1
+4 + 5
+6 × 1
+2 ÷ 4
+3 of  3
+2 . 
+1
+4 + 5
+6 × 1
+2 ÷ 4
+3 of 3
+2  = 1
+4  + 5
+6  ×  1
+2  ÷ 4
+3×3
+2 (inserting brackets after replacing 
+“of” by “×” , to indicate that this operation should be performed first)
+= 1
+4 + 5
+6  ×  1
+2  ÷ 2 
+37
+                For free distribution.= 1
+4 + 5
+6×1
+2 ÷ 2 (inserting brackets to indicate the mathematical operation
+      which is to be performed next)
+= 1
+4 + 5
+12  × 1
+2         (multiplying by  1
+2 instead of dividing by 2)
+= 1
+4 + 5
+12×1
+2        (inserting brackets to indicate the mathematical operation 
+                                which is to be performed next)
+= 1
+4 + 5
+24  
+=  6
+24 +  5
+24             (writing both fractions with a common denominator)
+= 11
+24  
+Note:   The order in which the mathematical operations in an expression should be 
+performed can be indicated very easily using brackets.
+Consider the following expression.
+5
+4 × 3
+4 − 1
+3 of 1
+5 ÷ 2
+3 ÷ 8
+9 
+How this should be simplified according to the BODMAS rule can be expressed 
+using brackets as follows.
+5
+4×3
+4 −  1
+3 of 1
+5   ÷ 2
+3  ÷ 8
+9 
+There are disadvantages in using brackets too. When brackets are used, the expression 
+will seem long and complex. Moreover, when simplifying an expression with the aid 
+of a calculator, we have to insert brackets carefully because there is a greater chance 
+of making an error. Therefore, it is important to decide on a convention to simplify 
+expressions without using brackets. Such a convention is necessary especially when 
+writing software for computers and calculators. However, a common convention 
+accepted worldwide has not been agreed upon yet. There are several conventions 
+which are accepted by different countries. Similarly, manufacturers of computers 
+and calculators also have their own conventions.
+Now let us consider some examples of expressions with fractions which are 
+simplified using the BODMAS convention. 
+38
+    For free distribution.Example 1    
+Simplify the expression 4
+10 of  1
+6  + 1
+4    and write the answer in the simplest 
+form. 
+ 4
+10 of    1
+6  + 1
+4  =  4
+10 ×  2
+12  + 3
+12 
+=  4
+10 × 5
+12  = 1
+6
+Example 2    
+ Simplify  1 2
+5  ÷ 2 1
+3  of  2
+3  − 1
+2  .
+  1 2
+5  ÷ 2 1
+3   of  2
+3  − 1
+2   =   7
+5  ÷ 7
+3  of  4
+6  − 3
+6  
+=  7
+5  × 3
+7  of  1
+6  
+= 3
+5 × 1
+6  
+=  1
+10 
+   
+1. Simplify and write the answer in the simplest form.
+i. 1
+2 + 2
+3 × 5
+6      ii. 1
+4 of  3 1
+3 ÷ 2 1
+6       iii.  3
+5 ×  1
+3 + 1
+2  
+iv.  1
+4 of   3 1
+3 ÷ 2 1
+6     v.  3 3
+4 ÷  2 1
+2 + 3 1
+4    vi.   1 2
+3 × 3
+5  +   3
+4 + 1
+2  
+vii.  2 2
+3 ×  1 1
+4 − 1
+12  ÷ 2 1
+3       viii.  5
+6 ÷  7
+18 of  2
+3 × 3
+4  
+2. A person puts aside  1
+4 of his income for food and 1
+2 for his business and saves 
+the remaining amount. What fraction of his income does he save?
+Exercise 3.2
+39
+                For free distribution.3. Kumuduni walked  1
+8 of a journey, travelled 2
+3 of it by train and travelled the 
+remaining distance by bus. 
+(i). Express the distance she travelled by foot and by train as a fraction of the total 
+distance.
+(ii). Express the distance she travelled by bus as a fraction of the total distance.
+4. A father gave  1
+2 of his land to his son and  1
+3  to his daughter. The son donated  
+1
+5 of his portion and the daughter  2
+5 of her portion to a charitable foundation. 
+The foundation decided to construct a building on half the land it received. On 
+what fraction of the total land was the building constructed?
+This is only for your knowledge and will not be checked in exams.
+Let us consider the expression 
+ 8 − 3 × (4 + 1) + 12 ÷ 3 × 32  ÷ 4  as an example.
+How the above expression is simplified using the BODMAS rule is described 
+below.
+²  First the expression 4 +1 which is within brackets is simplified. This is equal 
+to 5. Therefore we obtain
+ 8  − 3 × 5 + 12 ÷ 3 × 32  ÷ 4
+² Next the power 32 is simplified. This is equal to 9. Hence we obtain
+ 
+ 8 − 3 × 5 + 12 ÷ 3 × 9  ÷ 4
+²  Next the multiplications and divisions are performed from left to right. 
+Therefore, 3 × 5 is simplified first. This is equal to 15. Therefore we obtain
+ 8 − 15 + 12 ÷ 3 × 9  ÷ 4
+² Next, 12 ÷ 3  is simplified. This is equal to 4. Hence we obtain
+ 
+ 8 − 15 + 4 × 9  ÷ 4
+² Next, 4 × 9  is simplified. This is equal to 36. Now the expression is 
+   8 − 15 + 36 ÷ 4For further knowledge
+40
+    For free distribution.
+² Then  36 ÷ 4 is simplified. This is equal to 9. Therefore we obtain
+ 8 − 15 + 9
+² Now, since addition and subtraction have equal priority, simplification is done 
+from left to right. Therefore we obtain 
+− 7 + 9
+²  Finally we get  − 7 + 9 = 2 as the answer. According to the BODMAS order, 
+8 − 3 × (4 + 1) + 12 ÷ 3 × 32 ÷ 4 = 2. 
+ 
+For further knowledge
+This is only for your knowledge and will not be checked in exams.
+Recall the figure on page 28.
+ 
+We know that the shaded fraction is  13
+ 8, if a circle is considered as one unit. This 
+can be written as  11
+ 8.
+If both these circles are considered as one unit, then the shaded fraction is  11
+16.
+ 
+In the above diagram, if one square is considered as one unit, the shaded portion is
+41
+                For free distribution.
+23
+ 4; That is,  11
+ 4. 
+a. What is the shaded fraction if all three squares together are considered as one 
+unit?
+b. What is the shaded fraction if half a square is considered as one unit?
+Answers
+a. 11
+12   b.  5 1
+2
+ 
+Summary
+The order in which the mathematical operations are manipulated when simplifying 
+fractions, is as follows:
+²  B - Brackets
+²  O - Of
+²  D - Division
+²  M - Multiplication
+²  A - Addition
+²  S - SubtractionSummary
+
+42
+For free distribution       Percentages 4
+ 
+By studying this lesson you will be able to;
+ ²calculate the profit earned or loss incurred through a sale,
+ ²calculate the profit percentage or loss percentage,
+ ²identify what commissions and discounts are,
+ ²perform calculations in relation to commissions and discounts.
+ 
+4.1 Profit and Loss
+               
+Most of the items that we use in our day to day lives are bought from supermarkets.
+People who sell these items are known as sellers whereas people who buy them are 
+known as customers.
+The goods sold by sellers are either produced by them or are bought from someone 
+else. In producing or buying goods, a cost is incurred. An item produced or purchased 
+at a cost is generally sold at a price which is greater than the incurred cost. When 
+selling goods at a price which is greater than the cost, it is said that the seller has 
+earned a profit from the sale.
+A seller will not always be able to sell his goods at a profit. For example, when 
+goods are damaged or about to expire, they may have to be sold at a price which 
+is less than the cost. In such a situation, it is said that the seller has incurred a loss .
+When a seller sells an item at the price at which he bought it, he neither earns a 
+profit nor incurs a loss. 
+Accordingly, if
+the selling price > the cost,
+then a profit is earned, and
+43
+For free distributionprofit = selling price – cost.
+Similarly, if 
+the cost > the selling price, then a loss is incurred and
+loss = cost – selling price.
+Example  1
+A company which produces shoes incurs a cost of Rs 1000 in manufacturing a pair 
+of shoes. The company sells each pair of shoes at Rs 2600. Find the profit earned 
+by the company in selling one pair of shoes.
+The manufacturing cost of a pair of shoes = Rs 1 000                  
+Selling price = Rs 2 600
+∴ Profit earned  = Rs 2 600 –  1 000
+  = Rs  1 600
+                                                                      
+Example  2
+A vendor buys a stock of fifty coconuts at the price of Rs 45 per coconut. If the 
+vendor sells all the coconuts at the price of Rs 60 per fruit, calculate his profit.
+Method I
+The buying price of the stock of coconuts = Rs 45 × 50                                      
+ =  Rs  2 250
+Income generated by selling the stock  = Rs 60 × 50
+of coconuts  
+ = Rs 3 000
+∴ The profit earned by selling the stock  = Rs 3 000 – 2 250
+ of coconuts  
+       = Rs 750
+             
+Method II
+The purchase price of a coconut   = Rs 45
+The selling price of a coconut  = Rs 60
+The profit earned by selling one coconut = Rs 60 – 45        
+= Rs 15
+The profit earned by selling the whole stock of coconuts =  Rs 15 × 50
+= Rs 750
+                                   
+44
+For free distributionExample  3
+A vendor buys a stock of 100 mangoes at the price of Rs 20 each and decides 
+to sell them at the price of Rs 18 each due to the fruits being damaged during 
+transportation. Calculate the loss incurred by the vendor.
+Method I
+The purchase price of the stock of mangoes  = Rs  20 × 100            
+= Rs 2 000                 
+The amount made by selling the stock  = Rs 18 × 100
+of mangoes 
+= Rs 1 800
+The loss incurred in selling the whole stock = Rs 2 000 – 1 800
+of mangoes 
+= Rs 200
+                       
+Method II
+The purchase price of a mango =  Rs 20
+The selling price of a mango =  Rs 18
+The loss incurred in selling a mango = Rs 20 – 18
+= Rs 2
+The loss incurred in selling the whole stock of mangoes = Rs 2 × 100
+= Rs 200
+                       
+Example  4
+A vendor buys 60 kg of manioc from a farmer at the price of Rs 50 per kilogramme. 
+He initially sells 20 kg at Rs 70 per kilogramme. Of the remaining manioc he sells 
+15 kg at Rs 60 per kilogramme, 5 kg at Rs 50 per kilogramme and finally 10 kg at 
+Rs 40 per kilogramme. The vendor discards the remaining 10 kg of manioc due to 
+his inability to sell it. Determine whether the vendor earned a profit or incurred a 
+loss from selling the manioc and calculate the profit earned or loss incurred by him.
+The cost incurred in buying the manioc   =  Rs 50 × 60
+ =  Rs 3 000
+The amount made by selling the first 20 kg of manioc  =  Rs 70 × 20
+            =  Rs 1 400
+45
+For free distributionThe amount made by selling the next 15 kg   =  Rs 60 × 15  
+of manioc    =  Rs 900
+The amount made by selling 5 kg of manioc  =  Rs 50 × 5
+      =   Rs 250
+The amount made by selling 10 kg of manioc  = Rs 40 × 10
+      =   Rs 400
+The amount made by selling the whole     =  Rs 1400 + 900 + 250 + 400
+stock of manioc  
+      =   Rs 2 950
+Since 3000 > 2950, a loss is incurred by the vendor.  
+        The loss incurred by the vendor =  Rs 3000 − 2950
+      =   Rs 50
+                                                                             
+ Exercise 4.1
+1. Fill in the blanks based on the given information.
+ItemPurchase price/
+Production cost 
+(Rs)Selling 
+price
+(Rs)Whether it 
+is a profit 
+or a lossProfit/Loss
+(Rs)
+Wristwatch 500 750........................ ...................
+School Bag 1 200    1 050........................ ......................
+Calculator.............................. 1 800 Profit 300
+Drink Bottle.............................. 750 Loss 175
+Water Bottle 350..................... Loss 50
+Box of mathematical 
+instruments275..................... Profit 75
+Umbrella.............................. 450 Loss 100
+Pair of Slippers 700 Profit 150
+2. Find the more profitable business of each pair given below.
+i. Selling mangoes at Rs 60 per fruit which were bought at Rs 50 per fruit.
+ Selling oranges at Rs 55 per fruit which were bought at Rs 50 per fruit.
+ii.  Selling coconuts at Rs 60 per fruit which were bought at Rs 40 per fruit.
+ Selling jack fruits at Rs 60 per fruit which were bought at Rs  50 per fruit.
+46
+For free distribution iii.  Selling pens at Rs 15 each which were bought at Rs 10 each.
+ Selling books at Rs 28 each which were bought at Rs 25 each.
+ 
+3.  A vendor buys a stock of 100 rambutans at the price of Rs 3 per fruit. He 
+discards 10 fruits which are spoilt and sells the remaining stock at the price 
+of Rs 5 per fruit. Determine whether the vendor earns a profit or incurs a loss 
+and calculate the profit earned or loss incurred by him.
+4.  A vendor buys a stock of 50 kg of beans at the price of Rs 60 per kilogramme. 
+On the first day he sells 22 kg of beans at the price of Rs 75 per kilogramme 
+and on the second day he sells the remaining stock at the price of Rs 70 per 
+kilogramme.
+ i.  Calculate the profit earned by the vendor on each day and determine on 
+which day he earned a greater profit. 
+ 
+ ii.  Calculate his total profit.
+5.  The production cost of a cane chair is Rs 650. A manufacturer produces 20 
+such chairs. He expects to earn a profit of Rs 7 000 by selling all the chairs. In 
+order to do this, what should be the selling price of a chair?
+6.  A vendor, who sells apples by the roadside after buying them from a wholesaler, 
+buys 200 apples on a certain day at the price of Rs 25 per fruit. He expects to 
+earn a profit of Rs 1000 by selling the whole stock of apples. In order to do 
+this, determine the price at which he should sell a fruit.
+7.  A vendor bought a stock of 50 kg of onions at the price of  Rs 60 per kilogramme 
+and sold 30 kg of it at the price of Rs 80 per kilogramme. He had to sell the 
+remaining stock of onions at a lesser price because they were close to getting 
+spoilt. Due to this, the vendor neither made a profit nor incurred a loss from 
+selling the whole stock of onions. Find the price at which the vendor sold each 
+kilogramme of the remaining stock of onions.  
+4.2 Profit percentage/loss percentage
+Ramesh and Suresh are two vendors. Ramesh owns a clothing store. He sells a pair 
+of trousers which he bought for Rs 800, at the price of Rs 900. Suresh owns an 
+electrical items store. He sells an electric kettle which he bought for Rs 2500, at the 
+price of Rs 2600.
+47
+For free distribution 
+The items sold by Ramesh and Suresh are not the same, and the buying prices and 
+selling prices of the items are also different. However, the profit earned by them 
+from selling the items is equal. 
+The profit earned by Ramesh from selling a pair of trousers = Rs  900 – 800
+ = Rs 100
+                       
+The profit earned by Suresh from selling an electric  kettle = Rs  2600 – 2500
+ = Rs 100
+                      
+Can you identify which of these two sellers engaged in the more profitable sale if 
+both had Rs 5000 each?
+Even though the profit earned by Ramesh and Suresh is equal, it is clear that the 
+amount of money each person spent in order to earn that profit is not equal. In order 
+to find out which was the more profitable sale, the amount of money spent by each 
+person has to be considered. The below given calculation is performed in order to 
+determine this.
+The profit earned by Ramesh after spending Rs 800 = Rs 100
+The profit earned by Ramesh as a fraction of the amount he spent  =  800100
+The profit earned by Suresh after spending Rs 2500 = Rs  100
+ The profit earned by Suresh as a fraction of the amount he spent  =  2500100
+It is easy to compare the fractions  800100 and 2500100since the numerators of both 
+fractions are equal. Since 800100 > 2500 100 Ramesh's transaction was more profitable.   
+Even when the numerators are not equal, the more profitable business is determined 
+using a similar method. Since the comparison of fractions when the denominators 
+are different could be difficult, these fractions are most often converted into 
+percentages to facilitate comparison. Let us calculate these percentages as follows.
+48
+For free distributionSince the profit earned by Ramesh written as a fraction of the cost is  800100 ,
+Ramesh’s profit percentage = 800100× 100%
+= 12.5% '
+                                                
+Accordingly, it is clear that the profit earned by Ramesh from spending Rs 100 is 
+Rs 12.50.
+Since the profit earned by Suresh written as a fraction of the cost is   2500100,
+Suresh’s profit percentage  = 2500100× 100%
+= 4% '
+                              
+Accordingly, it is clear that the profit earned by Suresh from spending Rs 100 is 
+Rs 400.
+Since 12.5%  >  4%, it can be said that Ramesh’s transaction was more profitable. 
+The meaning of the percentages calculated above can be described as follows.
+800100 × 100 is the profit Ramesh earns from spending Rs 100. 
+2500100 × 100 is the profit Suresh earns from spending Rs 100.
+The profit earned/loss incurred by a vendor when the buying price/production 
+cost of the item is Rs 100, is known as the profit/loss percentage. Therefore, by 
+representing the profit/loss as a fraction of the buying price/production cost and 
+multiplying that fraction by 100%, the profit/ loss percentage can be calculated. 
+Profit percentage = buying price (or production  cost)profit× 100%
+Loss percentage   = buying price (or production cost)loss
+ × 100%
+49
+For free distributionExample  1
+A vendor buys exercise books at Rs 25 each, and sells them at Rs 30 each. Calculate 
+the profit percentage earned by the vendor from selling one exercise book.
+Profit =  Rs 30 – 25
+= Rs 5
+Profit percentage =  255× 100%
+= 20%
+Example  2
+A vendor buys a pair of trousers for Rs 500. Due to a damage, he sells it for Rs 450. 
+Determine the loss percentage.
+Loss  = Rs 500 – 450
+= Rs 50
+Loss percentage = 50050 × 100%
+= 10%
+Example  3
+A carpenter incurs a cost of Rs 4000 in making a table which he sells at Rs 5600. A 
+blacksmith incurs a cost of Rs 250 in making a knife which he sells at Rs 360. 
+Determine who has engaged in the more profitable sale. 
+The profit earned by the carpenter as a percentage = 40001600× 100% = 40%of the cost incurred  
+The profit earned by the blacksmith as a percentage = 250110× 100% = 44%of the cost incurred 
+Therefore, the bla cksmith’s transaction was more profitable.
+50
+For free distributionExample  4
+If a vendor buys an almirah for Rs 30 000 and earns a profit 
+percentage of 15% (of the purchase price) by selling it, calculate 
+the selling price of the almirah.
+Method I
+Here, what is meant by a profit percentage of 15% is that, if Rs 100 is invested, 
+then a profit of Rs 15 is earned. In other words, if Rs 100 is invested, then the item 
+is sold at the price of Rs 115. 
+Therefore, the selling price of the item when Rs 30 000 is  = 100 115  ×  30 000
+invested 
+  =  Rs 34 500
+                    
+Method II
+As in method I above, 
+since the profit is Rs 15 when Rs 100 is invested,
+the profit earned when Rs 30 000 is invested  =  100 15  × 30 000 
+ =  Rs 4 500
+Therefore, the selling price of the item = cost + profit 
+ =  30 000 + 4 500
+ =  Rs 34 500
+               
+Example  5
+A vendor buys a pair of shoes for Rs 1500 and sells it at a loss of 2%. What is the 
+selling price of the pair of shoes?                                              
+Method I
+Since the pair of shoes is sold at a loss of 2%,                            
+the selling price if the item is worth Rs 100 = Rs 98
+∴ The selling price of the item worth Rs 1 500 = Rs 100 98 × 1 500
+= Rs 1 470
+                       
+51
+For free distributionMethod II
+The loss incurred  = Rs 1 500 × 1002 
+= Rs 30
+∴ The selling price =  Rs 1 500 – 30
+= Rs 1 470
+             
+Example  6
+If a vendor earns a profit of 10% by selling a television set at the price of                                     
+Rs 22 000, find the price at which the vendor bought the set. 
+Method I
+In order to earn a profit of 10% when the purchase price of the item is Rs 100, the 
+item should be sold for Rs 110.
+Therefore, the purchase price of an item sold for Rs 110 at a profit = Rs 100
+of 10% 
+∴ The purchase price of an item sold for Rs  22 000 at a  = Rs 110100 × 22 000
+    profit of 10%  
+   = Rs 20 000
+                              
+Method II
+If the purchase  price of the item is Rs x, then                          
+the profit earned =  Rs x ×  10010
+ = Rs 10x
+The selling price of the item  = Rs x + 10x 
+    ∴ x + 10x = 22 000
+1010x + x = 22 000
+1011x = 22 000
+x = 22 000 × 1110
+x = 20 000
+Therefore, the purchase price of the television set is Rs 20 000.
+52
+For free distributionMethod III
+If the purchase price is Rs x,
+the selling price = Rs x  × 100110 
+∴ x  × 100110 = 22 000
+x = 20 000
+Therefore, the purchase price of the set is Rs 20 000.
+Example  7
+A vendor had to sell a sports item for Rs 6 800 due to a manufacturing defect, which 
+caused him a loss of 15%. Find the purchase price of the item.
+Method I
+The selling price of an item which is bought at Rs 100 and sold at a loss of 15%, is 
+Rs 85. 
+ ∴The purchase price of an item sold at Rs 85 at a loss of 15% = Rs 100
+Hence, the purchase price of an item sold at Rs 6 800 at a = Rs 85100 × 6 800
+loss of 15%
+ =  Rs 8 000
+                                         
+Method II
+If the purchase price of the item is Rs x,
+the loss incurred  = Rs x × 100 15
+= Rs20 3x
+∴ The selling price of the item 
+ = Rs x −20 3x
+Then, x − 20 3x= 6 800
+2020x −3x = 6 800
+20 17x = 6 800
+x = 6 800 ×1720
+x = 8 000
+       ∴The purchase price of the item is Rs 8000.
+53
+For free distribution
+Exercise 4.2
+1. Fill in the blanks in the table based on the information that is given.
+  Purchase 
+price
+(Rs)Selling 
+price
+(Rs)Whether it is a 
+profit or a lossProfit/ Loss
+(Rs)Profit/ Loss 
+percentage
+    400
+    600
+  1500
+     60
+   180
+   150
+   200440
+720
+1200
+...............
+...............
+75
+...............Profit
+...............
+...............
+Profit
+Profit
+Loss
+Loss40
+...............
+...............
+...............
+...............
+...............
+...............10%
+...............
+...............
+60%
+30%
+...............
+10%  i.
+  ii.
+ iii.
+ iv.
+  v.
+ vi.
+vii.
+2. If a vendor buys a pair of trousers for Rs 500 and sells it at Rs 650, determine
+ i. his profit,
+ ii. the profit percentage.
+3. If an electric iron which is worth Rs 2500 is sold at the price of Rs 2300, 
+determine
+ i. the loss,
+ ii. the loss percentage.
+4. A vendor buys a stock of 100 mangoes at the price of Rs 18 each. He discards 
+20 mangoes due to them being spoilt and sells the rest of the stock at the price 
+of Rs 30 per fruit. Determine whether he has earned a profit or incurred a loss 
+and calculate,
+ i. the profit earned $ loss incurred,
+ ii. profit$ loss percentage.
+5.  The production costs of several types of clothing produced and sold by a 
+certain tailor, together with their selling prices are given in the table below.
+The types of clothing Production cost (Rs)
+per itemSelling price (Rs)
+per item
+Shirts 300 350
+Pairs of trousers 400 450
+Frocks 500 575
+Raincoats 1000 1150
+54
+For free distribution i.   For each of the above items, find the profit and the profit percentage   
+ earned by the tailor.
+ ii.   Giving reasons, write the most profitable item that is produced by the
+   tailor.
+6.  If a bookseller earns a profit of 25% by selling a novel worth Rs 300, 
+calculate the selling price of the novel.
+7.  If a bicycle worth Rs 12 000 is sold at a loss of 10%, calculate the selling 
+price of the bicycle.
+8.  A carpenter spends Rs 1800 in producing a chair. He sells the chair to a 
+vendor at a profit of 20%. The vendor then sells the chair to a customer at a 
+profit of 20%.
+  i.  How much does the vendor spend to buy the chair?
+ ii.  How much does the customer spend to buy the chair?
+  iii. Write with reasons whether the carpenter or the vendor earns a greater  
+ profit.
+9.  If a vendor earns a profit of 10% by selling a refrigerator for Rs 33 000, 
+calculate its purchase price.
+10.  If a vendor incurs a loss of 5% by selling an electric stove for Rs 28 500, 
+calculate its purchase price.
+11.  The profit/loss percentages of several items sold by a vendor and their 
+selling prices are given in the table below. Calculate the purchase price of 
+each item. 
+Item Selling price Profit percentage Loss percentage
+Clock 3 240 8%-
+Electric stove 7 500 25%-
+Camera 12 048- 4%
+55
+For free distribution4.3  Discounts and Commissions
+Discounts   
+   
+ 
+ 
+A discount of 20% is given on 
+every book
+The price at which an item is expected to be sold is called the marked price. 
+According to the Consumer Affairs Authority Act, the price of an item that is for 
+sale needs to be marked on the item.
+A notice displayed in a bookshop is given in the picture shown above. What is 
+mentioned in the notice is that a discount of 20% is given when a book is bought. 
+This means that, when the book is purchased, 20% will be reduced from the price 
+mentioned on the book. The amount that is reduced is called a “ discount ”. Most 
+often, a discount is indicated as a percentage of the marked price. 
+Since customers usually tend to buy goods from shops which offer discounts, 
+there is an increase in sales in these shops. Due to this, the profits of the shop also 
+increase. Discounts result in direct benefits for customers while the shop owners 
+too gain long term benefits.
+Example  1
+Kaveesha buys books which are worth Rs 1500 from a bookshop which offers a 
+discount of 20%. Calculate the discount that Kaveesha receives.
+Discount =  Rs 1 500 × 100 20
+= Rs 300
+56
+For free distributionExample  2
+The production cost of a mobile phone is Rs 9000. The price of the phone has been 
+marked keeping a profit of Rs 3000. If the phone is sold at a discount of 10% on the 
+marked price, find the selling price.
+Method I
+The marked price = Rs 9000 + 3000
+= Rs 12 000
+Discount   = Rs 12 000 × 100 10
+= Rs 1 200
+∴ Selling price = Rs  12 000 – 1 200
+= Rs 10 800
+       
+Method II
+Since an item of marked price Rs 100 is sold for Rs 90 when the discount is 10%,
+the selling price of an item of marked price Rs 100, sold at a  = Rs 90
+discount of 10%   
+∴ The selling price of an item of marked price Rs 12 000,  = Rs 100 90× 12 000
+     sold at a discount of 10% 
+     = Rs 10 800
+                                   
+Note:    In the above example, two methods of solving the problem have been 
+given. Since the second method presented is shorter than the first, it is 
+important to practice this method.
+Example  3
+A discount of Rs 250 is given on the marked price of Rs 2000 when a certain 
+wristwatch is bought. Find the discount percentage offered. 
+The discount percentage  = 2000 250× 100%
+ = 12.5%
+                   
+57
+For free distributionExample  4
+If a storybook is sold for Rs 460 at a discount of 8%, what is the marked price?
+The marked price = Rs 460 × 92 100 
+= Rs 500
+ 
+Commissions
+ 
+Lowest 
+Commissions
+A notice issued by a company which facilitates the sale of properties, vehicles and 
+houses is shown in the above picture. While such companies find customers for 
+these kinds of sales, once the deal is over, a certain percentage of the value of the 
+transaction is charged by the company. Such companies are known as brokerages. 
+The amount that is charged by such companies for facilitating the sale is known as 
+the commission. This is usually a percentage of the value of the transaction.
+Example  5
+What is the commission charged by a company for facilitating the sale of a motorcar 
+worth Rs 3 000 000, if a commission of 5% is charged?
+The commission charged = Rs 3 000 000 ×  100  5
+ =  Rs 150 000
+       
+Example  6
+A real estate company charges a fee of Rs 36,000 to facilitate the sale of a land 
+worth Rs 1 200 000. Calculate the commission percentage charged by the company.
+The commission percentage  = 1 200 000  36 000× 100% 
+ = 3%
+                      
+58
+For free distribution
+Exercise 4.3
+1.  A discount of 5% is offered when a television set of marked price Rs 25 000 
+is purchased. 
+(i) How much is offered as the discount (in rupees) ?
+(ii) Find the selling price of the television set.
+2.  Nimithee buys a pair of trousers worth Rs 1 500 and a shirt worth Rs 1 200 
+from a shop which offers a discount of 5%. How much does Nimithee have to 
+pay for both the items?
+3.  Two notices displayed during the festive season in two shoe shops which sell 
+the same types of shoes are given below.
+                Shop A                                                    Shop B
+  
+ A discount of 8% on 
+all purchasesA reduction of Rs 100 on all 
+purchases of value greater 
+than Rs 1000
+i.  How much needs to be paid when purchasing a pair of shoes of marked 
+price Rs 1 500 from shop A?
+ii.  How much needs to be paid when purchasing a pair of shoes of marked 
+price Rs 1 500 from shop B?
+iii. What is the discount percentage offered by shop B for this pair of shoes?
+iv. Is it more beneficial for the customer to buy the pair of shoes from shop 
+A or from shop B?
+4.  A seller of bicycles buys a bicycle for Rs 8 000 and marks its selling price so 
+that he earns a profit of 25%. When selling the bicycle, if the payment is done 
+outright, a discount of 10% is offered to the customer.
+i.  Find the marked price of the bicycle.
+ii.  Find the price of the bicycle when the discount is given.
+iii.  If the seller marks the selling price so that he earns a profit of 20% on the 
+amount he paid for the bicycle, then find its selling price.
+5.  A vendor marks the price of an item such that he earns a profit of 10%. He 
+intends to offer a discount of 10% on the marked price when the item is sold. 
+Describe the profit earned or loss incurred by the vendor at the sale of the 
+item.
+59
+For free distribution6.  A company charges a commission of 3% on the sale of a land. When selling a 
+land worth Rs 5 000 000,
+i. how much needs to be paid as the commission?
+ii. how much does the land owner receive after paying the commission?
+7.  If a broker charged Rs 25 000 for selling a generator which was worth                          
+Rs 300 000, calculate the commission percentage that he charged.
+8.  A person who sells his vehicle is left with Rs 570 000 after paying Rs 30 000 
+to the broker.
+i. What is the selling price of the vehicle?
+ii. What is the commission percentage charged by the broker?
+9.  A person paid a commission of 3% when he purchased a house. If he paid      
+Rs 54 000 as commission, find the amount he paid for the house.
+Miscellaneous Exercise
+1. Kasun decides to sell 10 perches of a land he owns at the price of Rs 300 000 
+per perch.  He promises a commission of 3% on the sale of the land to a broker. 
+If he gives a discount of 1% on the original price to the buyer, find his income 
+from the sale of the land, after paying the commission to the broker .
+2. Amal who is a car dealer purchases a car for Rs 5 000 000.  He intends selling 
+the car for Rs 6 000 000. However, he gives a discount of 3% on this price to 
+the buyer and a commission of 2% to a broker.  Determine Amal’s profit.
+ 
+Summary
+²  profit = selling price – cost
+²   loss = cost – selling price
+² Profit percentage = buying price (or production  cost)profit× 100%
+² Loss percentage   = buying price (or production cost)loss
+ × 100%Summary
+
+60
+For free distributionAlgebraic Expressions 5
+ 
+By studying this lesson, you will be able to;
+ ² find the value of simple algebraic expressions by substituting directed
+       numbers,
+ ² expand the product of two binomial expressions of the form ( x ± a) (x ± b),
+ ² verify the expansion of the product of two binomial expressions by considering
+    areas.
+ 
+Algebraic expressions
+Do the following exercise to review what you have learnt in grade 8, related to 
+algebraic expressions.
+Review Exercise
+1. Expand the following expressions.
+  a.  5 (x + 2)  b.  3 (y + 1)   c.  4 (2m + 3)
+ d.  3 (x – 1)  e.  4 (3 – y)   f.  2 (3x – 2y)
+ g.  – 2 (y + 3)  h.  – 3 (2 + x)   i. – 5 (2 a + 3b)
+ j.  – 4 (m – 2)   k.   – (5 – y)    l.  – 10 (–3 b – 2c) 
+2. Expand the following expressions.
+a.  x (a + 2)   b.  y (2b – 3)   c. a (2x + 3y) 
+d.  2a (x + 5)   e.  2b(y – 2)  f.  3p (2x – y)
+g.  (–3q) (p + 8)     h.  (–2x) (3 – 2 y)  i.  (– 5m) (x – 2y)
+3. Find the value of each of the following expressions when  x = 3 and y = – 2. 
+a. x + y  b.  x – y  c.  3x – 2y
+ d. – 2x + y  e. 2(x + y)  f.  3 (2 x– y)
+4. Expand and simplify each of the following expressions.
+a.  3 (x + y) + 2 ( x – y)   b.  5(a + b) + 4 ( a + c) 
+c. 4 (a + b) + 3 (2 a – b)   d.  2(a – b) + (2 a – b)
+e.  5 (m + n) + 2 ( m + n)   f.  3(m + n) – (m – n)
+g.  5 (x – y) – 3 (2 x + y)   h.  2(3p – q) – 3 ( p – q)
+i.  – 4 (m + n) + 2 ( m + 2)  j. – 4 (a – b) – 2 ( a – b)
+61
+For free distribution5.1 Substitution
+In grade 8, you learnt to find the value of an algebraic expression by substituting 
+integers for the unknown terms. Let us now find out how to obtain the value of an 
+algebraic expression by substituting directed numbers. 
+♦  20 adults and 16 children went on a trip. Each adult was given x amount of bread 
+and each child was given y amount of bread for breakfast. 
+Let us write the total amount of bread that was distributed as an algebraic expression.
+Amount of bread given to the 20 adults = 20x
+Amount of bread given to the 16 children  = 16y
+Total amount of bread that was distributed  = 20x + 16 y 
+Let us find out the total amount of bread that was distributed, if an adult was given 
+half a loaf of bread and a child was given a quarter loaf of bread.  
+Then x =  21 and y =  41. To find out the total amount of bread that was 
+distributed,  x =  21  and y =  41 s h o u l d  b e  s u b s t i t u t e d  i n  t h e  e x p r e s s i o n                                                                                   
+20x + 16y '              
+                              
+Accordingly, the total number of loaves of bread that were = 20 × 21 + 16 × 41            distributed  
+= 10 + 4 
+= 14
+Example 1
+Find the value of each of the following algebraic expressions when  a = 21.
+i. 2a + 3                      ii. 6 – 4 a               iii. 3a – 1
+2a + 3 = 2 × 21 + 3   6 – 4 a = 6 – 4  × 21  3a – 1 = 3 × 21 – 1
+ = 1 + 3  = 6 – 2                               =  23  – 1
+ = 4  
+                          = 4  
+                                   = 23 – 2                      
+    = 21
+62
+For free distributionExample 2
+Find the value of each of the following algebraic expressions when  b = –3 2.
+i.  3b + 5   ii. 5 – 6 b  iii. 2b + 31 
+    3b + 5       5 – 6 b        2b + 31 
+= 3 ×  3–2  + 5
+= (–2) + 5
+= 3 
+                      = 5 – 6 × (– 3 2 )  
+= 5 + ( – 6) × ( –3 2 )    
+= 5 + 4
+= 9 
+                   = 2 × ( 3–2 )  + 31 
+= 3– 4 + 31  
+= 3– 3 
+= – 1 
+Example 3
+Find the value of each of the following algebraic expressions when  x = 21 and 
+y = – 41.
+ 
+i.  2x + 4y                  ii. 2x – 2y     
+            2 x + 4y   = 2 × 21 + 4 × 41–  
+= 1 – 1
+=  0                   2x – 2y   = 2 × 21 – 2 × 41– 
+= 1 + 21
+=  1 21                                                         
+ 
+ 
+  iii. 4xy             iv. – 2xy
+                     
+               4xy = 4 × 21 × 41–                                                                                                              
+= 21–                                                                       – 2xy = – 2 × 21 × 41–                                                                                                              
+  = 41     
+63
+For free distribution
+1. Find the value of each of the following algebraic expressions when x = 41.
+ i.  4x  ii. 2x  iii. 3x  iv. – 8x
+2.  Find the value of each of the following algebraic expressions when y = 3–1'
+ i. 3y  ii. 2y  iii. – 6y  iv. – 4y
+3. Find the value of each of the following algebraic expressions when a = – 2 and 
+ b = 21. 
+ i. a + 2b  ii. 4b – a  iii. 3a + b
+4. Find the value of each of the following algebraic expressions when x = 32 and 
+y = 43.
+ i. 3x + 4y  ii. 3x – 2y  iii. 8y – 6x
+5.  Find the value of each of the following algebraic expressions when p = – 21 and
+q = – 3.
+ i. 2p + q  ii. 4p – q  iii. 6pq – 2
+Exercise 5.1
+5.2 The product of two binomial expressions
+Let us first recall what is meant by algebraic symbols, algebraic terms, algebraic 
+expressions and binomial expressions. The letters x, y, z, a, b, c, …are considered 
+as algebraic symbols. 
+Algebraic symbols such as x, y and z are also considered as algebraic terms.
+When an algebraic symbol is multiplied or divided by a number, as for example, 2 x, 
+5y, –2a and  3x, it too is considered as an algebraic term.
+Similarly, when an algebraic symbol is multiplied or divided by another algebraic 
+symbol, as for example,  xy, ay and zb , it is also called an  algebraic term . The 
+products and quotients of algebraic symbols and numbers such as 2 xy, –3zab and 
+52 xy are also called algebraic terms . 
+64
+For free distributionAlgebraic terms can also be considered as algebraic expressions (expressions with 
+one term).
+A sum or a difference of algebraic terms is called an algebraic expression . For 
+example, x + y , 2a + xyz , 4xy2 – yz and – 2 x + 3xy are algebraic expressions. 
+Similarly, when a number is added to or subtracted from an algebraic term, it is 
+also called an algebraic expression. For example, 4 + x and 1– 3 ab are algebraic 
+expressions . 
+All the algebraic expressions we have considered thus far have consisted of two 
+terms. A “binomial algebraic expression” (or simply a “binomial expression) is an 
+expression which is a sum or difference of two terms. 
+However, there can be any number of terms in an algebraic expression.               
+3 + ax – 2xyz + xy is an algebraic expression with four terms. It has three algebraic 
+terms and a number (constant term). 
+In this lesson we will be studying binomial expressions. Now let us consider the 
+product of two binomial expressions.
+Let us take the length of a side of the square shaped flower bed shown in the figure 
+below as x units. If a larger rectangular flower bed is made by increasing the length 
+of one side by 3 units and the length of the adjacent side by 2 units, let us consider 
+how an algebraic expression can be constructed in terms of  x, for the area of the 
+larger flower bed.
+x
+x
+x × x = x2
+xx 3
+2x × x = x2
+x × 2 = 2 x3 × 2 = 6x × 3 = 3 x
+The length of the larger flower bed   = x + 3 units
+The breadth of the larger flower bed  = x + 2 units
+According to the figure, 
+the area of the larger flower bed = length × breadth=  (x + 3) ( x + 2) square (1)  
+                                  units 
+65
+For free distributionObserve that ( x + 3) ( x + 2) is a product of two binomial expressions.
+The area of the larger flower bed can also be found by using a different method, 
+that is, by adding the areas of the four smaller sections of which it is composed. The 
+four sections are, the initial square shaped section and the three smaller rectangular 
+sections in the figure. 
+Accordingly,
+the area of the larger flower bed = the sum of the areas of the four smaller sections
+= x2 + 2x + 3x + 6  square units
+= x2 + 5x + 6 square units (2) 
+Irrespective of the method used to find the area, the expressions obtained for the area 
+should be equal to each other.  Therefore, from (1) and (2) the following equality 
+is established.
+                 (x + 3) ( x + 2) = x2 + 5x + 6 
+Let us now consider how this equality can be obtained without the aid of a figure.
+Let us multiply the terms within the second pair of brackets by the two terms within 
+the first pair of brackets.
+                      (x + 3) ( x + 2)  =  (x + 3) ( x + 2)
+= x (x + 2) + 3 ( x + 2)
+= x2 + 2x + 3x + 6
+= x2 + 5x  + 6
+Accordingly, the product of two binomial expressions can be obtained in the above 
+manner without the aid of a figure.
+Let us consider another activity similar to the one above.
+Activity  1
+Fill in the blanks using the given information.
+A square shaped metal sheet of side length x centimetres is shown in Figure I. 
+Figure II illustrates how two strips of width 2 centimetres and 3 centimetres 
+respectively have been cut off from the two sides of the sheet.
+66
+For free distribution
+x x × x = x2x x – 2  2
+ 3x – 3
+Figure I Figure II
+The area of the remaining rectangular sheet  = (x – 2) ( x – 3)
+ 
+the area of the rem aining rectangular sheet  = the area of 
+the square –  the area of the three 
+rectangular parts 2  
+    = x2 – 2 (......... ) – ... ( x – 2) – 2 × 3 
+ 
+Accordingly, (x – 2) ( x – 3) = x2 – 2(......... ) –...( x – 2) – 2 × 3 
+   = ..........................
+   = ...................According to Figure II,
+Let us consider a few examples to develop a better understanding of  how the 
+product of two binomial expressions is obtained.
+Example 1     Example 2
+(x + 5) ( x + 3)       (x + 5) ( x – 3)
+(x + 5) ( x + 3)  = x (x + 3) + 5 ( x + 3)   (x + 5) ( x – 3) 
+   = x (x – 3) + 5 ( x – 3)
+  = x2 + 3x + 5x + 15 
+ = x2 – 3x + 5x – 15
+  = x2 + 8x + 15 
+ = x2 + 2x – 15
+Example 3             Example 4
+(x – 5) ( x + 3)                  ( x – 5) ( x – 3)
+(x – 5) ( x + 3 )       ( x – 5) ( x – 3) 
+  = x (x + 3) – 5 ( x + 3)
+   = x (x – 3) – 5 ( x – 3)
+  = x2 + 3x – 5x – 15 
+  = x2 – 3x – 5x + 15
+  = x2 – 2x – 15 
+  = x2 – 8x + 15
+67
+For free distribution
+Example 5   
+Show that  (x + 8) ( x – 3) = x2 + 5x –24 when x = 5.   
+L.H.S. =  (x + 8) ( x – 3) R. H. S.  =  x2 + 5x –24
+ When x  = 5   When x = 5
+L.H.S. = (5 + 8) (5 –  3) R. H. S.  = 25 + 25 –24 
+ = 13 × 2   = 26
+ = 26
+        L.H.S. = R. H. S.   
+  ∴  (x + 8) ( x – 3) = x2 + 5x –24
+1. Expand and simplify each of the following products of binomial expressions.
+a. (x + 2) ( x + 4)  b. (x + 1) ( x + 3)    c. (a + 3) ( a + 2)
+ d. (m + 3) ( m + 5)  e. (p – 4) ( p – 3)    f. (k – 3) ( k – 3)
+2.  Draw relevant rectangles for each product of binomial expressions in a., b. and 
+e. of 1. above and verify the answers obtained in 1. by calculating their areas '
+3. Expand and simplify each of the following products of binomial expressions. 
+a.  (x + 2) ( x – 5)  b.  (x + 3) ( x – 7)  c.  (m + 6) ( m – 1)
+d.  (x – 2) ( x + 3)  e.  (x – 5) ( x + 5)  f.  (m – 1) ( m + 8)
+g.  (x – 3) ( x – 4)  h.  (y – 2) ( y – 5)  i. (m – 8) ( m – 2)
+j.  (x – 3) ( 2 – x )  k.  (5 – x) (x – 4)  l. (2 – x) (3 – x)
+4.  Join each of the expressions in column A, with the corresponding simplified 
+expression in column B.
+              A                       B
+(x + 2) ( x + 1)  x2 + 3x – 10
+(x + 3) ( x – 4)  x2 – 25
+(x + 5) ( x – 2)  x2 –  6x + 9
+(x –  3) ( x –  3)  x2 + 3x + 2
+(x – 5) ( x + 5)  x2 – x – 12
+5.  Verify that ( x + 5) ( x + 6) = x2 + 11 x + 30 for each instance given below. 
+ i.  x = 3  ii.  x = – 2
+Exercise 5.2
+68
+For free distribution6.  Verify that ( x – 2) ( x + 3) = x2 + x – 6, for each instance given below.
+ i.  x = 1  ii.  x = 4 iii. x = 0
+7.  Verify that (2  – x) (4 – x) = x2 – 6x + 8,  for each instance given below.
+ i. x = 2  ii. x = 3 iii. x = – 2
+8.  The length and breadth of a rectangular piece of decorative paper are 15 cm 
+and 8 cm respectively. Two strips of breadth x cm each are cut off from the 
+length and the breadth of this paper. Using a figure, obtain an expression for 
+the area of the remaining portion. (Consider x < 8 cm).
+9.  A rectangular flower bed of length x metres and breadth 2 metres is shown 
+in the figure. Two metres are reduced from its length and x meters are added 
+to its breadth. Construct an expression in terms of x for the area of the new 
+flower bed by using a figure. (Consider that x > 2 m). 
+                 x
+2
+   
+Miscellaneous Exercise
+1.  Write an expression for the shaded area in the given figure and simplify it. 
+  x + 3
+x + 2
+x + 2 x + 1x + 8
+x + 5 x + 1x + 2
+2.  If (x + a) (x + 4) = x2 + bx + 12, find the values of  a and b.
+69
+For free distributionFactors of Algebraic 
+Expressions6
+ 
+By studying this lesson, you will be able to;
+• factorize algebraic expressions with four terms when the factors are binomial 
+expressions,
+• factorize trinomial quadratic expressions of the form x2 + bx + c,
+• factorize algebraic expressions written as a difference of two squares.
+Factors of algebraic expressions
+The meanings of many algebraic terms were explained in the previous lesson. In 
+this lesson we will consider what is meant by the factors of an algebraic expression 
+(or an algebraic term).
+Consider the term 2 xy. It is formed by the product of 2, x and y. Therefore, 2, x and 
+y are all factors of 2 xy.
+2x + 2y is a binomial expression. It is the sum of two algebraic terms. 2 and x are 
+factors of 2 x. Similarly, 2 and y are factors of 2 y. Accordingly, 2 is a factor of both 
+the terms 2 x and 2 y. You have learnt in grade 8 that the above binomial expression 
+can be written as 2 ( x + y ) by factoring out the common factor 2. Hence;
+    2 x + 2y = 2 ( x + y )
+What is important here is that the algebraic expression 2 x + 2y, which is the sum 
+of 2x and 2 y, is expressed as a product of 2 and x + y . We say that 2 and x + y  are 
+factors of 2 x + 2y. That is, the algebraic expression 2 x + 2y can be expressed as a 
+product of its factors 2 and x + y.
+One factor of the above algebraic expression 2 x + 2y is the number 2 and another 
+factor is the algebraic expression x + y . However, an algebraic expression could 
+also be expressed as a product of algebraic terms or algebraic expressions. For 
+example, since the expression xy + 5xz can be written as x(y + 5z), x and y + 5z are 
+factors of it.
+70
+For free distributionAccording to the facts learnt in lesson 5, when the algebraic expression x(y + 5z)
+which is a product is expanded, we obtain the algebraic expression xy + 5xz, which 
+is a sum of algebraic terms. In this lesson we will study the inverse of the process 
+that was learnt in lesson 5. That is, we will learn how to write a given algebraic 
+expression as a product of factors.
+Observe how each algebraic expression given below has been written as a product 
+of factors as learnt in grade 8. 
+ ²3x + 12 = 3 ( x + 4)
+ ²6a + 12 b –18 = 6 ( a + 2b – 3)
+ ²– 2x – 6y = –2 ( x + 3y) 
+ ²3x – 6xy = 3x (1 – 2 y)
+In the second example above, the common factor of the terms of the expression                       
+6a +12 b −18 is 6. Observe that this is the highest common factor of 6, 12 and 
+18. When a number is a common factor, we should always consider the highest 
+common factor. Furthermore, when factorizing algebraic expressions, the numbers 
+need not be factorized further. For example,  6x + 6y is written as  6(x + y ) and not 
+as 2 × 3 ( x + y).
+Do the following review exercise to establish these facts further.
+Review Exercise
+ Write each of the following algebraic expressions as a product of factors.
+ a.  8x + 12 y  b.  9a + 18 y  c.  3m + 6 
+ d.  20a – 30b  e.   4p – 20q  f.  12 – 4k
+ g.  3a + 15 b – 12  h.  12a – 8b + 4  i.  9 – 3b – 6c
+ j.  – 12x + 4y  k.  – 8a – 4b  l.  – 6 + 3m 
+ m.   ab + ac  n.   p – pq  o.  ab + ac – ad
+ p.  3x + 6xy  q.  6ab – 9bc   r.   4ap + 4bp – 4p 
+ s.  x3 + 2x  t.  3m – 2nm2   u.  6s   – 12 s2t
+6.1 Factors of algebraic expressions with four terms
+The figure of a large rectangle which is composed of the four rectangular sections 
+A,B,C and D is given below.
+71
+For free distributionAa
+x
+yb
+B
+D C
+Let us find the area of each rectangle in terms of the given algebraic symbols x, y, 
+a and b.
+The area of section  A = a × x = ax
+The area of section  B = b × x = bx
+The area of section  C = a × y = ay
+The area of section  D = b × y = by
+Now let us find the area of the large rectangle. 
+The length of the large rectangle =  a + b
+The breadth of the large rectangle = x + y
+Hence, the area of the large rectangle = ( a + b) ( x + y) 
+Now, since the total area of the 4 small rectangles = the area of the large rectangle,             
+ax + ay + bx + by = (a + b )  (x + y ).
+We can verify the total above equality by expanding the product ( a + b )(x + y ) by 
+using the method learnt in the previous lesson.
+Let us expand it as follows.
+(a + b )(x + y ) = a (x + y ) + b (x + y )
+= ax + ay + bx + by 
+The validity of the equality is verified.
+In this lesson we expect to learn how to write an expression of the form                                      
+ax + bx + ay +by  as a product of two factors as ( a + b ) (x + y ). First, we need to 
+observe that the four terms ax, ay , bx and by have no common factors. Therefore, the 
+factoring out of a common factor cannot be done directly. However, if we consider 
+the four terms pairwise, the expression can be factored as follows.
+72
+For free distribution     ax + bx + ay  + by = (ax + bx ) + (ay  + by)   
+   = x (a + b ) + y (a + b ) 
+The final expression is the sum of the two expressions x(a + b ) and y(a + b).
+Now observe that the two expressions  x (a + b ) and y (a + b) have a common 
+factor ( a + b ). Therefore, by factoring out this expression, we can rewrite the given 
+expression as a product of two factors as ( a + b ) (x + y ). 
+ax + bx + ay  + by = x (a + b ) + y (a + b)
+   =  (a + b) (x + y)
+Example 1
+Factorize 3 x + 6y + kx + 2ky.
+3x + 6y + kx + 2ky = 3 ( x + 2y) + k (x + 2y)    
+   = (x + 2y) (3 + k)
+                                    
+Example 2
+Factorize  a2 – 3a + ab – 3b. 
+    a2 – 3a + ab – 3b = a (a – 3) + b (a – 3)    
+   = (a – 3) ( a + b)
+                                   
+Example 3
+Factorize  x2  + xy – x – y. 
+x2  + xy – x – y = x2  + xy – 1 (x + y)
+ = x (x + y) – 1 ( x + y)
+ = (x + y) (x – 1) 
+                          
+Exercise 6.1
+Factorize each of the following algebraic expressions. 
+ a. ax + ay + 3x + 3y b.  ax – 8a + 3x – 24   
+ c. mp – mq – np + nq   d.  ak + al – bk – bl  
+ e. x2 + 4x – 3x – 12 f.  y2 – 7y – 2y + 14  
+ g. a2 – 8a + 2a – 16  h. b2 + 5b – 2b – 10    
+ i. 5 + 5x – y – xy  j.  ax – a – x + 1
+73
+For free distribution6.2 Factors of trinomial quadratic expressions of the form of                      
+ x2 + bx + c
+Recall how we obtained the product of the two algebraic expressions ( x + 3) and 
+(x + 4).
+(x + 3) ( x + 4) = x (x + 4) + 3 (x + 4)
+= x2 + 4x + 3x + 12
+= x2 + 7x + 12
+Since we have obtained x2 + 7x + 12 as the product of ( x + 3) and ( x + 4), the 
+expressions ( x + 3) and ( x + 4) are factors of  x2 + 7x + 12. Expressions of the form 
+x2 + 7x + 12 consisting of three terms of which one is a quadratic term are called 
+trinomial quadratic expressions.  
+Note:
+The trinomial quadratic expressions we consider here can in general be written 
+in the form x2 + bx + c. Here b and c are numerical values. For example,                                          
+x2 + 7x + 12 is the trinomial quadratic expression that is obtained when b = 7 
+and    c = 12. In general, bx is called the middle term and c is called the constant 
+term. The expression x2 + 7x + 12 can be written as a product of two factors as 
+(x + 3)( x + 4). However, there are some trinomial quadratic expressions which 
+cannot be written as a product of two such factors, as for example, the expression                             
+x2 + 3x + 4. 
+Here, we only consider how to find the factors of those trinomial quadratic 
+expressions that can be written as a product of two factors.
+To find out how to write a trinomial quadratic expression as a product of two 
+binomial terms, let us analyze the steps we carried out in obtaining the product of 
+two binomial expressions, in the opposite direction. 
+ 
+• In the trinomial quadratic expression x2 + 7x + 12, the middle term 7 x has been 
+written as a sum of two terms as  3x + 4x.
+ There are many ways of writing 7 x as a sum of two terms. For example,                                 
+7x = 5x + 2x and 7 x = 8x + (−x ). The importance of 3 x and 4 x can be explained 
+as follows. 
+• The product of 3 x and 4x =  3x × 4x = 12x2.
+• Moreover, the product of the first and last terms of the trinomial quadratic 
+expression x2 + 7x + 12 is also x2× 12 = 12 x2.
+74
+For free distributionThe observations from the above analysis can be used to factorize trinomial 
+quadratic expressions. The middle term should be written as a sum of two terms. 
+Their product should be equal to the product of the first and last terms of the 
+expression to be factorized. 
+Let us factorize x2 + 6x + 8. The middle term is 6 x. It should be written as a sum of 
+two terms, and their product should be equal to  x2 × 8 = 8 x2.
+Based on the above facts, we have to find a pair of linear terms of which the product 
+is 8x2 and the sum is 6 x. The table below shows the possible ways of writing 8 x2 as 
+a product of two linear terms.
+Pair of linear terms Product Sum 
+x, 8x x × 8x = 8x2 x + 8x = 9x
+2x, 4x 2x × 4x = 8x22x + 4x = 6x
+According to the table, it is clear that the middle term 6 x is obtained from 2 x + 4x. 
+Let us factorize the expression  x2 + 6x + 8.
+x2 + 6x + 8 = x2 + 2x + 4x + 8
+= x (x + 2) + 4 ( x + 2)
+=  (x + 2) ( x + 4)
+∴ x + 2 and  x + 4 are factors of  x2+ 6x + 8.
+Instead of writing the middle term as 2 x + 4x, let us write it as 4 x + 2x and factorize 
+to see whether we obtain different factors.
+x2 + 6x + 8 = x2 + 4x + 2x + 8
+= x (x + 4) + 2 ( x + 4)
+=  (x + 4) ( x + 2)
+The same pair of factors are obtained. Therefore, we see that the order in which the 
+selected pair is written does not affect the final answer. 
+Example 1
+Factorize  x2 + 5x + 6.
+In this expression, 
+the product of the first and last terms  = x2 × 6 =  6 x2   
+The middle term =  5x
+75
+For free distributionWe can factorize this expression as below, because 2 x + 3x = 5x and (2x) (3x) = 6x2 
+x2 + 5x + 6 = x2 + 2x + 3x + 6
+= x (x + 2) + 3 ( x + 2)
+=  (x + 2) ( x + 3)
+    
+Example 2
+Factorize  x2 – 8x + 12.
+The product of the first and last terms of the expression is x2 × 12 = 12 x2  and the 
+middle term is  ( – 8x). Here we have a negative term. The table given below shows 
+the various ways in which two terms in x can be selected such that their product is 
+12x2.
+     x,   12 x
+  2x,   6x
+  3x,   4x
+ −2x,  −6x
+ −3x, −4x
+−x,   −12 x
+According to the table, if we write –  8x = (−2x) + (−6 x), then we obtain                          
+(−2x)(−6x) = 12 x2.         
+Hence,  x2 – 8x + 12 = x2 – 2x – 6x + 12
+ = x (x – 2) – 6 (x – 2)
+ =  (x – 2) (x – 6)
+                    
+Example 3
+Factorize  y2 + 2y – 15.
+The product of the first and last terms of the expression  = y2 × – 15  = – 15 y2 
+The middle term = 2y  
+By writing – 15y2 = (5 y) (−3 y), the middle term is obtained as (5 y) + (−3 y) = 2 y 
+Therefore,
+     y2 + 2y – 15 = y2 – 3y + 5y – 15
+ = y (y – 3) + 5 (y – 3)
+ =  (y – 3) (y + 5)
+                    
+76
+For free distributionExample 4
+Factorize  a2 – a – 20.
+The product of the first and last terms of the expression is = a2 × (– 20) = – 20 a2 and 
+the middle term is (– a).
+   
+Since – 20a2 = (–5a) (4a) and ( –5a) + (4 a)  = −a, the expression can be factored as 
+follows.
+a2 – a – 20 = a2 + 4a – 5a – 20
+= a (a + 4) – 5 (a + 4)
+=  (a + 4) (a – 5)
+Exercise 6.2
+Factorize the quadratic expressions given below.
+a.  x2 + 9x + 18   b.  y2 + 11y + 30  c.  a2 + 10a + 24
+d.  b2 – 8b + 15   e. x2 – 5x + 6  f. m2 – 12m + 20
+g.  a2 + a – 12   h.  p2 + 5p – 24  i.  p2 + 6p – 16
+j.  x2 – x – 12   k.  a2 – 3a – 40  l.  r2 – 3r – 10
+m. y2 + 6y + 9   n. k2 – 10k + 25  o.  4 + 4x + x2
+p.  36 + 15x + x2   q. 30 – 11a + a2  r.  54 – 15y + y2
+Note:
+When factorizing trinomial quadratic expressions, writing the middle term as 
+a sum of two suitable terms is an important step. Although a specific method 
+has been given above to find the two terms, an easier method is to write the 
+middle term as a sum of two terms and check whether their product is equal 
+to the product of the first and last terms of the given expression. This skill can 
+be mastered with practice. However, once the two terms have been written, we 
+have to be careful when simplifying the expression. In example 4 above, when 
+the common factor −5 is factored out from the expression −5a −20, we obtain  
+−5(a + 4) This is often mistakenly written as  −5( a − 4). 
+6.3 Factors of an expression written as a difference of two 
+      squares
+Consider the product of the two binomial expressions ( x – y)  and (x + y). 
+(x – y) (x + y) = x (x + y) – y (x + y)
+= x2 + xy – xy – y2
+= x2  – y2 
+77
+For free distributionAccordingly, (x + y) (x – y) is equal to the expression  x2 – y2. The expression x2 – y2 
+is said to be a difference of two squares. 
+The fact that ( x + y) (x – y) = x2 – y2 means that x + y and x – y are factors of x2 – y2 .
+Let us see whether we can find the factors of  x2 – y2  by considering it as a quadratic 
+expression in x. We can rewrite it as a trinomial quadratic expression in x by writing 
+the middle term as 0. We then obtain the expression x2 + 0 – y2. Now consider its 
+factorization. 
+The product of the first and last terms of the expression is = x2 × (– y2) = – x2 y2 and 
+the middle term is 0.
+Now,
+–x2 y2 = (– x y) × (x y) and  – x y + xy = 0
+Therefore,  x2 + 0 – y2 = x2 – xy  + xy – y2 
+= x  (x – y) + y (x – y) 
+= (x – y) (x + y)
+Again we obtain  x2 – y2 = (x – y) (x + y).
+Now let us consider how to find the factors of the difference of two squares by 
+considering areas.
+Consider a square of side length a units.
+ a
+a
+From this square, cut out a square of side length b units.
+ a
+abb b
+b
+The area of the remaining portion is a2 – b2 square units .
+78
+For free distributionLet us rearrange the remaining portion as follows.
+ a
+ab
+a – ba – ba – b
+a b
+       Figure I                                  Figure II
+The area of the remaining portion according to figure II  is  (a – b) (a + b).
+Accordingly, a2 – b2 = (a – b) (a + b).
+Now let us consider some examples of the factorization of expressions which are 
+the difference of two squares. 
+Example 1      Example 2  
+Factorize x2  – 25'   Factorize 9  – y2'   
+x2 – 25 = x2 – 52    9 – y2  = 32 – y2
+    
+          = (x – 5) (x + 5) 
+           = (3 – y) (3 + y)
+                                                                          
+Example 3                  Example 4  
+Factorize 4 a2  – 49'   Factorize 1  – 4b2'  
+4a2 – 49 = 22a2 – 72   1 – 4b2  = 12 – 22b2
+               = ( 2a – 7) (2 a + 7)  
+  = (1 – 2b) (1 + 2b)   
+          
+Example 5                            Example 6 
+Factorize 2 x2  – 72'  Find the value 332  – 172'
+2x2 – 72 = 2 (x2 – 36)  332  – 172 =  (33  + 17) (33 – 17)
+  = 2 (x2 – 62) = 50 × 16
+  = 2 ( x – 6) (x + 6)       = 800    
+  a – b
+79
+For free distribution
+Example 7     Example 8 
+ Factorize x21−4 9'           Factorize9x2
+161− ' 
+x21−4 9 = x2
+22− 1
+32    9x2
+161−   = 12 − 3x
+4 2
+  =  x
+21
+3+   x
+21
+3−                                   =  3x
+41−3x
+41+
+Factorize the expressions given below. 
+ a.  x2 – 100   b. m2 – 36    c.  p2 – 81 
+ d.  4 – b2   e. 16 – a2  f.  64 – y2 
+ g.  x2 – 4y2  h. 9a2  – 16b2   i.  100x2 – 1
+ j.  25m2 – n2  k. 49 – 81p2   l.  25a2b2 – 9c2
+Exercise 6.3
+Miscellaneous Exercise
+1. Factorize the following algebraic expressions by changing the order in which 
+the terms appear as required.
+ i.  ax + by – ay – bx   ii.  9p – 2q – 6q + 3p  
+ iii.  x – 12 + x2   iv.  4 – k2 – 3k 
+2. Factorize the following algebraic expressions. 
+ i.  8x2 – 50      ii.   3x2 – 243     
+ iii.  a3 b3 – ab    iv. 3 – 12q2 
+3. Find the value.
+ i.  232 – 32 ii. 452 – 52 iii.  1022 – 22
+80
+For free distribution4. Join each algebraic expression in column A with the product of its factors in 
+column B.
+       A     B    
+ x2 – x – 6     x
+5− 1  x
+5+ 1   
+x2 + 5x – 3x – 15   2 x (x – 2) ( x + 2)
+2x3 – 8x    (x – 3) ( x + 5)     
+4x2 – 9m2               ( x – 3) ( x + 2)
+     (2x – 3m) (2x + 3m) x2
+25 – 1
+       
+81
+For free distributionBy studying this lesson, you will be able to;
+² identify five fundamental axioms of mathematics,
+² develop geometrical relationships and solve problems involving calculations           
+using the five fundamental axioms.
+Axioms 
+Statements which are considered to be self-evident and are accepted without proof 
+are called axioms. In mathematics, axioms are used to explain facts logically, 
+develop relationships and reach conclusions. 
+Euclid, who is considered to be  the father of geometry lived in Greece around 300 
+B.C. He introduced certain axioms related to mathematics in his book “Elements”. 
+Some of them are unique to geometry. Others are common axioms which can be 
+used in other areas including algebra. 
+We consider five common axioms in this lesson. They can be summarized as given 
+below. 
+1.  Quantities which are equal to the same quantity, are equal.
+2.   Quantities which are obtained by adding equal quantities to equal quantities, 
+  are equal.
+3.  Quantities which are obtained by subtracting equal quantities from equal 
+  quantities, are equal.
+4. Products which are equal quantities multiplied by equal quantities, are equal.
+5.  Quotients which are equal quantities divided by nonzero equal quantities, 
+ are equal.
+By “quantities” we usually mean lengths, areas, volumes, masses, speeds, 
+magnitudes of angles, etc. 
+These five axioms are very important because we can derive many results related to 
+algebra and geometry by using them. Let us study these axioms in detail.  Axioms 7
+82
+For free distributionAxiom 1
+Quantities which are equal to the same quantity, are equal.
+We can write this axiom briefly as given below. 
+ If b = a and c = a,  then b = c.
+According to this axiom,
+‘If Hasith’s age is the same as Kasun’s and Harsha’s age is also the same as Kasun’s, 
+then Hasith’s age is the same as Harsha’s.’
+How Axiom 1 is used to obtain geometrical results is seen in the simple example 
+given below.
+In the quadrilateral ABCD  shown below  BC = AB and CD = AB .
+ 
+ABC
+D
+ 
+According to the above axiom, 
+BC = CD.
+Example 1 
+In the triangle ABC, AB = AC and AB = BC  If AC = 5 cm then determine the perimeter 
+of the triangle ABC .
+                            A
+B C
+Since AC = 5 cm and AC = AB , according to Axiom 1, AB = 5 cm.
+Since  AB = 5 cm and  AB = BC , according to Axiom 1, BC =  5 cm. 
+The perimeter of the triangle  ABC = AC + BC + AB 
+       = 5 cm + 5 cm + 5 cm 
+       = 15 cm
+83
+For free distributionExample 2 
+In the figure given below,  XBY = ABX  and XBY  = CBY . Find the relationship               
+between ABX  and CBY .
+AB
+CYX
+XBY = ABX (given)
+XBY = CBY  (given)
+∴ According to Axiom 1,   ABX = CBY
+1. The straight lines AB and CD intersect at X. In the figure,  DXB = BXY. If AXC  = 70o, 
+find the magnitude of  BXY.
+    YD
+XA B
+C
+2.  In the parallelogram  PQRS, PQ = PR  and PQ = PS . Based on its sides, mention what 
+type of triangle PSR is.  
+P Q
+R S
+Exercise 7.1
+84
+For free distribution3. The points A and B are located on the circle with centre O, such that OA = AB . Based 
+on its sides, mention what type of triangle ABO  is.
+A BO
+Axiom 2
+Quantities which are obtained by adding equal quantities to equal quantities, 
+are equal.  
+We can write this briefly as given below. 
+If a = b, then a + c = b + c.  
+This axiom can be written as given below too.
+If x = y and p = q, then x + p = y + q.
+According to this axiom,
+“If the cost incurred in purchasing vegetables is equal to the cost incurred in                       
+purchasing milk and the cost incurred in purchasing fruits is equal to the cost 
+incurred in purchasing eggs, then the cost incurred in purchasing vegetables and 
+fruits is equal to the cost incurred in purchasing milk and eggs.”
+Let us consider a simple geometrical result that can be derived using the above 
+axiom. 
+In the figure given below, the point X is located on the straight line AB.   A l s o ,                  
+AXD = BXC .
+A BXC D
+AXD = BXC  (given)
+∴ According to Axiom 2, AXD + CXD  = BXC + CXD 
+}}
+AXC BXD= ∴ 
+85
+For free distributionExample 1 
+In the figures given below,  ABD = PQS  and CBD  = RQS . Show that  ABC = PQR .
+A
+D
+CBP
+Q
+RS
+ 
+ABD = PQS" CBD  = RQS .
+∴ According to this axiom,   ABD + CBD  = PQS + RQS 
+ ∴  ABC = PQR 
+1. The point O is located on the side XY of the triangle XYZ 
+YZ
+XOsuch that OZ = OY . Show that XY = OZ + OX.
+2. The point D is located on the side  AC of the triangle ABC.  If  ABD = BCD
+A
+B CD and CBD = BAD, show that  BAD + BCD = ABC.
+         
+3.  The points X and Y are located on the sides AB and CD ABX
+YC
+D respectively of the quadrilateral ABCD , such that  
+    AX = CY  and BX = DY . Show that AB = CD .
+Exercise 7.2
+ 
+86
+For free distributionAxiom 3
+ 
+Quantities which are obtained by subtracting equal quantities from equal 
+quantities, are equal. 
+We can write this briefly as given below. 
+If a = b , then a – c = b – c.
+This axiom can be written as given below too.
+If a = b  and c = d , then a – c = b – d.
+A simple result in geometry that can be obtained by using the above axiom is given 
+below. 
+       In the figure given below, AD = CB . 
+A C D B
+AD = CB 
+According to Axiom 3,   AD - CD  = CB - CD
+ ∴  AC = DB
+Example 1
+The straight line segments  AB and CD intersect at  P. XPD = BPY 
+(i) Show that APX = CPY .
+(ii) If APD = 95o and XPD = 20o, find the magnitude of  CPY.
+AX
+D
+B
+YCP
+ 
+(i)  APD = BPC  (vertically opposite angles)
+XPD = BPY  (given)
+                       ∴  According to this axiom,  APD − XPD = BPC − BPY
+}}
+APX CPY= ∴ 
+87
+For free distribution(ii)  APX = APD  - XPD   
+ APX = 95o - 20o 
+ APX = 75o 
+∴ CPY = 75o
+ 1. The points A and B are located on the line  XY such that  XB = AY . If XY =  1 6  c m  a n d                   
+BY = 6 cm, find the length of AB.
+X YA B
+ 
+2. The point B is located on the line AC. If ABD  = CBE , show E D
+A C Bthat ABE = CBD .
+ 
+                  PQ
+S X R3. In the quadrilateral PQRS in the figure, SPR = PRQ .
+    If  QPS  = PRX  and SPR = QRX,  show that
+   QPR = QRX . 
+ 
+4. In the figure given here,  PQY = XQR . If  PQR  = 110o 
+PQ
+XR Yand PQX  = 35o, 
+(i) find the magnitude of RQY.
+(ii) find the magnitude of XQY.
+Exercise 7.3
+ 
+Axiom 4
+ Products which are equal quantities multiplied by equals, are equal.
+We can write this briefly as given below. 
+If a = b , then ca = cb.
+88
+For free distributionLet us first consider an application of this axiom in geometry. 
+² As indicated in the figure given below, the points A, B, C  and D are 
+located on the straight line XY, such that XA = AB = BC = CD = DY.  
+The points K, L, M and N are located on the straight line PQ,  s u c h  t h a t                                                                               
+PK = KL = LM = MN = NQ . It is also given that  XA = PK.
+PKLMNQ
+XA C B D
+Y
+Let us show that XY = PQ.
+Since XA =  AB = BC = CD = DY , it is clear that 5 XA = XY.
+Similarly, since PK = KL = LM = MN = NQ , we obtain that 5 PK = PQ.
+Since XA = PK , by applying Axiom 4 we obtain 5  XA = 5 PK.
+... XY = PQ.          
+Although it is important to understand how results are derived by using axioms, in 
+practice, when deriving geometrical results, the relevant axioms are not mentioned. 
+This is because, as implied by the word “axiom”, the validity of the derivation is 
+obvious. 
+Now, let us consider how this axiom is applied in algebra. 
+If x = 5 and y = 2x, let us find the value of y.
+Since x = 5, applying the above axiom and multiplying both sides by 2 we obtain  
+2x = 2 × 5.
+But 2 × 5 = 10. 
+Hence by Axiom 1 we obtain
+y = 10.
+Example 1 
+The points X and Y are located on the side AB of the triangle ABC  such that AX = XY = YB . 
+The points P and Q are located on the side AC such that AP = PQ = QC . If AX = AP ,  find 
+the relationship between AB and AC.
+89
+For free distributionA
+C BYX P
+Q
+ 
+AX = XY = YB  (given)
+∴ AB = 3AX  
+AP = PQ = QC  (given)
+∴ AC = 3AP  
+          AX = AP (given)
+According to Axiom 4;  
+      3AX = 3AP 
+∴ AB = AC 
+Axiom 5
+Quotients which are equal quantities divided by nonzero equals, are equal.
+  
+We can write this briefly as given below. 
+If a = b then  a
+c = b
+c. 
+Here, c is a nonzero number since it is meaningless to divide by zero.
+² The line segments AB and CD in the figure are equal in length (that is,                       
+AB = CD). The points X and Y are located on AB such that AX = XY = YB . The 
+points P and Q are located on CD such that CP = PQ = QD.
+ 
+PC
+DQXA
+BY
+Let us show that AX = CP .
+Since AX = XY = YB, we obtain that  AB
+3 = AX.
+ Since CP = PQ = QD, we obtain that  CD
+3 = C P. 
+90
+For free distribution Since AB = CD, according to Axiom 5,
+AB
+3 = CD
+3 
+∴ AX = C P.
+Example 1 
+In the figure given below,  AOB = BOC and COD = DOE . If AOC = COE ,
+(i) find the relationship between AOB and  DOE .
+(ii) If BOC = 35o, find the magnitude of   DOE .
+A B
+C
+D
+EO  
+(i) AOB = BOC (given) 
+∴ AOB = AOC
+2 
+COD = DOE (given) 
+∴ DOE = COE
+2 
+  AOC = COE (given)
+∴ According to Axiom 5,  AOC
+2  = COE
+2 
+  ∴ AOB = DOE 
+(ii) AOB = BOC (given)      BOC = 35o  (given)
+ ∴ AOB = 35o  (by axiom 1)
+  AOB = DOE (Proved above)
+ ∴ DOE = 35o (by axiom 1)  
+Exercise 7.4
+1. The square ABCD  and the rhombus PQRS are such that AB = PQ.  
+ 
+    (i) Using Axiom 4, show that the perimeter of the square ABCD  is equal to the perimeter 
+of the rhombus PQRS.
+91
+For free distribution (ii) If AB = 7cm, find the perimeter of the rhombus PQRS .
+PQ
+R SA
+DB
+C 
+2. 
+A
+CY X BO
+K
+L MN
+ 
+In the triangle ABC, BAX = XAY = CAY . In the pentagon  KLMNO  
+MON = LOM = KOL . If BAC = KON , 
+ (i) show that XAY = MOL .
+(ii) If XAY = 30o, determine the magnitude of  KON . 
+3. In the quadrilateral PQRS , PQ = QR = SP and 2PQ = RS. The perimeter of the 
+regular pentagon ABCDE  is equal to that of the quadrilateral PQRS . 
+   (i)  Find the relationship between PQ and AB.
+  (ii) If AB = 8 cm, find the perimeter of the quadrilateral PQRS .
+P Q
+SR
+A
+B
+C DE
+ 
+92
+For free distributionFurther applications of the axioms
+Example 1 
+Solve the equation given below using the axioms.
+2x + 5 = 13
+Here, solving the equation means finding the value of x.  S i n c e  t h e  q u a n t i t y                              
+2x + 5 is equal to the quantity 13, according to Axiom 3, the quantities obtained by 
+subtracting 5 from these two quantities are also equal.  
+∴ 2x + 5 − 5 = 13 − 5.
+Simplifying this we obtain,
+2x = 8.
+Since the quantity 2 x is equal to the quantity 8, the quantities that are obtained by 
+dividing these two quantities by 2 are also equal. Therefore, 2x
+2
+ = 8
+2
+.
+When we simplify this we obtain  x = 4. That is, the solution of the equation is 4.
+1. In the quadrilateral ABCD, AD = AC, BC = AC,   AB = BC    a n d  AB
+CDAD = CD . Show that ABCD  is a rhombus.
+2. As indicated in the figure, the point S is located such 
+S
+Q RP
+that PRS = SQR and QRS = PQS. By applying the 
+axioms,
+ 
+(i) show that PRQ = PQR,
+(ii) show that if RPQ = PRQ, then all the angles of the triangle PQR  are equal 
+in magnitude.Miscellaneous Exercise
+93
+For free distribution3.  As indicated in the figure, the straight lines 
+OC
+D
+E FAB
+AD, BE  and CF intersect at the point O.
+  If  DOE = AOF , show that  BOD = DOF .
+4. In the regular pentagon ABCDE,                                             
+A
+B
+C DE
+  
+EAD = DAC  = BAC  and  BCA = ACE  = DCE .           
+(i) Show that BCA = BAC.
+ (ii) If  BAC =  36o find the magnitude of  CDE.
+5. The point X lies on the straight line AB. Also,
+BCD E
+A
+X 
+AXE = EXD and BXC = CXD. Determine 
+the magnitude of  CXE.
+ 
+Summary
+Summary
+²  Quantities which are equal to the same quantity, are equal.
+²  Quantities which are obtained by adding equal quantities to equal quantities, 
+ are equal.
+² Quantities which are obtained by subtracting equal quantities from equal 
+ quantities, are equal.
+² Products which are equal quantities multiplied by equal quantities, are
+  equal.
+²  Quotients which are equal quantities divided by nonzero equal quantities, 
+ are equal.
+94
+For free distributionAngles related to straight lines and 
+parallel lines8
+By studying this lesson, you will be able to;
+• identify and verify the theorems related to the adjacent angles/vertically opposite 
+angles formed by one straight line meeting or intersecting another straight line, 
+and use them to solve problems,
+• identify the angles formed when a transversal intersects two straight lines,
+• identify and verify the theorems related to the angles formed when a transversal 
+intersects two straight lines, and use them to solve problems.
+Introduction 
+Let us first recall the basic geometrical facts we learnt in previous grades.
+Adjacent angles
+   A C D
+B
+The angles ABD 
+> and DBC
+> in the above figure have a common vertex. This common 
+vertex is B. They also have a common arm BD. The pair of angles  ABD 
+> and DBC
+>  
+lie on opposite sides of the common arm BD. Such a pair of angles is known as a 
+pair of adjacent angles. 
+ ABD 
+> and DBC
+> are a pair of adjacent angles.
+However,  ABD 
+> and ABC
+> are not a pair of adjacent angles. This is because, these 
+two angles are not on opposite sides of the common arm AB.
+95
+For free distribution
+Complementary angles
+   
+A
+C
+B40o
+50o
+QR
+P60o30oP
+R
+SQ
+Figure I Figure II
+In figure I, since  ABC 
+>+ PQR 
+> = 40o + 50o = 90o, ABC 
+>and PQR 
+> are a pair of 
+complementary angles.  
+In figure II,  PQR
+> and RQS 
+>are a pair of adjacent angles. Furthermore, since 
+PQR 
+>+ RQS 
+>= 90o, they are a pair of complementary angles too. Therefore,                                   
+PQR 
+> and RQS 
+> are a pair of complementary adjacent angles.   
+Supplementary angles
+140o
+Q RP
+40o
+LMK
+Figure I Figure IIB C AD
+60o120o
+ 
+In figure I, since  KLM
+>+ PQR
+>  = 180o, KLM
+> and PQR
+>  are a pair of supplementary 
+angles. In figure II,  ACD
+> and  BCD
+> are a pair of adjacent angles. Furthermore, 
+since ACD 
+>
+ + BCD
+>
+ = 180o, they are a pair of supplementary angles too. Therefore,  
+ACD
+>and BCD
+> are a pair of supplementary adjacent angles.  
+96
+For free distribution
+Vertically opposite angles
+   R P
+S QT
+The pair of angles  PTR
+> and STQ
+>, formed by the intersection of the straight lines 
+PQ and RS at the point T, are vertically opposite angles. 
+Similarly, PTS
+>and RTQ
+> are another pair of vertically opposite angles. 
+Vertically opposite angles are equal in magnitude. 
+   Therefore,  PTR
+> = STQ
+> and PTS
+> = RTQ
+>.
+Parallel lines
+Two straight lines in a plane which do not intersect 
+AB
+CD 
+each other are called parallel straight lines. The gap 
+between two parallel straight lines  is a constant.
+As shown in the figure, parallel lines are indicated 
+using arrow. We use the notation AB//CD  to indicate 
+that AB and CD are Parallel.
+Do the following exercise, to strengthen your understanding of the above facts. 
+Review Exercise
+1' From the angles given below, select and write the pairs which are complemen -
+tary.
+OFDE
+70oG
+HI
+55oKJ
+L80o
+M
+P
+R40oCA
+B35o
+MN20o T
+SU10o
+97
+For free distribution2. Based on the magnitudes of the angles shown in the figure, write      
+        
+   i. four pairs of complementary angles,                    
+Q
+RSP
+60x
+60x60x
+30x 30x
+120x  ii. two pairs of complementary adjacent angles,          
+ iii. two pairs of supplementary angles.
+3. The straight line segments AB, CD  and EF shown in the figure intersect at a 
+point. According to the information given in the figure,                                   
+            E
+A
+D
+FBC
+ab
+ddc
+30o 
+    i. find the value denoted by  a.
+  ii. give reasons why b = d .
+ iii. find the value denoted by d.
+ iv. find the values denoted by b and c.
+4. Name three pairs of parallel straight lines.   A B
+C DE    
+8.1 Angles related to straight lines
+Let us assume that the point O is located on the straight line AB.
+ A BO
+Then AOB
+> can be considered as an angle between the arms AO and OB. Such an 
+angle is known as a straight angle. 
+98
+For free distribution A BOAOB
+>
+ 
+The unit “degree” which is used to measure angles has been selected such that a 
+straight angle is equal in magnitude to 180°. Therefore, we can write AOB
+> = 180o. 
+ A BOAOB
+>= 180o
+Accordingly, the magnitude of a straight angle is180o.
+In the following figure, two angles have been drawn at the point O which is located 
+on the straight line  AB.
+  A BOC
+Here, AOC
+> and BOC
+> are a pair of adjacent angles. In a situation such as this, we say 
+that the adjacent angles  AOC
+> and BOC
+> are on the straight line AB. Furthermore, 
+since  AOB
+> = 180o, it is clear that,  
+     AOC
+> + BOC
+> = 180o. 
+Hence, the two angles  AOC
+> and BOC
+> are a pair of supplementary adjacent angles. 
+The facts we have discussed can be stated as a theorem as follows.
+ Theorem:
+The sum of the adjacent angles formed by a straight line meeting 
+another straight line is two right angles.
+The facts discussed above can be generalized further. As an example, in the figure 
+given below, four angles have been drawn at the point O on the straight line AB.
+99
+For free distribution  A BOao bo 
+co 
+do 
+The values of these angles in degrees have been denoted by a, b, c  and d. In a situation 
+such as this too, we say that the angles are on the straight line AB. Furthermore, 
+since AOB
+> = 180o, it is clear that,
+a + b + c + d = 180.
+It is also clear that this relationship holds true for any number of angles on a straight 
+line. Therefore,
+ “The sum of the magnitudes of the angles on a straight line is 180°.”
+Now, by considering some examples, let us learn how to solve problems using these 
+theorems.
+Example 1 
+In each figure given below, if PQR  is a straight line, then find the value denoted by x. 
+    PQD
+> + DQR
+> = 180o  ^ Angles on the straight line PQR ) D
+R Q Px100x            
+   100o + x = 180o 
+   x = 180o  – 100o 
+       =  80o 
+          
+PQS
+> + SQT
+>+ TQR
+> = 180o   ^ Angles on the straight line PQR ) 
+                               
+              x +  2x + 30o = 180o                                        
+P
+Q
+RTS
+30o2xx       3x +  30o = 180o 
+                 3x = 180o  – 30o  
+                            3 x = 150o 
+                              x = 50o 
+                 
+                  
+100
+For free distributionExample 2 
+In the given figure, AQR
+>= 70x and the bisector of  PQA
+> is QB.
+Q R PB A
+70o 
+If  PQR  is a straight line, then find the magnitude of  AQB
+>.
+Since  PQR is a straight line,
+       PQA
+> + AQR
+> = 180o  (angles on the straight line PQR )
+               PQA
+> + 70o  = 180o                                                  
+             ...     PQA
+> = 180o – 70o
+           = 110o
+Since BQ is the bisector of  PQA
+>,
+   PQB
+> = AQB
+> = 1
+2 PQA
+>
+      ...     AQB
+> = 110o
+2
+                   = 55o
+                          
+  1. In each of the following figures, AB is a straight line. Based on the information 
+       in each figure, find the value of the angle denoted by the lower case letter.
+B CD
+Aai.
+vi.
+B
+R QPA
+O
+xxx2xii. P B A
+Qb 108oiii.
+DABK C
+c20o
+v.
+A
+BML
+m30oiv.
+Q B APR
+xx80o
+Exercise 8.1
+101
+For free distribution2. In the figure,  ABC  is a straight line. If  DBC
+> = 36o, show that the magnitude of
+ABD
+> is four times the magnitude of DBC
+>.  
+C B AD
+36o 
+3. In the figure, ABC  is a straight line.  Based on the information given in the figure, 
+show that  PBR
+> is a right angle.                                    
+BA
+CRQP
+xxy
+y 
+ 
+4'   In the figure, ABC  is a straight line. Moreover,  PBC
+>= CBQ
+> . Show that   
+     ABP
+>= ABQ
+>.                             
+B
+AP
+C
+Q
+8.2 Vertically opposite angles
+                                      OC
+B DA
+In the figure, the straight lines AB and CD intersect each other at O.
+The vertex O is common to both the angles AOC
+> and  DOB
+> . Furthermore, they are 
+on opposite sides of O. 
+The pair of angles  AOC
+> and DOB
+>are known as a pair of vertically opposite angles.  
+Similarly,  AOD
+> and  BOC
+> lie on opposite sides of O, which is the common vertex 
+of these two angles.
+102
+For free distributionTherefore AOD
+> and  BOC
+> are also a pair of vertically opposite angles. 
+Accordingly, it is clear that two pairs of vertically opposite angles are formed by the 
+intersection of two straight lines. 
+Let us now consider a theorem related to vertically opposite angles. 
+ 
+Theorem:
+The vertically opposite angles formed by the intersection of two straight lines 
+are equal. 
+By considering the figure, it can clearly be seen that ‘vertically opposite angles are 
+equal’. However, by using the fact we learnt earlier, that ‘the sum of the angles on a 
+straight line is 180’, and also the axioms learnt in the previous lesson, this theorem 
+can be proved as follows.
+   OC
+B DA
+Data: The straight lines AB and CD intersect each other at O.
+To Prove: AOC
+> = BOD
+>  and
+    AOD
+> = BOC
+> 
+Proof:
+Since  AB is a straight line,
+ AOC
+> + BOC
+> = 180o (angles on the straight line AB)
+Similarly, since CD is a straight line,
+ BOC
+> + BOD
+> = 180o (angles on the straight line CD)
+ ... AOC
+> + BOC
+> = BOC
+> + BOD
+>  (axiom)
+Subtracting  BOC
+>  from both sides of the equation,
+  AOC
+>  + BOC
+> –  BOC
+> = BOC
+> –  BOC
+> +  BOD
+>
+       ∴  AOC
+> = BOD
+>
+Similarly,   AOD
+> + AOC
+> = 180o (angles on the straight line CD)
+103
+For free distribution AOC
+> + BOC
+> = 180o (since AB is a straight line)
+     ... AOD
+> + AOC
+> = AOC
+> + BOC
+> (axiom)
+Subtracting  AOC
+> from both sides of the equation we obtain,  
+ AOD
+> = BOC
+>. 
+Let us consider the following examples to learn how this theorem is used to solve 
+problems.
+Example 1 
+Based on the information given in the figure, giving 
+OFCA
+E
+D B43o57oreasons, determine the following.
+ (i) The magnitude of  DOB
+>
+(ii) The magnitude of AOC
+>. 
+     (i) Since EOF is  a straight line,
+EOD
+> + DOB
+> + BOF
+> = 180o  (sum of the magnitudes of the angles on a straight line)        
+    57o + DOB
+> + 43o = 180o 
+              DOB
+>  = 180o – (57o + 43o)
+              ...    DOB
+>  = 80o
+               
+  (ii)   AOC
+> = DOB
+>  (vertically opposite angles)
+          DOB
+> = 80o   (proved above)
+  ...   AOC
+> = 80o
+        
+Exercise 8.2
+1. In the figure, the straight lines AB and CD intersect each other at O.
+                
+OCA
+DB 
+        
+  i. If AOC
+> = 80o , find the magnitude of  BOD
+>.
+  ii. Name an angle which is equal in magnitude to  AOD
+>.
+104
+For free distribution2. In the figure, the straight lines AB, CD  and EF intersect at O. Based on the 
+information provided in the figure, find the magnitude of each of the following 
+angles.          
+OCA
+D
+BEF
+30o100o  
+  i. AOC
+> 
+ ii. BOE
+> 
+           iii. COE
+>  
+3. Based on the information given in each of the figures shown below, find the 
+value of each English letter representing an angle.
+      
+i. ii.
+C
+DA
+Bx
+35o 100oS
+Q
+TRP
+Ua
+bb38o
+In the figure  AB and CD are 
+straight lines.In the figure, RS and PQ are 
+straight  lines.             E
+  iii.  iv.
+FC
+A
+E
+D
+Bp
+2p2p
+Gm
+mnF
+CDE
+BA
+ In the figure, the straight lines AB, 
+CD and EF intersect at G.      In the figure, AB and CD are straight lines.
+105
+For free distribution4.  In the figure, AB, CD, DE  and BF are straight lines. Moreover, a = d . Fill in 
+the blanks given below to prove that b = c .  
+                                                     
+abd cF
+E
+B
+CAD    a = b   (................)
+  d = ..... (................)
+  But,  ..... = ..... (data)
+     ...    b = c
+5. In the figure, AB, CD  and EF are straight lines. Moreover p = r. Prove that                             
+s = q .       
+                               s
+qpr
+A
+CBFDE
+8.3 Corresponding angles, alternate angles and allied angles
+    
+    BEA
+CDHGa1
+a2b1
+b2d1
+d2c1
+c2
+F
+In the above figure, the two straight line AB and CD are intersected by the straight 
+line EF at the points G and H respectively. The line EF is known as a transversal.
+ A line intersecting two or more straight lines is known as a transversal.
+ 
+In the above figure, there are four angles around the point G and four angles around 
+the point H. According to where these angles are located, they are given special 
+names in pairs.
+106
+For free distributionCorresponding angles
+Consider the four pairs of angles given below.
+ (i) a1 and a2 (ii) b1 and b2 (iii) c1 and c2 (iv) d1 and d2
+Each of these pairs of angles is a pair of corresponding angles. 
+To be a pair of corresponding angles, the following characteristics should be there 
+in the two angles. 
+  1. Both angles should lie on the same side of the transversal.
+According to the above figure, both the angles a1 and a2 are on the left side of 
+the transversal. Similarly, both the angles b1 and b2 are on the right side of the 
+transversal. Also, the two angles c1 and c2 are on the left side of the transversal and 
+the two angles d1 and d2 are on the right side of the transversal.
+2. Both angles should be in the same direction with respect to the two 
+straight lines. 
+According to the given figure, the angles a1 and a2 lie above the lines AB and CD 
+respectively. The angles b1 and b2 also lie above the lines AB and CD respectively. 
+Similarly, the angles c1 and c2 lie below the lines AB and CD respectively, and the 
+angles d1 and d2 also lie below the lines AB and CD respectively.
+ 
+In the given figure, the pairs of angles  AGE
+>  and CHG
+>, BGE
+>  and DHG
+>, 
+AGH
+>  and CHF
+>, BGH
+>  and DHF
+>are pairs of corresponding angles.
+Alternate angles
+   
+ A
+GE
+B
+D
+H
+FCd1
+a2A
+GE
+B
+D
+H
+FCc1
+b2
+In the figures, the two pairs of angles given below are pairs of alternate angles.  
+ (i) a2 and d1
+(ii) c1 and b2
+107
+For free distributionThe characteristics common to these pairs of angles that can be used to identify 
+pairs of alternate angles are the following.  
+1. The two angles should be on opposite sides of the transversal.
+According to the above figure, the angles a2 and d1 lie on opposite sides of the 
+transversal. Similarly, c1 and b2 also lie on opposite sides of the transversal.
+2. The line segment of the transversal, which lies between the two straight 
+lines, should be a common arm of the two angles. 
+According to the given figure, the line segment GH is a common arm of the angles 
+a2 and d1 and also of the angles c1 and b2.
+In the given figure, the pair of angles  BGH
+>  and GHC
+>
+ and the pair of angles
+AGH
+>  and GHD
+> are pairs of alternate angles. 
+Allied Angles 
+    A
+GE
+B
+D
+H
+FCa2c1
+               A
+GE
+B
+D
+H
+FCb2d1
+             
+               
+In the figures, the two pairs of angles given below are pairs of allied angles. 
+  (i) a2 and c1
+ (ii) d1 and b2
+In the figure, the two straight lines are intersected by a transversal. The pairs of 
+angles on the same side of the transversal segment GH, between the straight lines 
+AB and CD are
+         (i) the pair AGH
+> and CHG
+> 
+ (ii) the pair BGH
+> and DHG
+> 
+108
+For free distributionFor all four of these angles, GH is a common arm. A pair of angles on the same side 
+of the common arm GH and between the straight lines AB and CD is called a pair 
+of allied angles, Accordingly,
+while the pair of angles  AGH
+> and CHG
+> is a pair of allied angles, the pair 
+of angles  BGH
+> and DHG
+> is also a pair of  allied angles.  
+1. Consider the figures given below of two straight lines intersected by a transversal.
+             
+  a
+bc
+df
+e
+Figure 1 Figure 2 Figure 3
+By considering the angles represented by the lower case English letters in the given 
+figures, fill in the blanks. 
+   (i) In figure 1, a and b form a pair of  ………………. angles.
+  (ii) In figure 2, c and d form a pair of  ………………. angles.
+ (iii) In figure 3, e and f form a pair of  ………………. angles.
+2. Consider the figure given below of two straight lines intersected by a transversal. 
+Its angles are indicated by lowercase English letters. 
+   
+A ab
+cdef
+hgE
+B
+D FC
+  i.  Name the line which can be considered as the transversal.
+ ii.  Name the two straight lines which are intersected by the transversal. 
+iii.  One pair of corresponding angles is the pair of angles a and e. Write the other  
+three pairs of corresponding angles in a similar manner.
+iv.    Write the two pairs of allied angles in terms of the lower case English letters. 
+v.    Write the two pairs of alternate angles in terms of the lower case English 
+        letters. 
+Exercise 8.3
+109
+For free distribution3. Answer the questions given below in relation to the given
+ABPR
+S
+QD
+C    
+ figure of two straight lines intersected by a transversal. 
+   
+  (i) Name the angle which together with  ABP
+>forms a
+       pair of corresponding angles.
+  (ii) Name the angle which together with  BCS
+> forms the 
+       following.           
+            a) Pair of allied angles
+ b) Pair of alternate angles
+ c) Pair of corresponding angles.
+ (iii) What type of angles is the pair RCD
+> and PBC
+>?
+ (iv) What type of angles is the pair PBC
+> and BCR
+>?
+8.4 Angles related to parallel lines
+AR
+S
+QP
+B
+DCAs indicated in the figure, the transversal PQ intersects 
+the two straight lines AB and CD at R and S respectively. 
+Now let us consider how the two lines AB and CD are 
+positioned in each of the following cases. 
+ ³ When a pair of corresponding angles are equal
+ ³ When a pair of alternate angles are equal
+ ³ When the sum of a pair of allied angles is 180o
+Do the following activity to identify this.
+Step 1:    On a sheet of A4 paper, draw two straight lines 
+70o
+QOBP
+R
+AAB and PQ such that they intersect at O and 
+such that POB
+>= 70o, as shown in the figure. 
+Mark a point R on O P. Activity  1
+
+110
+For free distribution
+Step 2:      Using the protractor, as shown in the figure, 
+70o
+QOBP
+R
+A70o
+Cdraw PRC
+>at R such that its magnitude is 
+70°. Observe that  POB
+> and PRC
+> are a 
+pair of corresponding angles (considering 
+PQ as a transversal which intersects the 
+straight lines RC and AB)
+Step 3:     Using a set square and a straight edge, examine whether the lines AB 
+and RC are parallel.
+Step 4:     Selecting different values for  POB
+>, repeat the above three steps and in 
+each case examine whether the lines AB and RC are parallel.  
+                                
+70o
+QOBP
+R
+A70oCStep 5:       Carry out steps 1 to 3 which were performed 
+for corresponding angles, for alternate 
+angles too. When completing these steps 
+you will obtain a figure similar to the one 
+shown here.
+                                            
+C 
+70o
+QOBP
+R
+A110oStep 6:     Carry out the steps which were performed 
+for corresponding angles, for allied angles 
+too. In this case, the line drawn in step 2 
+above should be drawn as shown in the 
+figure, such that CRO
+> = 180o − 70o  = 110o.
+111
+For free distributionIn doing the above activity you would have observed that, when
+(i) a pair of corresponding angles are equal or
+(ii)  a pair of alternate angles are equal or
+(iii) the sum of a pair of allied angles is equal to 180o,
+then the straight lines AB and RC are parallel. 
+This result which is true in general, can be expressed as a theorem as follows.
+Theorem  : When two straight lines are intersected by a transversal, if
+(i) a pair of corresponding angles are equal or
+(ii)  a pair of alternate angles are equal or
+(iii)  the sum of a pair of allied angles is 180o, then the two  
+ straight lines are parallel to each other.
+  Example 1 
+   20o
+45o115o
+CD
+EA
+B
+Based on the information given in the figure, show that AB and DC are parallel. The 
+two angles  ABC
+> and BCD
+>  formed by the transversal BC meeting the two straight 
+lines AB and DC, are a pair of allied angles. 
+ ABC
+> = 115o
+ BCD
+> = BCE
+> + ECD
+> = 45o + 20o = 65o
+    ...    ABC
+>+ BCD
+> = 115o + 65o = 180o
+Since the sum of the pair of allied angles  ABC
+>and BCD
+> is 180o , AB and DC are 
+parallel.
+Now let us consider another theorem which is related to parallel lines. 
+112
+For free distribution
+Step 1:  On a sheet of A4 paper, draw two straight 
+C
+A
+QBD
+RSP lines AB and CD parallel to each other (the 
+parallel lines can be drawn using a set square 
+and a straight edge), and a transversal PQ 
+such that it intersects the lines AB and CD at R 
+and S respectively, as shown in the figure.  
+Step 2:   Use a protractor to measure the magnitudes of the below given angles.
+(i) Measure the magnitudes of the pair of corresponding angles  SRB
+>and PSD
+>
+and check whether they are equal. Similarly, measure the magnitudes of the 
+other pairs of corresponding angles and check whether they too are equal.
+(ii) Measure the magnitudes of the pair of alternate angles CSR
+>and SRB
+>and 
+check whether they are equal. Similarly, measure the magnitudes of the 
+other pair of alternate angles and check whether they too are equal. 
+(iii) Measure the magnitudes of the pair of allied angles DSR
+>and SRB
+>
+and check whether they are supplementary. Similarly, measure the 
+magnitudes of the other pair of allied angles and check whether they too 
+are supplementary.
+Step 3:  Change the inclination of the transversal PQ and repeat the above two 
+steps.Activity  2
+You would have observed in the above activity that when two parallel lines are 
+intersected by a transversal,
+(i) each pair of corresponding angles is equal, 
+(ii) each pair of alternate angles is equal,  
+(iii) each pair of allied angles is supplementary.
+This result is true in general and can be expressed as a theorem as follows.
+113
+For free distributionTheorem:  When a transversal intersects a pair of parallel lines,
+  i. the corresponding angles formed are equal,
+ ii. the alternate angles formed are equal,
+           iii. the sum of each pair of allied angles formed equals two right 
+     angles.
+Observe that the above theorem is the converse of the theorem learnt earlier. 
+Example 2 
+   25x
+75xE
+B A
+C >>
+D
+In the above figure, the straight lines AB and CD are parallel (this is denoted by 
+AB//CD ). Moreover,  BDC
+>= 75o and BAD
+>= 25o.
+  (i) Giving reasons, determine the magnitude of  ABE.
+>
+ (ii) Giving reasons, determine the magnitude of  ADB.
+>
+ (i)                 BDC
+> = 75o  (data)
+        BDC
+>  =  ABE
+> (corresponding angles, AB//CD )
+              ...    ABE
+>  =   75o
+           
+(ii)                  BAD
+> = 25o  (data)
+        BAD
+>  =  ADC
+> (alternate angles, AB//CD )
+              ...    ADC
+>  =   25o
+But    ADB
+> = BDC
+> – ADC
+>  
+          = 75o – 25o
+                        = 50o
+                                              
+114
+For free distribution1. 50oP
+R
+SC
+DQA
+BIn the figure,   AB//CD . If PRB
+>= 50o, find the 
+magnitude of each of the following angles.
+    i. RSD
+> (ii) ARS
+>     (iii) CSQ
+>     (iv) QSD
+> 
+ 
+2. Based on the information in each of the following figures, giving reasons state 
+whether AB and CD are parallel.
+i. ii. iii.
+75o
+75oA
+P SC
+D BQ R80o
+100oC
+DP
+SRQA
+B80o
+80oP
+SC
+DA
+B
+iv. v. vi.
+120o
+60o
+CP
+SD
+AB
+95o80o
+PSC
+DA
+B55o
+130oP
+SC
+DA
+B
+3. Find the value of each angle denoted by a lowercase English letter in the figures 
+given below.
+i. ii.110o
+25oA Ba
+C E DA
+F
+DCBE
+>
+>20o
+130ob>>
+Exercise 8.4
+Q
+QQ
+RRR
+115
+For free distribution(iii)
+55od
+cFC
+DA
+BE(iv)
+45o60oP
+Q SA
+CB
+D
+T Ref>
+> >
+>
+    
+4. 
+45o70oA
+B C DE
+45oBased on the information given in the 
+figure, show that AB//EC.
+1. Find the magnitude of each of the angles denoted using lowercase English 
+letters in the following figures.
+(i) (iii)
+2x
+3xA
+EC >
+>D
+ F
+B 130oG
+3p
+2pF
+BE
+>>>
+CDA
+2. 
+B AD E
+CxyzIn the figure, x, y and z denote the magnitude of 
+the relevant angle.  If x + z = y,  find the value of 
+y.Miscellaneous Exercise
+116
+For free distribution3. D
+BA
+EC> >
+4x 3x2xBased on the information in the figure,
+   (i)  write the values of  DCE
+> and ACD
+>in terms 
+         of x.
+     (ii)  find the value of  x,
+ (iii) find the magnitude of each angle in the triangle.
+4. Write all the pairs of parallel lines in the given figure, indicating the reasons for 
+your selections.
+           B
+CDEF
+G
+H
+A45o
+40o30o
+15o25o 15o
+5. In the figure,  ABC
+> = p and CDE
+> = q. Show that  p = q.
+          A
+BC
+DE
+q p> >
+> > > >
+ 
+Summary
+Summary
+²  The sum of the adjacent angles formed by a straight line meeting another 
+straight line is two right angles.
+²  The vertically opposite angles formed by the intersection of two straight lines 
+are equal. 
+²   When two straight lines are intersected by a transversal, if
+i. a pair of corresponding angles are equal or
+ii.  a pair of alternate angles are equal or
+iii. the sum of a pair of allied angles is 180o, then the two                  
+ straight lines are parallel to each other.
+² When a transversal intersects a pair of parallel lines,
+  i.   the corresponding angles formed are equal,
+ ii.   the alternate angles formed are equal,
+           iii.   the sum of each pair of allied angles formed equals two right angles. 
+117
+For free distribution    Liquid Measurements 9
+ By studying this lesson, you will be able to;
+² determine the relationship between 
+ milllilitres (ml) and cubic centimetres (cm3),
+ litres ( l) and cubic centimetres (cm3),
+ litres( l) and cubic metres (m3), as units which are used to measure liquid  
+  volumes, and
+² solve problems involving units which are used to measure liquid volumes.
+Volume and capacity
+        
+We know that the amount of space occupied by a solid or a liquid is known as its 
+volume. 
+A solid has a definite shape and a definite volume. Although a liquid has a definite 
+volume, it does not have a definite shape. A liquid always takes the shape of its 
+container.
+The below given pictures show 200 ml of drink in different shaped containers
+200 ml 200 ml 200 ml 200 ml
+When that quantity of drink is poured into the different shaped containers, even 
+though the liquid takes the shape of the container, its volume of 200 ml remains 
+unchanged. In the first picture, the container is completely filled with the 200 ml 
+of drink. Therefore, the capacity of that container is 200 ml. The capacity  of a 
+container is the maximum volume that it can hold.
+Do the following review exercise to recall the facts that you have learnt earlier in 
+relation to volume and capacity.
+118
+For free distributionD
+B1. Complete the table given below using the fact that  1 l =1000 ml ' 
+ml l and ml l (in decimal form)
+l ml
+2500 2 500 2.5
+........... 3 000
+3500 3
+........... 4 500 4.5
+........... 0 500
+   200
+     50
+........... 3.25
+........... 0 25
+........... 0.005
+2. Complete the two tables given below based on the way the volumes of the cube 
+and the cuboid in the figure have been calculated. 
+5 cm5 cm 5 cm 4 cm
+10 cm5 cm
+V olume = 5 cm  5 cm  5 cm = 125 cm3 V olume = 10 cm  5 cm  4 cm = 200 cm3 
+(i) Cube (ii) Cuboid
+The 
+length 
+of a side 
+(cm)Volume (cm3)
+ 2
+4
+6
+7
+8
+10
+12 ....  ....   .... = .... Length 
+(cm)Width 
+(cm)Height 
+(cm)Volume  
+(cm3)
+3
+5
+8
+10
+10
+12
+12
+15
+202
+3
+6
+5
+5
+10
+6
+8
+72
+4
+5
+10
+6
+8
+5
+10
+8...  ...   ... = ... Review Exercise
+119
+For free distribution3. The internal length, width and height of the container in the figure are 30 cm, 
+10 cm and 12 cm respectively. This container has been filled with water up to 
+a height of 7 cm.  
+ 30 cm10 cm12 cm
+7 cm
+ 
+Determine the following.
+  i. The capacity of the container.
+ ii. The volume of water required to fill the whole container.
+iii. The volume of water in the container, if the container is filled with water only 
+       up to a height of 7 cm.
+iv.  When the water level is 7 cm, if due to a leak it decreases to 5 cm within an  
+ hour, the volume of water that has leaked out during that hour. 
+9'1 The relationship between a cubic centimetre and a millilitre
+            
+  
+A syringe used by doctors is given in the above figure. The amount of liquid 
+medicine injected into a patient can be identified using the scale indicated on the 
+syringe.
+The units of measurement are indicated as cc/ ml. 
+cc means “ cubic centimetre ”. It consists of the initial letters of these two words. A 
+cubic centimetre is the volume of a cube of side length 1 cm.  
+The back slash (/) means “or”. It indicates that the amount of medicine can be 
+expressed in terms of either cc or ml. The question which arises immediately is 
+whether 1 cc is equal to 1 ml. In the metric system, 1 ml is defined such that it is 
+equal to1 cc. Accordingly,
+1 cubic centimetre = 1 millilitre
+     
+1  cm3 = 1 ml
+
+120
+For free distributionDo the following activity in order to study this fact further.
+Activity
+102030405060708090100ml
+The net to construct the 
+container The cuboid shaped container 
+Measuring 
+cylinderof volume 10 cm32 cm
+5 cm1 cm
+² Construct a container of dimensions 5 cm × 2 cm × 1 cm using a net prepared 
+from a thin plastic sheet as shown in the figure (paste the edges properly using 
+sellotape or a suitable glue so that there is no water leakage). 
+²  Obtain a measuring cylinder of capacity 100 ml from the laboratory.
+²  Draw the below given table in your exercise book.
+  
+Number of times water is 
+poured from the cuboid 
+shaped container into the 
+measuring cylinderThe volume of water poured into the 
+measuring cylinder
+In cm3 according to 
+the cuboid shaped 
+containerIn ml according 
+to the measuring 
+cylinder
+10
+20
+30
+40
+50
+² Fill the cuboid shaped container completely with water and pour that water into 
+the measuring cylinder.
+² After pouring the water into the measuring cylinder, note down its reading.
+² Repeat this process several times. Note down the reading on each occasion.
+² Determine a relationship between the units of the volume of the container (cm3)
+and the units (ml) marked on the measuring cylinder.
+121
+For free distributionBased on the activity the following equalities are obtained.
+ 10 cm3 = 10 ml
+            20 cm3 = 20 ml
+Accordingly, it is clear that 1 cm3 = 1 ml.
+This relationship can be used when solving problems related to liquid volumes in 
+containers.
+Example 1 
+A cuboid shaped glass container of length 20 cm, width 15 cm and height 10 cm is 
+filled with a liquid medicine.
+    i.  Find the volume of the container in cubic centimetres.
+   ii.  What is the capacity of the container in litres?
+  iii.   If the liquid in the container is to be stored in phials of capacity 50 ml each, 
+find the number of phials required to store all the liquid in the container.
+  i.      The volume of the container  = 20 cm  15 cm  10 cm
+  = 3000 cm3
+  ii.   The capacity of the container  = 3000 ml
+     = 3 l  
+  iii.         The total amount of liquid   = 3000 ml
+ The number of phials of capacity 50 ml each that are required  = 3000  .. 50
+ = 60
+                            
+Example 2 
+800 l of water is in a cuboid shaped concrete tank consisting of a base of length 2 m 
+and width 1 m. Find the height to which the water is filled in the tank.
+Let us construct an equation, assuming that the tank is filled up to a height of x cm, 
+and by solving it find the height to which it is filled.
+Let us first convert all the measurements into centimetres.  
+ The length of the tank  = 2 m = 200 cm 
+ The width of the tank   = 1 m = 100 cm
+122
+For free distributionThe volume of water in the tank if the water level is x cm = 200 cm  100 cm  x cm 
+  = 20 000 x cm3
+It is given that the volume of water in the tank is 800 l.
+ ∴V olume of water in the tank =  800 l
+   = 800 000 ml
+     = 800 000 cm3
+Since the volume of water represented above in two ways is equal,
+     20 000  x  = 800 000
+  x = 800 000
+20 000  
+ = 40
+ ... The height of the water in the tank is 40 cm.
+1. Join each of the volumes in box A with the volume in box B which is equal to it. 
+ 
+    1000 cm3
+      10 cm3
+  3000 cm3
+  1500 cm3
+25000 cm3
+      25 cm3      25 ml
+      25 l
+        1 l
+     10 ml
+     1.5 l
+        3 lA B
+2. The dimensions of several cuboid shaped containers are given in the following 
+table. Complete this table.  
+Length (cm) Width (cm) Height (cm) Capacity
+cm3ml l
+20 10  5
+40 20 10
+35 12 10
+50 35 12
+40 35 25
+25 20 18
+Exercise 9.1
+123
+For free distribution3.  A cuboid shaped tank of base area 240 cm2 is filled up to a height of 12 cm with 
+water. Find the volume of water in the tank in,
+ i. cubic centimetres   ii. millilitres   iii. litres
+4. A cuboid shaped container has a square base of area 225 cm2. An amount of  
+3.6 l of water has been filled into this container.
+     i.  Find the height of the water in the container.
+     ii.  If the height of the container is 24 cm, show that the water is filled to  2
+3 
+   of its capacity.
+5. Show that a barrel of capacity 15 l can be filled completely by pouring water 
+15 times using a completely filled cube shaped container of side length 10 cm.  
+9.2 The relationship between a litre and a cubic metre
+The need for a unit which is larger than ml or l arises when it is necessary to 
+measure large volumes of liquid such as the quantity of liquid in an oil tank or a 
+swimming pool. In such instances a large unit called cubic metre is used.
+In order to identify a cubic metre, let us calculate the capacity of a cube shaped 
+container of side length 1 m.
+1 m
+1 m1 m
+The capacity of the container shown in the figure  = 1 m   1 m  1 m = 1 m3
+          However, since  1 m = 100 cm,
+the capacity of the container, 1 m3 = 100 cm   100 cm   100 cm
+               = 1 000 000 cm3
+= 1 000 000 ml (Since 1 cm3 = 1 ml )
+ = 1000 000
+1000 l  (Since 1000 ml  = 1 l)
+ = 1 000 l
+124
+For free distributionAccordingly,
+              
+one cubic metre is equal to 1000 l.
+                   
+1 m3 = 1000  l
+Example 3 
+The internal length, width and height of a cuboid shaped tank in which water is 
+stored for the daily use of a household are 1.5 m, 1 m and 1 m respectively.
+  (i) What is the capacity of the tank in litres?
+ (ii) If the residents use 300 l per day, for how many days will a completely filled 
+tank be sufficient?
+ (i) The capacity of the tank  = 1.5 m   1 m  1 m
+ = 1.5 m3
+ = 1 500 l (Since 1 m3 = 1000 l)
+ (ii)                              The volume of water used per day  = 300 l
+The volume of water in the tank  = 1 500  l
+ ... The number of days for which the water is sufficient = 1 500
+300 
+ = five days
+1. Complete the table.
+ 
+The inner dimensions of the cuboid shaped tank The capacity of the 
+tank
+Length (m) Width 
+(m)Height (m)  m3l
+2 2 1 ..... .....
+2 1.5 1 ..... .....
+1 1 0.5 ..... .....
+4 1 ..... 8 .....
+..... 1.5 3.0 ..... 9000
+1 ..... 1 1.5 .....
+Exercise 9.2
+125
+For free distribution2. The length, width and depth of a swimming pool are 50 m, 25 m and 3 m respectively.  
+i. Find the capacity of the swimming pool
+   ii. If the swimming pool is filled with water up to a height of 1.2 m, what is the 
+ volume of water in the swimming pool in litres?
+ iii. How much more water is required to fill the swimming pool completely?
+3. A bowser of capacity 6.5 m3 is filled completely with oil. This bowser is supposed to 
+distribute 850 l of oil each to 8 filling stations. Is the oil in the bowser sufficient for 
+all 8 filling stations? Give reasons for your answer.
+4. A person requires on average 150 l of water daily. If a cuboid shaped tank of length  
+11
+2 m, width 1 m and height 1 m is completely filled with water, for how many 
+people in total will this quantity of water be sufficient for a day?
+5. The length of an interior side of a cube shaped tank is 1 m. The tank is completely 
+filled with water. When a tap from which the water in the tank is discharged is 
+opened, water flows out from the tank at a constant rate of 50 l per minute. Determine 
+how long after the tap is opened the tank becomes empty, if the water flows out at 
+this constant rate.
+Miscellaneous Exercise
+1. The capacity of a large drink bottle is 1.5 l. It is expected to serve a quantity of 
+150 ml of this drink in small glasses to each of the guests at a party. If there are 
+225 guests at the party, find the minimum number of large drink bottles needed 
+to serve all the guests.
+2. Household storage tanks of capacity 500 l, 1000 l and 2000  l are available for 
+sale. The head of a family of 5 members intends to buy one of these tanks to 
+store water for their household use. If each family member requires a maximum 
+of 150 l per day and 200 l of water is required each day for other household 
+chores. Determine which tank best suits his requirements, if the head of the 
+family intends to fill the tank only once a day, 
+ 
+Summary
+²  1 cm3 =  1 ml
+²  1 m3 = 1000  lSummary
+
+126
+For free distributionRevision Exercise – First term.
+Part – I
+1. Write the general term of the number pattern 5, 8, 11, 14, …, with a common 
+difference.
+2. Fill in the blank:  10011two − ........ two = 0011two '
+3. The value of 1
+3 of a certain amount of money is Rs 800. What is the value of  3
+4 
+of that amount of money?
+4. If a profit of Rs 300 is earned by selling an item for Rs 1500, what is the profit 
+percentage?
+5.   
+(x + 3) cm(x + 1) cmD C
+BAExpress the area of the rectangle ABCD  in terms 
+of x.
+6. Factorize  2x2 − x − 6
+7. A
+B Q C RP
+TShow using axioms and the information 
+in the figure that,
+(i) AC = PQ and
+(ii) BC = QR'
+8. 
+60o
+C Eyxxx
+F DB A
+Given that the lines  AB and CD are parallel, find 
+the value of y.
+9. Find the values of b and c if (x + 4) (x − 3) = x2 + bx + c'
+127
+For free distribution10. x
+130o80oFind the value of x using the information in the  
+figure.
+11. 
+2 l
+A B50 mlHow many times should water be poured into the 
+container A of capacity 2 l from the completely 
+filled container B of capacity 50 ml to fill 3
+4.
+12. brokerage fee of 3% is charged when a land is sold. If the land owner received 
+27 lakhs in rupees after the brokerage fee was paid, find the price at which the 
+land was sold.
+13. What is the fraction by which  1 3
+4 has to be multiplied to obtain  3 3
+4 @
+14.     1101two
+............
+............1111two
+  101two −  Fill in the blanks.
+15. 
+A B CNDM The bisectors of ABD
+> and DBC
+> are 
+BM and BN respectively. Find the 
+value ABM
+> + CBN
+>, if ABC
+> is a 
+straight line.+
+128
+For free distribution     Part II
+1.   
+1. Adecoration is madeby preparing circles of various sizes and placing red 
+and blue bulbs in a pattern with a common difference such that the first three 
+arrangements contain 3, 5, 7 blue bulbs and 2, 4, 6 red bulbs respectively as 
+shown in the figure.
+(i)  Write the number of blue bulbs and the number of red bulbs in the 4th and 
+5th arrangements.
+(ii) Identify the patterns of the number of blue bulbs and the number of red bulbs 
+in the arrangements and construct two expressions in n for the number of 
+bulbs of each colour in the nth arrangement.
+(iii) Find an expression for the total number of bulbs inthe nth arrangement,
+       using the expressions in (ii) above.
+(iv) Find the number of blue bulbs and the number of red bulbs in the 10th 
+  arrangement using the expressions in (ii) above.
+(v) Which arrangement is prepared using a total of 61 bulbs? Find the number of 
+blue bulbs in that arrangement.
+2. (a) Simplify. 
+           i.   2 1
+5 +  1
+2 
+3
+10
+          ii.  (1 1
+8 of 1 1
+3 ) ÷ 2  1
+2
+129
+For free distribution     (b)   i.  1
+4 th of a certain land contains mango trees. What fraction of the total 
+ land is the remaining portion of land?
+            ii.  If 1
+3 of the remaining land contains banana trees, express the portion of 
+ land in which banana trees are grown as a fraction of the whole land.
+iii.  In what fraction of the total land are the mango trees and banana trees
+ grown?
+iv.  If the area of the portion in which these trees are not grown is 3 hectares, 
+ what is the total area of the land?
+3. (a)  The selling price of an item which was bought for Rs 8000 was marked 
+  keeping aprofit of 25%. A discount of 10% was given when the item was 
+  purchased outright. Find the profit percentage earned by the seller .
+   (b)   A person marks the price of an item to earn a profit of 15%. If its price had 
+  been marked to earn a profit of 20%, an extra Rs 200 could have been 
+  earned. Find the purchase price and the marked price of the item.
+4. (a) Find the value of each of the following expressions when a = −2 and  b = 3. 
+ i.  2a + 3b ii.  b − 2a  iii.  a
+3 − b
+2 
+(b)  (2x + 3)
+(x + 2)
+A BC
+x
+xDSR
+Q PThe rectangle  ABCD  in the figure represents 
+a picture. Its length is (2 x+3) cm and its 
+breadth is  (x + 2) cm .   
+ 
+      i.   Obtain an expression in terms of x for the area of ABCD.
+ii.  he shaded part in the figure represents a band of breadth  x cm which is  
+pasted bordering ABCD . Find an expression for the area of the rectangle 
+PQRS and express the area of the shaded part in terms of x using the 
+expression found in (i) above too.
+iii.  Calculate the area of the shaded part if  x = 3 cm .
+130
+For free distribution(c) Factorize the following expressions.
+i.  5x2 + 12 y2 − 4xy −15xy
+ii.  6 (x − 1) + 3x −3
+iii.  t2 - 8t + 15
+iv.  3k2 − 12 k
+5. (a) Obtain the following results using axioms and the information in the figure.
+i. A D
+CX BY
+     Show that AYB
+> = DXC
+>' 
+ii.
+BE
+DCA
+F Show that  BAE
+> = FDC
+>'
+iii.q s
+r pShow that  p
+>− s>= r>− q
+> '
+(b) 
+i.        
+          
+  
+  
+     A G F E
+Cx
+D B120o80o
+ii.  
+x2xo+30o
+100o
+Find the value of  x using the information in the 
+figure.Find the value of x using the 
+information in the figure .
+131
+For free distribution(c) 
+M K
+Q Pc
+td
+e R
+LNgf h
+Sa
+bThe parallel lines PQ and RS 
+are intersected by the 
+transversals  MN and KL. 
+Answer the following 
+questions using the 
+information in the figure.
+i.  Write all the instances where the sum of the given angles is 180o.
+ii.  Write the pairs of allied angles in the figure.
+iii. Providing reasons, write all the angles which are equal to each other.
+iv.  Is a
+>+ e>= 180o@ Explain your answer.
+v.  Using axioms, show that  t − f = h − d'
+vi.  Find the values of all the angles indicated by lowercase letters if                         
+ e = 140o , f = 110o'
+6. The length, breadth and height of a water tank are 2m, 1.5m and 1m respectively.
+i.  Express the capacity of the tank in liters.
+ii.  If the daily water requirement of a person is 150 l, how much water is
+ required daily for 4 people?
+iii.  For how many days will the water in this tank be sufficient for4 people 
+ if it is full?
+iv.  If water is supplied to the tank at a rate of 100 l per minute, how much 
+ time is needed to fill thetank if it is empty?
+v.  On a day when the tank is filled to its capacity, 900 l of water leaks out
+ due to a fault in the delivery pipeline. Find the height of the remaining
+ water.
+132
+ A
+Addition   tl;= lsÍu   $l;ly;     
+Allied angles   ñ;% fldaK   Neaf;Nfhzq;fs;   
+Algebraic expressions  ùÔh m%ldYk   ml;rufzpjf; Nfhitfs;  
+Algebraic term   ùÔh moh   ml;rufzpj cWg;G   
+Alternate angles   taldka;r fldaK xd;Wtpl;lNfhzq;fs; 
+ B
+Base    mdoh    mb      
+Binary numbers  oaùuh ixLHd   Jtpj vz;fs;   
+Brackets   jryka    milg;G  
+Broker   ;e/õlrejd   jufu;       
+ C
+Capacity   Odß;dj   nfhs;ssT     
+Commission   fldñia   juF (fkp\d;)  
+Common factors  fmdÿ idOl   nghJf;fhuzpfs;
+Converse   úf,dauh   kWjiy
+Conversion   mßj¾;kh   khw;wy; 
+Corresponding angles  wkqrEm fldaK    xj;jNfhzq;fs;     
+ 
+ D  
+Difference of terms  mo w;r fjki  cWg;Gf;fSf;fpilNaahdtpj;jpahrk;  
+Discount  jÜgu    fopT     
+ F 
+First term   m<uqjk moh   Kjyhk; cWg;G  
+Fractions   Nd.    gpdd; qf; s;    
+ G 
+General term   idOdrK moh   nghJ cWg;G 
+ I 
+integers   ksÅ,    epiwntz;fs;    
+ 
+ L   
+Loss    w,dNh   el;lk;     Glossary
+133
+ M
+Marked Price   ,l=Kq l< ñ,  Fwpj;j tpiy 
+ N
+Number sequence   ixLHd wkql%u    vz; njhlup  
+ P
+Place Value    ia:dkSh w.h   ,lg;ngWkhdk;  
+Power     n,h   tY     
+Profit    ,dNh   ,yhgk;;    
+        
+ S
+Scien cetific notation   úoHd;aul wxlkh  tpQ;QhdKiwf; Fwpg;gPL 
+Selling Price   úl=Kqï ñ,   tpw;wtpiy   
+Subtraction   wvq lsÍu   fopj;jy;    
+ 
+ T 
+Theorem     m%fïhh   Njw;wk;    
+ 
+  
+ V 
+Vertically opposite angles  m%;suqL fldaK  Fj;njjpu;f;Nfhzq;fs;
+V olume    mßudj   fdtsT
+134Contents Numbers of Periods
+First term
+1.  Number Patterns
+ 2.  Binary Numbers
+ 3.  Fractions
+ 4.  Percentages 
+ 5.  Algebraic Expressions
+ 6.  Factors of the Algebraic Expressions 
+ 7.  Axioms
+ 8. Angles related to straight lines and parallel lines
+ 9.  Liquid Measurements 03
+03
+05
+06
+05
+05
+04
+07
+03
+Second term
+10. Direct proportion
+11. Calculator
+12. Indices 
+13. Round off and Scientific Notation
+14. Loci and Constructions
+15. Equations
+16. Angles of a triangle
+17. Formulae
+18. Circumference of circle
+19. Pythagoras relation
+20. Graphs 06
+02
+03
+05
+09
+06
+09
+02
+05
+04
+04
+Third term
+21. Inequalities  
+21. Sets
+23. Area
+24. Probability
+25. Angles of polygons
+26. Algebraic fractions
+27. Scale drawings
+28. Data representation and prediction03
+07
+05
+05
+05
+03
+08
+10Lesson Sequence

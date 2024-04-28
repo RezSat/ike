@@ -1,0 +1,4802 @@
+iMATHEMATICS
+Grade 9
+ Part - II 
+Educational Publications Department
+
+iiFirst Print  2017
+Second Print  2018
+Third Print   2019
+All Rights Reserved
+ISBN 978-955-25-0158-6
+Published by Educational Publications Department
+Printed by Champika Printers, No.343, Colombo Road, Kurunegala.
+iii
+The National Anthem of Sri Lanka
+ Sri Lanka Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+ Sundara siri barinee, surendi athi sobamana Lanka
+ Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya 
+ Apa hata sepa siri setha sadana jeewanaye matha
+ Piliganu mena apa bhakthi pooja Namo Namo Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+ Oba we apa vidya
+ Obamaya apa sathya
+ Oba we apa shakthi
+  Apa hada thula bhakthi
+ Oba apa aloke 
+  Apage anuprane
+ Oba apa jeevana we 
+ Apa mukthiya oba we
+ Nava jeevana demine, nithina apa pubudukaran matha
+ Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+ Eka mavakage daru kela bevina
+ Yamu yamu vee nopama
+ Prema vada sema bheda durerada
+ Namo, Namo Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+iv
+vBeing innovative, changing with right knowledge
+Be a light to the country as well as to the world.
+Message from the Hon. Minister of Education
+ 
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of  the Sri Lankan Government and myself, as the Minister of Education, to empower you all. 
+This book is a product of free education. Y our aim must be to use this book properly 
+and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+Since we have understood that the education is crucial in deciding the future of 
+a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim. 
+It is your duty to give a proper value to the money spent by the government on 
+your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+I congratulate you to enjoy the benefits of free education and bloom as an honoured 
+citizen who takes the name of Sri Lanka to the world.  
+ Akila Viraj Kariyawasam
+ Minister of Education
+
+vi Foreword
+The educational objectives of the contemporary world are becoming more complex along 
+with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+The government in its realization of the concept of free education has offered you all the 
+textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+I would like to bestow my sincere thanks on the members of the editorial and writer boards 
+as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you. 
+W . M. Jayantha Wickramanayaka,
+Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10 
+viiMonitoring and Supervision  
+W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
+      Educational Publications Department
+Direction         
+W. A. Nirmala Piyaseeli -   Commissioner of Education Publications (Development)
+     Educational Publications Department
+Co-ordination   
+Thanuja Maithrie Witharana -  Assistant Commissioner, Educational Publications Department
+T. D. C. Kalhari Gunasekara -  Assistant Commissioner, Educational Publications Department
+(Reprint 2019)
+ Board of Editors
+Dr. Romaine Jayewardene    - Senior Lecturer, University of Colombo
+Dr. D.K. Mallawa Arachchi   -   Senior Lecturer, University of Kelaniya
+Dr. Naleen Ganegoda - Senior Lecturer, University of Sri Jayawardanapura
+Shrima Dasanayake -   Assistant Director of Education, Ministry Of Education
+G. P. H. Jagath Kumara -   Senior Lecturer, National Institute of Education
+S. Rajendram  - Senior Lecturer, National Institute of Education
+Thanuja Maithrie Witharana -   Assistant Commissioner, Educational Publications Department
+Board of Writers
+Dr. J. Rathnayake - Senior Lecturer, University of Colombo
+K. U. S. Somarathna -  Lecturer, University of Moratuwa
+H. M. A. Jayasena - In Service Adviser (Retired)
+Y . V . R. Vitarama -   In Service Adviser, Zonal Education Office, Dehiowita
+W. M. W. C. Walisinghe -  In Service Adviser, Zonal Education Office, Kegalle
+Ajith Ranasinghe -   In Service Adviser, Zonal Education Office, Homagama
+Anura Weerasinghe -   In Service Adviser, (Priven), Matara District
+W. M. D. Lal Wijekantha -  Teacher, St. Thomas College, Mt. Lavinia
+B. M. Bisomanike -   Teacher, Maliyadewa Girls' College, Kurunegala
+Mewan B. Dabarera -   Teacher, C. W. W Kannangara Vidyalaya, Colombo 08
+M. Ruberu Gunasekara -   Principal (Retired)
+N. Vageesamoorthy -   Director of Education (Retired)
+R. S. E. Pushparajan -   Assistant Director of Education (Retired)
+M. S. M. Rafeethu - In Service Adviser (Retired)
+U. Vivekananthan -   Teacher (Retired)
+       
+Language Editing
+G. S. P. Gallage -   Teacher, C. W. W. Kannangara Vidyalaya, Colombo 08
+Proof Reading
+M. A. K. Samurdhi - Teacher, Sirimavo Bandaranaike Vidyalaya, Colombo 07  
+Illustrations, and Technical Assistance
+R. D. Thilini Sewwandi -   Educational Publications Department
+B. T. Chathurani Perera -  Educational Publications Department
+Cover Page
+R. M. Rajitha Sampath -  Educational Publications Department
+B. T. Chathurani Perera -  Educational Publications Department
+viiiMessage of the Board of Compilers
+This textbook has been compiled in accordance with the new syllabus to be 
+implemented from 2015. 
+Textbooks are compiled for students. Therefore, we have made an attempt to 
+compile this textbook in a simple and detailed manner making it possible for you to read and understand it on your own. 
+We have included descriptions, activities and examples to introduce the subject 
+concepts in an attractive manner and to establish them. Moreover, activities are organized from simple to complex to develop an interest to do them. 
+We have used the terms related to mathematical concepts in accordance with the 
+glossary of technical terms of mathematics compiled by the Department of Official Languages.
+Some subject matter learnt during the earlier grades is necessary to learn the subject 
+content in the grade 9 syllabus. Thus, review exercises are included at the begin-ning of each chapter to revise previous knowledge. You will be prepared by them for the subject content of grade 9.
+You will gain maximum benefit from this textbook by reading the chapters and do-
+ing the review exercises of each chapter even before your teacher teaches them in the classroom.
+We hope that studying mathematics will be an interesting, joyful  and productive 
+experience.
+Board of Compilers
+ix
+Contents
+         Page
+10.  Direct proportion       1
+11.  The Calculator           12
+12.  Indices        21
+13. Rounding off and Scientific Notation     32
+14.  Loci and Constructions       49
+15.  Equations          73
+16.  Angles of a triangle       83
+17.  Formulae        97
+18.  Circumference of circle      105
+19.  Pythagorean relation      116
+20.  Graphs        125
+ Revision Exercise  
+ Glossary
+ Lesson Sequence      
+g'''msúfikak ksoyfia i;=áka 
+±kqu fidhd''www.e-thaksalawa.moe.gov.lk g '''
+x
+1
+For free distribution.      Direct Proportion 10
+By studying this lesson you will be able to;
+ ² identify direct proportions,
+ ² solve problems related to direct proportion using the unitary method,
+ ² solve problems related to direct proportion using the definition,
+ ² write the relationship between two directly proportional quantities in the   
+   form y = kx,
+ ² solve problems related to the conversion of foreign currencies using the   
+    knowledge on direct proportions.
+10.1 Introduction to direct proportion
+The way the price of a certain type of pen varies depending on the quantity of pens 
+is given in the following table.  
+                              
+                
+Number of 
+pensPrice (Rs)
+1
+2
+3
+4
+5
+615
+30
+45
+60
+75
+90
+                                     
+It is clear from the above table that the price increases as the number of pens 
+increases. Let us consider the number of pens and the price as two quantities.
+2
+For free distribution.Based on the above example, a few ratios of different amount  of  pens and the 
+ratios of the corresponding prices are shown in the following table. Observe that 
+these ratios are equal. 
+Ratio of two amounts of 
+pensRatio of the corresponding 
+prices
+1 : 2 15 : 30  =  1 : 2
+1 : 3 15 : 45  =  1 : 3
+2 : 3 30 : 45  =  2 : 3
+3 : 5 45 : 75  =  3 : 5
+2 : 5 30 : 75  =  2 : 5
+Two distinct quantities are said to be in direct proportion if they 
+increase or decrease in the same ratio.
+Therefore, if two quantities are in direct proportion, then when one quantity 
+increases, the other quantity will also increase in the same ratio. 
+Similarly, if two quantities are in direct proportion and one quantity decreases, then 
+the other quantity will also decrease in the same ratio.
+Exercise 10.1
+1. For each of the cases given below, write whether the two quantities are directly 
+proportional or not.
+ a. The number of books and the price
+ b.  The distance travelled by an object moving at a constant speed and the time  
+ taken for the journey.
+ c. The speed of a vehicle and the time taken to travel a certain distance
+ d.  The length of a side of a square and its perimeter  
+ e.  The length of a side of a square and its area
+ f. The number of people needed to finish a task and the number of days taken 
+     for it    
+ g. The number of units of electricity consumed by a household and the 
+ monthly bill
+3
+For free distribution.
+10. 2 Solving problems related to direct proportion using the 
+         unitary method
+Suppose we want to find the price of 5 cakes of a certain type of soap, given that the 
+price of 3 cakes of soap of that type is Rs 120.
+As you have learnt in previous grades, we can first find the price of one cake of soap 
+and thereby easily find the price of 5 cakes of soap.
+ Price of 3 cakes of soap  = Rs 120
+ Price of 1 cake of soap  = Rs 120  ÷ 3
+   = Rs 40
+ Price of 5 cakes of soap  = Rs 40  × 5
+   = Rs 200
+This method of calculation can also be explained as follows.
+There are two quantities. They are  the  number  of  cakes  of  soap  and  the  price. 
+Initially the price of one cake of soap is found. It is Rs. 40. To find the price of five 
+cakes of soap, the price of one cake of soap is multiplied by 5. Here the price of one 
+cake of soap is clearly the constant value of the following fraction.
+ price of 3 cakes of soap
+number of cakes of soap
+The method of solving a problem based on the value of a unit is called the 
+unitary method.
+Let us learn how to solve problems related to direct proportion using the unitary 
+method by considering a few examples.
+Example 1
+ 
+If a person walking at a constant speed takes 5 minutes to walk 800 m, calculate the 
+distance he walks in 12 minutes. 
+ Distance walked in 5 minutes in metres  =   800
+ Distance walked in 1 minute in metres  =   800 ÷ 5 
+  =   160
+ Distance walked in 12 minutes in metres  =   160 × 12     
+  =   1 920
+	 ∴	The distance walked in 12 minutes is 1920 m.
+4
+For free distribution.Example 2
+ 
+If the mass of 10 identical balls used in a cricket match is 3 kg, what is the mass of 
+3 such balls?
+Mass of 10 balls in kilogrammes  =  3
+Mass of 1 ball in grammes =  3000 ÷ 10 
+ =  300
+Mass of 3 balls in grammes  =  300 × 3  
+ =  900
+∴	 The mass of 3 balls is 900g. 
+Do the following exercise using the unitary method. 
+Exercise 10.2
+1. If the price of 8 oranges is Rs 320, find the price of 5 such oranges.
+2. If the price of 5 m of a certain fabric is Rs 750, find the price of 12 m of that  
+ fabric.
+3. If the mass of a parcel containing 15 apples is 3.6 kg, find the mass of a parcel 
+ containing 8 such apples. 
+4. If a printing machine makes 240 copies in 5 minutes, determine the number 
+ of  copies it makes in 12 minutes.
+5. If a motor vehicle moving at a constant speed travels 12 km in 15 minutes,  
+ calculate the distance it travels in 40 minutes.
+6. If a motorbike can travel 90 km on 2 l of petrol, find the distance it can travel 
+on 5 l of petrol.
+7. If the time taken for a tank of capacity 1000 litres to be filled using a pump that 
+releases water at a constant rate is 5 minutes, find the time taken in seconds to 
+fill a tank of capacity 1600 litres.
+5
+For free distribution.
+10.3 Solving problems related to direct proportion using the  definition
+In the first section of this lesson it was explained that if two quantities are directly 
+proportional, then the ratio of any two values of the first quantity is equal to the ratio 
+of the corresponding values of the second quantity. This can be shown algebraically 
+as below. Let us assume that the price of an amount a of a certain item is Rs u and 
+the price of an amount b of the same item is Rs v.
+   a
+bu
+v
+Then we can write  a : b = u : v.
+This can be expressed in terms of fractions as a
+b = u
+v ( or  b
+a = v
+u ).  
+By cross multiplication, a × v = b × u
+Let us learn how to solve problems related to direct proportion using this  feature 
+by considering the following examples.
+Example 1
+ 
+If the price of 5 mangoes is Rs 75, find the price of 8 mangoes. 
+Let us take the price of 8 mangoes as x. Then we can illustrate this information 
+using an arrow diagram as shown below. 
+  Number of mangoes         Price (Rs)
+5              75
+8         x
+Using this as the base, let us write an algebraic equation as shown below and by 
+solving it, find the value of x; that is, the price of 8 mangoes. 
+5 : 8 = 75 : x
+Therefore,   5
+8  = 75
+x
+5x = 75 × 8
+x = 75 × 8
+5
+x = 120
+Accordingly, the price of 8 mangoes is Rs 120. 
+6
+For free distribution.Example 2
+ 
+Find the price at which an item bought for Rs 500 should be sold to earn a profit of 
+15%. 
+Let us write the information in this problem as follows, so that we can use direct 
+proportions. “If the selling price of an item bought for Rs 100 is Rs 115 (since the 
+profit is 15%), find the selling price of an item bought for Rs 500.”
+Let us assume that the selling price of an item bought for Rs 500 is Rs x.
+  Purchase price (Rs)   Selling price (Rs)
+           100               115
+           500           x
+100 : 500  = 115 :  x
+100
+500= 115
+x
+ 100  x  = 115 × 500
+x = 115 × 500
+100
+x = 575
+Accordingly, the selling price should be Rs 575.
+Exercise 10.3
+1. For each of the proportions given below, write the suitable value in the blank 
+    space. 
+a.  2 : 5 = 8 : ......  b.  3 : 4 = ...... : 20  
+  c.  5 : 3 = 40 : ...... d.  4 : 1 = ...... : 8
+ e.   8 : ...... = 24 : 15 f.   ...... : 6 = 35 : 30
+2. Solve each problem given below using proportions, by first drawing an arrow 
+diagram and then writing an algebraic equation.  
+a.   If the price of 10 kg of rice is Rs 850, find the price of 7 kg of rice. 
+b.   If the mass of 9 cm3 of a certain type of metal is 108 g, find the mass of         
+ 12 cm3 of this metal. 
+7
+For free distribution.
+c.  If the distance travelled in 4 hours by a motorbike moving at a constant speed
+ is 240 km, find the distance travelled by it in 3 hours. 
+d.  Find the amount needed to buy an item worth Rs 800 from a shop which 
+ offers a discount of 3%.
+e.  If a commission of 12% is given when an item is sold, what is the 
+ commission given for an item worth Rs 15 000?
+f.  If the price of 4 pencils is Rs 48, find the number of pencils that can be 
+ bought for Rs 132.
+g.  If the price of 12 bottles is Rs 4800, find the number of bottles that can be 
+ bought for Rs 6000.
+ 
+10.4 Solving problems related to direct proportion algebraically
+If the price of 1 pen is Rs 15, then
+² the price of 2 pens is Rs 30.
+² the price of 3 pens is Rs 45.
+² the price of 4 pens is Rs 60.
+If we consider the above four instances, it can be observed that if the amount 
+of money spent is divided by the number of pens, the value that is obtained is a 
+constant. 
+That is,  money spent
+number of pens = constant value.
+This constant value is the price of one pen. Accordingly, if the money spent for x 
+pens is y, 
+we can write  y
+x = k ;  here k is a constant.
+This equation can also be written as  y = kx. 
+Let us learn how to solve problems related to direct proportions using the above 
+algebraic equation, by considering the following examples.
+8
+For free distribution.Example 1
+ 
+If the price of 3 exercise books is Rs 75, find the price of 5 such exercise books. 
+Let us take the number of books as x and the price as y.  
+Then we can write  y = kx ; where k is a constant. The value of k can be found using 
+the information given in the problem.  
+Since the price of 3 exercise books is Rs 75, when x = 3, y = 75.
+By substituting these values in the equation we obtain, 75 = k × 3.
+By solving this we obtain k = 25.
+By substituting this value of k in the first equation, we obtain the relationship 
+between x and y as y = 25 x.
+Now, using this equation, for any value of x the corresponding value of y and for 
+any value of y the corresponding value of x can be found.
+In this problem, since we need the price of 5 exercise books, y needs to be found 
+when x = 5.
+By substituting x = 5 in the equation y = 25 x we get,
+y = 25 × 5 
+= 125 
+Accordingly, the price of 5 exercise books is Rs 125.  
+Example 2
+ 
+If a vendor sells an item he bought for Rs 500 such that he earns a profit of 20%, 
+determine the selling price of the item.
+Taking the purchase price of the item as x and selling price as y we can write  y
+x  =  k'
+Since the selling price is Rs 120 when the purchase price is Rs 100, we obtain
+ 120
+100 =  k.
+Let us assume that the selling price of an item bought for Rs 500 is y. Then we 
+obtain the equation  y
+500 =  k'
+9
+For free distribution.Since k is a constant, we can write, y
+500= 120
+100. 
+Therefore,  y = 120 × 500
+100.
+y  = 600.
+∴ The selling price of the item is Rs 600. 
+Exercise 10.4
+Do the problems in this exercise, using the algebraic equation method. 
+1. If the price of 3 shirts is Rs 1200, find the price of 5 shirts.
+2.  If the daily wage of 8 labourers who are paid equal wages is Rs 7200, find the 
+daily wage of 3 labourers.
+3. If a distance of 25 m is represented by 5 cm on a map drawn to scale, find the 
+actual distance represented by 8 cm on this map.
+4. If a machine in a factory produces 7500 drink bottles in 5 hours, find the 
+number of drink bottles it produces in 7 hours. 
+5. A bookstore offers a discount of 8% on every book that is purchased. Find the 
+amount a person has to pay if he purchases books worth Rs 1 200.
+10.5 Foreign currency
+We know that every country has its own currency unit and that the rate of conversion 
+of the currency of one country to that of another country varies depending on the 
+countries. The rate at which one country exchanges its currency with that of another 
+country is called the exchange rate . This rate is not a constant value; it increases 
+and decreases daily due to various reasons.
+The currency units used by certain countries and their exchange rates with respect 
+to the Sri Lankan rupee on a particular day, is given below.
+Here the exchange rate given is the value of one foreign currency unit in Sri Lankan 
+rupees.
+10
+For free distribution.Country/Union Foreign currency unit Exchange rate (Rs)
+United States of America American Dollar 151.20
+England Sterling Pound 185.90
+European Union Euro 160.60
+Japan Yen 1.33
+India Indian Rupee 2.26
+Saudi Arabia Saudi Riyal 40.32
+Singapore Singapore Dollar 107.30
+^From the internet on 2017-03-05 &
+Now let us consider how to solve problems related to exchange rates using 
+proportions. 
+Example 1
+ 
+On a day that the exchange rate is Rs 151 for an American dollar, how many Sri 
+Lankan rupees will a person who converts 50 American dollars receive? 
+Value of 1 American dollar   = Rs 151 
+Value of 50 American dollars = Rs 151 × 50
+= Rs 7550
+     Therefore, the person will receive Rs 7550.
+Example 2
+ 
+A person visiting England, converted Rs 74 000 into sterling pounds on a day when 
+the exchange rate was Rs 185 for a sterling pound. How many sterling pounds did 
+he receive?
+The value of 185 Sri Lankan rupees   = 1 sterling pound
+The value of 1 Sri Lankan rupee  =  1
+185 sterling pounds   
+The value of 74 000 Sri Lankan rupees =  1
+185 × 74 000 sterling pounds  
+=  400 sterling pounds  
+^ It is easy to simplify this if we keep  1
+185 as a fraction without converting it into 
+a decimal number &. Therefore, the amount of sterling pounds he received is 400.  
+ 
+11
+For free distribution.
+Exercise 10.5
+Do the following exercise by using the exchange rate table given earlier.
+1. If the monthly salary of a person working in a foreign country is 1500 American 
+dollars, what is his salary in Sri Lankan rupees?
+2.  If the price of a television set imported from Japan is 12 500 yen, what is its value 
+in Sri Lankan rupees?
+3.  A monthly allowance of 2500 sterling pounds is given to a scholarship student 
+engaged in further studies in Great Britain. How much is this amount in Sri 
+Lankan rupees?
+4.  A sports equipment in a duty free shop is worth 750 euros. How many Sri Lankan 
+rupees have to be paid to purchase it?
+5.  A pilgrim who travels to India, converts 56 000 Sri Lankan rupees into Indian 
+rupees. How many Indian rupees does he receive?
+6.  How many Singapore dollars are received when readymade garments worth        
+Rs 600 880 are exported from Sri Lanka to Singapore?
+12
+For free distribution.The Calculator 11
+ 
+By studying this lesson you will be able to "
+ ² identify and use the keys of  =, %, x2 and x in the  scientific calculator.
+The Calculator
+Since ancient times, humans have used various devices to perform calculations. 
+During the period when animal husbandry commenced, men used pebbles to count 
+the number of animals they owned. There is evidence to show that counting was 
+done by drawing lines on clay tablets during a later period. The Egyptians started 
+using a device known as the abacus for calculations in 1000 B.C. The modern day 
+abacus was invented by the Chinese in the 15th century. John Napier who lived 
+in the 17th century invented “Napier’s bones” which is a device that was used to 
+calculate products and quotients of numbers.   
+      
+                       
+ 
+       Egyptian abacus          Modern abacus
+The first mechanical calculator was invented by the French mathematician 
+Blaise Pascal(1623-1662). In the year 1833, the Englishman Charles Babbage                 
+(1791-1871) introduced a more advanced calculator. Based on this, the electrically 
+operated computer was invented. The production of the modern compact calculators 
+commenced with the development of electronics.
+ 
+Blaise Pascal Charles Babbage 
+13
+For free distribution.Nowadays, two types of calculators are manufactured. They are the ordinary 
+calculators and the scientific calculators. Ordinary calculators can perform only 
+normal mathematical operations such as addition, subtraction, multiplication, 
+division and square roots.  However, by using a scientific calculator, operations 
+such a s x2, x3  yx, 10 xcan be performed..     
+ The Scientific Calculator 
+The scientific calculator, like the ordinary calculator, consists of a key pad to enter 
+data and a screen to display results. However, the number of keys on the keypad and 
+the number of digits that can be displayed on the screen of a scientific calculator are 
+greater than those of an ordinary calculator.  
+Let us identify the keys on the keypad of a scientific calculator .
+- Power
+   on
+Numeric keys and decimal 
+point keyON
+5 1234 6
+7890.OFF- Power
+   off
++ ×÷ –
+ Basic arithmetic
+   keys - Square 
+      root
+      keyx2- Square key
+%- Percent key
+- Result key  =AC- Key that 
+clears the
+calculator 
+and resets 
+   any 
+functions 
+14
+For free distribution.
+ 11.1 Performing calculations using a calculator  
+When performing calculations using a calculator, the keys need to be pressed in a 
+specific order.
+Example 1
+The order in which the keys need to be pressed to obtain the value of 27 + 35 is the 
+following.
+ON 2 7 3 5 = +  62
+Example 2
+The order in which the keys need to be pressed to obtain the value of 208 − 159 is 
+the following. 
+ 
+ON 2 0 – 1 9 5 = 8 49
+Example 3
+The order in which the keys need to be pressed to obtain the value of 5.25×35.4 is 
+the following. 
+ON 5 . 5 × 5 4 3 . = 2 185.85
+Example 4
+The order in which the keys need to be pressed to obtain the value of 5.52 ÷ 6 is 
+the following. 
+ON 5 . 2 ÷ 6 = 5 0.92
+To switch the calculator off after a calculation is done, press the  OFF key. If you 
+wish to start another calculation without switching the calculator off, use the  AC  
+key to clear the screen and reset the functions.
+Example 5
+Write the order in which the keys need to be pressed to do the following 
+simplifications.
+(i) 53 + 42  –  25   (ii) 35 × 45  ÷  21
+ON 5 3 4 2 − 5 2 = + 70
+AC 3 5 4 5 ÷ 1 2 = × 75
+15
+For free distribution.
+Simplify each of the following using a calculator. Indicate the order in which the 
+keys need to be pressed to obtain the correct answer.
+ a. 45 + 205 e.  3.52 + 27.7      i.    12.5 ÷ 50 × 4.63  
+  b.  350 − 74   f.  43.5 − 1.45      j.    15.84 − 6.75 × 3.52
+   c.  824 × 95    g.  7.35 × 6.2       k.   120.82 ÷ 0.0021 × 5
+   d.  3780 ÷ 35     h.  134.784 ÷ 31.2      l.    0.006 ÷ 0.33 × 0.12
+Exercise 11.1
+Performing calculations using an ordinary calculator or a 
+scientific calculator
+Let us consider how simplifications are done using a calculator when more than one 
+operation is involved.  
+In simplifying 75 + 6 ÷ 3 using an ordinary calculator, when the keys are pressed 
+in the order
+ON 7 5 6 ÷ 3 = + , the operations are performed 
+in the order that they have been entered and 27 is obtained as the answer. That is, a 
+wrong answer is obtained by 75 + 6 ÷ 3 = 81 ÷ 3 = 27.  
+(This is wrong according to the “BODMAS Rule”.)
+When we enter the above data in a scientific calculator in the same order, 
+the operations are performed  according to the accepted order of performing 
+mathematical operations and the answer 77 is obtain by performing the operations 
+as follows: 75 + 6 ÷ 3 = 75 + 2 = 77.  
+Note: When performing calculations using an ordinary calculator, the order in which 
+data is entered should be chosen with care. However, the correct answer can be 
+obtained when data is entered into a scientific calculator in the order in which 
+they appear. Most manufacturers of calculators follow the BODMAS rule when 
+programming their products. However, there are some calculators that do not 
+perform the operations according to this rule. The order in which data should 
+be entered into these calculators is indicated in the instruction booklet that is 
+provided. If such a booklet is not available, an understanding of how the calculator 
+operates can be gained by performing a few simple calculations. Otherwise, the 
+operations that need to be performed initially have to be enclosed within brackets. 
+For example, if the data in the expression  1 − 5 + 12 ÷ 3 × 2  is entered in the 
+given order, some calculators may perform the multiplication before the division.  
+However, according to the BODMAS rule, since multiplication and division have 
+the same priority, moving from left to right, the division should be peformed first.
+16
+For free distribution.
+11.2 Using the  % key in the scientific calculator 
+The % key is used to calculate percentages. Both the symbols  —=˜ and —%˜ appear 
+on the same key in most calculators. To activate the % key, press the  Shift key and 
+then the = key. 
+Example 1
+The keys of the calculator need to be pressed in the following order to find 25% of 
+480. 
+%
+ON AC 4 0 × 5 = = 120 2 SHIFT 8   or
+Example 2
+Let us express 2
+8  as a percentage. To do this, the keys of the calculator need to be 
+pressed in the following order. 
+ON 2 8 = = 25 SHIFT ÷
+%
+Example 3
+The keys of the calculator need to be pressed in the following order to find 35% of 
+Rs 2500.
+ON 2 5 0 × 5 = = 875 3 SHIFT 0
+%
+Example 4
+The population of a certain village is 550. Of this number, 66 are school children. 
+To find what percentage of the population are school children, the keys of the 
+calculator need to be pressed in the following order.
+ON 6 6 5 5 = = 12 0 SHIFT ÷
+%
+Exercise 11.2
+1. Simplify each of the following using a calculator. Indicate the order in which the 
+keys of the calculator need to be pressed to get the correct answer .
+a. 350 × 3%     b.  7520 × 60%   c. 75.3 × 5%
+ 
+2. Using a calculator, express each of the following as a percentage.
+a.  1
+5 b.  12
+25   c.  7
+20           
+17
+For free distribution.
+Use a calculator to find the solution to each of the following problems .             
+3. A chair which was produced at a cost of Rs 450 was sold at a profit of 22%.   
+What was the profit?
+4. Of the 750 pupils in a certain school, 20% travel to school by bus. How many 
+pupils travel to school by bus?
+5. Nimal’s monthly salary is Rs 35 000. Of this amount, he deposits Rs 7000 in a 
+savings account. What percentage of his salary does he save? 
+6. Of the 650 students in a certain school, 143 learn music. Express the number of 
+students who learn music as a percentage of the total number of students in the 
+school.
+  
+7. It was stated that the amount of unfilled grain in a stock of paddy is less than 
+2%. There were 6 kg of unfilled grain in 350 kg of that stock. Was the statement 
+that was made true?
+ 
+11.3 Performing calculations using the  x2 key
+To find the value of powers with index two such as 22, 52 and 3.212, we use the x2 
+key.
+Example 1
+The order in which the keys need to be pressed to obtain the value of 32 is the 
+following. 
+ON 3 x2= 9
+Example 2
+The order in which the keys need to be pressed to obtain the value of  4.12 is the 
+following. 
+AC 4  . 1 x2= 16.81
+Example 3
+The order in which the keys need to be pressed to obtain the value of 52 × 122 is the 
+following.  
+AC  5 x2× 1 2 x2= 3600
+18
+For free distribution.Example 4
+The order in which the keys need to be pressed to find the area of a square of side 
+length 6 cm is the following. 
+Since the area of the square  = 6 × 6 cm2  
+ON  6 x236 =
+∴The area of the square  is 36 cm2.
+Exercise 11.3
+1. Find the value of each of the following powers using a scientific calculator. 
+Indicate the order in which the keys of the calculator need to be pressed to 
+obtain the correct answer.
+a. 22 b. 82 c. 1272 
+  d. 35322 e. 3.52 f.  6.032
+2. Find the value of each of the following using a scientific calculator. Indicate 
+the order in which the keys of the calculator need to be pressed to obtain the 
+correct answer.
+a. 3 × 52 b. 32 × 42 c.  (3.5)2
+d.  42  + 32 e.  102 − 62  f.     102 − 32 × 5
+ 
+11.4   Performing calculations using the  key in a scientific 
+        calculator
+To find the value of the square root of a number we use the   key. 
+Example 1
+The order in which the keys of a scientific calculator need to be pressed to find the 
+value of 25 is the following. 
+ON  2 5 5 =
+Example 2
+The order in which the keys of a scientific calculator need to be pressed to find the 
+value of  44 521  is the following.  
+ON  4 211 4 5 2 1 =
+19
+For free distribution.Example 3
+The order in which the keys of a scientific calculator need to be pressed to find the 
+value of  5.29   is the following.
+ON  5 2.3 . 2 9 =
+Exercise 11.4
+1. Find the square root of each of the following numbers using a scientific calculator.  
+Indicate the order in which the keys of the calculator need to be pressed to obtain 
+the correct answer.
+a. 64 b.  81 c.  2704
+  d.  3356 e.  3500  f.  362404
+  
+2. Find the value of each of the following using a scientific calculator. Indicate the 
+order in which the keys of the calculator need to be pressed to obtain the correct 
+answer.
+a. 49   b. 121   c.    625   
+d.    20.25  e. 5.76  f.    0.1225 
+ 
+The order in which the keys of a calculator need to be pressed to find the value of 
+42 + 32is the following.
+ON  ( 4 x2+ 3 x2) = 5
+For further knowledge
+Miscellaneous Exercise
+1. Simplify using a scientific calculator. Indicate the order in which the keys need 
+to be pressed to obtain the correct answer.
+  a. 5 + 6 ÷ 2 + 4 × 5   b.  6225 + 37 × 0.25 c.      42.48 ÷ 5.31
+ d. 428 + 627 × 5 % e. 5.32 ÷ 6.01  f.      1307 × 2 % + 560
+20
+For free distribution.
+2. Of the 35 seeds that Saman planted, 21 germinated. Using a scientific calculator, 
+find what percentage of the seeds that were planted germinated. 
+3. Nimal received a salary increment of 12%. If his salary before the increment was 
+Rs 45 200,  how much was his salary after the increment?
+4. Find the value of a if  a = 1.332.
+5. Find the value of p if p =18.49 − 2  '
+21
+For free distribution.
+                          Indices 12
+By studying this lesson you will be able to;
+• identify the laws of indices on the product of powers, the quotient of powers 
+ and the power of a power,
+• simplify algebraic expressions using the above mentioned laws of indices,
+• identify the zero index and negative indices and simplify algebraic expressions
+ containing these.
+ Indices
+You have learnt about powers of numbers such as 21, 22 and 23 in previous grades. 
+The values of these powers can be obtained as follows.
+21 = 2
+22 = 2  2 = 4  
+23 = 2  2  2 = 8.  ..  ..  .
+You have also learnt about powers of algebraic symbols such as x1, x2 and x3 .These 
+can be expanded and written as follows.
+  
+x1 = x
+x2 = x  x  
+x3 = x  x  x. .. .. .
+Moreover, you have learnt how to write the expanded form of a product of powers 
+of algebraic symbols and numerical values. For example, 5 2a3b2  is written in 
+expanded form as follows.
+52a3b2 = 5  5  a  a  a  b  b'
+You have also learnt that a power of a product such as  (xy)2 can be expressed as a 
+product of powers as x2 y2 and a power of a quotient such as x
+y2
+can be expressed 
+as a quotient of powers as  xy2
+2' 
+22
+For free distribution.Do the following review exercise to recall what you have learnt in previous grades 
+regarding indices.
+Review Exercise
+1. Evaluate the following.
+  i.  25  ii. (– 3)2  iii. (– 4)2
+ iv. (2
+3)2  v. (– 3)3  vi. (– 4)3
+2. Fill in the blanks.
+   i. (xy)2  = (xy)  ......      ii. (pq)3  = ......  ......  ......
+        = ......   ......  x  y       = p  q  ......  ......
+        = x  x  ......  ......       = p  p  p  .....  ..... .....
+               = x2  y2 = p3  q3
+                                                                                 
+ iii. (2ab)2  =  ......  ...... iv. 9p2q2   = ......2  p2  q2
+        = ......   ......  b   ......   ......  b  = ....  ....  p  p  .... ....
+        = 2  2  ......  ......  ......  ......   = (3  p  q)  (.....  .....   .....)
+        = 4a2b2     = (3pq)2
+                                                                                
+3. Expand and write each of the following expressions as a product.
+   i.  2a2 ii.  3x2y2 iii.  – 5p2q
+ iv.  (– 3)5 v.  (ab)3 vi.  x4  y4
+12.1 Products of  powers with the same base
+23 and 25 are two powers with the same base.
+They can be expanded and written as follows.   2
+3 = 2  2  2 and
+ 25 = 2  2  2  2  2 
+Let us obtain the product of these two powers.
+ 23  25 = (2  2  2)  (2  2  2  2  2)
+    = 2  2  2  2  2  2  2  2
+    = 28
+2 is repeatedly multiplied three times in 23. Furthermore, 2 is repeatedly multiplied 
+five times in 25. 
+23
+For free distribution.Therefore, when multiplying 23 by 25, 2 is repeatedly multiplied     3 + 5 = 8 times. 
+This can be expressed as  23  25 = 23 + 5 = 28.
+It is important to remember that when two powers are multiplied, their indices 
+can be added only if they have the same base. Then the base of the power that is 
+obtained is also this common base.
+Let us obtain the product x3 × x5  accordingly. Since x3 and x5 have the same base, 
+the two indices are added to get the product. 
+That is,  x3  x5   = x3 + 5
+   = x8
+This can be expressed as a law of indices as follows.
+am  an   = am + n
+This law can be extended to any number of powers. For example,
+a
+m  an  ap = am + n + p   
+Let us understand how this law is used to simplify expressions by considering some examples.
+Example 1
+ 
+Simplify the following.
+i. x2  x5  x       ii. a2  b2   a2  b3                iii. 2x2  3x5  
+ 
+i. 
+    x2  x5  x = x2 +  5 + 1  
+ = x8
+                                   ii.       a
+2  b2  a2  b3 = a2  a2  b2  b3
+    = a2 + 2  b2 + 3
+    = a4  b5
+    = a4 b5
+                                                    iii. 
+  2x2  3x5  = 2  x2  3  x5 
+   = 2  3  x2  x5 
+   = 6x2 + 5
+   = 6x7         ^ since x = x1&               
+24
+For free distribution.Do the following exercise using the law of indices on the product of powers.
+Exercise 12.1
+1. Fill in the blanks.
+  i. 25  22 
+ 
+  25  22 = 2.... + .... 
+   = 2....  ii. x4  x2  
+  x4  x2  = x.... + .... 
+   = x ....  iii. a3  a4  a 
+   a
+3  a4  a  = a... + .... + .... 
+   = a ....  
+iv. 5p3  3p 
+  = 5  ....  3  ....
+  = 15p .... + ....
+  =15....  v.  x2  y3  x5  y5
+  = x ....  x ....  y ....  y....
+  = x .... + ....  y .... + .... 
+  = ........  .... ....  
+2. Join each expression in column A with the expression in column B which is 
+    equal to it.
+          x3  x7
+x5  x2  x
+x7  x
+x2  x2  x6
+x2  x3  x2  xx7
+x8 
+x9  
+x10 A B
+3. Simplify and find the value.
+    i.  35  35     ii. 72  73  7    
+4. Simplify.                          
+  i. x3  x6 v. 5p2  2p3
+ ii. x2  x2  x2 vi. 4x2  2x  3x5
+ iii.  a3  a2  a4      vii. m2  2n2  m  n
+    iv.   2x3   x5  viii. 2a2  3b2  5a  2b3
+5. A pair of positive integral values that m and n can take so that the equation                       
+xm  xn = x8 holds true is 3 and 5. Write all such pairs of positive integral values.
+6. Write a value of a for which the equation  a2 +  a3 = a5 holds if the statement is 
+true and a value of a for which it is false.
+25
+For free distribution.
+12.2 Quotients of powers with the same base
+Let us see whether there is a law of indices for the quotients of powers with the 
+same base, similar to the one obtained above for the product. 
+x5 ..x2 can also be expressed as  x5
+x2 ' 
+Now, x5
+x2 = x  x  x  x  x
+x  x     
+  = x  x  x
+  = x3
+                         
+... x5
+x2 = x3' When the index of the power in the numerator is 5 and the index of the 
+power in the denominator is 2, then the index of the quotient is 5 – 2 = 3. The base 
+of the quotient is x, which is the common base of the original two powers.
+Therefore, x5 .. x2 can be simplified easily by subtracting the indices as follows. 
+  x5 .. x2 = x5 – 2  = x3
+    When powers with the same base are divided, the index of the divisor is subtracted 
+from the index of the dividend. The base remains the same.
+  
+am .. an = am – n
+It is important to remember this law of indices too. 
+Let us understand how this law is used to simplify expressions by considering the 
+following examples.
+Example 1
+ 
+Simplify the following expressions.
+  a. x5  x2 .. x3
+   (x5  x2) .. x3 = x5 + 2  .. x3
+    = x7 – 3
+      = x4c.  a3  a2
+a
+      a3  a2
+a = a3 + 2 – 1
+    = a4
+    b. 4x8 .. 2x2
+ 
+   4x8 .. 2x2 = 4x8 
+2x2
+    = 2x8 – 2
+      = 2x62
+1
+26
+For free distribution.Now do the following exercise.
+Exercise 12.2
+1. Simplify using the laws of indices.
+   i.  a5 .. a3     ii.  x7
+x2      iii. 2x8 .. x3         iv. 4p6 .. 2p3  
+   v.  10m5
+2m2  vi.  x2  x4
+x3   vii. n5 .. (n2  n)            viii. 2x3  2x
+4x
+        ix.  x5  x2  2x6
+x7  x2      x.  a5  b3
+a2  b2     xi. 2p4  2q3
+p  q 
+2. Write five pairs of positive integral values for m and n which satisfy the equation  
+am .. an = a8
+ 
+3. For each of the algebraic expressions in column A, select the algebraic expression 
+in column B which is equal to it and combine the two expressions using the            
+“ = ” sign.
+     2a5 .. 2a2 
+ a6 .. a4  
+ a7  a2
+a6
+ a3
+a 
+ 4a5  a
+4a3A
+a
+a2
+a3B
+12.3 Negative indices
+In the previous section we identified that  x5 .. x2 is x3. We know that this can be 
+obtained by expanding x5
+x2  and simplifying it as follows.
+ x  x  x  x  x
+x  x 1 1
+11 = x3   
+Let us simplify  x2 .. x5 in a similar manner. 
+27
+For free distribution.
+i. When expanded,     ii. Using laws of indices,
+ x2
+x5 = x  x  x  x  xx  x 
+1 11 1
+     x2
+x5 = x2 – 5
+     =  1
+x3       = x – 3 
+The two simplifications of x2 .. x5 obtained in (i) and (ii) above must be equal. 
+Therefore,  1
+x3 = x – 3. Observe here that the index of the power in the denominator 
+changes signs when it is brought to the numerator. This is an important feature 
+related to indices which can be used when we need to change a negative index into 
+a positive index. We can similarly write  x3 = 1
+x – 3 . 
+This law can be expressed as follows.
+     xn= 1
+x –n   
+Accordingly, 
+a –m
+ 1
+am=
+a m
+ =
+ =1
+a –m a–m
+ a–nan
+am, ,  (By applying the above feature 
+                           to both powers simultaneously)
+We can use this law of indices to simplify algebraic expressions as shown in the 
+following examples. 
+Example 1
+ 
+Evaluate the following.
+ (i) 2–5      (ii) 1
+5–2 
+ i. 2–5 = 1
+25      ii.  1
+5–2  =  52 
+      = 2  2  2  2  21             = 25
+      = 1
+32 
+28
+For free distribution.Example 2 
+Simplify:  2x –2  2x3 
+2x – 4
+2x – 2  2x3 
+2x – 4 = 2  x – 2  2  x3 
+2  x – 4
+     = 2  x4  2  x3 
+2  x21
+1 ^ since x – 2 = 1
+x2  and 1
+x– 4 = x 4&
+     = 2x7
+x2 
+       = 2x7 – 2
+           = 2x5
+                                  
+Exercise 12.3
+1. Write each of the following with positive indices.
+     i.  3– 4   ii.  x – 5  iii.  2x – 1 iv.  5a – 2 v.  5p2q –2
+    vi.  1
+x – 5 vii.  3
+a – 2   viii.  2x
+x – 4  ix.  a
+2b– 3  x.  m
+(2n)– 2
+  xi.  t –2
+ m xii.  p
+ q – 2  xiii.  x –2
+2y –2    xiv. 2x
+3y  – 2
+2. Evaluate the following.
+   i.  2– 2   ii.  1
+4– 2   iii.  2 – 7   iv.  (– 4)– 3        v.  3–2
+   vi.  5
+5 – 2   vii.  10 – 3  viii.  3– 2
+4– 2 
+3. Simplify and write the answers with positive indices.
+    i. a – 2  a – 3   ii. a2  a –3  iii. a2
+a–5 a–8     iv. 2a– 4  3a2       v. 3x – 2  4x – 2 
+   vi. 10x –5
+ 5x2      vii. 4x –3  x –5 
+2x2  viii. (2p)–2  (2p)3 
+(2p)4
+12.4 Zero index     
+A power of which the index is zero, is known as a power with zero index. 20 is an 
+example of a power with zero index.
+29
+For free distribution.When x5 .. x5 is simplified using the laws of indices we obtain,
+ x5 .. x5 = x5 – 5 = x0
+When it is expanded and simplified we obtain,  x5 .. x5 =  x  x  x  x  x
+x  x  x  x  x  
+ =  1
+Since the answers obtained when x5 .. x5  is simplified by the two methods should 
+be the same, we obtain x0 =  1'
+x0 = 1 where, x is any number except 0 '
+This result is also used when simplifying algebraic expressions.
+ Note: 
+Example 1
+ 
+Simplify.
+ i. x0  x7 
+x2    ii. 0x5  x2 
+a
+       x0  x7 
+x2 = 1  x7  ÷  x2   0x5  x2 
+a = 1 
+                                                                     
+        = 1  x7 – 2                                 (Since the whole term within brackets is 
+the base, and 0 is the index, its value is 1.)             = x5
+                                      
+Let us improve our skills in simplifying expressions which contain powers with 
+zero index by doing the following exercise.
+Exercise 12.4
+1. Simplify the following expressions.
+    i. x8 .. x8      ii.  (2p)4  (2p)– 4   iii.   a2  a3
+ a  a4    
+   iv.  y4  y2
+y6  v.  p3  p5  p
+p6  p3    vi.   x – 2  x – 4  x 6
+y – 2  y8  y – 6 
+2. Evaluate the following.
+  
+    i. 20  3      ii. (– 4)0  iii. x
+y0
++ 1   iv.  x 2
+y 20
+                  v. 50 + 1
+   vi. 2
+30
+             vii. (2ab)0 – 20  viii. (abc)0
+30
+For free distribution.
+12.5 Power of a power
+(x2)3 is the third power of x2 . A power of this type is known as a power of a power.
+We can simplify this as follows.
+        (x2)3  = x2  x2  x2 
+(x2)3  = (x  x)  (x  x)  (x  x) 
+= x  x  x  x  x  x
+= x6
+Therefore,  (x2)3 = x6'
+Observe that the index 6 is 3 twos; that is, 2 × 3. Therefore, we can write                            
+(x2)3  = x2   3 = x6'
+Hence, when simplifying an algebraic expression of a power of a power, the indices 
+are multiplied.
+This is also a law of indices which can be expressed as follows.
+ 
+(am)n = am  n = amn
+Example 1
+ 
+Simplify the following.
+ i.  (a5)2  a  ii.  (p3)4  (x2)0   iii.  (2x2y3)2
+ i.   (a5)2  a = a5  2  a      ii.   (p3)4  (x2)0  = p3  4  x2  0          iii.  (2x2y3)2  =   ( 2  x2  y3)2
+          = a10  a1                  = p12  x 0    = 22  x4  y 6 
+          = a10 + 1                  = p12  1   = 4 x4 y 6
+  = a11                  = p12   
+Let us improve our skills in simplifying expressions which contain the power of a 
+power by doing the following exercise.
+Exercise 12.5
+1. Evaluate the following.
+  i.   (24)2  ii.   (32)–1  iii.   (23)2 + 20
+  iv.   (52)–1 + 1
+5 v.   (40)2  1  vi.  (102)2
+31
+For free distribution.
+2. Simplify the express using positive indices.
+  i.  (x3)4  ii.  (p–2)2  iii.  (a2 b2)2     iv.  (2x2 )3
+  v.  x5
+x23
+  vi. a 3
+b 22
+  vii.  m 3
+n 2–2  viii.  (p –2)– 4
+     ix. (a0)2  a
+1. Evaluate the following.
+   i.  53  52 ii.  53 .. 52  iii.  50 × 5 × 52
+  iv.   (5–1)2   v.   {(52)0}4  vi.   53  5–1
+ (52)2   
+  vii.    52 .. 102   viii.   52   103   5–1  10–2 
+2. Simplify the following.
+  i. (2x5)2  ii.  (2ab2)3  iii. 2x  (3x2)2  iv.   (4p2)3
+ (2p2q)2  
+ 
+  v. (2p2)3
+ 3pq   vi. (2a2)2
+ 5b3  (3b2)2
+  2a  Miscellaneous Exercise
+ 
+Summary
+²  am  an   = am + n
+²   am .. an = am – n
+²     xn= 1
+x –n   
+²   (am)n = am  n = amn
+²      x0 = 1 where x ≠ 0'
+ 
+32
+for free distribution.Rounding off and Scientific 
+Notation13
+ 
+By studying this lesson you will be able to ;
+    ²	 identify	the	scientific	notation	and	write	numbers	up	to	the	millions	period		
+	 in	scientific	notation,
+    ²	 convert	numbers	expressed	in	scientific	notation	to	normal	form,
+    ²	 identify	the	rules	related	to	rounding	off	numbers,
+    ²	 round	off	a	given	number	to	the	nearest	ten,	nearest	hundred,	nearest	
+	 thousand	and	nearest	decimal	place,
+    ²	 solve	problems	related	to	rounding	off.
+Introduction 
+	It	is	the	opinion	of	scientists	 that	dinosaurs	 are	a	species	of	animals	that	lived	on	
+earth	140	000	000	years	ago.
+					
+	The	atomic	radius	of	the	Hydrogen	atom	is	0.000	000	000	053	m.
+	The	distance	from	the	sun	to	the	earth	is	149	600	000	000	m.
+     
+	The	speed	of	light	is	299	790	000	meters	per	second.
+The	above	are	four	instances	 where	numbers	have	been	used	to	provide	information.	
+Using	the	information	 in	the	last	two	statements,	 let	us	find	the	time	taken	for	a	light	
+ray	from	the	sun	to	approach	earth.  
+33
+for free distribution.Time	=149	600	000	000	÷	299	790	000	seconds.	
+Since	there	are	many	digits	in	each	of	these	numbers,	 they	are	lengthy.	Therefore	
+more	space	is	required	to	write	them	and	computations	 such	as	the	above	become	
+difficult.	Since	a	calculator	 can	display	only	a	limited	number	of	characters,	 it	is	
+difficult	to	do	such	calculations	 even	with	an	ordinary	calculator.	 Therefore	 the	need	
+arises	to	represent	such	numbers	in	a	more	concise	way	to	facilitate	calculations.
+In	this	lesson	we	will	learn	a	method	of	writing	these	numbers	in	a	concise	way	so	
+that	it	is	easy	to	manipulate	 them.	Let	us	first	do	the	below	given	review	exercise	
+to	recall	the	facts	that	have	been	learnt	in	previous	grades	which	are	relevant	to	this	
+lesson.
+Review Exercise
+1.	Complete	the	following	table.
+Number As	a	power	of	10
+1
+10
+100
+1000
+10000
+100000
+...................
+......................			1					=	100
+																													10			=	101
+																					10	×	10			=	10...
+........	×	........	×.........				=		10...
+.......................													=	10...
+				.......................												=	........
+...................																	=	106
+10	×	10	×	10	×	10	×	10	×	10	×	10	=	............
+2.	Fill	in	the	table	given	below	with	the	following	 numbers	 according	 to	the	
+instructions	given	in	the	table.
+5.37,	87.5,	0.75,	4.02,	1.01,	10.1,	4575,	0.07,	9,	12.3,	2.7,	9.9
+Numbers	that	are	between	1	and	10
+Numbers	that	are	not	between	1	and	10
+       
+34
+for free distribution.
+13.1 Scientific Notation
+      The	number	of	students	sitting	for	the	G.C.E	(O/L)	examination	 this	
+year	exceeds	700	000.
+       -	A	news	item
+Several	ways	in	which	the	six	digit	number	mentioned	 in	the	above	news	item	can	
+be	expressed	are	given	below.
+i. 	 700	×	1000	 		700	×	103
+ii. 	 70	×	10	000	 		70	×	104  
+iii.  7	×	100	000	 		7	×	105        
+From	the	above,	the	last	form	is	used	often	as	it	can	be	easily	written	and	is	the	most	
+concise	form.	It	is	a	product	of	two	parts.	The	first	part	is	1	or	a	number	between	1	
+and	10	while	the	second	part	is	a	power	of	10.	
+                           	7	×	105
+Number	between
+	1	and	10	or	1Power	of	10
+Writing	a	number	with	many	digits	in	this	manner	as	a	product	of	two	numbers,	
+where	one	is	between	1	and	10	or	1	and	the	other	is	a	power	of	10,	is	known	as	the	
+scientific	notation.	
+If A	is	a	number	between	1	and	10	or	1	and	n	is	an	integer,	then	 A × 10n 
+is	a	number	written	in	scientific	notation	(Here  1 ≤	A	<	10).
+Let	us	write	280	000	in	scientific	notation.	
+Taking	the	first	couple	of	digits	in	280	000	and	writing	it	as	a	number	between	1	
+and	10	we	get	2.8.	
+∴	280	000	=	 2	80000
+=	2.8	×	100	000										
+=	2.8	×	105																						  
+Therefore	280	000	expressed	in	scientific	notation	is	2.8  ×	105	'
+35
+for free distribution.Example 1
+Write	the	following	numbers	in	scientific	notation.
+a.	20	000	      b.	4240		   c.	1 million					  d.	3.47		 e.	34.7
+f.	6            g. 289.325	 			h. 2491.32
+a.	20	000	=	2.0	 ×	10	000	 				b.	4240	=	4.24	 ×	1000
+			 =	2	 ×	104       =	4.24	×	103 
+                                                                               
+c.	1 million  =	1000	000	 		d.	3.47			=	3.47	 ×	1
+							=	1	×	106  =	3.47	×	100		(since1	=	100	)			
+                                                                    
+e.	34.7	=	3.47	 ×	10	 		f.	6	=	6	×	1
+            =	3.47	×	101	 																						=	6	×	100     
+      
+g.	289.325	=	2.89325 ×	100	 		h. 2491.32
+         =	2.89325	 ×	102																																																								
+                                                                                                                              
+    2491.32	=	2.49132	×	103
+By	shifting	the	decimal	point	3	
+places	to	the	left,	we	obtain
+2.49132	×	103 '
+Exercise 13.1
+1.	Complete	the	following	table	according	to	the	given	examples.
+a.	
+	b.	
+		c.
+   
+		d.	
+	e.	
+		f.
+			g.
+				h.
+	i.Number 1 or a number 
+between  1 and 10   ×  a power of 10Scientific 
+notation
+48 4.8	×	10 4.8	×	101
+8
+99
+78
+548 5.48	×	100 5.48	×	102
+999
+401
+111
+34	700 3.47	×	10000 3.47	×	104
+54	200
+49	40000
+10	00000
+ 
+36
+for free distribution.
+2.	Write	each	of	the	following	numbers	in	scientific	notation.	
+a.		 200   f.		 340000
+b.		 254   g.		 6581200
+c.		 1010   h.		 7.34
+d.		 5290   i.		 18.5
+e.		 74300     j.		 715.8
+3.	A	few	important	 facts	about	Sri	Lanka	are	given	below.	Write	the	numbers	
+which	are	related	to	these	facts	in	scientific	notation.	
+The	height	of	Piduruthalagala	mountain	is	2524	m.
+The	area	of	Sinharaja	forest	is	9300	hectares.
+The	length	of	Mahaweli	river	is	335	km.
+The	total	area	of	Sri	Lanka	is	65	610	km2.
+13.2  Writing a number between 0 and 1 in scientific notation
+Consider	the	pattern	given	below.	
+10	000	=	104																																																															
+1000	=	103
+100	=	102
+10	=	101
+1	=	100
+0.1	=	101		=	1011	=	10−1 
+ 
+0.01	=	1001		=	1021	=	10−2            It	is	clear	that,
+when	writing	0.1	as	a	power	of	10	the	index	is	 −1
+when	writing	0.01	as	a	power	of	10	the	index	is	−2
+when	writing	0.001	as	a	power	of	10	the	index	is	
+−3.0.001	=	10001		=	1031	=	10−3  
+0.75	is	a	number	which	is	less	than	1.	When	it	is	written	in	terms	of	a	number	
+between	1	and	10,	it	should	be	written	as	7.5	divide	by	10.	The	way	this	is	done	
+mathematically	can	be	expressed	as	follows.
+37
+for free distribution.Since	0.75	×	10	=	7.5,	
+0.75	=	107.5    
+=	1017.5					(Since	10	=	101)	
+=	7.5	×	10−1							(Since	1011=	10−1	)
+   
+Accordingly,	 the	number	0.75	has	been	expressed	 as	the	product	of	a	number	
+between	1	and	10	and	a	power	of	10.
+∴	0.75	expressed	in	scientific	notation	is	7.5	×	10−1 '
+In	the	same	manner,	let	us	write	0.0034	in	scientific	notation.	
+Since	0.0034	×	1000	=	3.4,
+0.0034	=	10003.4 
+=1033.4 
+=	3.4	×	10−3   
+   
+Note: When	a	number	between	0	and	1	is	written	in	scientific	notation,	the	index	 	
+	 of	the	power	of	10	is	a	negative	integer.	
+Example 1
+Express	each	of	the	following	numbers	in	scientific	notation.	
+  a.	0.8453	 	 												 b.	0.047	 	 	 c.	0.000017
+ a. 0.8453	=	8.453	÷	10			 	b.		0.047	=	4.7	÷	100		 c.	0.000017
+=	108.453 =	1004.7	 =	1.7	÷	100000	  
+=	1018.453 =	1024.7  =	1051.7                      
+=	8.453	×	10−1		 =	 4.7	×	10−2 =	1.7	×	10−5
+38
+for free distribution.
+Exercise 13.2
+1.	Copy	the	following	table	and	complete	it.	
+Number	less	than	1 Expressed	in	terms	of	a	
+number	between	1	and	
+10Scientific	notation
+   a.	0.041
+b. 0.059
+ c. 0.0049
+  d. 0.000	135	
+e. 0.000	005
+ f. 0.000	003	9
+   g. 0.1113451004.1=	1024.1
+100001.35
+ = 1041.354.1	×	10−2
+.........	×	10−4
+2.	Write	each	of	the	following	numbers	in	scientific	notation.
+a.		0.08	 	d.		0.0019  
+b.		0.543	 			e.		0.00095  
+c.		0.0004   f.		0.000	000	054  
+    
+3.	Express	each	of	the	following	numbers	in	scientific	notation.	
+The	radius	of	an	atom	is	0.000	0000	01	cm.	
+The	mass	of	one	cubic	centimetre	of	air	is	0.00129	g.	
+The	mass	of	one	cubic	centimetre	of	hydrogen	is	0.000	088	9	g.
+13.3 Converting numbers expressed in scientific notation to 
+        general form
+As	an	example,	 let	us	convert	the	number	5.43	×	104		written	in	scientific	 notation	
+to	general	form.	
+Method I      Method II
+5.43	×	104	=	5.43	×	10000														
+=	54	300
+∴	5.43	×	104	=	54300		 	 	
+54	300
+54	300Since	it	is	multiplied	 by	104,	(that	is	10	000)	 	 	 	 	 	 	 	 	 	 	 	
+shifting	the	decimal	point	4	places	to	the	
+right,	we	obtain	54300.
+39
+for free distribution.Another	example	is	given	below.	This	is	an	instance	where	the	index	of	the	power	
+of	10	is	a	negative	number.	
+Method I    Method II  
+5.43	×	10−4 =	5.43	×	1041										Since	it	is	divided	by	104,	shifting	the	decimal	   
+ =	5.43	÷	10000	 								point	4	places	to	the	left	we	obtain	0.000543.
+=	0.000543																								0	.000543
+ Example 1
+Convert	the	following	numbers	to	general	form.	
+(i)	8.9	×	103 	 				(ii)	8.9	×	10−3
+(i)	8.9	×	103	=	8.9	×	1000   (ii)	8.9	×	10−3	=	8.9	×1031
+=	8900												 8900.	 =	0.0089											0.0089
+                                
+Here	for	example,	 8.9	×	103	can	be	directly	written	as	8	900.	When	multiplying, 	
+if	the	index	of	the	power	of	10	is	a	positive	integer,	then	the	decimal	point	should	
+be	shifted	to	the	right,	the	same	number	of	positions	 as	the	index	(adding	zeros	
+if	necessary).	 When	multiplying,	 if	the	index	of	the	power	of	10	is	a	nagative  
+integer,	then	the	decimal	point	should	be	shifted	to	the	left,	the	same	number	of	
+positions	as	the	index.  
+Exercise 13.3
+1.  Fill	in	the	given	blanks	to	convert	each	of	the	following	 numbers	expressed	 in	
+scientific	notation	to	general	form.	
+ i.	5.43	×	103	=	5.43	×	........	 	 	 iv.	5.99	×	10−2	=	5.99	×	10...1
+=	............
+     =		.......5.99
+ii.	7.25	×	105	=	........	×	........	 =	0.0599
+                                                                                                  																					=	............ 
+iii.	6.02	×	101	=	........	×	........	 	 	 v.	1.06	×	10−6	 =	1.06	×	........
+=	............	 =		.......1.06  
+  																																																									=	............
+    
+40
+for free distribution.
+2.		Convert	the	following	numbers	to	general	form.
+a.		 8.9	×	102   f.		 7.2	×	10−1 
+b.		1.05	×	104	 	g.		 8.34	×	10−3 
+c.		 7.994	×	105	 	h.		5.97	×	10−4 
+d.		8.02	×	103	 	i.		 9.12	×	10−5 
+e.		 9.99	×	107	 	j.		 5.00	×	10−6
+3.		Select	the	larger	number	from	each	of	the	number	pairs	given	below.	
+ 
+a.			2.1	×	104	,	3.7	×	104	d.		2.1	×	104	,	2.1	×	10−4 
+b.  2.1	×	104	,	3.7	×	103		 	e.		2.1	×	104	,	3.7	×	10−3
+c.		 2.1	×	104	,	3.7	×	105	f.		 2.1	×	10−4 ,	3.7	×	10−3 
+4.  Write	the	following	numbers	in	general	form.
+The	area	of	the	earth	covered	by	land	is  1.488 ×	108 km2.
+The	area	of	the	earth	covered	by	the	oceans	is	3.613	 ×	108		km2'
+The	total	surface	area	of	the	earth	is	5.101	 ×	108	km2'
+  
+Rounding off numbers
+It	is	reported	that	2	500	people	attended	the	book	exhibition	 held	at	
+Sarasvathi	hall	over	the	weekend.
+-	A	news	item
+The	number	of	tickets	that	were	sold	over	the	weekend	 to	those	who	attended	the	
+exhibition	 mentioned	 in	the	news	item	was	2	4	8	3.	Accordingly,	 the	actual	number	of	
+people	who	attended	the	exhibition	 is	2	483.	The	number	2	500	which	is	mentioned	
+in	the	news	item	is	a	number	which	is	close	to	2	483,	easy	to	remember	 and	has	a	
+special	feature.	Moreover	 it	is	sufficient	 to	communicate	 an	idea	of	the	number	that	
+attended	the	exhibition.	
+Rounding	 off	a	number	means	representing	 the	value	of	the	number	by	a	value	
+which	is	close	to	it,	which	is	simple	and,	easy	to	remember	 and	communicate.	
+There	are	many	ways	of	rounding	off	numbers.	Let	us	consider	a	few	of	them.	
+41
+for free distribution.
+13.4 Rounding off to the nearest 10
+Representing	 a	number	by	the	multiple	of	10	which	is	nearest	to	it	is	known	as	
+“rounding	off	to	the	nearest	10”.
+Let	us	round	off		2	483,	which	is	the	number	of	people	who	attended	the	exhibition,	
+to	the	nearest	10.	The	number	2	483	lies	between	the	two	multiples	 of	ten,	2	480 
+and	2	490.	However	 it	is	closer	to	2	480	than	to	2	490.	Accordingly,	 when	2	483 is 
+rounded	off	to	the	nearest	10,	we	obtain	 2	480.	
+We	can	describe	this	more	generally	as	follows.	
+When	rounding	 off	2	481,	2	482,	2	483	and	2	484	to	the	nearest	10	we	obtain	2	480.	
+This	is	because	the	multiple	of	10	which	all	these	numbers	are	closest	to	is	2	480.	
+Similarly,	 if	we	round	off	2	486,	2	487,	2	488	and	2	489	to	the	nearest	10	we	obtain	
+2	490.	The	reason	for	this	is	also	the	same	as	the	above.	Even	though	the	remaining	
+number	2	485	is	at	an	equal	distance	from	the	two	multiples	 of	ten	2	480	and	2	490,	
+when	rounding	 it	off	to	the	nearest	10,	the	convention	 is	to	round	it	off	to	the	nearest	
+10	which	is	greater	than	it,	that	is,	to	2	490.	Finally,	it	is	clear	that	when	2	480	is	
+rounded	off	to	the	nearest	10	we	obtain	2	480	itself	and	when	2	490	is	rounded	off	
+to	the	nearest	10	we	obtain	2	490	itself.	
+Example 1
+Round	off		to	the	nearest	10.	
+ i. 273    ii. 1428     iii. 7196'
+ i. 270 
+ii. 1430	
+iii. 7200 
+Exercise 13.4
+1. 	Round	off	each	of	the	following	numbers	to	the	nearest	10.	
+a.	33  b. 247  c. 3	008 
+d. 59  e. 306	 f. 4	010 
+g. 85  h. 1514 i. 1	895 
+j. 12	345  k. 234	532  f. 997	287
+42
+for free distribution.
+2.  The	height	of	the	mountain	Piduruthalagala	is	2	524	m.	Round	off	this	
+number	to	the	nearest	10.	
+3.  Write	every	whole	number	which	when	rounded	off	to	the	nearest	10	is	equal	
+to	140.	
+4.  Write	every	whole	number	which	when	rounded	off	to	the	nearest	10	is	equal	
+to	80.
+	 What	 is	the	smallest	whole	number	which	when	rounded	off	to	the	nearest	10	
+is	80?
+	 What	 is	the	largest	whole	number	which	when	rounded	off	to	the	nearest	10	is	
+80?
+ 
+5.  When	a	certain	number	is	rounded	off	to	the	nearest	10,	the	number	260	is	
+obtained.	Find	separately	the	least	and	the	greatest	value	that	this	number	can	
+take.
+“Rounding	 off	to	the	nearest	100”	or	“to	the	nearest	1000”	is	defined	in	the	same	
+way	that	“rounding	off	to	the	nearest	10”	was	defined.
+For	example,	 the	number	7	346	is	between	the	two	multiples	 of	hundred,	 7	300	and	 	 	 	 	 	 	 	 	 	
+7	400	and	is	closer	to	7	300	than	to	7	400.	Therefore	 when	7	346	is	rounded	off	to	
+the	nearest	100,	we	obtain	7	300.	Similarly,	 if	we	round	off	7	675	to	the	nearest	100	
+we	obtain	7	700.	In	general,	if	we	round	off	a	number	from	7	300	to	7	349	(both	
+included)	 to	the	nearest	100	we	obtain	7	300,	and	if	we	round	off	a	number	from	 	 		 		 		 		 		 		
+7	350	to	7	400	(both	included)	to	the	nearest	100	we	obtain	7	 400.	
+Now,	let	us	consider	how	to	round	off	numbers	to	the	nearest	1000.	For	example,	
+when	41	873	is	rounded	off	to	the	nearest	1000	we	obtain	42	000.	The	reason	for	
+this	is	because	41	873	is	closer	to	42	000	than	to	41	000.
+It	must	be	clear	to	you	by	this	time,	what	occurs	when	we	round	off	numbers.	 Now	
+let	us	consider	a	method	that	can	be	used	to	round	off	numbers	easil y.
+13.5 Rounding off to the nearest 100 or 1000
+43
+for free distribution.²	Let	us	round	off	2	 425	to	the	nearest	100.
+2425
+ The	two	multiples	 of	100	between	which	2425	lies	are	2400	and	2500.		The	
+value	of	2425	is	less	than	the	value	of	2450	which	is	exactly	at	the	centre	
+between	these	two	multiples	 of	100.		Therefore,	 2425	is	closer	to	2400	than	
+to	2500.
+Accordingly,	when	2425	is	rounded	off	to	the	nearest	100	we	obtain	2400.
+•		Let	us	round	off	2485	to	the	nearest	100.
+2485
+	The	two	multiples	 of	100	between	which	2485	lies	are	2400	and	2500.	The	
+value	of	2485	is	greater	than	the	value	of	2450	which	is	exactly	at	the	centre	
+between	these	two	multiples	 of	100.		Therefore,	 2485	is	closer	to	2500	than	
+to	2400.
+Accordingly,	when	2485	is	rounded	off	to	the	nearest	100	we	obtain	2500.
+•		Let	us	round	off	2450	to	the	nearest	100.
+2450
+ The	two	multiples	 of	100	between	which	2450	lies	are	2400	and	2500.		The	
+number	2450	is	exactly	at	the	centre	between	these	two	multiples	 of	100.	 	
+According	 to	the	convention,	 the	number	which	is	at	the	centre	is	rounded	
+off	to	the	nearest	multiple	of	100	greater	than	that	number.  
+Accordingly,	when	2450	is	rounded	off	to	the	nearest	100	we	obtain	2500.
+•			Let	us	round	off	2485	to	the	nearest	1000.
+2485
+ The	two	multiples	 of	1000	between	which	2485	lies	are	2000	and	3000.	The	
+value	of	2485	is	less	than	the	value	of	2500	which	is	exactly	at	the	centre	
+between	these	two	multiples	 of	1000.		Therefore,	 2485	is	closer	to	2000	
+than	to	3000.  
+Accordingly,	when	2485	is	rounded	off	to	the	nearest	1000	we	obtain	2000.
+44
+for free distribution.•	 Let	us	round	off	2754	to	the	nearest	1000.
+2754
+ The	two	multiples	 of	1000	between	which	2754	lies	are	2000	and	3000.	 	
+The	value	of	2754	is	greater	than	the	value	of	2500	which	is	exactly	at	the	
+centre	between	these	two	multiples	 of	1000.		Therefore,	 2754	is	closer	to	
+3000	than	to	2000.
+Accordingly,	when	2754	is	rounded	off	to	the	nearest	1000	we	obtain	3000.
+•	 Let	us	round	off	12	500	to	the	nearest	1000.
+12500
+ The	two	multiples	 of	1000	between	which	12	500	lies	are	12	000	and	 
+13	000.		The	number	12	500	is	exactly	at	the	centre	between	these	two	
+multiples	 of	1000.		According	 to	the	convention,	 the	number	which	is	at	the	
+centre	is	rounded	off	to	the	nearest	multiple	of	1000	greater	than	that	number.
+Accordingly,	when	12	500	is	rounded	off	to	the	nearest	1000	we	obtain	13	000.
+Exercise 13.5
+1.	Round	off	each	of	the	following	numbers	to	the	nearest	100.
+a.	54	 		b.	195	 c.	1009		 d.	2985	 e.	72324					 f.	7550
+2.	Round	off	each	of	the	following	numbers	to	the	nearest	1000.
+a.	1927	 		b.	2433	 c.	19999	 d.	45874	 e.	38000				 f.	90500
+3.  The	number	of	students	in	a	school	is	2	059.	Round	off	this	number	to	the,
+ i.	nearest	10
+ii.	nearest	100
+iii.	nearest	1000.
+4.	When	a	number	is	rounded	off	to	the	nearest	100,	the	number	4	500	is	obtained.	
+ i. What	is	the	smallest	whole	number	it	could	be?
+ii. What	is	the	largest	whole	number	it	could	be?
+  
+Rounding off decimal numbers
+When	the	mass	of	a	5	year	old	child	was	measured,	 it	was	12.824	kg.	If	we	write	
+this	in	grammes,	 it	is	12	824	g.	This	value	was	obtained	because	the	scale	used	for	
+this	purpose	gives	the	mass	to	the	nearest	gramme.	However,	 for	practical	purposes	
+45
+for free distribution.the	mass	is	usually	required	to	the	nearest	kilogramme,	 to	the	nearest	10th	of	a	
+kilogramme	or	to	the	nearest	100th	of	a	kilogramme.	
+It	is	useful	to	know	how	to	round	off	any	given	decimal	number	to	the	nearest	
+whole	number,	nearest	first	decimal	place,	nearest	second	decimal	place,	etc.	In	this	
+lesson	we	will	learn	how	to	round	off	decimal	numbers.	
+Initially,	let	us	consider	 how	to	round	off	a	number	with	one	decimal	digit	to	a	
+whole	number.	
+Let	us	round	off	12.7	to	the	nearest	whole	number.	
+1212.112.212.312.412.512.612.712.812.913
+centre
+The	whole	numbers	on	either	side	of	12.7	are	12	and	13.	
+Since	the	numbers	12.1,	12.2,	12.3	and	12.4	are	closer	to	the	whole	number	12	than	
+to	the	whole	number	13,	when	these	numbers	are	rounded	off	to	the	nearest	whole	
+number	we	obtain	12.	Similarly,	 since	the	numbers	 12.6,	12.7,	12.8	and	12.9	are	
+closer	to	13	than	to	12,	when	these	numbers	are	rounded	off	to	the	nearest	whole	
+number	we	obtain	13.	Furthermore,	 as	in	the	above	sections,	12.5	rounded	off	to	the	
+nearest	whole	number	is	accepted	 by	convention	 to	be	13.	Accordingly,	 when	12.7	
+is	rounded	off	to	the	nearest	whole	number	we	obtain	13.
+Similarly,
+12.3	rounded	off	to	the	nearest	whole	number	is	12	and
+12.5	rounded	off	to	the	nearest	whole	number	is	13.	
+Rounding off to a given decimal place
+Round	off	3.74	to	the	nearest	first	decimal	place. 
+In	3.74,	the	digit	in	the	first	decimal	place	is	7	and	the	digit	in	the	second	decimal	
+place	is	4.	When	rounding	 off	to	the	first	decimal	place,	the	digit	in	the	second	
+decimal	place	is	considered	 and	the	digit	in	the	first	decimal	place	is	adjusted	
+accordingly	if	necessary.	
+The	rule	used	here	for	rounding	 off	is	similar	to	that	used	in	the	previous	sections.	
+Since	the	number	with	one	decimal	digit	which	is	closest	to	the	numbers	 3.71,	
+3.72,	3.73	and	3.74	is	3.7,	when	these	numbers	are	rounded	off	to	the	first	decimal	
+place	we	obtain	3.7.	Similarly	 when	the	numbers	3.75,	3.76,	3.77,	3.78	and	3.79	are	
+rounded	off	to	the	first	decimal	place	we	obtain	3.8.	Accordingly,	 3.74	rounded	off	
+to	the	first	decimal	place	is	3.7.	
+46
+for free distribution.The	rule	for	rounding	 off	numbers	to	other	decimal	places	is	also	the	same.	Let	us	
+consider	the	following	example.	
+ Example 2
+	Round	off
+i. 3.784	 	 ii. 3.796	
+to	the	nearest	second	decimal	place.
+When	rounding	off	to	the	nearest	second	decimal	place,	the	digit	in	the	third		 	
+decimal	place	needs	to	be	considered.	
+i.				3.784	lies	between	3.78	and	3.79.	Since	3.784	is	closer	to	3.78	than	to	3.79,		
+						when	it	is	rounded	off	to	the	nearest	second	decimal	place	we	obtain	3.78.
+ii.	 3.796	lies	between	3.79	and	3.80.	Since	3.796	is	closer	to	3.80	than	to	3.79,	
+						when	it	is	rounded	off	to	the	nearest	second	decimal	place	we	obtain	3.80.
+Exercise 13.6
+1.	Round	off	each	of	the	following	 numbers	to	the	nearest	whole	number	and	to	the	
+nearest	first	decimal	place.	
+i.	5.86	 	 ii.	12.75	 iii.	10.43	 iv.	123.79
+v.	8.04	 		vi.	13.99	 vii.	101.98	 viii.	100.51  
+2.		The	value	of	π	is	3.14159…	.	Round	off	this	value	to	
+ i.	the	nearest	whole	number
+ii.	the	nearest	first	decimal	place		
+iii.	the	nearest	second	decimal	place.
+3.  The	diameter	of	a	sphere	is	3.741	cm.	Round	off	this	value	to
+ i.	the	nearest	first	decimal	place			
+ii.	the	nearest	second	decimal	place.
+4.		According	 to	a	survey	plan,	the	area	of	a	plot	of	land	is	0.785	ha.	Round	off	this	
+value	to
+  i.	the	nearest	first	decimal	place	
+ ii.	the	nearest	second	decimal	place.
+47
+for free distribution.
+5.  In	an	animal	farm,	the	mean	amount	of	milk	obtained	 from	a	healthy	cow	
+per	day	is	5.25	 l.	If	there	are	45	such	animals,	round	off	the	amount	of	milk	
+obtained	per	a	day
+i.	to	the	nearest	litre
+ii.	to	the	nearest	first	decimal	place.
+Miscellaneous Exercise
+1.  Write	each	of	the	following	groups	of	numbers	in	ascending	order.
+i.	3.10	×	102	,		3.10	×	10−4	,	3.10	×	100		,	3.10	×	105	
+ii.	4.78	×	10−2	,		1.43	×	104	,	9.99	×	10−3		,	2.32	×	101
+iii.	7.85	×	100	,		7.85	×	10−4	,	7.85	×	102	,	7.85	×	10−2
+2.	There	are	250	labourers	 working	in	a	factory	which	pays	Rs	1	230	per	day	as	
+wages	to	a	labourer.	
+i.	Find	the	amount	of	money	required	per	day	to	pay	the	wages	of	all	these		
+	 labourers.
+ii.	Write	1	230	and	250	in	scientific	notation.
+iii.	Using	the	numbers	written	in	(ii)	above	in	scientific	 notation,	 find	the	amount
+		 of	money	required	per	day	for	wages.	
+iv.	Compare	the	values	obtained	in	(i)and	(iii)	above.
+3.  The	volume	of	tea	produced	 in	a	day	at	a	certain	tea	factory	is	1	500	kg.	If	the	
+factory	operates	for	30	days	during	a	certain	month,	show	that	the	volume	of	tea	
+produced	that	month	is  4.5	×	104	kg.	
+48
+for free distribution.
+4.  Fill	in	the	tables	given	below.
+(a)
+Expression The	expression	 obtained	
+when	the	numbers	in	the	giv-
+en	expression	 are	rounded	off	
+to	the	nearest	whole	numberThe	value	obtained	 for	
+the	expression	 by	taking	
+the	product	after	rounding	
+off	the	numbers
+59.2	×	9.97
+8.4	×	5.7
+12.3	×	11.95
+10.15	×	127.6
+459.7	×	3.51
+109.5	×	4.4960	×	10
+8	×	6
+..........	×........
+..........	×........
+..........	×........
+..........	×........600
+48
+.........
+.........
+.........
+.........
+(b)
+Expression Product	without	rounding	
+off
+the	numbersValue	obtained	 by	
+rounding	 off	the	
+product	to	the	nearest	
+whole	number
+59.2	×	9.97
+8.4	×	5.7
+12.3	×	11.95
+10.15	×	127.6
+459.7	×	3.51
+109.5	×	4.49590.224 590
+ 
+Summary
+²  Scientific	notation	is	a	method	of	expressing	a	number	concisely	to	facilitate		
+		calculations.
+²  If	1 ≤		A	<	10	and  n  then A × 10n  is	a	number	 expressed	in	scientific	
+					notation.
+49
+                      for free distribution.       Loci and Constructions 14
+By studying this lesson you will be able to,
+ ² identify four basic loci,
+ ² construct a line perpendicular to a given line,
+ ² construct the perpendicular bisector of a straight line segment,
+ ² construct and copy angles,
+ ² solve problems related to loci and constructions.
+ 
+Loci
+A few motions that you can observe in the environment are given below. Let us 
+consider the path of each motion. 
+ 1' Cotton floating in the air
+ 2' A bird flying
+ 3'  A ball hit by a bat
+ 4' A fruit falling from a tree
+ 5' The tip of a hand of a working watch
+ 6' A child riding a see-saw
+You may observe that even though the motions of 1 and 2 are complex and 
+unpredictable, the motions of 3 to 6 have a definite path. It is important to learn about loci in geometry to develop a proper understanding of the paths of the objects undergoing these motions.
+A set of points satisfying one or more conditions is known as a locus.
+50
+for free distribution.
+14.1  Basic Loci
+Now let us consider four basic loci.
+1. The locus of points which are at a constant distance from a fixed point.
+Activity 1
+Step 1:   Take a strip of cardboard of length 5 cm, 
+A O make two small holes near the two ends 
+and name them O and A. 
+       
+Step 2:   Keep the above strip of cardboard on a 
+A O
+piece of paper, place a pin through the 
+hole O and keep it firm on the piece of 
+paper.
+Step 3:    Place a pencil point through the hole A and 
+AO
+while holding the pin tightly so that it doesn’t move, move the pencil and mark the path it takes.
+Step 4:     At the end of the activity, identify the locus that 
+                  is obtained.
+In the above activity, you would have obtained a circular path. Accordingly,
+  The locus of points on a plane which are at a constant distance from a fixed 
+point is a circle.
+                                                                   Example 1
+         
+Draw a sketch of the locus of the bottommost point of the bob of a 
+pendulum in a working pendulum clock.
+The locus relevant to this motion is a part of a circle with centre 
+the fixed point of the rod/string to which the bob is connected and 
+radius the distance from this fixed point to the bottommost point 
+of the bob.
+51
+                      for free distribution.   O
+Locus
+2.  The locus of points which are equidistant from two fixed points.
+Activity 2
+Step 1:  Draw a straight line segment of length 10 cm on an oil paper/tissue paper 
+and name it AB.
+A B
+Step 2:   Identify the axis of symmetry of the straight line AB by folding the tissue paper such that the two points A and B coincide and mark it with 
+a dashed line. 
+  
+B A
+Step 3:   Mark a point P1 on the dashed line, draw the straight lines P1A and P1B, 
+and measure and write their lengths. 
+ A BP1
+Step 4:   Mark several more points on the dashed line and measure and write the distances from the points A and B to each of these points.
+52
+for free distribution.
+A BP1
+P2
+P3
+Step 5:   Check whether the distances from the points A and B to each of these 
+points on the dashed line are equal and write your conclusion. 
+When folding the paper as above, such that A and B coincide, observe that the fold 
+line obtained is perpendicular to AB and that it passes through the midpoint of 
+AB. This line is called the perpendicular bisector of the line segment AB. Observe 
+further that the distances from the points A and B to any point you chose on the 
+perpendicular bisector are equal. 
+The locus of points which are equidistant from two given points is the 
+perpendicular bisector of the line joining the two points.
+Example 2
+  
+Draw a rough sketch of the locus of points which are equidistant from the two given points P and Q. Name five points on the locus as P
+1, P2, P3, P4 and P5. 
+ 
+                     P Q
+   P1
+P3P QP2
+P4
+P5Locus
+   
+53
+                      for free distribution.
+Exercise 14.1
+1. By a rough sketch, show the locus relevant to each motion given below.
+ a.  The path of a rubber bushing which is tied to one end of 
+a rope of length 50 cm and rotated, by holding the 
+stretched rope at the other end as shown in the figure  
+ b. The path of the tip of a hand of a working clock     
+ 
+c.  The figure shows two houses located 50 m 
+ A B
+from each other on horizontal ground. It is 
+required to build a wall exactly halfway between the two houses (Points A and B).  Indicate by a rough sketch where the wall should be built. 
+c. The path of the fire of a torch held by a fire torch rotating 
+dancer in a perahera (while the fire torch rotator is stationery) 
+d. The path of a person riding a Ferris wheel                           
+  
+   
+e. The paths of the two children riding a see-saw while 
+sitting at the two ends of the see-saw   
+54
+for free distribution.
+2.  In the given figure, P and Q are two trees planted on 
+ P Q 25 mflat ground, at a horizontal distance of 25 m from 
+each other. i.  It is required to fix a tap at a distance of 15 
+m from each tree. With the knowledge on loci, draw a rough sketch to indicate how the points where the tap can be fixed are found.
+ii.  It is required to cut a drain equidistant from the trees. Draw a rough sketch to 
+indicate the location of the drain.      
+              
+3.  Draw an angle of 50° and name it PQR
+> as shown in the figure.
+ With the knowledge on loci, draw a rough sketch to 
+Q P
+ R50oindicate how the point which is equidistant from the points Q and R and lying on the arm PQ is found, and 
+name it S.
+ 
+4. A and B are two lamp posts located at a 
+10 mA B
+distance of 10 m from each other. 
+i.  It is required to fix another lamp 
+post C at a distance of 6 m from A 
+and 8 m from B. Mark the location of the lamp post C on a suitable rough sketch.  
+ii.  It is required to fix a lamp post D equidistant form the posts A and B. Mark the 
+location of the lamp post D on a suitable rough sketch.
+14.2 More on basic loci
+3. The locus of points which are at a constant distance from a fixed line
+The distance from a point to a line is the length of the perpendicular line drawn 
+from the point to the line.     
+Accordingly,      
+    the distance from P  to the line AB is the length of PL and      
+B A L MQ
+P
+   the distance from Q to the line AB is the length of QM.
+  
+55
+                      for free distribution.Now let us do the following activity to determine the locus of points which are at a 
+constant distance from a fixed line. 
+Activity 1
+Step 1: Draw a straight line segment in your exercise book and name it AB.
+  
+  A B
+Step 2:  Place a straight edge on the line AB and a set square touching the 
+straight edge as shown in the figure. Mark a point 3 cm from AB 
+using the scale on the straight edge and name it P.  
+A BP
+12345678910
+1 3 5 7 9 2 4 6 8 10 11
+Step 3:  By changing the position of the set square, mark a couple more points at 
+a distance of 3 cm from AB and name them Q and R.
+ A BP Q R
+12345678910
+1 3 5 7 9 2 4 6 8 10 11
+Step 4:  Using a straight edge, join the above marked points P, Q and R.
+Step 5:  Describe the locus of points which are at a distance of 3 cm from the line 
+AB. Observe that a similar locus can be drawn on the other side of AB too. 
+56
+for free distribution.It is clear  from  the  above activity that,  the  locus of a point  at  a   constant distance 
+of 3 cm from the line  AB is a straight line parallel to the line AB and at a distance of 
+3 cm from it. Moreover, two loci can be drawn on either side of AB. 
+The locus of points which are at a constant distance from a straight line are the two straight lines parallel to it and at the given constant distance from it, on either side of it.
+4. The locus of points equidistant from two intersecting straight lines. 
+Activity 2
+Step 1:  On a  transparent paper (like oil paper) draw a pair of straight lines as shown in the figure and name them OA and OB. 
+                   A
+BO
+Step 2:  Fold the transparent paper such that OA and OB coincide, and mark 
+the fold line with a dotted line. Name it OX.
+       A
+BX O
+Step 3:  Mark a point on the dotted line and name it P1. Using a set square, 
+draw two lines from P1 perpendicular to OA and OB respectively, 
+measure their lengths and write them down. 
+    A
+BX O
+P1
+57
+                      for free distribution.
+Step 4:  Mark more points on line OX as shown in the figure and name them 
+P2, P3, etc. From each of these points, draw perpendicular lines to OA 
+and OB, measure their lengths and write them down.
+     A
+BX O
+P1 P2P3
+Step 5:  Measure AOX 
+>  and BOX 
+> and write what can be concluded about the 
+line OX.
+From the above activity it is clear that OX is the line that divides the angle AOB 
+>  
+into two equal angles and that the distances from any point on the line OX to the 
+lines OA and OB are equal. 
+Furthermore, since the paper was folded such that OA and OB coincide, the angles 
+AOX 
+>  and  BOX 
+>  are equal to each other. 
+OX is known as the angle bisector of   AOB 
+>.
+The locus of points equidistant from two intersecting straight lines is the angle bisector of the angles formed by the intersection of the two lines. 
+Example 1
+OP and OQ are two roads which diverge at the junction
+OP
+Q
+ 
+O. It is required to fix a notice board at a point which is 20 m from the junction O and at an equal distance from 
+both these roads. Using the knowledge on loci, indicate by a rough sketch how you would find the place where the notice board should be fixed.
+The required position (say N) should be a point on the 
+OP
+QN
+20 m
+angle bisector of QOP 
+>
+ . Since ON = 20 m, N should be 
+the point on the angle bisector a distance of 20 m from 
+O.  
+58
+for free distribution.
+1. Draw a straight line segment and name it XY. Illustrate X
+Yby a rough sketch, the locus of points which are 4 cm 
+away from it.
+                      
+2. A student walks on a straight road rotating a wheel of diameter 
+20 cm which is fixed to a handle. Illustrate by a rough sketch the locus of the centre of the wheel. 
+ 
+3. The figure shows the positions of the hour hand and the 
+minute hand of a clock at a certain instant. At this moment, 
+the second hand is located at an equal distance from these two hands. Indicate the position of the second hand by a separate rough sketchs.
+4. A drain PQ of length 50 m which is located in a certain plot 
+of land is shown in the figure. A tap needs to be fixed at a distance of 10 m from PQ and at an equal distance from both the ends P and Q. Illustrate by a rough sketch the position/positions where the water tap can be fixed. 
+5. A piece of cake cut from a round (circular) cake is shown
+ 
+in the figure.  It is required to divide this piece of cake into two equal pieces. Using the knowledge on loci, indicate by a sketch how this piece should be cut.
+        
+6. PQ and PS are two boundaries of a rectangular plot 
+P Q
+S30 m
+20 mof land. A tree needs to be planted in this plot of land such that it is 8 m from the boundary PQ and 5 m from the boundary PS. Illustrate by  a rough sketch where the tree should be planted and name it T. 
+Exercise 14.2
+59
+                      for free distribution.
+14.3 Constructing lines perpendicular to a given straight line
+Let us explain two phrases that are commonly used in constructions. When drawing 
+a circle using a pair of compasses, phrases such as “taking a certain point as the centre” and “taking a certain length as the radius” are often used. For example, “Taking point A as the centre” means the circle or arc should be drawn with the point of the pair of compasses kept at the point A; and “Taking AB as the radius” means that the distance between the point of the pair of compasses and the pencil point should be equal to the length of AB.
+1.  Constructing a line perpendicular to a given line from an external point
+Activity 1
+Step 1:  Draw a straight line segment in your exercise book and name it PQ. 
+Mark a point external to PQ and name it L.
+          L
+P Q
+Step 2:  Taking a length which is more than the distance from L to PQ as the radius and L as the centre, drawn arc such that it intersects the line PQ. 
+Name the points of intersection X and Y. 
+        L
+X Y P Q
+Step 3:  Taking each of the points X and Y as the centre and using the same 
+radius, draw two arcs such that they intersect each other as shown in the figure. Name the point of intersection M.
+           L
+MX Y P Q
+60
+for free distribution.
+Step 4:  Join the points L and M and name the point at which LM intersects PQ 
+as D. Measure and write the magnitude of LDP 
+>.
+       L
+MX Y P Q D
+At the end of the above construction, you would have obtained that LDP 
+> = 90o. 
+That is,  LD is the perpendicular line drawn from the point L to the line PQ.
+2. Constructing a line perpendicular to a given line through a point on the line
+Activity 2
+Step 1:  Draw a straight line and name it AB. Mark a point on it and name it P.
+  A B P
+Step 2:  Taking a length less than the length of PA as the radius, and taking 
+P as the centre, draw two arcs using the pair of compasses such that 
+they intersect the line segments PA  and PB. Name the two points of 
+intersection L and M.
+     A B P L M
+Step 3:  Taking a length greater than the one taken in step 2 as the radius, and taking L and M as the centres, draw two arcs such that they intersect 
+each other as shown in the figure. Name the point of intersection N.
+61
+                      for free distribution.
+  A B P L MN
+Step 4: Join NP, measure the magnitude of the angle  NP A 
+>and write its value.
+  A B P L MN
+At the end of the above construction you would have obtained that N PA
+> = 90o. That 
+is, the line drawn perpendicular to AB through the point P is PN.
+3. Constructing a line perpendicular to a given straight line segment through 
+an end point
+                 
+Let us assume that we need to draw a line perpendicular to the line segment XY 
+through the point X.
+ Y X 
+Produce the line YX and do this construction using the method identified above.
+   Y X
+4. Constructing the perpendicular bisector of a straight line segment
+The straight line which is perpendicular to a given line segment and which passes 
+through the midpoint of that line segment, was identified earlier as the perpendicular bisector of that line segment. 
+         
+Draw a straight line segment and name it XY. Let us do the activity given below to construct the perpendicular bisector of this line segment.
+62
+for free distribution.
+                 Y X
+Step 1:  Taking a length greater than half the length of XY as the radius, and 
+without changing it, draw two arcs with X and Y as the centres, such 
+that they intersect each other. Name the point of intersection P.
+   YP
+X
+Step 2:  As done above, taking X and Y as the centres, draw two other arcs 
+such that they intersect each other on the side of XY opposite to the 
+side on which P is located. Name the point of intersection Q.
+           Y
+QP
+X
+Note:   It is not necessary to use the same radius in the above two steps.
+Step 3:  Join PQ and name the point at which PQ intersects XY as M. Measure 
+XM and MY and the magnitude of XMP 
+>' What can be concluded 
+regarding the line PQ?
+  
+Y
+QP
+X M
+Activity 3
+You would have identified in the above activity that XM = MY and XMP 
+> = 90o.
+Accordingly, PQ bisects the line segment XY perpendicularly. Therefore, PQ is the 
+perpendicular bisector of  XY.
+63
+                      for free distribution.
+Exercise 14.3
+1.  Draw a straight line as shown in the figure and name it BC. Construct a 
+perpendicular line from the point  A to the line BC.
+   B CA
+2.  Draw the line AB such that  AB = 7 cm. Mark the point P on AB such that                               
+AP = 3 cm and construct a line perpendicular to AB through P. 
+                  PA B
+3. Draw any acute angled triangle and name it PQR.
+   i.  Construct a line perpendicular to QR from P.
+  ii.   Construct a line perpendicular to PR from Q.
+ iii.   Construct a line perpendicular to PQ from R.
+4. i.   Using a protractor, draw an angle of 130° and as shown in the figure mark      5 cm on each arm and complete the triangle XYZ. 
+  ZX
+Y130x
+5 cm5 cm
+  ii.   Construct a perpendicular line from Y to the line XZ and name the point at 
+which it meets XZ as D'
+   iii.   Measure and write the lengths of XD and ZD.
+                         
+5. Construct a rectangle of length 6 cm and breadth 4 cm.           
+                    
+6.  a.   Draw a straight line segment PQ such that  PQ = 10 cm.
+   b.   Mark the point  B on the line  PQ such that PB = 2 cm.
+   c.  Construct a line perpendicular to PQ through B. 
+   d.  Mark a point A on the perpendicular line such that BA = 6 cm and complete
+          the triangle ABQ.                    
+64
+for free distribution.
+e.  Construct the perpendicular bisector of the line segment BQ and name the 
+ point it intersects AQ as O'
+f. Construct a circle with O as the centre and OA as the radius.  
+14.4 Constructions related to angles
+Constructing the angle bisector
+The line drawn through a given angle such that it divides the angle into two equal 
+angles, is known as the angle bisector of the given angle. 
+Activity 1
+Draw any angle and name it AOB
+>
+. Perform the following steps to construct the 
+bisector of this angle.
+Step 1:  Draw an arc with O as the centre such that it intersects the arms OA and OB. Name the points of intersection X and Y. 
+  OA
+X
+Y
+B
+Step 2 :  Using a pair of compasses and taking a suitable radius, construct two arcs with X and Y as the centres  such that they intersect each other as shown in the figure. Name the point of intersection P. 
+  OA
+X
+P
+Y
+B
+65
+                      for free distribution.
+Step 3 :   Join O P.  Measure  AOP
+> and BOP
+> and check whether they are equal.   
+  
+OA
+X
+P
+Y
+B
+It must have been clear to you at the end of the above activity that AOP
+> = BOP
+>. 
+That is, OP is the angle bisector of  AOB
+>.
+14.5 Construction of angles
+By now we have learnt to draw angles using the protractor. However we can 
+construct a few special angles by using a straight edge and a pair of compasses 
+only. Let us recall how we constructed a regular hexagon in grade 8 by using a pair 
+of compasses. 
+           
+Here, taking the length of a side of the regular hexagon which needs to be drawn as the radius, a circle is drawn, and with the same radius, arcs are marked on it.The points at which the arcs intersect the circle are joined to each other and to the centre as shown in the figure.
+ 
+Then every angle of each equilateral triangle that is formed is 60°.
+Therefore,  AOB
+> = 60o  and  AOC
+> = 120o' 
+Let us use the principles that were used in this construction to construct certain 
+special angles. B
+O A
+F EDC
+66
+for free distribution.1. Constructing an angle of 60°
+Activity 1
+Suppose we need to construct an angle of 60 °at O with OA as an arm. 
+Step 1:  Draw a straight line segment in your exercise book and name it OA. 
+  A O
+Step 2:  Taking O as the centre, construct an arc such that it intersects OA as 
+shown in the figure. Name the point of intersection X.  
+         A X O
+Step 3:  Without changing the length of the radius, and taking X as the centre, 
+draw another arc using the pair of compasses, such that it intersects 
+the first arc. Name this point of intersection Y. 
+  A X OY
+Step 4:  Join the points O and Y and produce it as required. Measure AOY
+> and 
+check whether it is 60°.
+  A XY
+O
+The triangle OXY in the above figure is an equilateral triangle. The reason for this 
+can be explained as follows. 
+67
+                      for free distribution.Since OX and OY are radii of the circle with centre O, OX = OY. 
+Similarly, since XO and XY are radii of the circle with centre  X, XO = XY.
+Accordingly, OX = XY = OY.
+Therefore, OXY is an equilateral triangle.
+Therefore, every angle of it is 60°.
+Therefore  XOY
+> = 60o'
+Suppose we need to construct an angle of 120° at O with OA as an arm.
+2. Constructing an angle of 120°
+Activity 2
+Step 1:  Construct a straight line segment and name it  OA.
+                A O
+Step 2:  Taking O as the centre, construct an arc such that it intersects OA as 
+shown in the figure. Name the point of intersection P.  
+                A P O
+ 
+Step 3:  Without changing the length of the radius, and taking P as the centre, 
+draw a small arc using the pair of compasses, such that it intersects 
+the first arc as shown in the figure, and name that point of intersection Q. Now, without changing the radius, take Q as the centre and draw 
+another small arc such that it too intersects the first arc and name that point of intersection R. 
+                 
+A PQ R
+O
+Step 4:  Join OR and produce it as required. Measure and check the magnitude 
+of AOR 
+>.
+                      A PQ R
+O
+68
+for free distribution.The reason why AOR
+> = 120o  is the following.  As discussed above,
+POQ
+> = 60o. Furthermore, QOR is also an equilateral triangle. Therefore,
+QOR
+> = 60o.  Accordingly,
+POR
+>  = POQ
+> + QOR
+>
+ 
+= 60o + 60o 
+= 120o  
+3. Constructing angles of 30°, 90° and 45°
+By constructing suitable angle bisectors we can construct the angles 30°, 90° and 
+45°. By considering the information and figures given below construct the given angles. 
+Angle of 30°
+Construct an angle of 60° and construct its angle bisector. Then AOB
+> = 30o'
+AB
+O                        
+Angle of 90°
+A OP Method I
+  At O, construct a line perpendicular to the line segment
+  AO.  Then AOP
+> = 90o '
+      Method II
+A OB
+30o30o
+60oConstruct an angle of 120°and bisect one 60° angle. 
+Then AOB
+> = 90o'
+69
+                      for free distribution.
+Angle of 45°
+Method I
+Construct an angle of 90° and bisect it. Then POQ
+> = 45o'
+P OB
+Q
+Method II
+Construct an angle of 60° and bisect it. Again bisect one of the resulting 30 ° angles. 
+Then,  POQ
+> = 30o + 15o = 45o .
+  
+                         P OQ
+30o15o15o
+Copying a given angle
+                  
+Let us suppose that we need to construct an angle equal to a given angle AOB
+> at a 
+point P, with PQ as an arm. For this, let us do the following activity. 
+Activity 3
+O AB
+P Q
+                    
+70
+for free distribution.
+Step 1:  Draw any angle and name it AOB
+>. Draw the arm PQ on which AOB
+>
+needs to be copied.  
+Step 2:  Taking O as the centre, draw an arc as shown in the figure such that it 
+intersects the arms OA and OB, and name the points of intersection X 
+and Y. Using the same radius and taking P as the centre, draw an arc 
+longer than the previous arc such that it intersects PQ. 
+Name the point at which the arc intersects PQ as K. 
+                     P OY
+X KB
+Q A
+Step 3:  Taking XY as the length of the radius and K as the centre, using the pair 
+of compasses, construct a small arc such that it intersects the initial arc 
+and name the point of intersection L. 
+       P KL
+Q
+Step 4:  Join PL and produce it as required. Using a protractor (or any other 
+method), check whether AOB
+> and QPL
+> are equal.  
+  P KL
+Q
+ 
+Exercise 14.4
+1.  i. Draw a straight line segment of length 8 cm and name it  PQ. 
+ ii. Construct an angle of 60°at P such that PQ is an arm.
+ iii. Construct an angle of 60°at Q such that QP is an arm.
+2.  i. Draw a straight line segment of length 6.5 cm and name it AB.
+ ii. Construct an angle of 90° at A such that AB is an arm.
+71
+                      for free distribution.
+iii. Construct an angle of 30°at B such that BA is an arm.
+     iv.  Produce the constructed lines so that they intersect. Name their point of
+          intersection as C and form the triangle ABC. 
+3. Construct angles of magnitude 15° and 75°.
+                     
+4. To construct the triangle shown in the figure below, do the following constructions.
+i.  Draw a straight line segment of length 7 cm and name it PQ.
+ii.  Construct an angle of 30° at P such that PQ is an arm.
+iii.  Construct an angle of 45° at Q such that QP is an arm.
+ iv.   Complete the triangle PQR and measure and write the magnitude o f PRQ
+>.
+5.  
+i.  Draw a straight line segment OA of length 10 cm.
+ii.  Draw an arm BO such that AOB
+>  is an obtuse angle. 
+iii.  Mark the point P on OA such that OP = 7 cm.
+  iv.  Construct a line segment PC such that C is on the same side of OA as B 
+        and such that APC
+>= AOB
+> . 
+  A P OB
+ 
+                   
+6.  i.   Draw any acute angle and name it KLM
+>.
+   ii.   Copy the angle L
+>
+at M such that KLM
+> = LMN
+> , where N is on the same 
+            side of LM as K.  
+   iii.  Name the point of intersection of the lines LK and MN as P (produce the 
+  lines if necessary) and measure and write the lengths of PL and PM.
+Miscellaneous Exercise
+                                                                      
+15 m
+20 m1. In a factory, a 15 m long arm of a crane is fixed to a groove of length 20 m. It can be moved along the groove and also rotated in a horizontal plane about the end points of  the groove. Draw a rough sketch, and indicate with measurements the path on the 
+horizontal plane where the crane can exchange goods.
+72
+for free distribution.
+2. To construct the triangle shown in the figure, carry out the steps given below.
+i.  Draw a straight line segment PQ where PQ = 5 cm. 
+ii.  Construct an angle of 90° at P.                         P R
+Q5 cm
+60xiii.  Construct an angle of 60° at Q.
+    iv.   Complete the triangle  PQR and measure and
+  write the magnitude of  R
+> .
+  
+3. i.   As shown in the figure, draw an obtuse angle ABP
+>. 
+B AP
+  
+  ii. Locate a point K such that ABP
+>= BPK
+>and such that 
+the two angles form a pair of alternate angles. Join PK.                 
+B
+AO4.  i.  Draw a circle of radius 4 cm and name its centre O. 
+ ii.  Mark two points A and B on the circle 6 cm apart  
+    from each other, and draw the line AB. 
+ iii.  Construct a perpendicular line from O to AB and 
+    name the point at which it meets AB as N.
+ iv.  Measure and write the lengths of AN and BN.
+ 
+Summary
+A set of points satisfying one or more conditions is known as a locus.
+Basic Loci
+²   The locus of points on a plane which are at a constant distance from a 
+fixed point is a circle.
+²    The locus of points which are equidistant from two given points is the       perpendicular bisector of the line joining the two points.
+² The locus of points which are at a constant distance from a straight line 
+are the two straight lines parallel to it and at the given constant distance 
+from it, on either side of it.
+² The locus of points equidistant from two intersecting straight lines is the 
+angle bisector of the angles formed by the intersection of the two lines. 
+73
+               For free distribution.
+                 Equations 15
+By studying this lesson you will be able to;
+²  solve linear equations containing brackets,
+²  solve linear equations containing fractions,
+²  solve simultaneous linear equations when the coefficient of one unknown is 
+equal in both equations.
+Linear equations
+Do the following exercise to recall the facts that you have learnt in previous grades 
+on solving linear equations.
+Review Exercise
+ Solve the following linear equations.
+a. x + 12 = 20   b.  x – 7 = 2    c.  5 + m = 8
+d.  2x = 16  e.  – 3x  = 6   f.  2p + 1 = 5  
+g.  3b – 7 = 2  h.  x
+2 = 3    i.  2p
+2  = 6
+j.  m
+5 – 1 = 8  k.  2 (x + 3) = 11     l.  3 (1 – x) = 9
+15.1 Solving linear equations with two types of brackets
+You may have observed that there are some equations with brackets in the review 
+exercise. In this lesson we expect to learn how to solve linear equations with two 
+types of brackets. Let us first consider how to construct a linear equation with 
+several brackets and find its solution.
+Note:  There are several types of brackets that we use.
+ ^    &   {     }   [      ]
+ 
+ Parentheses   Curly Brackets  Square Brackets
+When applying brackets, the usual practice is to first use parentheses, then curly 
+brackets and finally square brackets. 
+74
+For free distribution.“The result of adding three to a certain number and subtracting one from twice this 
+value, and finally multiplying the resulting value by five and adding two is equal 
+to 47”.
+Let us consider how to construct an equation using the above information and then 
+solve it.
+If the number is x, when 3 is added, we obtain x + 3.
+Twice this expression can be written as 2( x + 3) using parentheses.
+The expression that is obtained when 1 is subtracted from this is 2( x+3) −1 . 
+Using curly brackets to write five times this expression we obtain,
+ 
+ 5{2 ( x + 3) – 1} 
+It is given that when 2 is added to this expression it is equal to 47. Therefore,
+  5{2 ( x + 3) – 1} + 2 = 47
+Now, by solving this equation, let us find the value of the number ( x).
+First, by simplifying the expression with parentheses we obtain
+   5{2 x + 6 – 1}+ 2 = 47.
+When we simplify the expression within curly brackets we obtain, 
+  5{2 x + 5} + 2 = 47.
+Now, simplifying the expression with curly brackets we obtain
+   10x + 25 + 2 = 47.
+  10 x + 27        = 47
+Subtracting 27 from both sides we obtain,  
+  10 x + 27 – 27 = 47 – 27.
+That is,  10 x = 20 . 
+Dividing both sides by10 we obtain,
+               10x
+10 = 20
+10
+           x = 2  
+Therefore, the number is 2.
+Let us consider a few more examples of equations with brackets to improve our 
+skills of solving such equations.
+75
+               For free distribution.Example 1
+ Solve 2{3 (2 x – 1) + 4} = 38 '
+2{3 ( 2x – 1) + 4} = 38   (dividing both sides by 2)
+            2                   2
+        3(2 x – 1) + 4 = 19
+ 6x – 3 + 4  = 19 (simplifying the expression with parentheses)      
+                  6 x + 1 = 19 
+6x + 1– 1 = 19 – 1 (subtracting 1 from both sides)
+6x = 18
+6x
+6 = 18
+6 (dividing both sides by 6)
+ x = 3
+                           Example 2
+Solve 5{4 ( x + 3) – 2 ( x – 1)} = 72 '
+ 5{4 ( x + 3) – 2 ( x – 1)} = 72  
+      5{4 x + 12 – 2 x + 2} = 72   (simplifying the expression with parentheses)
+ 5{2x + 14} = 72   
+10x + 70 = 72   (simplifying the expression with curly brackets)
+10x + 70 – 70 = 72 – 70 (subtracting 70 from both sides)
+10x
+10 =  2
+10 (dividing both sides by 10) 
+x =  1
+5 
+                                      
+Exercise 15.1
+Solve the following equations.
+a.  2{2 ( x – 1) + 2} = 18 b.  5{3 ( x + 2) – 2 (x – 1)} = 60
+c.  6 + 2 { x + 3 (x + 2)} = 58 d.  5{2 + 3 (x + 2)} = 10
+e.  2 {3 ( y – 1) – 2y} = 2 f.  7x + 5 {4 – (x + 1)} = 17
+76
+For free distribution.
+15.2 Solving linear equations containing fractions
+Now, let us consider how to construct a linear equation with fractions and find its 
+solution.
+A vendor bought a stock of mangoes to sell. He discarded 10 fruits which were 
+rotten. The rest he divided into 12 equal piles of 5 mangoes each. 
+Let us construct an equation using the above data. 
+If the vender bought  x mangoes to sell,
+when 10 mangoes are discarded, the remaining amount is x – 10.
+The number of piles that can be made when the remaining mangoes are divided into 
+groups of 5 is x – 10
+5 . It is given that the number of piles is 12. 
+                             
+Therefore,   x – 10
+5 = 12 
+Now, let us solve this equation and find x.
+ x – 10
+5 = 12 
+Multiplying both sides of the equation by 5,
+ 5  x – 10
+5 = 12  5
+      x – 10 = 60
+Adding 10 to both sides,
+ x – 10 +10 = 60 +10
+           x = 70
+Therefore, the vendor bought 70 mangoes to sell.
+Let us study the following examples to learn more on solving linear equations with 
+fractions.
+Example 1
+Solve x + 3
+2 = 15'
+                 x + 3
+2 = 15 
+ 2  x + 3
+2 = 15  2 (multiplying both sides by 2)
+     x + 3 = 30 
+77
+               For free distribution. x + 3 – 3 = 30 – 3 (subtracting 6 from both sides)   
+   x  = 27
+   Example 2
+Solve  y
+2 – y
+3 = 9'
+y
+2 – y
+3 = 9 
+     6  y
+2 – 6  y
+3 = 9  6 (multiplying both sides by 6, the L.C.M. of the
+                                           denominators 2 and 3 )
+           3y – 2y = 54
+    y = 54
+   
+Example 3
+Solve 2 m
+3 – 1 = 10'
+2 m
+3 – 1 = 10
+ 2
+2 m
+3 – 1  = 10
+2 (dividing both sides by 2)
+     m
+3 – 1 = 5
+        m
+3 – 1 + 1 = 5 + 1 (adding 1 to both sides)
+         m
+3 = 6
+    3   m
+3 = 6  3 (multiplying both sides by 3)
+   m = 18
+                          
+Note:  When solving equations, it is not necessary to write the reason for each 
+simplification.
+Exercise 15.2
+Solve each of the following equations.
+ a.   x – 2
+5 = 4  b.   y + 8
+3 = 5 c.  2a
+3+ 1 = 7
+ 
+ d.  5b
+2 – 3 = 2 e.  2p + 3
+4 = 5 f.  3m – 2
+7 = 4 
+78
+For free distribution.
+ g.  3x
+2+ x
+4 = 7 h.  2m
+3– 3m
+5 = 1 i.  4 3x
+2 – 1 = 12  
+ j.  1
+3 2a
+3 – 3 = 2 k.  m – 3
+2+ 1 = 4 l.  x + 1
+2 + x
+3  = 8 
+m.  y + 1
+2+ y – 3
+4 = 1
+2 n.  x + 3
+2– x + 1
+3 = 2
+  
+15.3  Solving simultaneous equations
+You have learnt in previous grades and in the earlier section of this lesson how to 
+find the value of the unknown by solving a linear equation.
+In this section we will learn how to solve linear equations with two unknowns.
+Suppose it is given that the sum of two numbers is 6.
+If we take the two numbers as x and y, then we can construct the equation                             
+x + y = 6, based on the given statement.
+Here,  x and y are not unique. The following table shows several different pairs of 
+values of x and y which satisfy the above equation.
+x y x + y
+– 1 7 6
+0 6 6
+1 5 6
+2 4 6
+3 3 6
+4 2 6
+5 1 6
+6 0 6
+Table 1
+By observing the above table, we can conclude that there are infinitely many pairs 
+of values of x and y which satisfy the equation  x + y = 6.
+If there is another relationship between x and y, we can construct another equation 
+and by solving both equations simultaneously we can find the values of x and y that 
+satisfy both equations.  
+ 
+79
+               For free distribution.Suppose it is given that the difference of the two numbers is 2. If we take the larger 
+number as  x, we can construct the equation  x – y = 2 , based on the given statement.
+There are infinitely many pairs of values of  x and y which satisfy this equation too 
+as can be concluded from observing the following table.
+   
+x y x – y
+6 4 2
+5 3 2
+4 2 2
+3 1 2
+2 0 2
+1 –1 2
+Table 2
+By observing Tables 1 and 2, you can see that there is only one pair of values of x 
+and y which satisfies both x + y = 6 and x – y = 2. This pair is x = 4 and y = 2. 
+Therefore, the solution of the above two equations is  x = 4 and y = 2.
+A pair of equations of this type with two unknowns is known as a pair of simultaneous 
+equations. “Simultaneous” means “occurring at the same time”.  
+Let us learn how to solve pairs of simultaneous equations using several other 
+methods which are shorter, by considering the following examples.
+Example 1
+Solve the pair of simultaneous equations  x + y = 6 and x – y = 2.  
+To facilitate finding the solution, let us label the two equations as 1 and 2 '
+x + y = 6   1 
+x – y = 2  2
+Method I
+We can name this method “the method of substitution”.
+By making x the subject of equation 2 , we can write it as   
+ x = 2 + y'
+By substituting this expression for x in equation 1  we obtain,  
+  2 + y + y = 6.
+2 + 2 y = 6
+This is a linear equation in one unknown.
+80
+For free distribution.Let us find the value of y by solving it.
+ 2 – 2 + 2 y = 6 –  2 
+                        2 y = 4
+            2y
+2 = 4
+2
+               y = 2
+                           
+We can now find the value of  x by substituing y = 2 in  x = 2 + y'
+x = 2 + 2
+x = 4
+Method II
+This method can be named “the method of elimination”.
+x + y = 6   1 
+x – y = 2  2
+First, observe that + y occurs in equation (1) and − y occurs in equation 2.
+By adding both equations we get
+x + y + x – y = 6 + 2
+Here we have used the axiom “Quantities which are obtained by adding equal 
+quantities to equal quantities, are equal”.
+Now we obtain a linear equation in x, since + y and –y cancel off. 
+Let us solve it and find the value of x.  
+              2x = 8
+      2x
+2= 8
+2
+        x = 4
+          
+To find the value of y, let us substitute x = 4 in equation  1,
+    4+ y = 6
+         4 – 4 + y = 6 – 4                             x = 4
+           y = 2                                  y = 2
+       
+Note that in the above pair of simultaneous equations, the coefficient of y was 1 in 
+one equation and −1 in the other. That is, the numerical values of these coefficients 
+are equal (when the signs are ignored). 
+81
+               For free distribution.Let us consider a few more examples. We will use the 2nd method to solve them. 
+Example 2
+Solve 2 m + n = 10
+             m – n = 2   '
+2m + n = 10   1 
+   m – n = 2   2
+Adding 1 and 2, 2m + n + m – n = 10 + 2
+                                  3 m = 12
+            3m
+3= 12
+3
+          m = 4
+             
+By substituting m = 4 in 1,
+  2  4 + n = 10
+       8 + n = 10
+   n = 10 – 8                                  m = 4
+   n = 2                                          n = 2
+   Example 3
+Solve 2 a + b = 7
+            a + b = 4'
+2a + b = 7   1 
+   a + b = 4   2
+In these equations, the coefficient of b is equal. Therefore, to eliminate b, we must 
+subtract one equation from the other.
+1 – 2,  2a + b  – (a + b) = 7 – 4 (As there is a subtraction, it is essential to use
+            brackets and write ( a + b))
+      2a + b  – a – b = 3
+      a = 3
+                 
+By substituting  a = 3 in  2,
+         3 + b = 4
+       b = 4 – 3
+       b = 1
+       
+82
+For free distribution.Example 4
+  Solve  x + 2y = 11 
+              x – 4y =  5 '
+   x + 2y = 11    1 
+   x – 4y =  5  2
+Here the coefficients of x are equal. Therefore, let us subtract one equation from the 
+other to eliminate x. 
+1 – 2, x + 2y – (x – 4y) = 11 – 5
+         x + 2y – x + 4y = 6
+6y = 6
+      6y
+6 = 6
+6
+         y = 1
+         
+By substituting  y = 1 in 1 ,
+      x + 2  1 = 11
+            x + 2  = 11
+       x + 2 – 2 = 11 – 2
+        x = 9
+        
+Exercise 15.3
+1. Solve each of the following pairs of simultaneous equations.
+a.  a + b  = 5 b.   x + y  = 8 c.   m + 2n = 7
+ a –  b = 1  2x + y = 2  m – n = 1
+d.  4c – b = 7 e.  2a + 3b = 16 f.   3k + 4l = 4
+ 4c – 2b = 2  4a + 3b = 26  3k – 2l = 16
+g. x + 3y = 12 h.  3m – 2n = 10  
+ – x + y = 8  – 3m + n = – 14
+          
+2. The sum of two numbers is 10 and their difference is 2. Taking the two numbers 
+as x and y, construct a pair of simultaneous equations and solve them.
+3. Two pens and a pencil cost Rs 32. A pen and a pencil cost Rs 20. Taking the price 
+of a pen as Rs p and the price of a pencil as Rs  q,construct a pair of simultaneous 
+equations and by solving the pair find the price of a pen and the price of a pencil.
+83
+for free distribution.        Angles of a Triangle 16
+By studying this lesson you will be able to;
+² solve simple problems using the theorem “The sum of the interior angles of a 
+triangle is 180o”,
+² solve simple problems using the theorem “The exterior angle of a triangle is 
+equal to the sum of the interior opposite angles”.
+ 
+Let us recall several results in geometry that you have learnt earlier related to 
+straight lines.
+² A pair of adjacent angles on a straight line are supplementary.
+                        
+    AOB is a straight line.
+              ∴  a + b = 180o.
+² The sum of the angles around a point is 360o.
+      
+      a + b + c + d = 360o
+   
+² The vertically opposite angles formed by the intersection of two straight lines 
+are equal.
+                                        A
+D BOC
+AB and CD are straight lines.  AOC
+> = BOD
+> and  AOD
+> = COB
+>'     abA BP
+O
+a
+b
+cd
+84
+for free distribution.² Angles related to parallel lines    
+        A
+C
+PQ
+Bad
+kn lmbc
+D
+AB CD' 
+² c = k and d = l (alternate angles)                       
+² a = k, b = l, d = n, c = m  (corresponding angles)
+² d + k  = 180o and c + l = 180o   (allied angles)
+In the lesson on triangles and quadrilaterals learnt in grade 8, we identified that;  
+² the sum of the interior angles of a triangle is 180o and the sum of the interior 
+angles of a quadrilateral is also 360o.
+     a
+b c
+  a + b + c = 180o  p + q + r + s = 360op
+rsq
+² the sum of the exterior angles of a triangle is 180o and the sum of the exterior 
+angles of a quadrilateral is also 360o.
+                              
+  a
+bc
+ a + b + c  = 360o             q
+p
+sr
+    p + q + r + s = 360o
+85
+for free distribution.Do the following review exercise to further establish the above facts. 
+Review Exercise
+a. AOB is a straight line. Find the value of  x.
+  
+110o
+xoxo
+O A B120oxo
+O A Bi. ii.
+               
+b. Find the magnitude of each of the angles a, b and x, using the information in 
+the figure.
+              a55oL
+xb
+M
+OQA
+PB
+c. AOB and POQ are straight lines. Find the magnitudes of   POB
+>,  QOB
+> and
+       AOP
+>'
+  55o45oQ
+A
+PO
+B
+d.  Find the magnitude of  ABC
+>using the information in the figure.
+  
+  70o
+80o85oA
+B
+D
+C
+86
+for free distribution.
+e. Find the value of x, using the information in the figure.
+   110o150oxo
+ 
+16.1  Interior angles of a triangle
+   C
+a b
+BAC
+a, b and c are the interior angles of the triangle ABC in the above figure. As discussed 
+earlier, the sum of the interior angles of a triangle is 180o. Hence, 
+ ABC
+> + BCA
+> + CAB
+> = 180o'
+Let us do the following activity to verify the above relationship.
+Activity 1
+Step 1 :   Draw a triangle in your exercise book and B
+Aa cb
+Cname it ABC . (The interior angles are 
+given as  a, b, c). 
+Step 2 :   Draw a straight line segment in your O Pexercise book and name it OP. 
+87
+for free distribution.
+Step 3 :   Using a straight edge and a pair of compasses, Q
+OaPcopy the angle CAB
+> (a) at O, such that O 
+is the vertex and OP is an arm. (This 
+angle is indicated as POQ
+> in the figure). 
+Step 4 :   As done above, copy the angle ABC
+> 
+abQ
+R
+O Pat O, such that O is the vertex and 
+OQ is an arm. (This angle is 
+indicated as QOR
+> in the figure).
+Step 5 :   Copy the angle ACB
+> at O, such 
+abQ
+R
+O Pc
+Sthat O is the vertex and OR is an 
+arm. (This angle is indicated as 
+ROS
+>  in the figure).  
+   
+Examine whether POS is a straight line by using a straight edge or a protractor; 
+It can be concluded that the sum of the interior angles of the triangle ABC  is 180o. 
+This can be stated as a theorem as follows.
+ 
+Theorem : The sum of the three interior angles of a triangle is 180o'
+ 
+Now let us consider a few examples to see how this theorem can be used to solve 
+problems.
+88
+for free distribution.Example 1
+   75o2x
+AB
+Cx
+ 
+Determine the magnitudes of ACB
+> and ABC
+> of the triangle ABC , using the 
+information given in the figure.  
+75o + 2x + x = 180o
+3x = 180o − 75o
+3x = 105o
+x = 105o
+3 
+= 35o 
+∴ ACB
+>= x = 35o 
+  ABC
+>= 2x = 2 × 35o = 70o   
+Example 2
+The magnitudes of the interior angles of a triangle are in the ratio 2:3:4. Determine 
+the magnitudes of these angles and giving reasons mention what type of triangle it 
+is.
+The ratio of the magnitudes of the angles  = 2: 3: 4
+∴ The fractions related to the angles = 2
+9 , 3
+9 , 4
+9  
+The sum of the three angles  = 180o
+∴ The smallest angle  = 180o×2
+920
+1 = 40o
+The medium angle  = 180o × 3
+9  = 60o 
+The largest angle = 180o × 4
+9  = 80o
+Hence, the interior angles of the triangle are of magnitudes 40o, 60o and 80o. This is 
+an acute triangle since every angle is less than 90o.
+89
+for free distribution.
+1. Find the magnitude of each angle indicated by a lowercase letter in the following 
+figures, using the information provided in the figures.
+ 
+60o
+70o xo110o25oa
+A
+78o52o
+C
+      ai. ii.
+iii.
+50o25oa
+acb
+28o105o m y
+xxxx130oiv.
+v. vi.
+65o
+125ox
+yvii. 
+      
+2. B
+D
+FECA
+70o In the given figure,  ABC
+> = CBE
+>' BCE
+> = 70o' Find 
+the magnitude of  DEF
+>. 
+Exercise 16.1
+90
+for free distribution.
+3.  P
+RSQ 35o
+55oIn the triangle  PQR , the point S is located on 
+QR such that  QPS
+> = RPS
+>. Moreover,                  
+PQS
+>= 35o and PRS
+>= 55o.
+   (i)  Find the magnitude of QPR
+> '
+  (ii) Find the magnitude of PSR
+> '
+4. In the triangle  XYZ,  X
+>+ Y
+>= 115o and Y
+>+ Z
+>= 100o' Find the magnitudes of  
+X
+>, Y
+>and Z
+>' 
+5. The ratio of the magnitudes of the interior angles of a triangle is 1: 2 : 3. Find 
+the magnitude of each angle separately and with reasons mention what type of 
+a triangle it is.
+6. An interior angle of a triangle is 75o. The ratio of the magnitudes of the 
+remaining two angles is 1 : 2. Find the magnitude of each of these angles.
+16.2 Exterior angles of a triangle
+   
+B C DA
+The side BC of the triangle ABC  shown in the figure is produced and the point D is 
+marked on BC produced. The angle  ACD
+> which is formed outside the triangle is 
+called an exterior angle of the triangle.
+The interior angle of the triangle, which is adjacent to the exterior angle ACD
+> is 
+ACB
+>. The other two interior angles which are not adjacent to the exterior angle are 
+called the interior opposite angles.
+Accordingly, in this figure, the interior opposite angles relevant to the exterior angle
+ACD
+> are CAB
+> and ABC
+>. 
+91
+for free distribution.Now, let us consider another instance.
+  
+k
+l mY XZ
+LK
+M   
+   
+In the triangle KLM in the above figure, k, l and m are the interior angles. Three 
+exterior angles have been created by producing the sides of the triangle.
+The interior opposite angles relevant to  KMY
+> are k and l'
+The interior opposite angles relevant to  MKZ
+> are l and m'
+The interior opposite angles relevant to XLK
+> are k and  m'
+ 
+Now let us develop a relationship between an exterior angle and the interior opposite 
+angles of a triangle. 
+Activity 1
+Step 1 :  Draw a triangle on a piece of Bristol board or on a thick sheet of paper 
+as shown in the figure. Produce a side to create an exterior angle. Mark 
+and shade the interior opposite angles relevant to it (Indicated by p and 
+q in the figure).
+   qp
+Q R SP
+Step 2 :   Using a blade, cut and separate out the interior opposite angles you 
+marked as laminas.
+               
+qp
+92
+for free distribution.
+Step 3 :   Place the two laminas of the interior opposite angles such that they 
+coincide with the exterior angle as shown in the figure, and paste them
+   qp
+Q R SP
+p
+q
+Compare your completed work with those of your friends. Write the conclusion that 
+can be arrived at through this activity. 
+From the above activity, we can say that the exterior angle of a triangle is equal to 
+the sum of the interior opposite angles. 
+Draw an acute triangle, a right triangle and an obtuse triangle in your exercise 
+book and in each triangle, mark an exterior angle and the relevant interior opposite 
+angles. Measure them using a protractor and verify the above relationship for the 
+three triangles by obtaining  the sum of the interior opposite angles.
+The above result can be expressed as follows. 
+  
+qp
+QR SP
+m  
+m = p + q'   
+That is,  PRS >= RPQ  >+ PQR  >'
+This can be expressed as a theorem.
+ 
+  
+Theorem :     If a side of a triangle is produced, the exterior angle so formed 
+is equal to the sum of the two interior opposite angles.
+ 
+Now, let us consider a few examples to see how this result can be used to solve 
+problems.
+93
+for free distribution.Example 1
+   
+25ox
+Find the magnitude of the angle indicated by x in the figure.
+x = 90o + 25o
+= 115o
+     
+Example 2
+Find the magnitudes of the angles denoted by x and y in the figure. 
+20O150O
+xyA
+C
+Q DB
+x + 150o = 180o  (since  AB   CD  and allied angles are supplementary)
+x = 180o −  150o = 30o  
+y = x + 20o (the exterior angle of triangle PCQ = the sum of the interior opposite 
+        angles)
+y = 30o + 20o
+= 50oP
+Exercise 16.2
+1.  Select and write the letters corresponding to the angles which are exterior angles 
+of the given triangles.
+     i.   
+c
+b
+ad
+d            ii.   
+ut
+p
+qx s
+94
+for free distribution.
+2. Find the magnitude of each angle denoted by a lowercase letter in the following 
+figures.
+75o
+138o
+a70o
+53ox  i.  ii.
+50o
+m60o
+135o
+xa iii.   iv.
+x
+78o
+52o35oa
+b  v.   vi.
+       
+    80omn
+45o128o  vii.
+50o80oy
+x viii.
+95
+for free distribution.
+3.  In the triangle  ABC  in the figure, the 
+80o50o40o
+BP Q CAS
+points P and Q are located on the 
+side BC such that  BAP
+> = CAQ
+> . 
+The side BA is produced to S.
+i. Find the magnitude of BAP
+>'
+ii. Find the magnitude of AQP
+>'
+iii. Find the magnitude of SAQ
+>'
+4.  In the triangle PQR  shown in the figure, the bisector of P
+> meets QR at S. 
+Moreover,  SPQ
+>= SQP
+>. If   SQP
+>= ao, then find   PRT
+> in terms of a. 
+   
+R S QP
+T
+Miscellaneous Exercise
+1.  In the triangle  KLM, the angle bisectors of   M
+> 
+O
+LKM
+and L
+> meet at O. Moreover,  K
+> = 70o' Find the 
+magnitude of  LOM
+>'
+2.  In the given figure, APD
+> = 140o and A
+P D
+C B Q 
+PDC
+> = 85o' Find the magnitude of  
+ABQ
+> '  
+96
+for free distribution.
+3. The sides XY and XZ of the triangle XYZ have 
+XY
+Z
+PPQ
+been produced. The bisectors of the exterior 
+angles at Y and Z intersect at P. Find   YPZ
+> in 
+terms of  X
+>.
+ 
+Summary
+² The sum of the three interior angles of a triangle is 180o'
+²  If a side of a triangle is produced the exterior angle so formed is equal 
+    to the sum of the two interior opposite angles.
+97
+For free distribution.Formulae 17
+By studying this lesson you will be able to ; 
+• change the subject of a formula,
+•	 find	the	value	of	a	variable	term	in	a	formula	when	the	values	of	the	other	
+	 variables	are	given.
+Introducing formulae
+In	grade	8	you	learnt	Euler’s	relationship	 which	is	an	equation	expressing	 the	
+relationship	 between	the	number	of	edges,	number	of	vertices	and	number	of	faces	
+in	a	solid.
+This	relationship	is	the	following.
+  Number	of	edges	=	Number	of	vertices	+	Number	of	faces	–	2
+By	taking	the	number	of	edges	as	E,	the	number	of	vertices	as	V	and	the	number	of	
+faces as F,	this	relationship	can	be	expressed	as	follows.
+E =	V	+	F –	2
+A	relationship	 between	two	or	more	quantities	expressed	as	an	equation,	is	known	
+as	a	“formula”.
+The	quantities	in	a	formula	are	known	as	variables.	In	general,	a	formula	is	written	
+with	just	one	variable	which	is	called	the	“subject	of	the	formula”	on	one	side	of	
+the	equal	sign	(usually	the	left	hand	side),	and	the	remaining	 variables	on	the	other	
+side.		For	example,	in	the	formula	 E =	V	+	F	–	2	stated	above,	 E	is	the	subject.	
+98
+For free distribution.Let	us	consider	another	formula.	Temperature	 can	be	expressed	in	degrees	Celsius	
+or	degrees	Fahrenheit.	 The	relationship	between	these	two	units	is	given	below.
+F	=		9
+5 C +	32	
+Here, F	denotes	the	temperature	 in	Fahrenheit	 and	C	denotes	the	temperature	 in	
+Celsius.	The	subject	of	this	formula	is	 F.	
+Some	formulae	that	are	frequently	 used	in	Science	and	Mathematics	 are	given	
+below.
+ p		=		2	( a	+	b)	
+ v		 =		u	+	at 
+ s		 =		n
+2	(a	+	l)
+ y		 =		mx	+	c
+ C		=		2	 πr
+A		 =		 πr2
+17.1 Changing the subject of a formula
+E is	the	subject	of	the	formula	 E	=	V	+	F –	2.	If	required,	we	can	make	either	 V 
+or F the	subject	of	this	formula.	This	can	be	done	in	a	manner	similar	to	solving	
+equations	by	using	axioms.
+As	an	example,	let	us	make	 V the subject of the formula E	=	V	+	F–	2.	
+V	is	on	the	right	hand	side	of	this	equation.		 F and	–	2	are	also	on	the	same	side	of	
+the	equation	as	V.	To	remove	the	terms	 F and	–	2	from	the	right	hand	side,	let	us	
+add	–	 F and	+	2	to	both	sides	of	the	equation.
+We	then	obtain,  E +	(–F)	+	2	=	 V	+	F –	2	+	(–F	)	+	2	'
+Now,	by	simplifying	both	sides	we	obtain,
+E –	F + 2 = V      (	since	 F+ (–F	)		=	0		and	 –	2	+	2	=	0)
+The subject V	appears	on	the	right	hand	side.
+Since	the	subject	is	usually	written	on	the	left	hand	side,	we	re-write	the	above	
+equation	as	follows	with	 V	on	the	left	hand	side.
+V	=	E	–	F	+	2   
+The	following	 examples	show	how	the	subject	of	formulae	of	various	forms	are	
+changed.
+99
+For free distribution.     Example 1
+Make	 a the subject of the formula  v = u + at '
+Here	the	variable	 a	is	multiplied	 by	the	variable  t.	Therefore,	 we	need	to	first	make	
+the term at	the	subject.
+Subtracting	 u	from	both	sides	of	 v	=	u	+	at we	obtain
+v − u = u + at − u
+ v −	u = at
+Now	by	dividing	both	sides	by  t to	make	 a	the	subject	we	obtain,
+v − u
+t = at
+t
+By	simplifying	this	we	get	the	formula	 a =  v − u
+t with	 a	as	the	subject.
+Example 2
+                                           
+Make	 n the subject of the formula S	=		n
+2	(a	+	l)	'
+S	=		n
+2	(a	+	l).	
+Here,	the	variable	 n	which	is	to	be	made	the	subject	is	divided	by	2	and	the	result	is	
+multiplied	 by	(a +	l).	Therefore	both	sides	of	the	formula	need	to	be	multiplied	 by	
+2	and	divided	by	( a	+	l)	to	make	 n	the	subject.
+By	multiplying	both	sides	by	2	we	obtain,
+2S =	21         n
+21 		(a	+	l) 
+2S = n(a	+	l) 
+Now,	by	dividing	both	sides	by  (a	+	l) we	obtain
+2S
+a + l =	n (a	+	l) 
+(a	+	l)
+11
+                                          
+2S
+a + l=	n
+n = 2S
+a + l
+100
+For free distribution.Example 3
+ 
+Make	 n the subject of the formulal  l = a + (n − 1)d'
+l = a + (n − 1)d
+Let	us	consider	the	variable	 n	which	is	to	be	made	the	subject.	Observe	that	the	right	
+hand	side	of	the	formula	is	formed	by	subtracting	 1	from	 n	to	obtain	(n − 1),	then	
+multiplying	( n − 1)	by	 d	to	obtain	( n − 1)d	and	finally	adding	 a	to	(n − 1)d.
+To	make	 n the	subject,	we	need	to	perform	the	inverse	operations	 corresponding	
+to	the	arithmetic	 operations	 performed	 in	the	above	three	steps	(i.e.,	the	inverse	
+operation	“addition”	 of	the	operation	“subtraction,	 the	inverse	operation	“division”	
+of	the	operation	“multiplication”,	etc.),	starting	from	the	last	step	and	moving	up.	
+ 
+Expressed	 in	another	way,	this	means	that	we	make	 n	the	subject	of	the	formula	by	
+using	the	relevant	axioms.
+Therefore,	let	us	first	subtract	 a	from	both	sides	of	the	equation	and	simplify.
+  l = a +  (n − 1)d
+l − a = a + (n − 1)d −	a 
+l −	a = (n − 1)d
+Now	let	us	divide	both	sides	by	 d	and	simplify.
+l −	a
+d =	(n − 1)d 
+d11
+    l −	a
+d=		n − 1 ∴ 
+Finally	let	us	add	1	to	both	sides	and	simplify.
+l −	a
+d+	1 =  n − 1	+ 1
+l −	a
+d+	1 =  n 
+n = l −	a
+d +	1 
+  
+If	required,	you	may	simplify	the	right	hand	side	further,	using	a	common	
+denominator.	However	it	is	not	essential	to	do	this.
+Exercise 17.1
+1.		Make	 r the subject of the formula C =	2πr. 
+2.	Make	 c the subject of the formula a = b −	2c'
+3.	Make	 t the subject of the formula v = u + at'
+101
+For free distribution.
+4. In the formula y = mx +		c, 
+i.  make	 c the subject '
+ii.  make	 m the subject '
+5.	Make	 c the subject of the formula a =	2	(b + c)'
+6.	Make	 C the subject of the formula F =9
+5C	+	32' 
+7. In the formula l = a	+		(n −	1)d,    
+i.  make	 a the	subject.
+ii. 	make	 d the	subject.
+8.	Make	 y the subject of the formula x
+a+	y
+b	=	1'
+9.	Make	 r2 the subject of the formula 1
+R =	1
+r1	+	1
+r2'
+10.		Make	 x the subject of the formula ax = m (x − t)'
+11.	Make	 a the subject of the formula P = at
+a −	t '
+ 
+17.2 Substitution
+Suppose	that	the	values	of	all	the	variables	in	a	formula	except	one	are	given.	By	
+substituting	these	values	in	the	formula,	the	value	of	the	unknown	can	be	found.
+Let	us	determine	 the	number	of	edges	in	a	solid	with	straight	edges,	which	has	6	
+vertices	and	5	faces.
+   
+ 
+   
+The	triangular	prism	shown	above	is	an	example	of	such	a	solid.
+We	can	find	the	number	of	edges	by	substituting	 the	values		 V	=	6	and	F	=	5	in	the	
+formula  E = V	+	F –	2.
+Substituting	 V	=	6	and	 F	=	5	in	the	formula	we	obtain,  
+E =	6	+	5	–	2	
+=	9	
+Therefore,	the	solid	has	9	edges.
+102
+For free distribution.Let	us	consider	more	examples.
+There	are	two	methods	that	can	be	used	to	find	the	value	of	an	unknown	variable	
+when	the	values	of	the	remaining	variables	are	given.	The	first	method	is	to	substitute	
+the	given	values	in	the	formula	as	it	is,	and	then	find	the	value	of	the	unknown.	
+The	second	method	is	to	first	make	the	unknown	of	which	the	value	is	to	be	
+determined	 the	subject	of	the	formula,	and	then	find	its	value	by	substituting	 the	
+given	values.	
+Let	us	now	consider	how	the	value	of	an	unknown	in	a	formula	is	found	using	these	
+two	methods.
+Example 1
+   
+Determine	 the	number	of	vertices	there	are	in	a	solid	that	has	7	faces	and	12	edges.
+We	need	to	use	the	formula	E	=	V	+	F	–	2	here.	The	values	of	F	and	E	are	given	and	
+we	need	to	find	V.		We	can	use	either	of	the	above	mentioned	 two	methods	to	find		
+V.	That	is,	we	can	first	substitute	the	given	values	in	the	formula	 E =	V +	F	–	2	and	
+then	find	the	value	of	V	by	solving	the	resulting	equation,	or	we	can	first	make  V the 
+subject	of	the	formula	and	then	substitute	the	given	values	and	simplify.
+Let	us	consider	both	methods.
+Let	us	take	the	number	of	edges	as	E,	the	number	of	vertices	as	V	and	the	number	
+of faces as F.
+Method 1
+     E 	=		V	+	F –	2
+Substituting	 E	=12	and	F =	7	we	obtain
+	 12	=	 V	+	7	–	2
+	 12	=	 V	+	5
+	12	–		5	=	 V
+7	=	V
+V	=	7	
+∴	The	number	of	vertices	is	7.	Method 2
+First	make	 V the subject of the 
+formula and	then	substitute	 the	
+values.
+  E	=		V	+	F –	2
+  E	+	2	=	 V	+	F
+ E	+	2	–  F	=	V
+ V = E + 2	–	F
+ V	=	12	+	2	–	7
+ V	=	7	
+∴	The	number	of	vertices	is	7. 
+Note:  One	reason	for	changing	the	subject	of	a	formula	is	because	the	value	of	
+the	unknown	can	then	be	found	easily	by	directly	substituting	 the	given	
+values.
+103
+For free distribution.Example 2
+   
+Convert	35oC	into	Fahrenheit	using	the	formula	 C	=	5
+9	(F –	32).
+Consider	that	the	temperature	 in	degrees	Celsius	is	denoted	by	C	and	the	temperature	
+in	degrees	Fahrenheit	is	denoted	by	 F.
+C	=	5
+9  (F –	32)
+Substituting  C	=	35,
+35			 =	5
+9 (F –	32)
+Multiplying	both	sides	by	9
+35		9		=	5	(F –	32) 
+			Dividing	both	sides	by	5
+ 735  9
+5 1=	F –	32
+63		=	 F –	32
+63	+	32		=	 F
+95		=	 F
+i.e., F	=	95
+The	given	tempreature	is	 95oF.
+Exercise 17.2
+1.	Find	the	value	of	 a	when	 b	=	7	and	c	=	6		in	the	formula	 a	=		(b	+	c)	–	2.
+2.	Find	the	value	of	 C	when	 F	=	104	in	the	formula	 C	=	5
+9	(F –	32).
+3.	Find	the	value	of	 m	when	 y	=	11,	 x =	5	and	 c	=	– 4	in	the	formula  y = mx + c. 
+4. Find	the	value	of	 r when	 A	=	88	and	 π = 22
+7 in	the	formula	 A	=	2πr.
+5. Find	the	value	of	 d	when	 l =	22,	 a	=	–	5	and	 n	=	10	in	the	formula			
+     l	=	a	+	(n	–1)d. 
+6. Find	the	value	of	 n	when	 S =	–	330,	 a =	4	and	 l	=	–	48	in	the	formula																			   
+   S	= n
+2 (a +	l).		
+104
+For free distribution.
+1. Consider	the	formula  P	=	C	(1	+	r
+100). 
+(i)	Make	 r	the	subject	of	the	above	formula.
+(ii)	Find	the	value	of	 r	when  P	=	495	and	 C	=	450.
+2. Consider	the	formula   y – c
+x= m.  
+(i)	Make	 x	the	subject	of	the	above	formula.
+(ii)	Find	the	value	of	 x	when	 y	=	20,	 c	=	–	4	and	 m	=	3.
+3. 	Consider	the	formula	 ax = bx – c.
+(i)	Make	 x	the	subject	of	the	above	formula.
+(ii)	Find	the	value	of	 x	when	 a	=	3,	 b	=	4	and	 c	=	6.
+4. 	Consider	the	formula	 a =  bx +	c
+b.  
+(i)	Make	 b	the	subject	of	the	above	formula.
+(ii)	Find	the	value	of	 b	when	 a	=	4,	 c =	5	and	 x	=	3.
+5. Find	the	value	of	 f	in	the	formula  1
+v + 1
+u = 1
+f when  v	=	20	and	 u	=	5. 
+6. Find	the	value	of	 b	in	the	formula	a
+b = p
+q when	 a	=	6,	 p	=3	and	 q	=	4.
+7. Consider	the	formula	 S	= n
+2 (a +	l).	
+(i)	Make	 l	the	subject	of	the	above	formula.
+(ii)	Find	the	value	of	 l when	 S =	198,  n = 12	and	 a = 8.
+8. Consider	the	formula	 y = mx + c.
+(i)	Make	 m	the	subject	of	the	above	formula.
+(ii)	Find	the	value	of	 m	when	 y = 8, x =	9	and	 c = 2.Miscellaneous Exercise
+105
+              For free distribution.          Circumference of a Circle 18
+By studying this lesson you will be able to;
+² find the diameter of a circle using different methods,
+² find the circumference of a circle and the perimeter of a semicircle using formulae,
+² solve problems related to the circumference of a circle.
+Do the following exercise to recall what you have learnt about circles.     
+Review Exercise
+1.  a.  Fill in the blanks using suitable words.
+i. The locus of the points on a plane which are at a constant distance from a 
+ fixed point is a. ……………..
+ii. The point right at the middle of a circle is known as its ..................
+     b. Copy the two columns A and B given below and using the given figure, join 
+ the relevant pairs.
+                                                                                     C
+BPQOAA B
+Point O 
+OA
+BC
+OB
+PQRadius
+Diameter
+Centre
+Chord
+                           
+2.  
+i.  What is the length of the diameter of a circle of radius 5 cm?
+ii.  What is the length of the radius of a circle of diameter 7 cm?
+iii.  If the radius of a circle is r and diameter is d, write an equation expressing 
+      the relationship between d and r.
+106
+For free distribution.
+Measuring the diameter and the circumference of a circle
+The total length of the boundary of a circle, or the perimeter of a circle is known as 
+its circumference .
+  
+A circular ring made from a metal wire of length 25 cm is shown in the above 
+figure. Since the length of the wire is 25 cm, the perimeter or the circumference of 
+the circle is 25 cm. 
+We cannot directly determine the diameter of a circle.
+Do the following activities to identify different methods of finding the diameter of 
+a circle. 
+Activity 1
+(a) - Measuring the diameter of a circle using a straight edge with a cm/mm scale.
+Step1 :  Draw any circle using the pair of compasses and mark its 
+centre. 
+Step2 :  Draw a diameter and measure its length using a straight edge with 
+a cm/mm scale. 
+(b) - Measuring the diameter by means of an axis of symmetry of a circular lamina.
+Step 1 :  Draw a circle on a piece of paper using an object like a coin or a 
+bangle and cut it out.
+Step 2 : Fold the circular lamina into two equal parts (such that the two 
+parts coincide) and mark the axis of symmetry on it.
+Step 3 : Since the axis of symmetry is a diameter of the circle, measure 
+the length of the axis of symmetry and obtain the length of the 
+diameter.  
+107
+              For free distribution.
+(c)- Measuring the diameter using set squares.
+Step 1 : Take a ruler, two set squares, a circular coin, a bangle and a 
+  cylindrical can.
+Step 2 : Place the bangle and the set squares as shown in the figure, touching 
+the ruler. Find the diameter of the bangle using the two readings 
+denoted by A and B.
+ 12345610
+12345678910
+789
+A B1 3 5 7 9 2 4 6 8 10 11 12 13 14 15 16
+Step 3 : Find the diameters of the remaining circular objects too by doing 
+the above activity and note them down in your exercise book.
+1. Keep the right angled corner of a piece of paper on 
+Q Pa circle as shown in the figure. The distance 
+between the two points( P and Q) where the 
+arms of the 90o angle meet the circle is the 
+length of the diameter of the circle.
+2. Make an instrument as shown in the figure: 
+1 3 5 7 9 2 4 6 8 10 11Q PDraw an angle and its bisector on a Bristol 
+board and calibrate the bisector  from the 
+vertex.  The length of the diameter of a circle 
+can be measured as shown in the figure.
+Different methods of finding the diameter
+108
+For free distribution.
+18.1 Measuring the circumference of a circle
+Do the following activities in order to find out the methods used to measure the 
+circumference of a circular lamina such as a coin.
+Activity 2
+1. Mark a point on a piece of thread and with the thread 
+stretched, place it around the circular lamina until it reaches 
+the initial point that was marked. Mark the final point on 
+the thread when it coincides with the initial point, and 
+measure the length between the two points marked on the 
+thread to find the circumference of the coin.
+2. Draw a straight line on a piece of paper. 
+Keep it on a flat surface. Mark a point on 
+the circumference of the circular lamina 
+and also on the straight line. Place the 
+circular lamina on the straight line such 
+that the two marks coincide and then role 
+it along the straight line until the point marked on the circular lamina  touches 
+the line again. The length of the circumference is obtained by measuring the 
+distance the circular lamina has moved along the straight line.
+Developing a formula for the circumference of a circle
+Do the following activity to identify the relationship between the circumference 
+and the diameter of a circle.
+Activity 3
+Complete the table given below by measuring the circumference and the diameter 
+of objects with circular faces, using the methods introduced above.
+Object Diameter  d Circumference c
+  c
+d up to two decimal places
+1. Circular lamina 
+made of cardboard
+2. Rs 2 coin
+3. Circular lid of a tin
+4. Compact Disk 
+(CD)
+109
+              For free distribution.Compare the values you obtained for c
+d  in the above activity with the values 
+obtained by your friends and write your conclusion regarding the value of  c
+d.
+Through the above activity you would have obtained a value for c
+d which is 
+approximately 3.14 for every object you considered. Mathematicians have 
+discovered that c
+d  is a constant value for all circles. This constant value is denoted 
+by π. It has been shown that this value is 3.14 to the nearest second decimal and is 
+approximately equal to the fraction 22 
+7.
+Accordingly,
+c
+d  =  π .                                         
+           That is,
+c = πd. 
+This is a formula giving the relationship between the circumference and the 
+diameter of a circle. A formula giving the relationship between the radius and the 
+circumference of a circle can be derived as follows.
+Since d = 2r we obtain c = π × 2r.
+ i,e.,
+c = 2πr
+If the circumference of a circle is denoted by c, the diameter by d and the radius 
+by r, then,
+c = πd
+c = 2πr
+Example 1
+Find the circumference of a circle of radius 7 cm.
+Use  22 
+7for the value of π.
+Circumference c = 2πr  
+=  2 ×22
+7×71
+= 44
+∴ the circumference is 44 cm '
+110
+For free distribution.
+Exercise 18.1
+1. Find the circumference of the circle with the measurement given below .
+    Use  22 
+7for the value of π.
+i. radius 7 cm  v. radius  7
+2 m
+ii. diameter  21 m   vi. diameter   28 cm
+iii. radius  10.5 cm      vii. radius  15.4 cm
+iv. diameter  17 1
+2 m          viii. diameter  3 1
+9 m
+18.2 Perimeter of a semicircular lamina
+When a circular lamina is separated into two equal 
+rparts along a diameter, each part is known as a 
+semicircular lamina (in short, semicircle). 
+The length of the curved line of a semicircle is known 
+as the arc length. It is exactly half the circumference. 
+Hence, the arc length of a semicircle of radius r = 1
+2×(2πr)1
+= πr
+It is clear from the figure that, to find the perimeter of a semicircle, the diameter 
+should be added to the arc length.
+  ∴ The perimeter of a semicircle = πr + 2r
+Example 1
+Find the perimeter of the semicircle shown in the figure. Use  22 
+7for the value of π.
+Arc length of a semicircle of diameter d  = 1
+2 πd              
+21 cm∴Arc length of the semicircle of diameter 21 cm  = 1
+2× ×22
+721
+1 1311
+  
+= 33
+∴ The perimeter of the figure = 33 + 21 = 54 cm
+111
+              For free distribution.Example 2
+A compound figure, consisting of two semicircular laminas of radius 14 cm and 
+diameter 14 cm respectively is shown in the figure. Find its perimeter . 
+Use  22 
+7for the value of π. 
+    
+ 
+14 cm
+                 
+Arc length of a semicircle of radius r =  1
+2 × 2πr                       
+∴ Arc length of the semicircle of radius 14 cm =  1
+2×× ×22
+7= 14 44cm cm
+11
+12
+2  
+Arc length of a semicircle of diameter d = 1
+2πd  
+∴ Arc length of the semicircle of diameter 14 cm  = 1
+2× ×22
+7= 14 22cm cm
+1 1211
+ 
+∴Perimeter of the figure = 44 + 22 + 14 cm
+= 80 cm
+           
+        
+Exercise 18.2
+1. Find the perimeter of the semi circular lamina with the measurement given 
+below. Use 22 
+7for the value of π.
+    i. r =14cm                  ii. d =7 cm 
+2. Find the permeter of the shaded part of each of the figures given below. The 
+curved parts in the figures are semicireles .Use  22 
+7for the value of π.
+14 cm
+10.5 cm7 cm
+5 cm7 cmii. iii. i.
+112
+For free distribution.
+18.3 Problems related to the circumference of a circle
+Example 1
+A wheel of radius 35 cm moves along a straight road.
+i.  Find in metres, the distance it moves during one full rotation.
+ii.  What is the distance it moves in metres during 100 rotations?
+iii.  How many rotation does the wheel undergo when travelling a distance 
+      of 1.1 km? ( Use  22 
+7for the value of π.) 
+i.  During one full rotation of the wheel, it moves a distance which is equal
+     to its circumference.
+   Circumference  =  
+12× ×22
+7= 35 220cm cm5
+    ∴ The distance travelled during one full rotation = 2.2 m
+                                                                                      
+ii.  Distance travelled during 100 rotations   = 2.2 m × 100
+= 220 m
+                                     
+iii.  Distance travelled = 1.1 km
+= 1100 m
+         Distance travelled during one rotation of the wheel = 2.2 m
+    Therefore, number of rotations  = 1100
+2.2
+ = 500
+                                                      
+Example 2
+A circular frame is made by joining the two ends of a wire of length 66 cm. Find 
+its radius.
+Let us assume that the radius is r cm.  
+ 
+113
+              For free distribution.c = 2πr
+2× ×22
+7=r66
+r = 66×7
+22×1
+23
+1
+ =  21
+2 
+ = 10.5 cm
+∴ The radius is 10.5 cm.
+Use  22 
+7for the value of π.
+1.  A lamina composed of  two  semicircles  is shown in the 
+4.2 cm1.4 cmfigure. This is pasted on an ornamental box. A gold 
+thread is to be pasted around the lamina.
+ 
+(i) Find the minimum length of thread required to paste around this lamina?
+(ii) Find the total length in metres of the thread required to paste around 500 
+      such laminas. 
+2. The circumference of a circular plot of land is 440 m. Find its radius.
+3. The perimeter of a semicircular lamina is 39.6 cm. Find its diameter .
+4. A sketch of a playground is shown in the 
+110 m70 m figure. It consists of a rectangular part 
+and two semicircular parts.
+ 
+   (i)  Find the perimeter of the playground. 
+(ii)  Show that the distance covered by a runner in completing 2 1
+2 rounds of the 
+playground is more than 1 km.
+5. A cyclist rides a bicycle along a straight road. The radius of each wheel of the 
+bicycle is 28 cm.
+(i) Find the distance the bicycle moves during the period athat the wheels 
+complete one full rotation.
+Exercise 18.3
+114
+For free distribution.
+(ii) What is the distance the bicycle moves in meters during the period that the 
+      wheels complete 50 rotation?
+(iii) The cyclist says that the wheels rotate at least 800 times when it travels
+  a distance of 1500 m. Do you agree with this statement? Give reasons for 
+ your answer.
+1.  Find the perimeter of the shaded part of each figure.
+25 cm15 cm 10.5 cm
+40 cm10.5 cmi. ii. 
+ 
+2.    
+a a
+2a
+4a
+8 
+ 
+ Show that the length of metal wire needed to make the frame shown in the 
+figure which consists of 4 semicircular parts is  135a
+28 ' ( Use  22 
+7for the value 
+of π.)
+3. A paper clip with semi circular parts is to be made according to the given 
+measurements. Find the  length  of the wire needed to make  the clip in the 
+figure.
+  
+ 3.5 cm
+2 cm2.1 cm1.4 cm
+0.7 cm   Miscellaneous Exercise
+115
+              For free distribution.
+ Summary
+In acircle of radius r, diameter d and circumference c,
+²  c = πd
+²  c = 2πr  
+²  The perimeter of a semicircle = πr + 2r
+116
+For free distribution.  Pythagorean Relation 19
+By studying this lesson, you will be able to;
+ ²develop the Pythagorean relation by means of a right angled triangle,
+ ²solve problems related to the Pythagorean relation.
+ 
+Right angled triangle
+If an angle of a triangle is 90o, it is called a right angled triangle. The side which 
+is opposite(in front of) the right angle and which is the longest side of the triangle 
+is called the hypotenuse. The other two sides  are called  the  sides  which  include  
+the right angle. 
+Considering the right angled triangle ABC  given below;
+    A
+BC ABC
+> = 90o
+ AC  is the hypotenuse,
+ AB and BC are the sides which include the right angle.
+  
+Activity 1
+Complete the table given below by identifying all the right angled triangles in the 
+figure. 
+  
+A BC D
+O  Triangle Hypotenuse Sides that include the 
+right angle
+AOB
+.........
+.........
+.........
+.........
+.........AB
+.........
+.........
+.........
+.........
+.........AO, BO
+.........
+.........
+.........
+.........
+.........
+   
+117
+For free distribution.
+19.2 The Pythagorean relation
+A Greek mathematician named Pythagoras introduced the relationship between 
+the sides of a right angled triangle. Let us understand this relationship through an 
+activity. 
+Activity 1
+  QP
+R3 cm4 cm
+Draw a right angled triangle  PQR  with QR = 3 cm and QP = 4 cm. You may use 
+a set square to do this. Measure the hypotenuse PR and verify that it is 5 cm in 
+lenghth. Cut three squares of side length 3 cm, 4 cm and 5 cm and paste them on 
+the sides RQ, QP and PR respectively, as shown in the figure given below.
+Now let us calculate the area of each square as shown below.
+ 
+             
+3 cm16 cm2
+P
+Q R5 cm
+4 cm25 cm2
+9 cm2
+The area of the square pasted on  QR = 3 cm × 3 cm = 9 cm2
+The area of the square pasted on  QP = 4 cm × 4 cm = 16 cm2
+The area of the square pasted on  PR = 5 cm × 5cm = 25 cm2
+ 
+ 
+  
+118
+For free distribution.Observe the relationship between the above values as given below.
+the area of the 
+square on QRthe area of the   
+square on PQ +  the area of the 
+square on PR =  
+   
+Repeat the above activity by taking the lengths of the sides of the triangle which 
+include the right angle as 6 cm and 8 cm to verify the above relationship for these 
+values too.  
+The Pythagorean relation for a right angled triangle can be expressed as follows. 
+ 
+The area of the square drawn on the hypotenuse of a right angled 
+triangle is equal to the sum of the areas of the squares drawn on the 
+remaining two sides. 
+Though the Pythagorean relation is shown using areas, we can write it simply in 
+terms of the lengths of the sides of the triangle. Let us see how this is done.
+Writing the Pythagorean relation in terms of the lengths of the side
+BA
+CThe area of the square drawn on  AB = AB × AB = AB2 
+The area of the square drawn on  BC = BC × BC = BC 2
+The area of the square drawn on AC = AC × AC = AC 2
+Therefore, according to the Pythagorean relation;
+AC 2 = AB 2 + BC 2
+We can express this as follows too.
+QP
+Ra cmb cm
+c cmAccording to the Pythagorean relation
+a2 = b 2 + c 2
+119
+For free distribution.Example 1
+In the right angled triangle PQR, PQ = 8 cm and  QR = 6 cm. Find the length of  PR.
+By applying the Pythagorean relation to the right angled triangle  PQR,
+   PR2 = PQ2 + QR2
+PR2 = 82 + 62
+         = 64 + 36
+         = 100
+PR = 100 = 10 
+∴ the length of  PR = 10 cm'                              
+                                                          8 cm
+6 cmP
+R Q
+Exercise 19.1
+y
+z
+x
+6 cm10 cm
+8 cmp
+a
+r(i) (ii)
+(iii) (iv)M L
+Nx cm
+3 cm
+y cm1.  Write the Pythagorean relation for each right angled triangle using the given 
+lengths.
+120
+For free distribution.
+2. Fill in the blanks in the expressions related to the figures shown below .
+Q P
+RA
+CBAD
+O
+C B(i) (ii) (iii)
+AC2 = AB2 + ....... PR2 = .......+ ....... a. AD 2= .......+ .......
+ b.  .......= BO 2+ .......
+  c. .......= BO 2+ OC 2
+  d. DC 2 = .......+ .......
+3. Identify all the right angled triangles in each figure given below and write the 
+Pythagorean relation for each triangle that is identified.
+  
+        A BD CQ
+PX
+P
+QZ Y
+i. ii.
+4. Fill in the blanks in the statements given below which are related to the right 
+angled triangle in the figure.
+               A
+B C5  cm12 cm 13 cm
+121
+For free distribution.
+The longest side of the triangle is ............... '
+The area of the square drawn on the side AB  =  12 × 12 = 144 cm2  
+The area of the square drawn on the side BC =  ........... = ........... cm2 
+The area of the square drawn on the side AC =  ........... = ........... cm2
+The sum of the areas of the squares drawn on the sides BC and BA = ......... cm2 . 
+∴ The areas of the square drawn on AC is ............ (equal/not equal) to the sum of 
+the areas of the squares drawn on BC and BA. 
+Now let us consider some problems which can be solved using the Pythagorean 
+relation.
+Example 2
+A 5m long straight wooden rod is in a vertical plane with one end touching the top 
+of a 4m high vertical wall and the other end in contact with the horizontal ground 
+a certain distance away from the foot of the wall. Find the horizontal distance from 
+the  foot of the wall to the point where the rod is in contact with the ground. 
+We can draw a rough sketch of this as shown below. Here the wall and the wooden 
+rod are represented by BA and AC respectively. 
+    A
+B C4 cm5 cm
+Applying the Pythagorean relation to the right angled triangle ABC 
+ AC 2 = AB 2 + BC 2
+    52 = 42 + BC 2
+   25 = 16 + BC 2
+                               ∴ BC 2 = 9
+                                 BC = 9 = 3
+∴ The horizontal distance from the foot of the wall to the wooden rod is 3m.
+122
+For free distribution.
+Exercise 19.2
+1.  Find the length of each side indicated by an algebraic symbol in each figure.
+4 cm
+y5 cm
+y9 cm12 cmm
+8 cm 10 cmi. ii. iii.
+8 cm 10 cm
+9 cmq
+piv.
+2. Find the perimeter of each figure given below.
+AD
+C B 8 cm6 cmS
+R
+Q P13 cm
+3 cm
+4 cm
+U
+S TV10 cm
+6 cm 15 cmD
+C
+BEA4 cm5 cm
+5 cm13 cmi.
+iii. iv.ii.
+123
+For free distribution.
+3.
+  i.
+   
+AD
+OC
+BThe diagonals BD and AC of the rhombus ABCD 
+bisect each other perpendicularly at O. Moreover, 
+BD = 16cm and AC = 12cm. Find the perimeter of 
+the rhombus.
+  
+  ii.
+ 
+A BC D
+If the length of the diagonal AC of the square ABCD is 
+10cm, find the area of the square.
+  iii.
+O
+Q P
+SR In the circle with centre O shown in the figure, the midpoint 
+of the chord PQ is R. Moreover, OR produced meets the circle 
+at S. If ORP
+> = 90o,ORP
+> PQ= 12 cm and  OR= 8 cm, find
+i. the length of  RQ,
+ii. the radius of the circle, 
+ iii. the length of RS.
+4.   In the triangle ABC ,  ABC
+> = 90o  , AB = 8 cm and BC = 6 cm. The mid points 
+of BC and BA are R and P. Find the perimeter of the quadrilateral APRC .
+124
+For free distribution.
+1.  
+Oxy
+^4" 5&^10" 13&B
+AFind the shortest distance between the point 
+A = (4, 5) and B = (10, 13) located on a 
+Cartesian plane.
+2.  The city Q is located 5 km east of the city P and the city R is located 12 km 
+north of the city Q. Find the distance between the two cities P and R.
+3.  To ke ep a 16m tall flag post vertical, one end of a supportive cable is attached 
+to the top of the post while the other end  is fixed to a point on the ground 
+(horizontal), 12m from the foot of the flag post. Another cable is fixed from  
+the opposite direction, with one endattached to the flag post, 12m above its        
+foot, and the other to the ground, 9m from its foot. Calculate the total length of 
+the cable that has been use d.
+4. 
+9 m
+12 mA tree which was 
+struck by a tornado  
+is shown in the  
+figure. Find the 
+height of the tree 
+before it was  
+struck.  Miscellaneous Exercise
+ 
+ 
+     
+ 
+Summary
+In the ABC right angled triangle 
+      AC 2 = AB 2 + BC 2
+    c2 = a 2  + b 2  
+BA
+Ca
+bc
+125
+For free distribution.
+                      Graphs 20
+By studying this lesson you will be able to;
+ ² identify functions,
+ ² draw graphs of functions of the form  y = mx  and y = mx + c and identify their 
+characteristics,
+ ² identify the gradient and intercept of a straight line graph,
+ ² plot straightline graphs of equations of the form  ax + by = c 
+ ²  identify the relationship between the gradients of straight lines which are parallel 
+to each other.
+Do the following exercise to recall what has been learnt in previous grades regarding 
+graphs.
+1. i.  Draw a coordinate plane with the  x and y axes marked from – 5 to 5 and 
+mark the points A (– 4,– 4) and B (4,– 4) on it. Mark the points C and D 
+such that ABCD  is a square and write the coordinates of C and D. 
+ ii.  Write the equation of each side of the plane figure ABCD' 
+2. Draw a coordinate plane with the  x and y axes marked from  – 4 to 4.
+i. Draw two straight lines, one parallel to the x axis and the other parallel to the 
+y axis passing through the point  (4, – 4). 
+ii. Draw another two straight line, one parallel to the x axis and the other parallel 
+to the y- axis passing through the point  (– 3, 2). 
+iii. Write the coordinates of the two points at which the lines in (i) and (ii) above 
+intersect each other. 
+  iv. Write the equations of the axes of symmetry of the plane figure obtained in 
+(iii) above. Review Exercise
+126
+For free distribution.
+20.1 Functions
+We have come across relationships between different quantities in various situations. 
+Carefully observe the relationship between the two quantities given below. 
+Let us suppose that beads are sold at 10 rupees per gramme. The prices of different 
+amounts of beads is shown below.  
+       Beeds (g)               Price (Rs)
+  1      1  10 = 10
+  2      2  10 = 20
+  3      3  10 = 30
+  4      4  10 = 40 
+Accordingly, it is clear that the price of x grammes of beeds is Rs 10 x. Moreover, if 
+the price of x grammes of beeds is represented by Rs y, then we can write y = 10 x.
+Let us take the amount of grammes of  beeds as x and the corresponding price as Rs y.
+By plotting the price ( y) against the amount of grammes of beeds ( x) for different 
+values of x using the above relationship, we obtain the following graph.
+ 
+   
+  1  10  20  30  40  50
+  2  3  4  5 x  y
+In the above function y = 10x, the index of the independent variable x is 1. Therefore 
+it is called a linear function. 
+When a linear function is given, the values of y corresponding to different values of 
+x can be found as follows.
+ 
+Example 1
+For each of the linear functions given below, calculate the values of y corresponding 
+to the given values of x and write them as ordered pairs.
+   i.  y =  2x ^values of x: –2, –1, 0, 1, 2&
+  ii.  y = – 3
+2 x + 2 ^values of x: –4, –2, 0, 2, 4&
+127
+For free distribution.   i.  y = 2x      ii.  y = – 3
+2 x + 2
+x      2x y Ordered 
+pairs (x, y)x– 3
+2 x + 2y Ordered pairs  
+(x, y)
+– 2 2  – 2 – 4(– 2, – 4) – 4– 3
+2  – 4 + 28 (– 4, 8)
+– 1 2  – 1– 2(– 1, –2) – 2– 3
+2  – 2 + 25 (– 2, 5)
+0  2  0 0 (0, 0) 0– 3
+2  0 + 22 (0, 2)
+1  2  1 2 (1,  2) 2– 3
+2  2 + 2– 1 (2, – 1)
+2  2  2 4 (2,  4) 4– 3
+2  4 + 2– 4 (4, – 4)
+ 
+Find the values of y corresponding to the given values of x and write them as 
+ordered pairs. 
+  i.  y = 3x  ^values of x: – 2, – 1, 0, 1, 2 &
+  ii.   y = 2x + 3  ^values of x:– 3, – 2, – 1, 0, 1, 2, 3 &
+ iii.   y = – 1
+3 x – 2  ^values of x: – 6, – 3, 0, 3, 6 & 
+Exercise 20.1 
+20.2 Functions of the form y = mx and the gradient of the graph 
+of such a function
+Linear functions such as y = 3x, y = –2x and y = x  are examples of functions of the 
+form y = mx . Let us obtain ordered pairs of values of x and y  by constructiong a 
+table as follows, to draw the graph of y = 3x for the values of x from –2  to +2. 
+                                                              y  = 3x 
+x  3x y  (x, y)
+– 2 3  –2 – 6 ( –2, – 6)
+– 1 3  –1 – 3 (– 1, – 3)
+0 3  0 0 (0, 0)
+1 3  1 3 (1, 3)
+2 3  2 6 (2, 6)
+128
+For free distribution.By plotting the above ordered pairs in a coordinate plane, we obtain the graph of the 
+function y = 3x as shown below. 
+ 
+ –1   1   2   3   4  –2  –3  –4  –5xP
+Q  y
+ 5
+ 4
+ 3
+ 2
+ 1  6
+0
+   –1
+   –2
+   –3
+   –4
+   –5
+   –6positive direction of the  x - axis
+acute angley = 3x
+ 
+Let us consider some characteristics of the above drawn graph. 
+   ² The graph is a straight line
+   ² It passes through the point (0, 0)  
+   ² It makes an acute angle counterclockwise with the positive direction of the  
+     x - axis
+  ² When any point on the line other than the origin is considered, the value of   
+y coordinate
+x coordinate of that point is a constant (a constant value).
+For example,
+ when the point  P is considered,  y coordinate
+x coordinate = 6
+2 = 3
+ when the point  Q is considered,  y coordinate
+x coordinate  = – 3
+– 1 = 3
+Moreover, this constant value is equal to the coefficient m of x of a function of the 
+form  y = mx. This constant value is called the gradient  of the graph.
+129
+For free distribution.The gradient can be a positive value or a negative value. 
+Now, let us explain the behavior of functions of the form y = mx  through the activity 
+given below.   
+Activity 1
+1. a.  Complete the tables given below for the selected positive values of m to 
+obtain coordinates of points to draw the graphs of the given functions of the 
+form    y = mx,  and draw the graphs on one coordinate plane.
+        (i) y = x   (ii) y = +3x   (iii) y = + 1
+3 x
+x– 2 0 2 x– 1 0 1 x– 3 0 3
+y____ ____ +2 y– 3____ ____ y____ ____ + 1  
+b. Complete the tables given below for the selected negative values of m to obtain 
+coordinates of points to draw the graphs of the given functions of the form              
+y = mx and draw the graphs on one coordinate plane.
+    (i) y = – x   (ii) y = – 3x   (iii) y = – 1
+3 x
+x– 2 0 2 x– 1 0 1 x– 3 0 3
+y____ ____ –2 y____ 0____ y 1____ ____
+Observe the relationship between the angle that a graph makes with the positive 
+direction of the x -axis and the gradient (value of m) by considering the graphs 
+obtained in ( a) and ( b) above.
+By doing the above activity you would have obtained the following graphs. 
+(a) Graphs obtained when the gradient is positive
+                      
+x  y
+0y = 3x
+y = x
+y = 1
+3x        
+ 
+³  When the gradient (value of m) is positive,  the angle that the graph forms counter 
+clockwise with the positive direction of the x-axis is an acute angle. 
+130
+For free distribution.³ As the value of the gradient increases in the order  1
+3, 1, 3  the magnitude of the 
+angle formed by the graph of the function with the positive direction of the x-axis 
+counterclockwise increases. 
+(b) Graphs obtained when m is negative 
+                        x  y
+0y = –3x
+y = –x
+y = –1
+3x       
+³ When the value of the gradient (value of m) is negative, the angle formed with the 
+positive direction of the x-axis counterclockwise is an obtuse angle. 
+³ As the value of the gradient (value of m) increases in the order  – 3, – 1, – 1
+3 the 
+magnitude of the angle formed by the graph of the function with the positive 
+direction of the x-axis counterclockwise increases. 
+ The gradient of the graph of the 
+function y = – x is –1. This means 
+that when the value of x increases by 
+one unit, the value of y decreases by 
+one unit.   The gradient of the graph of the 
+function  y = x  is 1. This means 
+that when the value of x increases 
+by one unit, the value of y also 
+increases by one unit. –1
+–1  1 –2  y
+ 1 2
+0y = 
+–x
+  1   2 xx  y
+ 2
+ 1
+0y = xNote:  Gradient of a graph
+131
+For free distribution.
+Example 1 
+Write the gradient of the graph of each of the functions given below without 
+drawing the graph.
+i. y = 2x
+ii. y = – 5x
+iii. y = – 1
+2 x
+i. Gradient  ^m& = 2
+ii. Gradient   ^m& = – 5
+iii. Gradient  ^m& = – 1
+2 
+Example 2 
+ i.   Draw the graphs of the functions y = 2x and y = –3 x on the same coordinate
+      plane by selecting suitable values for x.
+ ii.  Using the above drawn graphs, find the value of x when y = 3, and the value of  
+      y when x = 2.5.
+ i. y = 2x 
+                                  
+x – 2 – 1 0 1 2
++2x2   – 22   – 12  02  12  2
+y – 4 – 2 0 2 4
+   (– 2, – 4) (– 1, – 2) (0, 0) (1, 2) (2, 4)
+ y = –3x
+x –2 –1 0 1 2
+– 3x– 3  – 2– 3  – 1– 3  0– 3  1– 3  2
+y 6 3 0 – 3 – 6
+   (– 2, 6) (– 1, 3) (0, 0) (1, – 3) (2, – 6)
+By plotting the above ordered pairs on the same coordinate plane, graphs of the 
+following form will be obtained. 
+132
+For free distribution. –1   1   2   3   4  –2  –3  –4  –5 x  y
+ 5
+ 4
+ 3
+ 2
+ 1  6
+0
+   –1
+   –2
+   –3
+   –4
+   –5
+   –6
+   –7
+   –8y = 2x
+y = –3x 
+ii.  To find the value of y when x = 2.5,the line x = 2.5,should be drawn (indicated by 
+the red line) and the y -coordinate of the points of intersection of this line with 
+the two graphs should be obtained. 
+If we consider the function y = 2x, the value of y is 5 when the value of x is 2.5
+If we consider the function y = – 3x, the value of y is – 7.5 when the value of x is  2.5
+To find the value of x when y = 3, the line y = 3 should be drawn (indicated by the 
+green line) and the x - coordinate of the points of intersection of this line with the 
+two graphs should be obtained. 
+If we consider the function y = 2x, the value of x is 11
+2 when the value of y is 3.
+If we consider the function y = – 3x, the value of x is –1 when the value of  y is 3.
+133
+For free distribution.
+Exercise 20.2 
+1. For each of the functions given by the 
+x  yl2
+l1l3
+l4 following equations, select and write the 
+ corresponding graph, from the graphs  l1, 
+l2, l3, and l4 .
+      i.  y = 3x      ii. y + 2x = 0  
+iii. 2y – x = 0       iv. y +  3
+2x = 0
+2.    The value of a Singapore dollor in Sri Lankan rupees is 100. By taking the 
+amount of Singapore dollors as x and the corresponding value in Sri Lankan 
+rupees as y, the relationship between Singapore dollors and Sri Lankan rupees 
+can be written as a function as y = 100 x.
+  i.  Prepare a suitable table of values to draw the graph of the above function. 
+ (Use the values 1, 2, 3 and 4 for x)
+ ii.  Draw the graph of the above function.
+iii.  Using the above drawn graph, find the value of 4.5 Singapore dollors in Sri 
+      Lankan rupees.
+iv.  Using the graph, find how much 250 Sri Lankan rupees are in Singapore                    
+  dollors.
+     
+3. For the statements given below, mark a  zZ in front of the correct statements and 
+a zZ in front of the incorrect statements. 
+i. For functions of the form y = mx , the direction of the graph is decided by the 
+sign of m.  (....)
+ii. When the graph of a function of the form  y = mx is given, the graph of
+    y = – mx cannot be obtained by considering symmetry about the y - axis. (....)
+ iii. For a straight line passing through the origin, the ratio of the y - coordinate to 
+the x - coordinate of any point on the line other than the origin is equal to its 
+gradient.  (....)
+iv.  Although the poin t (– 2, 3) lies on the straight line given by 2 y + 3x = 0, it does 
+not lie on the straight line given by 2 y – 3x = 0. (....)
+v. The graph of a function of the form y =  mx  need not pass through the point 
+(0,0). (....)
+134
+For free distribution.
+4. i.  Construct a table of values to draw the graphs of the functions given by
+  y = 1
+3 x, 3y = 2x and y = – 11
+3 x by taking the values of x to be – 6,– 3, 0, 3 
+  and 6.
+  ii.  Draw the above graphs on the same coordinate plane.  
+  iii.  Write the x - coordinate of each of the three points at which the line y = 1 
+ intersects the above three graphs. 
+  
+5. i.   Fill in the blanks in the incomplete table given below to draw the graph of 
+the function  y = – 2
+3 x. 
+x – 6 – 3 0 3 6
+y 4 ____ ____ – 2____
+ii.  Draw the graph of the above given function using the values in the completed 
+ table.
+iii. Using the graph, find the value of y when x = – 2. 
+iv.  Does the point  (– 2
+3, 2
+3) lie on the above graph? Explain your answer with 
+      reasons.
+v.  Using the coordinates of three points on the line, calculate the ratio of the 
+ y - coordinate to the x - coordinate. Write the relationship between this value 
+ and the gradient. 
+20.3 Graphs of functions of the form  y = mx + c  and functions given by
+         ax + by = c
+Graphs of functions of the form  y = mx + c
+Let us first consider functions of the form y = mx + c. Let us draw the graph of the 
+function  y =3x +1.
+To do this, let us first develop a lable of  values as shown below. 
+                             y = 3x + 1 
+x 3x + 1 y (x, y )
+ – 2 3  – 2 + 1 – 5 (– 2, – 5)
+ – 1 3  – 1 + 1 – 2 (– 1, – 2)
+ 0 3  0 + 1 1 (0, 1)
+ 1 3  1 + 1 4 (1, 4)
+ 2 3  2 + 1 7 (2, 7)
+135
+For free distribution.The graph that is obtained when the function is plotted on a coordinate plane using 
+the ordered pairs in the above table of values is shown below.
+ –1   1   2   3   4  –2  –3  –4  –5 x  y
+ 5
+ 4
+ 3
+ 2
+ 1  6  7
+0
+   –1
+   –2
+   –3
+   –4
+   –5
+   –6y = 3x + 1
+By observing the above graph, the following characteristics can be identified. 
+  ² It is a straight line graph.
+  ²  The straight line intersects the y - axis at (0, 1).
+  ²  The straight line makes an acute angle counterclockwise with the positive   
+ direction of the x- axis. The value of m of this line is + 3. This means that when 
+ the variable  x increases by 1 unit, the variable  y increases by 3 units. 
+  ²  The value representing c in the equation y = 3 x + 1 is + 1. The y cordinate of 
+the point at which the straight line intersects the y - axis is also 1. These two 
+values are equal. 
+The distance, from the origin to the point where the straight line intersects the  
+ y - axis is known as the intercept . The intercept of this line is + 1. 
+Accordingly, the gradient of the graph of a function of the form y = mx + c is m and 
+the intercept is c. 
+136
+For free distribution.
+Example  1 
+Prepare a suitable table of values and draw the graph of the function y = x − 2. 
+Using the graph, find the following.
+i. The intercept.
+ii. The value of y when x = 2.5
+iii. The value of x when  y =  – 1
+2   
+                                   y  = x − 2. 
+x – 1 0 1 2 3
+y = x – 2 – 3 – 2 –1 0 1
+ –1   1   2   3   4  –2 x  y
+ 3
+ 2
+ 1
+0
+   –1
+   –2
+   –3
+   –4y = x – 2
+i. Intercept  (c) = – 2.
+ii.  y = 1
+2  when  x = 2.5.
+iii.  x =  1 1
+2  when y = – 1
+2.
+Example  2 
+Without drawing the graph, write the gradient and the intercept of the graph of each 
+of the functions given by the following equations.
+i.  y = – 2x + 5
+ii. y + 3x = – 2
+137
+For free distribution.i.  y = – 2x +5 is of the form y = mx + c. 
+  Accordingly, the gradient ( m) = – 2
+  The intercept (c) = 5 
+ii.  Let us first write  y + 3x = − 2 in the form y = mx + c.  
+ That is, y = −3x −2.
+ Accordingly, the gradient ( m) = − 3
+ The intercept ( c) = −2
+Example  3 
+Prepare suitable tables for the functions  y = 2x, 
+y = 2x + 1 and y = 2x−3, and draw their graphs on the same coordinate plane.
+i. Write the gradient and intercept of each graph by observing the equation.
+ii. Write a special feature that you can observe in the graphs.
+x–1 0 1
+y–2 0 2x–1 0 1
+y–1 1 3x–1 0 1
+y–5–3–1y = 2x y = 2x + 1  y = 2x – 3
+   –1   2  3   1   4  –2  –3  –4 x  y
+ 5
+ 4
+ 3
+ 2
+ 1
+0
+      –1
+   –2
+   –3
+   –4
+   –5y = 2xy = 2x + 1
+ y = 2x – 3
+y = 2x
+gradient = 2; intercept = 0
+138
+For free distribution.y = 2x + 1
+gradient = 2; intercept = + 1
+y = 2x – 3
+gradient = 2; intercept = –3
+By observing the equations of the graphs it is clear that the gradients of the three 
+graphs are the same.By observing the graphs it can be seen that the lines are all 
+parallel to each other.  Therefore, it is clear that if the gradients of two or more 
+linear functions are equal to each other, then their graphs will be parallel straight 
+lines.
+Graphs of functions given by equations of the form ax + by = c 
+Now let us consider the graphs of functions given by equations of the form                             
+ax + by = c.  It is easy to prepare the table of values by writing this equation in the 
+form y = mx + c.
+Consider the following example.
+Example  1 
+Prepare a suitable table of values and plot the graph of the function given by the 
+equation 3 x + 2y = 6. 
+Using the graph that is drawn,
+  i. write the coordinates of the points at which it intersect the main axes.
+ ii. writethe gradient and intercept.
+First let us change this equation to the form  y = mx + c 
+ 3x + 2y = 6
+   2y = – 3x + 6
+     y = – 3
+2x + 3'
+Let us obtain the coordinates of points that lie on the graph of this function from the 
+following table of values and use them to draw the graph.
+139
+For free distribution.x       – 3
+2 x + 3y
+– 2– 3
+2  – 2 + 36
+0– 3
+2  0 + 33
+2– 3
+2  2 + 30
+4– 3
+2  4 + 3– 3
+(– 2, 6) (0,3) (2, 0)(4, – 3)
+ –1   1   2   3   4  –2  –3  –4  –5 x  y
+ 5
+ 4
+ 3
+ 2
+ 1  6  7  8  9
+0
+   –1
+   –2
+   –3
+   –4
+   –5
+   –63x + 2
+y = 
+6
+  i.  The graph intersects the  y - axis at (0, 3)  and the  x- axis at (2, 0). 
+ ii. Gradient   (m) = – 3
+2,  intercept  (c) = 3
+140
+For free distribution.Note(
+² Observe that the graph of 3x + 2y = 6 intersects the y axis at the point       
+(0, 3)  and that the y coordinate of that point is equal to the coefficient of x 
+in the equation 3x + 2y = 6. 
+² Observe that the graph of  3x + 2y = 6 intersects the x axis at the point                   
+(2, 0) and the x coordinate of that point is equal to the coefficient of y in the 
+equation 3x + 2y = 6. 
+² Note that the graph of 3x + 2y = 6 can be plottted by  joining the points     
+(0, 3) and (2, 0), without preparing a table of values.   
+Exercise 20.3
+  
+1. For each of the functions given by the equations in parts (a) and (b), write the 
+gradient and intercept without drawing  the corresponding graphs and write 
+whether the graph makes an acute or obtuse angle counterclockwise with the 
+positive direction of the x - axis. 
+ (a) i. y = x + 3 ii. y = – x + 4  iii. y = 2
+3 x – 2      iv. y = 4 + 1
+2 x 
+    (b) i. 2y = 3x – 2 ii. 4y + 1 = 4x  iii. 2
+3x + 2y = 6
+2. For each of the functions given below, find the coordinates of the points at which 
+the graph of the function intersects the two axes and  plot the graph of  each   
+function using these two points.
+(a) i.  y = 2x + 3  ii.  y = 1
+2x + 2
+ (b) i. 2x – 3y = 6 ii. – 2x + 4y + 2 = 0
+3. Using the information given below, write the equation of each straight line. 
+Gradients ( m) Intercept (c) Equation of the function
+  i. + 2 – 5 y = 2x – 5
+ ii. –3 + 4
+iii. – 1
+2– 3
+iv.  3
+2+ 1
+v.   1 0
+141
+For free distribution.
+  4.  An incomplete table of values prepared to draw the graph of the function 
+     y = – 3x – 2  is given below.  
+x – 2 –1 0 1 2
+y________ ________ – 2________ – 8
+i.   Fill in the blanks.
+ii.  Draw the graph of the above function.
+iii.  Draw the straight line given by y = x on the same coordinate plane and write 
+ the coordinates of the point of intersection of the two lines.
+5. By selecting suitable values for x, construct a table of values and draw the graphs 
+of the following functions on the same coordinate plane. 
+ i. y = x  ii. y = – 2 x + 2  iii. y = 1
+2x + 1       iv. y = – 1
+2x – 3  
+6. Draw the graphs of the functions given by the following equations for the values 
+of x from  – 4 to + 4 .
+  a.  – 3x + 2y = 6 and  3x + 2y = – 6
+  b. y + 2x = 4 and – 2x + y = – 4
+7. Write the equations of the straight lines AB and PQ in the following figure.
+ 
+ –1   1   2   3   4  –2 x
+< <<  y
+ 3
+ 2
+ 1
+0
+   –1
+   –2
+   –3
+   –4AB
+y = x
+Q
+P
+142
+For free distribution.Miscellaneous Exercise
+1. For the statements given below, mark a “√” in front of the correct statements and 
+a “×” in front of the incorrect statements. 
+i. For all m, the graph of a function of the form y = mx + c is a straight line which 
+is not parallel to the main axes.   (............)
+ii. For a function of the form y = mx + c, the value of m determines the direction 
+of the straight line graph and the value of c determines the point where the 
+graph intersects the y - axis . (............)  
+iii. It is not necessary for c to be zero, for the graph of a function of the form 
+ y = mx + c to pass through the origin,   (............)  
+iv.  The graphs of the functions given by the equations  y1 = m1x + c1 and 
+ y2 = m2x + c2 will be parallel when  m1 = m2 . (............)  
+v.   A straight line given by y = mx + c, intersects the y-axis above the x-axis 
+ only when m > 0, and c > 0.  (............)  
+2. Write the equations of the functions of the graphs sketched below.
+  y
+0
+ –2vi.
+xgradient =  – 2  y
+0i.
+xgradient = 2   y
+0ii.
+xgradient = – 3
+x  y
+ 4
+0iii.
+gradient = 3
+2
+  y
+ –40v.
+xgradient = 3
+4  y
+3
+0iv.
+xgradient= – 1
+3
+143
+For free distribution.
+3. Select and write the graph corresponding to each of the given functions.
+                –1   1   2   3   4  –2  –3  –4  –5 xl3
+l4
+l5
+l1
+l2  y
+ 5
+ 4
+ 3
+ 2
+ 1  6  7
+0
+   –1
+   –2
+   –3
+   –4
+   –5
+ Function   
+i.  y = 3x – 4
+ii.  y = – 2x + 1
+iii.  y =  – x – 5
+iv.  y = – 3x + 3
+v.  y = + 3 x    
+4. The gradient of the straight line given by 4 x + py = 10 is  – 4
+3 '
+ i.  Find the value of  p. ii. Write the intercept.
+iii. Write the equation of the straight line with gradient  –2 which passes through 
+       the point at which the above given straight line intersects the  y - axis.
+ 
+Summary
+ ²   The gradient of the graph of a function of the form y = mx + c is m and 
+  the intercept is c. 
+ ²   If the gradients of two or more linear functions are equal to each other, 
+       then their graphs will be parallel straight lines.
+ 
+
+
+
+
+
+
+150 
+ A
+Algebraic form ùÔh wdldrh  ml;rufzpj tbtk;    
+Axioms  m%;HlaI   ntspg;gil cz;ikfs;  
+ B
+Bisector  iuÉfþolh  ,U$whf;fp
+ C
+Capacity  Odß;dj   nfhs;ssT
+Circle    jD;a;h    tl;lk;      
+Circumference  mßêh   gupjp
+Construction  ks¾udKh  mikg;G  
+Constant distance  ksh; ÿr  khwhj; J}uk;    
+Cube   >klh   rJuKfp   
+ D
+Diameter  úYalïNh  tpl;lk; 
+Direct Proportion wkqf,dau iudkqmd;h  Neu;tpfpjrkd;
+Division  fn§u   tFj;jy; 
+ E
+Equal distance  iudk ÿr  rk J}uk; 
+ F
+Fixed point  wp, ,laIHh  epiyahd Gs;sp    
+Foreign currency úfoaY uqo,a    ntspehl;L ehzak;  
+Formula  iQ;%h   #j;jpuk; 
+Function  Ys%;h   rhu;G  
+ G
+Gradient  wkql%uKh  gbj;jpwd;  
+Graph   m%ia;drh  tiuG    Glossary
+151
+ H
+Hypotenuse  l¾Kh   nrk;gf;fk;  
+ I
+Index   o¾Ylh   Rl;bfs;  
+Intercept  wka;#LKavh  ntl;Lj;Jz;L;    
+Interior angles  wNHka;r fldaK mff;Nfhzq;fs; 
+Intersection  fþokh   ,ilntl;L jy
+ K
+Key   h;=r   rhtp  
+Key board  h;=re mqjrej  rhtpg;gyif 
+ 
+ L
+Locus   m:h   xOf;F 
+ M
+Multiplication   .=K lsÍu  ngUf;fy; 
+ P
+Parallel   iudka;r  rkhe;juk; 
+Parallel lines  iudka;r f¾Ld  rkhe;juf;NfhLfs;  
+Perpendicular  ,ïnh   nrq;Fj;J    
+Perpendicular bisector ,ïn iuÉfþolh ,Urkntl;br; nrq;Fj;J      
+Power   n,h   tY   
+Proportion iudkqmd;h tpfpjrkd;  
+Pythagorean Relation mhs;.ria iïnkaOh igjfu]; njhlu;G  
+ Q
+Quantity  rdYsh   fzpak; 
+152
+ R
+Radius   wrh   Miu  
+Right angle  RcqfldaKh  nrq;Nfhzk;   
+Right angled triangle  RcqfldaKsl ;s%fldaKh  nrq;Nfhz Kf;Nfhzp     
+Rules of indices  o¾Yl kS;s   Rl;b tpjpfs;   
+ S
+Scientific notation úoHd;aul wxlkh tpQ;Qhd Kiwf; Fwpg;gPL
+Simple equations ir, iólrK  vspa rkd;ghLfs;  
+Simultaneous equations iu.dó iólrK xUq;fik rkd;ghLfs;   
+Straight line  ir, f¾Ldj  Neu;NfhL
+Subject   Wla;h   vOtha; 
+Substitution  wdfoaYh   gpujpaply;   
+ T
+Theorem  m%fïhh   Njw;wk;  
+Triangle  ;s%fldaKh  Kf;Nfhzk;
+ U
+Unknown   w{d;h    njupahf;fzpak;     
+  
+    
+ v
+Verify   i;Hdmkh  tha;g;Gg;ghu;j;jy; 
+  
+   
+ 
+153
+For free distribution.Lesson Sequence
+Contents Numbers of Periods
+First term
+1.  Number Patterns
+ 2.  Binary Numbers
+ 3.  Fractions
+ 4.  Percentages 
+ 5.  Algebraic Expressions
+ 6.  Factors of the Algebraic Expressions 
+ 7.  Axioms
+ 8. Angles related to straight lines and parallel lines
+ 9.  Liquid Measurements 0303
+05
+0605
+05
+04
+07
+03
+Second term
+10. 
+Direct proportion
+11. Calculator
+12. Indices 
+13. Round off and Scientific Notation
+14. Loci and Constructions
+15. Equations
+16. Angles of a triangle
+17. Formulae
+18. Circumference of circle
+19. Pythagoras relation
+20. Graphs 0602
+03
+0509
+06
+09
+02
+0504
+04
+Third term
+21. 
+Inequalities  
+21. Sets
+23. Area
+24. Probability
+25. Angles of polygons
+26. Algebraic fractions
+27. Scale drawings
+28. Data representation and prediction03
+07
+05
+0505
+03
+08
+10
+154
+For free distribution.

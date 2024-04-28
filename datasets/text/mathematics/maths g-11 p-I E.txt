@@ -1,0 +1,4249 @@
+iMATHEMATICS
+Grade 11
+ Part - I
+Educational Publications Department
+
+ii 
+First Print  2015
+Second Print  2016
+Third Print  2017
+Fourth Print  2018
+Fifth Print  2019
+Sixth Print  2020
+All Rights Reserved
+ISBN  978-955-25-0309-2
+Published by Educational Publications Department
+Printed by State Printing Corporation
+Panaluwa, Padukka.
+iii
+The National Anthem of Sri Lanka
+ Sri Lanka Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+ Sundara siri barinee, surendi athi sobamana Lanka
+ Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya 
+ Apa hata sepa siri setha sadana jeewanaye matha
+ Piliganu mena apa bhakthi pooja Namo Namo Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+ Oba we apa vidya
+ Obamaya apa sathya
+ Oba we apa shakthi
+  Apa hada thula bhakthi
+ Oba apa aloke 
+  Apage anuprane
+ Oba apa jeevana we 
+ Apa mukthiya oba we
+ Nava jeevana demine, nithina apa pubudukaran matha
+ Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+ Eka mavakage daru kela bevina
+ Yamu yamu vee nopama
+ Prema vada sema bheda durerada
+ Namo, Namo Matha
+ Apa Sri Lanka Namo Namo Namo Namo Matha
+iv
+v
+viMonitoring and Supervision
+P. N. Illapperuma -  Commissioner General of Educational Publications
+  Educational Publications Department
+Direction          
+W.A. Nirmala Piyaseeli  -  Commissioner of Educational Publications  (Development)
+  Educational Publications Department
+Co-ordination    
+Thanuja Maithrie Witharana  -  Assistant Commissioner
+  Educational Publications Department
+Chandima de Zoysa -   Deputy Commissioner (2020 reprinting) 
+    Educational Publications Department
+Board of Editors
+Dr. Romaine Jayewardene  -  Senior Lecturer, University of Colombo
+Dr. D.K. Mallawa Arachchi  -  Senior Lecturer, University of Kelaniya
+Dr. Sri Dharan   -  Senior Lecturer, University of Colombo
+Dr. Nalin Ganegoda  -  Senior Lecturer, University of Sri Jayawardenapura
+B.D.C Biyanwila  -  Director of Education, Ministry of Education
+G.P.H. Jagath Kumara  -  Senior Lecturer, National Institute of Education, Maharagama
+Thanuja Maithrie Witharana  -  Assistant Commissioner
+  Educational Publications Department
+Board of Writers
+Dr. Roc hana M eegaskumbura  -  Senior Lecturer, University of Peradeniya
+Dr. J. K. Rathnayake  -  Senior Lecturer, University of Colombo
+Dr. Jayantha Senadeera   -  Senior Lecturer, Sri Lanka Open University
+H.M.A. Jayasena  -  In Service Adviser (Retired)   
+Y .V .R. Witharama   -  In Service Adviser, Zonal Education Office, Dehiowita  
+W.M.W.C. Walisinghe   -  In Service Adviser, Zonal Education Office, Kegalle
+Ajith Ranasinghe  -  In Service Adviser, Zonal Education Office, Homagama
+Anura Weerasinghe  -  In Service Adviser, (Priven), Matara District
+W.M.D. Lal Wijekantha  -  Teacher, St. Thomas College, Mt. Lavinia
+N. Vakeeshamoorthi  -  Director of Education (Retired)
+R.S.E. Pushparajan  -  Assistant Director, Zonal Education Office, Puttalam
+V . Murali   -  Teacher Educator Service, Zonal Education Office, Vavuniya
+Language Editing  
+M.A.K. Samurdhi  -  Teacher, Sirimavo Bandaranaike Vidyalaya, Colombo 07
+Proof Reading
+Edward R. Peiris   -  Engineer (Retired)
+Illustrations, Cover Page and Technical Assistance
+B.T. Chathurani Perera  -  Educational Publications Department
+R.D. Thilini  Sewwandi  -  Educational Publications Department
+viiContents
+ Page
+ 1.  Real Numbers  1
+ 2.  Indices and Logarithms  -I 15
+ 3.  Indices and Logarithms  -II  27
+ 4.  Surface Area of Solids   50
+ 5.  V olume of Solids    63
+ 6.  Binomial Expressions  74
+ 7.  Algebraic Fractions   80
+ 8.  Areas of Plane Figures between  Parallel Lines 87
+ Revision Exercises  106
+ Logarithm Tables 109
+ Glossary  111
+ Sequence of the Lessons 114
+
+viiiMessage of the Board of Compilers
+This textbook has been compiled in accordance with the new syllabus to be 
+implemented from 2015. 
+Textbooks are compiled for students. Therefore, we have made an attempt to 
+compile this textbook in a simple and detailed manner making it possible for you to 
+read and understand it on your own. 
+ 
+We have included descriptions, activities and examples to introduce the subject 
+concepts in an attractive manner and to establish them. Moreover, activities are 
+organized from simple to complex to develop an interest to do them. 
+We have used the terms related to mathematical concepts in accordance with the 
+glossary of technical terms of mathematics compiled by the Department of Official 
+Languages.
+Some subject matter learnt during the earlier grades is necessary to learn the subject 
+content in the grade 11 syllabus. Thus, review exercises are included at the begin -
+ning of each chapter to revise previous knowledge. You will be prepared by them 
+for the subject content of grade 11.
+In addition, students may use the grade 10 book which you have if you need 
+to recall previuos knoweledge.
+You will gain maximum benefit from this textbook by reading the chapters and       
+doing the review exercises of each chapter even before your teacher teaches them 
+in the classroom.
+We hope that studying mathematics will be an interesting, joyful  and productive 
+experience.  
+Board of Compilers
+1
+For free distributionReal Numbers 1
+By studying this lesson will be able to
+ ² to investigate number sets
+ ² workout basic mathematical operations regarding surds.
+It is believed that the concept of numbers originated among the human race about 
+30 000 years ago. This concept which originated and developed independently in 
+various civilizations, evolved globally and has now become a universal field of 
+study named mathematics.
+It can be assumed that numbers were initially used in early civilizations for simple 
+purposes such as counting and accounting. There is no doubt that the first numerical 
+concepts that were developed were “one” and “two”.  Later the concepts of three, 
+four etc., must have been developed. Then man would have realized that he could 
+name any amount that he wished in this manner. Different civilizations used 
+different symbols to name numbers.
+It is accepted based on historical evidence, that the numerals 1, 2, 3 etc., which we 
+now use, originated in India.  The honour of being the first to use the concept of zero 
+as a number as well as being the first to introduce the positional decimal number 
+system also goes to India. This number system is now defined as the Hindu-Arabic 
+number system and the modern belief is that it was first taken to the Middle-East 
+and then to Europe by traders. This system is the standard number system which is 
+accepted and used worldwide now.
+The manipulation of numbers using the basic mathematical operations (addition, 
+subtraction, multiplication and division) can be considered as a great revolution in 
+the history of mankind in relation to the use of numbers.  In this age of technology it 
+is unimaginable to think of the existence of man without numbers and the operations 
+performed on them.
+Although the numbers 1, 2, 3 etc., can be considered as the first numbers that were 
+used to fulfill certain needs of man, later the number zero, fractional numbers and 
+negative numbers were also included in the number system. During the period when 
+mathematics was developing as a separate field, the attention of mathematicians 
+was directed towards various other types of numbers (sets) too. In this lesson we 
+hope to study about such sets of numbers, their notations and properties.
+For free distribution
+2
+For free distributionThe Set of Integers  ()
+It is natural that we identify initially the numbers 1, 2, 3, … which we first learnt 
+about as children. These numbers are defined as counting numbers  and the set 
+which consists of all these numbers is written using set notation as follows.
+{1, 2, 3, …}
+The reason for this set of numbers to be called the counting numbers is very clear.  
+However its mathematical usage in modern times is limited.  The name used most 
+often now for this set is “ the set of positive integers ”. This set is denoted by +.
+   
+Thus,  + = {1, 2, 3, ...}.
+That is, the numbers 1, 2, 3, … are called positive integers.
+The numbers defined as negative integers are  – 1,  – 2,  – 3, etc. Although there is 
+no commonly used symbol to denote this set, some mathematicians, based on the 
+needs of their field of study, use the symbol –.
+The positive integers, zero and the negative integers together form the set of 
+integers . This set is denoted by . Accordingly,
+ =  { ..., – 3, – 2, – 1, 0, 1, 2, 3, ...}
+or equivalently,
+                        =  {0, ±1, ±2, ±3, ... }.
+The Set of Natural Numbers   ()
+Let us consider again the set of numbers 1, 2, 3,... This set is also defined as the set 
+of natural numbers  and is denoted by '
+   That is,  = {1, 2, ...}.
+Note : There is no consensus among mathematicians regarding which numbers 
+should be considered as natural numbers. The suitability of calling the numbers 
+1,2,3, … natural numbers is clear. However some of the mathematicians (especially 
+specialists in set theory), have considered 0 as a natural number in their books.
+
+3
+For free distributionOne reason may be because at that time there was no accepted name nor accepted 
+symbol for the set consisting of 0 and the positive integers.However most books on 
+number theory consider the set of natural numbers to be the set {1,2, 3,...}.Almost 
+all authors of mathematics books now mention at the beginning of their books 
+which set of numbers they consider as the natural numbers.
+The set of Rational Number s ()
+We have come across earlier that, like the integers, fractions too can be considered 
+as numbers, and that operations such as addition and multiplication can be 
+performed on them too. Every integer can be written as a fraction. (For example, 
+we can write  2 = 2
+1). Further, a fraction can be written in different forms, all having 
+the same numerical value. (For example,  1
+2 = 2
+4 = 3
+6). We have also come across 
+negative fractions  ^– 2
+5, – 11
+3, etc.&' Although we usually think that the numerator 
+and denominator of a frac tion should consist of integers, this is actually not the 
+case. For example, 3
+2 is also a fraction. However, fractions with integers in both 
+the numerator and the denominator (apart from 0 in the denominator), have an 
+important place in mathematics. They are called rational numbers . The set of 
+rational numbers is denoted by  . Accordingly, the set of rational numbers can be 
+defined using the set builder notation as follows.
+  ={ a
+b : a, b   and b ≠ 0 }.
+There are other ways too of defining the set of rational numbers. One other way is 
+as follows.   
+                                                           ={ a
+b : a   , b  + }.
+Both these definitions are equivalent. Since the denominator of a rational number 
+cannot be 0 and since all the negative rational numbers can be obtained by 
+considering the fractions with the negative integers in the numerator and positive 
+integers in the denominator.
+4
+For free distributionThe Set of Irrational Numbers   
+It is appropriate to define the irrational numbers now. Do you recall how you learnt 
+about numbers in previous grades by drawing a number line?  Let us reconsider 
+this now.
+Let us consider a straight line which can be lengthened as required in either 
+direction. Let us name a point we like on that line as the origin 0. Let us assume 
+that we have marked all the numbers 1, 2, 3, etc., on one side of 0 (usually the right  
+hand side) and all the numbers – 1, – 2, – 3 etc., on the opposite side, keeping equal 
+gaps between the numbers.  That is, let us assume that the points corresponding to 
+all the integers have been marked on this number line. Let us also assume that the 
+points corresponding to all the rational numbers too have been marked on this line.  
+The figure below shows several such points that have been marked.
+1
+2211 0 3  – 1  – 2  – 3 8
+3– 7
+5
+Accordingly, all the rational numbers (including the integers) are now assumed 
+to have been marked on this line. Now, do you think that corresponding to each 
+point on the line, a number has been marked? If asked differently, do you think that 
+the distance from 0 to each point on the line can be written as a rational number? 
+In truth, there are several points remaining on the number line which have not 
+been marked.  That is, there are points remaining on this number line that cannot 
+be represented by a rational number. It is clear that the points that are remaining 
+are those which correspond to the numbers which cannot  be written in the form                       
+ a
+b, where a and b are integers. The numbers which correspond to the remaining 
+points are defined as irrational numbers.
+There is no specific symbol to denote the set of irrational numbers and it is usually 
+denoted by , the complement of the set  . The numbers   2" 3" 5 can be 
+given as examples of irrational numbers. In fact, the square root of any positive 
+integer which is not a perfect square is an irrational number. Apart from these, 
+mathematicians have proved that π, which is the ratio of the circumference of any 
+circle to its  diameter, is also an irrational number. We take the value of π to be  22
+7
+as an approximate value, for the convenience of performing calculations. 
+5
+For free distributionThe Set of Real Numbers  ()
+According to the above discussion, all the numbers on a number line can be 
+represented by rational numbers or irrational numbers. We call all the rational 
+numbers together with all the irrational numbers, that is, all the numbers that can be 
+represented on a number line, the real numbers . The set of real numbers is denoted 
+by .
+The Decimal Representation of a Number
+Any real number can be represented as a decimal number. Initially, let us consider 
+the decimal representation of several rational numbers.
+1. The decimal representation of a rational number
+ 4 = 4.000 ...
+  1
+2 = 0.5 = 0.5000 ...
+ 
+  11
+8= 1.375 = 1.375000 ...
+  211
+99= 2.131313...
+  767
+150= 5.11333...
+   37
+7 = 5.285714285714285714 ...
+A common property of these decimal representations is that starting at a certain 
+point to the right of the decimal point (or from the beginning), one set of numerals 
+(or one numeral) is recurring. Recurring means that it keeps repeating itself. 
+For example, in the decimal representation of   1
+2, the numeral 0 recurs starting from 
+the second decimal place. The numeral 0 recurs from the first decimal place in the 
+decimal representation of 4, the pair of numerals 13 recurs from the beginning in 
+the decimal representation of  211
+99and the  group of numerals 285714 recurs from 
+the beginning in the decimal representation of   37
+7. This property, that is, a group 
+of numerals recurring continuously, is a property common to all rational numbers.  
+If the portion that recurs is just 0, such a decimal representation is defined as a 
+finite decimal  (or terminating decimal ). The decimals of which the portion that 
+6
+For free distributionrecurs is not zero, are called recurring decimals . Accordingly, 1
+2" 4 and 11
+8in the 
+above example are finite decimals while the rest are recurring decimals.  
+The above discussion leads to the following statement.
+Every rational number can be written as a finite decimal or a recurring 
+decimal.
+Let us now learn a marvelous result regarding rational numbers. Suppose the  
+rational number   a
+bhas a finite decimal representation. Let us assume that a and 
+b have no common factors.  Then the denominator (that is, b) has only powers of 
+2 or 5 (or both) as its factors. A rational number which has a recurring decimal 
+representation must have a prime factor other than 2 and 5 in its denominator.
+Recurring decimals are written in a concise form, by placing a dot above a numeral 
+or numerals as shown in the following examples to indicate that they are recurring.
+              
+                      Recurring Decimal Written Concisely
+12.444412.4.
+2.131313...
+2.13..
+5.11333...5.113.
+5.285714285714285714... 5.285714. .
+ 
+Exercise 1.1
+1. For each of the following rational numbers state whether it is a finite decimal 
+or a recurring decimal. Express the fractions which are recurring decimals in 
+decimal form and then write them in a concise form.
+    a. 3
+4          b.  5
+5          c.  3
+7          d. 5
+9          e. 5
+21          f. 7
+32          
+    g. 19
+33  h.  13
+50         i.  7
+64   j.  5
+18        k.  15
+128  l.  41
+360  
+7
+For free distribution2. The decimal representation of an irrational number
+Finally, let us consider the decimal representation of an irrational number. In the 
+decimal representation of an irrational number, no group of numerals recurs. For 
+example, when the decimal representation of  2is written down up to 60 decimal 
+places, we obtain the following:  
+1.414213562373095048801688724209698078569671875376948073176679
+π, which is a number we come across often is also an irrational number. When the 
+value of π is calculated up to 60 decimal places we obtain the following:
+3.141592653589793238462643383279502884197169399375105820974944
+ 
+The following statements can be made regarding irrational numbers.
+There is no group of recurring numerals in the decimal representation of an 
+irrational number . If the decimal representation of a number is not finite, it is 
+called an infinite decimal . Accordingly rational numbers which are recurring 
+decimals and irrational numbers have infinite decimal representations.
+Note : When describing the decimal representation of irrational numbers, one 
+frequent error that is made is stating that “there is no pattern in the decimal 
+representation of an irrational number”. The issue here is that the word “pattern” is 
+not well defined in mathematics. For example, the following decimal number has 
+a very clear pattern.
+0.101001000100001000001...
+However, this is an irrational number, Observe that there is no group of recurring 
+numbers.
+All the sets of numbers that have been studied so far can be represented in a Venn 
+diagram as follows, with the set of real numbers as the universal set, and the other 
+sets as its subsets. A few numbers belonging to each subset have been included to 
+make it easier for you to understand the relationship between the sets.
+8
+For free distribution1
+2
+13
+5−−1
+0
+213−2
+−3   √ 2
+   √ 3
+π 
+  +1
+3
+   
+Exercise 1.2
+1. State  whether the  following real numbers as rational numbers or irrational 
+numbers.
+    a. 2            b. 25        c.  6 d. 11        e. 6.52 
+       
+2. Determine  whether each of the  following statement  is true or false.
+a. Any real number is a finite decimal or an infinite decimal.
+b. There can be rational numbers with infinite decimals representations.
+c. Any real number is a recurring decimal or an infinite decimal.
+d. 0.010110111011110... is a rational number.N(=Z+)1
+2
+13
+5−−1R
+Q
+Z 0
+213−2
+−3   √ 2
+  √  3
+π 
+13Q
+9
+For free distribution1.2 Surds
+There is no doubt that you recall how  numerical (and algebraic) expressions are 
+written using the symbol  
+˜
+  ˜ which is defined as the radical sign. For example, 
+4 is defined as the positive square root  of 4 and it represents the positive number 
+which when squared is equal to 4; that is 2. The positive square root is referred to 
+as square root too. If a certain positive integer x is such that its square root x  is 
+also a positive integer, then x is defined as a perfect square.  Accordingly, 4 is a 
+perfect square. Since 4 is equal to 2. However, 2 is not the square root of a 
+perfect square. We observed earlier that 2  is approximately equal to 1.414. We 
+also learnt earlier in this lesson that 2 is an irrational number. A numerical term 
+involving the symbol  of which the value is not a rational number is defined as 
+a surd.
+The radical sign — ˜ is used not only to denote the square roots of numbers, 
+but also other roots. For example, 23  denotes the positive number which when 
+raised to the power 3 is equal to 2. This is called the cube root of 2. This is also an 
+irrational number.  Its value is approximately 1.2599. (You can verify this by finding 
+the value of 1.25993).  We can define the fourth root of 2 and the fifth root of 2 etc., 
+in a similar manner. Such definitions can be made for other positive numbers as 
+well; for example, 53 and  8.246. Such expressions are also surds. However, in 
+this lesson we will only consider surds which are square roots of positive integers.
+The square root of a positive integer which is not a perfect square is neither a finite 
+decimal nor a recurring decimal. Observe that surds are therefore always irrational 
+numbers.
+Here our focus is on simplifying expressions which involve surds. There are many 
+reasons why such simplifications are important. One reason is that it facilitates 
+calculations. For example, when it is necessary to find the value of 21, if we 
+take 2 to be approximately equal to 1.414, we would need to find the value of         
+1.4141. This division is fairly lo ng. However, by simplifying this in the following 
+manner, calculations are made easier.
+    21
+21=22
+   ^Multiplying the numerator and denominator by  2&
+  22=
+  21.414= =0.707.
+Another reason for simplifying surds is to minimize errors during calculations.
+10
+For free distributionFor example, let us find the value of  20
+2– 5 . Let us use 4.5 as an approximate 
+value for 20  , and 2.2 as an approximate value for 5. Then
+ 20
+2– 5= 
+= 
+= 4.5
+2– 2.2
+2.25 – 2.2
+0.05  
+However, the actual value of this expression is 0. One reason for getting a different 
+answer is because we used approximate values for 20 and 5. However, by 
+simplifying the above expression in a different way, we can get the correct value 
+which is 0. 
+Surds appear in various form.
+A special feature of a surd of the form 20  is that the whole number is under the 
+radical sign. Such surds are defined as entire surds .  6 15  means 6 × 15. This 
+is a product of a surd and a rational number (not equal to 1).  This is not an entire 
+surd.
+A surd is in its simplest form when it is in the form a b; where a is a rational 
+number and b has no factors which are perfect squares. For example 6 15 is in its 
+simplest form but 5 12 is not, since 4 which is a perfect square is a factor of 12.
+Now let us consider how to simplify expressions that contain surds of various forms.
+Example  1
+Simplify 3 5 +  6 5.
+This can be simplified by considering 5  to be an unknown term.
+ 3 5 +  6 5= 9 5.
+This simplification is similar to the simplification 3 x + 6x = 9x. 
+Observe that the expression obtained above in surd form cannot be simplified 
+further. Keep in mind that simplifying further by using an approximate value for 
+5 is not what is meant by simplifying surds.
+You should also keep in mind the important fact that an expression of the form 
+3 2 + 8 3 cannot be simplified further.
+Now let us through examples, consider how expressions with surds are simplified 
+by applying the properties of indices.
+11
+For free distributionExample  2 
+Express the entire surd 20 as a surd.
+  
+20    4  5 =
+=              4 5
+=              
+=              2
+25
+5   
+ab= a  b Since   
+Example  3 
+Express the surd 4 5  as an entire surd.
+=              
+=              =              16
+801616 5
+5 
+ ( ) =              Since 4 45  
+Next let us consider how multiplication and division are performed on surds.
+Example  4 
+Simplify:   5 3   4 2 .
+Let us multiply the rational and irrational parts separately.
+5 3   4 2  =  5    4    3  2 
+ =  20  3  2  
+ =  20 6 
+Example  5 
+Simplify: 3 20 ..2 5.
+The surd 3  20  can be written as  3 4  5. Simplifying further, it can be written 
+as 3  2 5  =  6 5 
+... 3 20 ..2 5 =  3  
+3  6  
+2  2  =  
+=  20 5
+5 5
+12
+For free distributionNext we will consider how expressions of the form ba are simplified. Examples 
+for such expressions are 23 and 54. Expression of this form has a square root term 
+in the denominator. 
+Now let us consider how such an expression can be converted into an expression 
+with an integer (or a rational number) in the denominator.
+Example  6 
+Express 23 as a fraction with an integer in the denominator.
+The method used here is, to multiply both the numerator and the denominator of 
+23    by 2 
+   2=              =              2 23
+23 2
+23
+This process is defined as rationalizing  the denominator .
+Example  7 
+Rationalise the  denominator of ba 
+b b bb
+baa a
+b=
+=
+Now let us consider how an expression involving surds is simplified.
+Example  8 
+Simplify  4  63 – 5 7 –  8 28 .
+4 63 = 4  9  7   = 4  3  7
+  = 12 7
+8 28 = 8  4  7  = 8  2  7  
+  = 16 7 
+Therefore   4 63 – 5  7 – 8 28 = 12 7 –  5 7 – 16 7 
+       = – 9  Example  8 
+Simplify  4  63 – 5 7 –  8 28 .
+4 63 = 4  9  7   = 4  3  7
+  = 12 7
+8 28 = 8  4  7  = 8  2  7  
+  = 16 7 
+Therefore   4 63 – 5  7 – 8 28 = 12 7 –  5 7 – 16 7 
+       = – 9 7 
+13
+For free distributionLet us consider how a more complex expression involving surds is simplified.
+Example  9 
+Simplify 
+22
+126 375+ – 
+ 
+                        
+                       
+            
+                       
+  
+          
+  
+Exercise 1.3
+1. Convert the following entire surds into surds.    
+    20
+8048
+4572
+7528
+147a.
+e.b.
+f.c.
+g.d.
+h.
+2. Convert the following surds into entire surds.
+   3 5 7 2 11 a. e. b. c. d. 2 2 4 5 622
+126 375+ – 
+2
+7522
+3222 3
+35
+3
+3322
+4
+425
+  
+3
+3
+3 333
+3
+33
+=
+=
+== +
+++–
+––
+3
+2–
+7
+1333
+3=
+=–2
+2733= –3
+3225 33
+4 3–
+14
+For free distribution3. Simplify.   
+   
+2
+52
+7
+35
+2 52
+7
+2 3 5a.
+b.
+c.+
++ +
++ +–
+–
+– – +5
+2
+42
+5 32
+3
+3 2 3  
+ 
+   11
+37
+77
+711
+37
+7d.
+e.+
++–
++–
+–+
+–6
+83
+75
+32
+24
+3
+4. Rationalise the denominator of the following fractions.
+    a .
+g . h . i .b . c . d . e .
+f .52
+35
+75
+312
+2 227
+3
+53
+2 753
+2 232
+3 533
+2
+  
+5. Simplify.
+  
+   2 3 7 5 3
+7 3 3 14 27 4811 a.
+e. f.b. c.
+d.3 2 3
+......3
+4 3 5 2 65
+6. Simplify.
+27
+1283
+507
+16228
+27
+4427
+113 63
+99a.
+c.b.
+d.2
+23
+34
+23
+42
+23
+1103 –
+–+
+++
++– 
+– + 
++ + 3
+e.   
+     20
+2 5–
+PB 15For free distribution For free distributionIndices and Logarithms I 2
+ 
+  By studying this lesson, you will be able to    
+   ² simplify expressions involving powers and roots and
+   ² solve equations 
+  using the laws of indices and logarithms.
+Indices
+Do the following exercise to revise what you have learned so far about indices and 
+logarithms.  
+Review Exercise
+1. Simplify and find the value.
+ a. 22  23 b.  (24)2 c. 3– 2
+d. 53  52 
+55 e.  35  32  
+36 f. (52)2 ..53
+g. (22)3  24 
+28 h. 5– 3  52 
+50 i. (52)– 2  5  30   
+2. Simplify.
+ a. a2  a3  a b. a5  a  a0 c. (a2)3 
+d. (x2)3  x2 e. (xy)2  x0 f. (2x2)3     
+g. 2pq  3p 
+6p2 h. 2x–2  5xy i.   (3a)–2   4a2b2
+2ab
+3. Simplify.
+           a. lg 25 + lg 4 b. log2 8 – log2 4     
+c. log5 50 + log5 2 – log54 d. loga 5 + loga 4 – loga2      
+e. logx 4 + logx 12 – logx3  f. logp a + logp b – logpc
+  
+  
+16 17For free distribution For free distribution4. Solve the following equations.
+a. log5x =  log5 4 + log5 2    b.  log5 4 – log5 2  =  log5 x   
+c. loga 2 + loga x  =  loga10     d.  log3x + log3 10 =  log3 5 + log3 6 – log3 2
+e. lg 5 – lg x + lg 8 = lg 4  f.  logx12 – log54  =  log5 3
+2.1 Fractional Indices of a Power
+ 
+Square root of 4 can be written either using the radical symbol (square root symbol) 
+as 4√  or using powers as 41
+2 '
+Therefore, it is clear that 4√=    41
+2'
+Let us consider another example, similar to the above. As 2 = 21,
+ 2  2  2 = 21  21  21 
+            = 23
+                          = 8
+Third power of 2 is 8 ' Thus, the cube root of 8 is 2. This can be denoted symbolically 
+as"  
+ 8√=  23 or  81
+3  =  2.
+Therefore it is clear that  8√=  81
+3 3'
+Futhermore, if  a  is a positive real number, then  
+         a√ = a1
+2 ,
+        3a√ = a1
+3 and
+       4a√  = a1
+4'  
+Thus, the general relationship between the radical symbol and the exponent (index)
+of a power can be expressed as follows.
+  
+                 na√ = a1
+n 
+The following examples demonstrate how the above relationship can be used to 
+simplify expressions involving powers. 
+16 17For free distribution For free distributionExample 1
+1. Find the value.
+(i) 27√ (ii)   ( 25√)      (iii)  
+       33
+ 833– 2
+ (i) 27√=  27 
+            =  (33) 
+            =  33 
+       =  31
+3
+1
+3
+1
+33
+×       
+(iii)  
+       33
+ 83 = 327
+ 8
+27
+ 81
+3
+(33)
+(23)1
+31
+3
+  3
+  21
+31
+3×
+ ×3
+3
+  3
+  2
+  1
+  2  1= = = = = 
+(ii)   ( 25√) –2  =  (25   )  
+  =  {(52) }
+  =  (52         )
+  = 5
+ = 521
+ = 2511
+2
+1
+2
+1
+2×–2
+–2–2
+–2
+                                                         
+ 
+                                     
+The following examples further investigate how the laws of indices are used to 
+simplify algebraic expressions involving powers.
+Example 2
+Simplify and express the answer with positive exponents (indices).  
+(i)          (ii)   a√   31
+2–    
+ (i)  x√ 3=  x        
+=  x
+=  x1
+2
+1
+2
+3
+2×3         
+ (ii)  a√ 31
+2–=  a  
+=  a
+=  a
+=  1
+3–1
+2
+–1
+2
+–1
+6×
+1
+6a11
+3    
+x –3√1
+ (iii) = (x –3)1
+1
+2
+=  
+=
+=    x
+  x –31
+x 1×1
+2
+3
+2–
+3
+2        x√3x  –3√1
+ (iii) 
+3   
+18 19For free distribution For free distributionExample 3
+Find the value.   27
+642
+3 
+(i)           16
+81(ii)3
+4–
+           
+           
+                                                                                                                         16
+813
+4–
+=   24
+343
+4–
+    
+   
+     (ii)     
+×43
+4–
+  2
+  3
+  2  –3
+  3
+  3   3
+   2
+  27
+   8
+   3
+   83=
+=
+=
+=
+= 27
+642
+3
+(i)=  33
+432
+3
+         
+=  
+=    3
+  42
+3×3
+=     3  2
+  4
+=   9
+  163
+42
+3 3      
+      
+Let us now consider a slightly complex example: 125
+641
+3–
+32 √5     303
+125
+641
+3–
+32√5   3
+=    53
+261
+3–
+321
+53
+=    26
+531
+3
+21
+53
+5
+=     2
+51
+3
+1
+36
+323
+  1  30
+22
+523
+25
+5
+32
+5=
+=
+=
+=2
+56                          
+                       
+18 19For free distribution For free distributionExample 4
+Simplify:   343x323
+x
+=   343x1
+3
+..x
+=    3431
+3x1
+3..x
+=  (73)1
+3x1
+3..x
+=    7 1x..x1
+2
+=
+=     
+=3
+2
+3
+2
+3
+2
+  71
+2x–1
+  7 x1
+2–
+x  71
+2343x323
+x
+ 
+                   
+  
+Exercise 2.1
+1. Express the following using the radical symbol. 
+ a.   p1
+3  b.   a2
+3 c.    x–2
+3
+    
+      
+  d.   m4
+5      e.    y–3
+4  f.    x–5
+3 
+  
+2. Write using positive exponents (indices).
+   a.  m √– 1  b.  x√3– 1 c.  p√5– 2 d.  ( a√)    e. 
+ f.  ( p√) – 5    3  g.   – 3   x   √       1  h.  – 2  a  √      31  i.   – 2   x√       32   j. – 5   a   √      1
+3– 3 x√4 – 3
+20 21For free distribution For free distribution3. Find the value '
+ a.   25 √  b. 16 √4  c.  ( 4√   ) 5  
+         
+  d. 27  √3(2)  e. 813 √4    f.  1000  2√3
+ g. 27
+1252
+3 h. 81
+100003
+4
+  i.   1
+645
+6–
+ j.   –
+27
+642
+3
+ k. 3
+2(0.81)   l.2
+3(0.125)–
+ m.   4
+251
+2–
+3
+41
+20 n. 9
+1003
+2–
+4
+253
+2
+ o. (27) (81) 1
+311
+4– 1
+     p.    1
+91
+2–
+1
+43
+2–
+11  6  q. 1
+3(0.125)–
+ 3
+2(0.25)  r.  ( 8√) 2316 3 √4
+4. Simplify and express using positive indices.   
+ a. a –1√3..a  √3 b.  a –3√5..a7 √5 c.  a 2√3..a 3  √3 
+ d .   x5√ 31
+2
+  x – 5 √6 e.  a 3√–2}} 2–1
+  f.   x  2 y  2 √–6
+ g. 4a
+√–2
+9x2 h. 27x 3√–23 i. x  y   –2
+x5–1
+√
+2.2 Solving Equations with Indices
+2x = 23 is an equation. Because the bases of the powers on either side of the equal 
+sign are equal, the exponents must be equal. Thus, from 2x = 23 , we can conclude 
+that x = 3'
+Similarly, on either side of the equation x5 = 25 are powers with equal exponents.  
+Because the indices are equal, the bases are also equal.  Therefore, from  x5 = 25 
+we can conclude that x = 2' If x2 = 32 then the indices are equal but in this case, 
+both + 3 and  − 3 are solutions. The reason for two solutions arising is because the 
+exponent — 2 ˜ is an even number.  In this lesson, we will only consider powers with 
+20 21For free distribution For free distributiona positive base. Thus, in expressions of the form xm ,  x > 0'
+There is a special property of powers of 1. All powers of 1 are equal to 1. That is, 
+for any m, 1m = 1'
+Let us summarise the above observations.   
+For x > 0, y > 0, y  ≠ 1 and x ≠ 1,
+                 if  x ≠ 0 xm = xn,  then  m = n'
+if m ≠ 0 and  xm = ym,  then x = y'
+Let us use these rules to solve equations with indices. 
+Example 1
+Solve.
+(i) 4x = 64  (ii) x3 = 343  (iii) 3  92x − 1 = 27−x 
+(i) 4x = 64  (ii) x3 = 343             (iii)    3  92x − 1 = 27−x
+      3  (32) 2x − 1 = (3)3(−x)
+      3  32 ( 2x − 1) = 3−3x
+                 3 1 + 4 x − 2  = 3−3x
+  ∴  1 + 4 x − 2  =  −3x
+             4 x + 3x = 2 − 1
+                     7 x = 1
+                       x  =    1
+   7 
+                        4x = 43 x3 = 73              
+	∴	x = 3                        ∴ x = 7                                            
+                                               
+Exercise 2.2
+1. Solve each of the following equations.
+a. 3x = 9 b. 3x+2 = 243  
+c. 43x = 32 d. 25x–2 = 8 x  
+e. 8x–1 = 4 x    f. x3 = 216
+g. 2x   √       = 6 h.   2  2x   √       3= 2
+2.  Solve each of the following equations.  
+a. 2x  8x  = 256 b.  8  2x–1  = 4x– 2
+c. 5  252x– 1  = 125 d. 32x  93x– 2  = 27–3x
+e.  4x  =  1
+64 f. (3x)1
+2–
+= 1
+27
+g. 34x  1 
+9 = 9x h.    x2   = (1
+8)2
+3–
+22 23For free distribution For free distribution2.3  Laws of logarithms
+We know that, using the laws of logarithms, we can write
+log2 (16    32) = log216 + log232 and log2 (32 .. 16) = log232 – log216. These laws, 
+in general, can be written as follows.  
+  loga (mn) = loga m + loga n
+ loga m
+n = loga m – loga n 
+Let us learn another law of a similar type. 
+Consider log51254 as an example.
+ log51254 = log5 (125  125  125  125)
+  = log5125 + log5125 + log5125 + log5125
+  = 4 log5125
+Similarly,  
+ log10105 = 5 log1010 and
+ log352 = 2 log35 
+This observation can be written, in general, as the following  logarithmic law '
+  loga mr = r logam
+This law is even valid for expressions with fractional indices. Given below are a 
+few examples, where this law is applied to powers with fractional indices.     
+ log231
+2 =    1
+2  log23 
+                      log572
+3 =    2
+3  log57       
+The following examples consider how all the laws of logarithms that you have 
+learned so far, including the above, are used. 
+Example 1                                    
+Evaluate.
+(i) lg1000  (ii)   log4 
+64   √      3
+   (iii) 2 log22 + 3 log24 – 2log28
+ 
+(i) lg1000 = lg103                                                        
+ = 3lg10       
+ = 3  1    (because lg10 = 1)              
+ = 3
+                      
+22 23For free distribution For free distribution(ii) log4 
+64   √      3
+ = log4 1
+364          
+ = 1
+3 log464 
+ = 1
+3 log443 
+    
+     = 1
+3 3 log44       
+                
+ = log44
+ = 1
+                          
+(iii)  2 log22 + 3 log24 – 2log28 = 2log22 +3 log222 – 2log223
+  = log2 22
+  + log2(22)3 – log2 (23)2
+  = log2  22  (22)3
+ (23)2      
+  = log2   22  26
+26
+  = log 2 2 2
+  = 2 log2 2
+  = 2
+           Example 2   
+Solve.
+(i)  2lg 8 + 2lg 5 = lg 43 + lg x                    
+ ... lg x = 2lg 8 + 2lg 5 – lg 43
+ = lg 82 + lg 52 – lg 43
+              ... lg x = lg  82  52
+43
+             ... lg x = lg 25
+                  ... x = 25
+                         
+24 25For free distribution For free distribution(ii)  2 logb 3 + 3 logb 2 – logb 72 = 1 
+2 logbx 
+ ∴ 2 logb 3 + 3 logb 2 – logb 72 =  1 
+2 logbx
+    ∴ logb32 + logb23 – logb72 = logbx 1
+2
+                        ∴ logb 32 × 23 
+72 = logb x1
+2
+      ∴  32 × 23 
+72 = x1
+2
+          ∴         12 = (x 1
+2)2
+          ∴ 1 = x1
+            ∴ x  = 1
+                    Example 3   
+Verify:  log5 75 – log53 = log5 40 – log58 + 1
+                      Left Side = log5 75 
+3
+           = log5 25
+                        = log5 52
+           = 2
+                    Right Side  = log5 40 – log58 + 1
+                            = log5 40 
+8 + 1
+                             = log5 5 + 1
+           = 1 + 1
+           = 2
+									∴	 log575 – log5 3 = log5 40 –  log58 + 1
+Use the laws of logarithms to do the following exercise. 
+Exercise 2.3
+1. Evaluate.
+ a.   log232 b. lg 10000 c.  1 
+3log3 27  
+         
+  d.  1 
+2 log5  25√ e. log  381√4 f. 3 log2 8√3    
+24 25For free distribution For free distribution2. Simplify each of the following expressions and find the value.  
+a. 2 log216 –  log28  b. lg 80 – 3 lg 2 
+c. 2 lg 5 + 3 lg 2 – lg 2   d. lg 75 –  lg 3 + lg 28 –  lg 7
+e. lg 18 – 3 lg 3 + 1 
+2 lg 9 + lg 5  f. 4 lg 2 + lg 15 
+4 –  lg 6
+g. lg1 
+256 – lg125 
+4 – 3 lg1
+20 h.   log3 27 + 2 log33 – log3 3
+i. lg12 
+5 + lg25 
+21 – lg2
+7 j.    lg3 
+4 –  2 lg3 
+10 + lg 12 – 2
+3. Solve the following equations.
+a. log x + lg 4 = lg 8 + lg 2 
+b. 4 lg 2 + 2 lg x + lg 5 = lg 15 + lg 12 
+c. 3 lg x + log 96 = 2 lg 9 + lg 4 
+d. lg x = 1
+2 ( lg 25 + lg 8 – lg 2)
+e. 3 lg x + 2 lg 8 = lg 48 + 1
+2 lg 25 – lg 30  
+f. lg 125 + 2 lg 3 = 2 lg x + lg  5
+Summary
+²   na√=  a1
+n 
+² If x > 0, y > 0 and x ≠ 1, y ≠ 1
+ x ≠ 0 and x m = x n,  then m = n .
+ m ≠ 0 and  x m = y m,  then x = y.
+²  loga mr = r logam
+26 PBFor free distribution For free distributionMiscellaneous Exercise
+1. Find the value '
+a.  ( 8√) 23
+27√1
+3     b.    20√1
+× ×10 (                    ) 3125√  
+c. 2
+5–32
+3
+4812
+3216
+ 80√3 27√3 – 2   d.     18  52
+8
+e.  1
+81
+3–
+5–2    100    f.       2
+3273
+416–
+2. Simplify and express using positive indices.  
+a.  a2b1
+2–   b.   (x– 4) 1
+2  x√– 31
+c.  (x 1
+2 – x1
+2–
+) (x 1
+2 + x1
+2–
+)    d.     x√n  (x ..)n                 e.      a√ 3–21
+2 
+  
+3. Verify the following.   
+a.   lg  217 
+3831 
+266÷  = 2 lg 7
+  b.  1  
+2lg 9 + lg 2 = 2 lg 3 – lg 1.5
+  c.   lg   54√   243√3×    =  19  
+6 lg 3 + 1  
+2lg 2
+  d.   lg 324 
+  64√5  = 4 lg 3 +4  
+5 lg 2
+  d. lg 26 + lg 119 - lg 51 - lg 91 = lg 2 - lg 3
+e. 2 loga 3 + log a 20 - loga 36 = loga 10 - loga 2log3 24 + log3 5 - log3 40 = 1
+27
+For free distribution Indices and Logarithms  II
+ By studying this lesson you will be able to 
+² use the table of logarithms to simplify expressions involving products and quotients 
+of powers and roots of numbers between 0 and 1.     
+² identify the two keys   and √ on a scientific calculater, and simplify 
+expressions involving decimal numbers, powers and roots using a scientific 
+calculator. 
+Logarithms
+103 = 1000 can be written using logarithms as  log10 1000 = 3. As a convention 
+we write "lg" instead of "log10 ". Now we can express the above expression as                                           
+lg 1000 = 3. It is important to mention the base if it is other than 10 '
+For example "
+    log5 25 = 2  because 52 = 25, 
+      lg 1 = 0  because 100 = 1" and
+    lg 10 = 1  because 101 = 10'
+The logarithm of any positive number can be found using the  table of logarithms. 
+Do the following exercise to refresh the memory on using logarithms to simplify 
+expressions involving multiplications and divisions of numbers. 
+Review Exercise
+1. Complete the following tables.
+ (i)    
+Mantissa CharacteristicNumber Scientific notation Logarithm Logarithm
+73.45
+8.7
+12.5
+725.3
+9757.345  101        1                0.8660          1.8660  3
+28
+For free distribution        (ii) 
+Logarithm Scientific 
+notation Number
+1.5492
+2.9059
+1.4036
+2.8798
+3.4909Logarithm
+Characteristic Mantissa
+2. Use the table of logarithms to fill in the blanks.
+ a. lg 5.745 = 0.7593, therefore  5.745 =    100.7593
+ b. lg 9.005 = ..........., therefore  9.005 =    10 ........
+ c. lg 82.8 = ...........,  therefore  82.8 =    10 ........
+ d. lg 74.01 = ...........,  therefore  74.01 =    10 ........
+ e. lg 853.1 = ..........., therefore  853.1 =    10 ........
+ f. antilog 0.7453 = 5.562,   therefore  5.562 =    100.7453
+ g. antilog 0.0014 = ..........., therefore  ......... =    100.0014
+ h. antilog 1.9251 = ..........., therefore  ........ =    101.9251
+ i. antilog 2.4374 = ..........., therefore   ......... =    102.4374
+ j.  antilog 3.2001 = ..........., therefore  ......... =    103.2001
+3. Fill in the blanks and find the value of  P'
+(i)   In terms of logarithms                 (ii)   Using indices  
+                P =  27.32   9.8
+11.5
+ lg P =  lg ...... + lg ...... − lg .......
+ =  ........ + ........ − ..........
+ =  .........
+∴  P  =  antilog ..........
+ =   ............
+                            P =   27.32   9.8
+11.5
+ =  10.....   10......
+10......
+ =  10..... 
+10......
+ =  10......
+     =  ........   10.......
+ =  ............
+4. Simplify the expressions using logarithms.
+ a. 14.3   95.2 b. 2.575   9.27   12.54 c. 9.87   7.85
+4.321
+29
+For free distribution3.1 Logarithms of decimal numbers less than one
+Let us now consider how to use the table of logarithms to obtain the logarithms 
+of numbers between 0 and 1, by paying close attention to how we obtained the 
+logarithms of numbers greater than 1. For this purpose, carefully investigate the 
+following table. 
+Number  Scientific Notation  Logarithm
+        5432
+        543.2
+        54.32
+        5.432
+        0.5432
+        0.05432
+        0.005432
+        0.00054325.432  103
+5.432  102    
+5.432   101
+5.432   100
+5.432   10− 1        
+5.432   10− 2    
+5.432   10− 3
+5.432   10− 4                                                          3                 
+       2 
+       1
+       0
+     − 1
+     − 2  
+     − 3
+     − 4                3.7350
+2.7350
+1.7350
+0.7350
+  1  −.7350
+  2  −.7350
+  3  −.7350
+  4  −.7350Logarithm
+Characteristic Mantissa
+0.7350
+0.7350
+0.7350
+0.7350
+0.7350
+0.7350
+0.7350
+0.7350
+According to the above table, the characteristic of the logarithm of numbers 
+inbetween 0 and 1, coming after 5.432 in the first column, are negative ' Even 
+though the characteristic is negative, the mantissa of the logarithm, which is found 
+using the table, is a positive number. The symbol —−˜ is used above the whole part 
+to indicate that only the characteristic is negative. It is read as " bar". 
+For example,  2  −.3725 is read as "bar two point three, seven, two, five" ' Moreover, 
+what is represented by  2  −.3725  is − 2 + 0.3725 '
+The characteristic  of the logarithm of a number between 0 and 1 is negative. The 
+characteristic of the logarithm of such a number can be obtained either by writing 
+it in scientific notation or by counting the number of zeros after the decimal point. 
+The characteristic  of the logarithm can be obtained by adding one to the number 
+of zeros after the decimal point (and before the next non-zero digit) and taking its 
+negative value. Observe it in the above table too.
+ Example
+ 0.004302 Number of zeros after the decimal point and before the next
+ non-zero digit is 2. Therefore characteristic of the logarithm 
+is 3−
+30
+For free distribution 0.04302 Number of zeros after the decimal point is 1; thus the 
+characteristic of the logarithm is 2−    
+ 0.4302 Number of zeros after the decimal point is 0; thus the 
+characteristic of the logarithm is  1−
+ 
+Therefore,  lg 0.004302  = 3−.6337' 
+When written using indices, it is;  
+0.004302 = 103−.6337' This can also be written as " 0.004302 = 10 −3   100.6337'
+Do the following exercise to practice taking logarithms of numbers between                
+0 and 1. 
+Exercise  3'1
+1. For each of the following numbers, write the characteristic of its logarithm.
+a. 0.9843   b. 0.05  c. 0.0725 
+ d. 0.0019 e. 0.003141 f. 0.000783
+2. Find the value.
+a. lg 0.831 b. lg 0.01175  c. lg 0.0034
+ d. lg 0.009 e. lg 0.00005 f. lg 0.00098
+ 
+3. Express each of the following numbers as a power of 10.
+a. 0.831 b. 0.01175  c. 0.0034
+ d. 0.009 e. 0.00005 f. 0.00098  
+3.2 Number corresponding to a logarithm (antilog)
+Let us recall how the antilog of a number greater than 1 is obtained. 
+antilog 2.7421 = 5.522  102  
+     = 552.2 
+When a number is written in scientific form, the index of the power of 10 is the 
+characteristic  of the logarithm of that number. The characteristic  of the logarithm 
+indicates the number of places that the decimal point needs to be shifted when 
+taking the antilog.   
+Thus, we obtained 552.2 by shifting the decimal point of  5.522 two places to the 
+right. However, when the characteristic is negative the decimal point is shifted to 
+the left side. 
+31
+For free distribution antilog  2−. 7421  =  5.522   10 −2         (Decimal point needs to be shifted 2 places to the 
+left)
+(Because of  bar 2, there is one 0 after the decimal
+point)
+(Decimal place needs to be shifted one place to 
+the left)
+(Because of  bar 1, there are no zeros after the 
+decimal place ) =  0.05522
+antilog  1−. 7421  =  5.522   10 −1
+  =  0.5522
+Exercise 3.2
+1. Express each of the following numbers, given in the scientific form, in decimal 
+form .  
+   a. 3.37  10−1             b. 5.99   10−3                   c. 6.0   10−2
+d. 5.745   100 e. 9.993   10−4  f. 8.777   10−3 
+2. Find the value using the logarithmic table. 
+a. antilog  2−. 5432  b. antilog  1−. 9321  c. antilog  0 . 9972
+d. antilog  4−. 5330  e. antilog  2−. 0000  f. antilog  3−. 5555 
+3.3 Addition and subtraction of logarithms with negative 
+characteristics
+(a) Addition
+The mantissa of a logarithm is obtained from the table of logarithms and is always 
+positive. But we now know that, the characteristic  can be positive, negative or 
+zero. In 2−. 5143, the mantissa, .5143, is positive and the characteristic , 2−, is 
+negative ' When adding or subtracting such numbers, it is important to simplify the 
+characteristic  and the mantissa separately. 
+Example 1
+Simplify and express the answer in log form.
+(i) 2−. 5143 + 1−. 2375 (ii)  3−. 9211 + 2 . 3142  (iii)  3−. 8753 + 1−. 3475
+(i) 2−. 5143  +  1−. 2375  = − 2 + 0.5143 +( − 1 ) + 0.2375
+         = (− 2 − 1) + (0.5143 + 0.2375)
+ = − 3 + 0.7518
+ = 3−. 7518
+                                                 
+32
+For free distribution(ii)   3−. 9211 + 2 . 3142  = − 3 + 0.9211 + 2 + 0.3142
+   = (− 3 + 2) + (0.9211 + 0.3142)  
+      = − 1 + 1.2353 
+ = − 1 + 1 + 0.2353
+     = 0.2353  
+                                                 
+(iii)  3− . 8753 + 1.3475  = − 3 + 0.8753 + 1 + 0.3475
+         = (− 3 + 1) + (0.8753 + 0.3475)
+ = − 2 + 1.2228
+     = − 2 + 1 + 0.2228
+ =  1−. 2228
+(b) Subtraction
+As in addition, logarithms should be subtracted from right to left, remembering that 
+the mantissa is positive. 
+Example 2 
+Simplify and express the answer in log form.
+(i) 2−. 5143 − 1.3143 = − 2 + 0.5143 − (1 + 0.3143)                     
+  = − 2 + 0.5143 − 1 − 0.3143
+  = − 2 − 1 + 0.5143 − 0.3143
+  = − 3 + 0 . 2000
+  =  3−. 2000
+                                        
+(ii) 2. 5143 − 1−. 9143 = 2 + 0.5143 − (− 1 + 0.9143)               
+  = 2 + 0.5143 + 1 − 0.9143
+  = 3 − 0.4000
+  = 2.6000
+                                       
+(iii) 0.2143 − 1−. 8143 = 0.2143 − (− 1 + 0.8143)                       
+  = 0.2143 + 1 − 0.8143
+  = 1 − 0.6000
+  = 0.4 
+                                       
+(iv) 2−. 5143 − 1−. 9143 = − 2 + 0.5143 − (− 1 + 0.9143)            
+  = − 2 + 0.5143 + 1 − 0.9143
+  =  − 2 + 1 + 0.5143 − 0.9143
+  = −1 − 0.4000
+     
+33
+For free distribution In the above example, the decimal part is negative. Because we need the decimal 
+part of a logarithm to be positive, we will use a trick as follows to make it positive.  
+ − 1 −  0.4 = − 1 − 1 +  1 − 0.4  (Because − 1 + 1 = 0, we have not changed the value ')                        
+ = − 2 + 0.6
+ =   2− . 6
+Actually what we have done is add − 1 to the characteristic and + 1 to the mantissa.
+Note: We could have avoided getting a negative decimal part by doing the 
+simplification as follows. 
+ 
+ − 2 + 0.5143 + 1  − 0.9143 =  − 2 + 1.5143 − 0.9143 = − 2 + 0.6 =  2− . 6
+Exercise 3.3
+1. Simplify
+a. 0.7512  +  1  −.3142 b. 1  −.3072 +  2  −.2111 c. 2  −.5432 + 1  −.9513
+d 3  −.9121 + 1  −.5431 e. 0.7532 + 3  −.8542 f. 1  −.8311 + 2  −.5431 + 1.3954
+g. 3.8760  −  2  −.5431 h. 2  −.5132 −  1  −.9332 i. 3  −.5114 − 2  −.4312
+j 2  −.9372 − 1.5449 k. 0.7512 +  1  −.9431 l. 1  −.9112 − 3  −.9543 
+2. Simplify and express in log form.
+ a.    1  −.2513 + 0.9172 −  1  −.514 b.  3  −.2112 + 2.5994 −  1  −.5004
+c. 3  −.2754 + 2  −.8211 − 1  −.4372 d. 0.8514 − 1  −.9111 −  2  −.3112  
+e. 3  −.7512 −  (0.2511 + 1  −.8112) f. 1  −.2572 + 3.9140 −  1  −.1111
+3.4 Simplification of numerical expressions using the table of 
+logarithms    
+The following examples show how numerical computations are done using the  
+given logarithmic rules. 
+1. loga (P  Q) = loga P + loga Q
+2. loga   P
+Q(     )      = loga P − loga Q
+34
+For free distributionExample 1
+Simplify using the table of logarithms and logarithmic rules.
+ a . 43.85  0.7532 b. 0.0034  0.8752 
+ c. 0.0875  .. 18.75 d. 0.3752 .. 0.9321
+Two methods of simplifying are shown below.
+Method 1:    Method 2:
+a. 43.85 × 0.7532
+Take P = 43.85 × 0.7532                         
+                                                                            Simplifying using indices  
+ 43.85 × 0.7532
+= 101.6420 × 101−. 8769
+= 101.5189
+=  3.303 × 101
+=  33.03Then lg P = lg (43.85 × 0.7532)
+  = lg 43.85 + lg 0.7532
+ = 1.6420 + 1−. 8769
+ = 1 + 0.6420 − 1 + 0.8769  
+ = 1.5189
+      ∴ P = antilog 1.5189           
+ = 33.03
+                    
+ b.  0.0034  × 0.8752
+        Take P = 0.0034 × 0.8752.
+ Then,                  
+  lg P = lg (0.0034  × 0.8752)
+ = lg 0.0034 + lg 0.8752                     Simplifying using indices
+   0.0034 × 0.8752
+= 103 −. 5315  × 101 −. 9421
+= 103 −. 4736  
+=  2.975 × 10 3−
+=  0.002975 = 3−. 5315 + 1−. 9421
+ =  − 3 + 0.5315 − 1 + 0.9421
+ = − 4 + 1.4736 
+ = − 4 + 1 + 0.4736
+ = − 3 + 0.4736
+ = 3−. 4736
+      ∴ P = antilog 3−. 4736          
+ = 0.002975
+                   
+35
+For free distribution             
+c.  0.0875 ÷ 18.75  
+                                            
+    Take  P =  0.0875  ÷ 18.75            Simplifying using indices   
+0.0875 ÷  18.75
+= 102 −. 9420   ÷ 101.2730
+= 102 −. 9420  − 1.2730
+= 103 −. 6690  
+=  4.666 × 10  3   
+=  0.004666−Then, lg P = lg (0.0875  ÷ 18.75)
+  = lg 0.0875 − lg 18.75
+  = 2−. 9420 − 1.2730 
+  = − 2 + 0.9420 − 1 − 0.2730 
+   =  − 3 + 0.6690                                                                      
+  = 3−. 6690
+     ∴ P = antilog 3−. 6690          
+ = 0.004666
+    
+d.  0.3752 .. 0.9321                                             
+ Take P = 0.3752  .. 0.9321           
+Then" lg P = lg (0.3752  .. 0.9321)                       Simplifying using indices   
+0.3752  ..0.9321
+= 101 −. 5742   ..
+101 −. 9694
+= 101 −. 5742   − 1 −. 9694
+= 101 −. 6048   
+=  4.026  10
+=  0.4026−1  = lg 0.3752 − lg 0.9321
+  = 1−. 5742 − 1−. 9694 
+  = − 1 + 0 .5742 − (− 1 + 0.9694)   
+  = − 1 + 0.5742 + 1 − 0.9694
+  = − 1 + 0.5742 + 0.0306
+  = − 1 + 0.6048   
+      = 1−. 6048
+    ∴ P = antilog 1−. 6048          
+ = 0.4026
+                    −1
+36
+For free distribution Example 2
+Simplify using the table of logarithms.                  Simplifying using indices
+   
+      8.753  0.02203
+      0.9321
+=  100.9421  102 −. 3430    
+          101 −. 9694 
+=   101 −. 2851   
+  101 −. 9694 
+=      101 −. 2851 − 1 −. 9694 
+=      101 −. 3157
+=      2.067  10 1−
+=      0.2068            
+8.753  0.02203      
+0.9321
+Take P =8.753  0.02203
+      0.9321  '          
+Then" lg P = lg 8.753  0.02203
+      0.9321
+  = lg 8.753 + lg 0.02203 − lg 0.9321          
+  = 0.9421 + 2−. 3430 −  1−. 9694
+  =  0.9421 − 2 + 0.3430 −  1−. 9694                 
+  = 1−. 2851 −  1−. 9694
+  =  − 1 + 0.2851 − (− 1 + 0.9694)
+  = − 1 + 0.2851 + 1 − 0.9694 
+     =  1−. 3157                                              
+      ∴   P  = antilog 1−.3157                         
+     =  0.2068  
+                     
+Exercise 3.4
+Find the value using the table of logarithms.
+1. a .  5.945 × 0.782 b.  0.7453 × 0.05921  c. 0.0085 × 0.0943
+ d .  5.21 × 0.752 × 0.093  e.  857 × 0.008321 × 0.457  f.  0.123 × 0.9857 × 0.79     
+2.
+a. 7.543 ÷ 0.9524 b. 0.0752 ÷ 0.8143  c. 0.005273 ÷ 0.0078
+d. 0.9347 ÷ 8.75  e. 0.0631 ÷ 0.003921   f. 0.0752 ÷ 0.0008531   
+3. 
+a.8.247 × 0.1973
+      0.9875 b.9.752 × 0.0054
+      0.09534         c.79.25 × 0.0043
+      0.3725
+d.0.7135 × 0.4391
+      0.0059      e.5.378 × 0.9376
+0.0731 × 0. 471             f.71.8 × 0.7823
+23.19 × 0. 0932
+37
+For free distribution3.5 Multiplication and division of a logarithm of a number by a 
+whole number  
+We know that the characteristic of a number greater than one is positive. Multiplying 
+or dividing such a logarithm by a  number can be done in the usual way.
+We know that the characteristic  of the logarithm of a number between 0 and 1 is 
+negative. 3−. 8247 is such a logarithm. When multiplying or dividing a logarithm 
+with a negative characteristic  by a number, we simplify the characteristic  and the 
+mantissa separately.
+ 
+Multiplication of a logarithm by a whole number
+Example 1
+Simplify.
+a. 2 . 8111 × 2  b.  2−. 7512 × 3  c. 1−. 9217 × 3
+a.        2 . 8111 × 2             b.      2−. 7512 × 3         
+        = 3 (− 2 + 0.7512)  
+        = − 6 + 2 . 2536 
+   = − 6 + 2 + 0 . 2536   
+        = − 4 + 0.2536
+        = 4−. 2536
+             =   5 . 6222
+                      
+        c.      1−. 9217 × 3 
+             3 ( − 1 + 0.9217)  
+        =  − 3 + 2 .7651
+        =  − 3 + 2 + 0.7651
+     =  − 1 + 0.7651
+        =  1−. 7651 
+Division of a logarithm by a whole number
+Let us now consider how to divide a logarithm by a whole number. When the 
+characteristic  of a logarithm is negative the characteristic  and the mantissa carry 
+negative and positive values respectively. Therefore, it is important to divide the 
+positive part and the negative part separately. Let us now consider some examples 
+of this type.  
+Example 2
+Simplify.  
+a. 2 . 5142 ÷ 2 b.   3−. 5001 ÷ 3  c.  4−. 8322  ÷ 2
+               Because, ( − 3 + 0.5001) ÷ 3      Because, ( − 4 + 0.8322) ÷ 2
+            
+38
+For free distributionIn the above example, the characteristic  of the logarithm was perfectly divisible. 
+Let us consider in the following example, how division is done when the whole part 
+is not perfectly divisible.
+Example 3
+Simplify '
+a. 1−. 5412  .. 2 b.  2−. 3713  .. 3 c. 3−. 5112  .. 2
+ a.  1−. 5412  .. 2  can be written as    (− 1 + 0.5412)  .. 2'
+Because the whole part,  1−, is not perfectly divisible by 2, let us write it as  2− + 1' 
+Now, we  can perform the division as follows
+  a.    1− . 5412 ÷ 2 =  ( − 1 + 0.5412)  ÷ 2
+ = (− 2 + 1 + 0.5412) ÷ 2
+ = (− 2 + 1 . 5412) ÷ 2
+ =  1− . 7706
+  b.       1−. 3712  ÷ 3     
+        = ( − 1 + 0.3712) ÷ 3
+        = (− 3 + 2 +  0.3712) ÷ 3 
+        =  (  3− + 2.3712) ÷ 3 
+        =   1−. 7904 
+ c.        3−. 5112 ÷ 2   
+        =   ( − 3 + 0.5112) ÷ 2
+   =  (− 4 + 1 + 0.5112) ÷ 2 
+        =   4− + 1.5112 ÷ 2 
+        =   2−. 7556     beacause ( − 1 = − 3 + 2)
+because  ( − 3 = −   4 + 1)  a.    1− . 5412 ÷ 2 =  ( − 1 + 0.5412)  ÷ 2
+ = (− 2 + 1 + 0.5412) ÷ 2
+ = (− 2 + 1 . 5412) ÷ 2
+ =  1− . 7706Because the whole part,  1−, is not perfectly divisible by 2, let us write it as  2− + 1' 
+Now, we  can perform the division as follows            
+Example 3
+Simplify '
+a. 1−. 5412  .. 2 b.  1−. 3712  .. 3 c. 3−. 5112  .. 2
+ a.  1−. 5412  .. 2  can be written as    (− 1 + 0.5412)  .. 2'            
+In the above example, the characteristic  of the logarithm was perfectly divisible. 
+Let us consider in the following example, how division is done when the whole part 
+is not perfectly divisible.      2 . 5142 ÷ 2      3− ÷ 3 = 1−      4− ÷ 2 = 2−
+    = 1. 2571        0.5001 ÷ 3 = 0.1667    0.8322 ÷ 2 = 0.4161
+  ∴  3−. 5001 ÷ 3 ∴ 4−. 8322 ÷ 2 
+      =  1−. 1667  =   2−. 4161               Example 2
+3−4−
+b b
+39
+For free distributionThese types of divisions and multiplications are important when simplifying using 
+the table of logarithms. Do the following exercise to strengthen this knowledge.
+Exercise 3.5
+1. Find the value. 
+  a. 1−. 5413  2 b. 2−. 7321  3  c. 1. 7315  3
+  d. 0.4882  3   e. 3−. 5111  2  f. 3−. 8111  4   
+2. Find the value.
+a. 1. 9412 .. 2   b. 0. 5512 .. 2 c. 2−. 4312 .. 2  
+d. 3−. 5412 .. 3   e. 2−. 4712 .. 2   f. 4−. 5321 .. 2   
+g. 1−. 5432 .. 2      h. 2−. 9312 .. 3   i. 3−. 4112 .. 2      
+j. 1−. 7512 .. 3   k. 4−. 1012 .. 3    l. 5−. 1421 .. 3   
+3.6 Finding powers and roots of numbers using the table of 
+logarithms
+Recall that log253 = 3 log 25' 
+This follows from the logarithmic rule logamr = r logam.
+Similarly, the logarithm of a root can be written using this rule, as follows.
+ (i)            
+ 
+ 
+(ii)       251
+2lg   25√  lg =
+             21 lg=   25 
+The following examples consider how to extract roots and powers of a number  
+using the table of logarithms. 
+Example  1
+Find the value.
+a. 3542 b. 0.02753 c. 0.90734Exercise 3.5
+1−2−
+3−3−
+....2−..
+3−..2−..4−..
+1−..2−..3−..
+1−..4−..5−..
+Recall that log253 = 3 log 25' 
+This follows from the logarithmic rule logamr = r logam.
+Similarly, the logarithm of a root can be written using this rule, as follows.
+ (i)        51
+2loga   5√  loga =
+             21       5loga =^using the above logarithmic rule &^because   5√  
+ =51
+2)     
+ 
+ 
+(ii)       251
+2lg   25√  lg =
+             21 lg=   25 
+The following examples consider how to extract roots and powers of a number  
+using the table of logarithms. 
+Example  1
+Find the value.
+a. 3542 b. 0.02753 c. 0.907343.6 Finding powers and roots of numbers using the table of 
+logarithms
+Recall that log253 = 3 log 25' 
+This follows from the logarithmic rule logamr = r logam.
+Similarly, the logarithm of a root can be written using this rule, as follows.
+ (i)        51
+2loga   5√  loga =
+             21       5loga =^using the above logarithmic rule &^because   5√  
+ =51
+2)     
+ 
+ 
+(ii)       251
+2lg   25√  lg =
+             21 lg=   25 
+The following examples consider how to extract roots and powers of a number  
+using the table of logarithms. 
+Example  1
+Find the value.
+a. 3542 b. 0.02753 c. 0.90734
+40
+For free distribution  a.  Take   P = 3542'                       b .   Take  P = 0.02753'           
+ lg P = lg 0.02753    
+  =  3 lg 0.0275                  
+  =  3 × 2−. 4393    
+  = 3 × ( −2 + 0.4393)
+  = − 6 + 1.3179
+  = − 6 + 1 + 0.3179
+  = − 5 + 0.3179
+  =   5−. 3179                 
+             ∴    P   =  antilog  5−. 3179  
+  =  2.079 × 10 −5
+  = 0.00002079    
+                                           
+ lg P = lg 3542      
+ =  2 lg 354 
+ =  2 lg 3.54 × 102                    
+ =  2 × 2.5490   
+ =  5.0980            
+∴    P =  antilog   5.0980
+ = 1.253 × 105 
+ =  125 300
+               
+c.  Take    P = 0.90734 '                               
+     lg P = lg 0.90734     
+  =  4 lg 0.9073                      
+  =  4  1−. 9577     
+  =  4  (− 1 + 0.9577)
+  = − 4 + 3.8308        
+  = − 4 + 3 + 0.8308        
+  = − 1 + 0.8308                               Simplifying using indices
+   
+0.90734 =  101 −  
+ = 101 −
+ = 10  . 8308   
+ = 6.773  10 1−
+ = 0.67731 −. 9577 ×  4 . 9577  4 
+  = 1−. 8308  
+          ∴  P = antilog 1−. 8308  
+  = 6.773  10 − 1
+  = 0.6773
+                     
+41
+For free distributionExample  2
+(i)  8.75√               (ii)  0.9371√3         (iii) 0.0549√3
+   
+ (i) Take P = 8.75  √'                       
+    P = 8.75  √  can be written as                                                                    
+   P   = 8.751
+2    
+         lg P =  lg 8.751
+2                  
+  =  1
+2 lg 8.75   
+  =  1
+2  0.9420         
+               =   0.4710  
+     ...   P   =  antilog 0.4710
+  =  2.958                      
+(ii) Take P =  0.9371√3'                       
+Simplifying using indices.   
+0.9371√3 =  0.93711
+3  
+ = 101 −. 9717  1
+3 
+ = 101 −. 9717  1
+3
+ = 10 1 −. 9906 
+ = 9.786 10 1−
+ = 0.9786                     
+                                                      
+     P   =  0.93711
+3    
+         lg P =  lg 0.93711
+3                  
+  =  1
+3 lg 0.9371   
+  =  1
+3  1−. 9717          
+               =  ( 1−. 9717)  ..3
+  = (− 1 + 0.9717)  ..3
+  = (− 3 + 2 + 0.9717)  ..3
+  = (− 3 + 2.9717)  ..3
+  = − 1 + 0.9906  
+  =  1−. 9906
+         ∴  P =  antilog 1−. 9906       
+  =  0.9786   
+                      
+42
+For free distribution(iii)Take  P =  0.0549√3'                       
+Simplifying using indices.
+   
+0.0549√3  =  0.05491
+3  
+ = 102 −. 7396  1
+3 
+ = 102 −. 7396  1
+3
+ = 10 1 −. 5799 
+ = 3.801  10 1−
+ = 0.3801                     
+           
+         lg P =  lg 0.05491
+3                  
+  =  1
+3 lg 0.0549   
+  =  1
+3  2−. 7396          
+               =  ( 2−. 7396) .. 3
+  = (− 2 + 0 . 7396) .. 3
+  = (− 3 + 1 + 0.7396) .. 3
+  = (− 3 + 1.7396) .. 3
+  = − 1 + 0.5799  
+  =  1−. 5799
+         ∴  P =  antilog 1−. 5799      
+  =  0.3801  
+       
+Now do the following exercise.
+Exercise 3.6
+1. Find the value using the table of logarithms. 
+   a.  (5.97)2  b. (27.85)3  c.  (821)3 
+      d.  (0.752)2  e. (0.9812)3  f.   (0.0593)2 
+2. Find the value using the table of logarithms. 
+   a.  25.1√   b. 947.5√  c.  0.0714√  
+      
+  d.  0.00913√3  e. 0.7519√3 f.   0.999√  
+43
+For free distribution3.7 Simplification of expressions involving powers and roots using
+      the table of logarithms
+The following example demonstrates how to simplify an expression involving roots, 
+powers, products and divisions (or some of these) using the table of logarithms.
+Example 1
+Simplify. Give your answer to the nearest first decimal place. 
+7.543  0.9872
+0.875√ 75.4 0.4537√
+0.9872a. b. 
+       7.543  0.9872
+0.875√a. P = Take
+                                        
+  Then lg P =  lg 7.543  0.9872
+0.875√ 
+         =  lg 7.543 + lg 0.9872 – lg 0.8751
+2             
+  =  lg 7.543 + 2 lg 0.987 – 1
+2  lg 0.875
+    =  0.8776 + 2   1−. 9943  – 1
+2  1−. 9420  
+  =  0.8776 + 2   1−. 9943 –  2 2− + 1.9420         
+  =  0.8776 + 1−. 9886 – (1− + 0. 9710)         
+    =  0.8776 +  1−. 9886 –  1−. 9710  
+            =  0.8662 –  1−. 9710 
+    =  0.8952
+     ...   P =  antilog 0.8952
+  =  7.855                          
+  ...  7.543  0.9872
+0.875√ ≈  7. 9     (to the nearest first decimal place)
+                                       
+44
+For free distributionThis simplification can be done by using indices too as follows. 
+  Simplifying using indices.
+   
+     7.543  0.9872
+0.875√  =   7.543  0.9872
+ 0.8751
+2
+ 
+     =   100.8776 
+1
+2101 −. 9943 
+101 −. 9420 
+ 
+      =   100.8776  101 −. 9886 
+101 −. 9710  
+      =  100.8662 
+101 −. 9710 
+      =  100.8662 – 1 −. 9710
+      =  100.8952
+      =  7.855   100
+      =  7.855
+ ...  7.543  0.9872
+0.875√ ≈  7. 9     (to the nearest first decimal place)
+b. P = Take× 75.4 0.4537√
+0.9872      
+ lg P      =  lg  0.4537 
+0.9872× 75.41
+2
+ 
+ =  lg  0.45371
+2+ lg 75.4 – lg 0.9872   
+ =   1
+2 lg 0.4537 + lg 75.4 –  2 lg 0.987   
+ =  1
+2 × 1−. 6568   + 1.8774 – 2 × 1−. 9943        
+ =  1−. 8284 + 1.8774 – 1−. 9886    
+ =  1.7058 – 1−. 9886   
+ =  1.7172
+      P  =  antilog 1.7172
+ =  52.15
+     
+   75.4 0.4537√
+0.9872   ≈  52.2  (to the nearest first decimal place)
+                                 2
+45
+For free distribution       Simplifying using indices is given below.
+       75.4 0.4537√
+0.9872   =  0.4537 
+0.9872  75.41
+2
+ 
+     =  1
+2 101.8774
+101 −. 9943101 −. 6568 
+2
+ 
+     =   101 −. 8284   101.8774 
+101 −. 9886  
+      =  101.7058 – 1 −. 9886
+      =  101.7172
+      =  52.15
+ 
+      ≈  52.2  (to the nearest first decimal place)                                   
+ Use the table of logarithms to compute the value.
+a.    8.765 
+24.51   √ 327.03 b.   8.022
+9.83   √ 9.18 c.   4.8212
+48.15   √ 0.0945 
+d.    3 × 0.7522 
+   √ 17.96 e. 6.591  
+0.98212   √ 30.0782 f.     3.251 
+0.8915   √ 30.0234
+3.8 Applications of logarithms
+The table of logarithms can be used to do computations efficiently in many problems 
+that involve products and divisions of numbers. Such an example is given below. 
+ 
+Example 1
+The volume V, of a sphere of radius r is given by " V = 4
+3πr3' By taking π = 3.142 
+and given that  r = 0.64 cm " use the table of logarithms to find the volume of the 
+sphere to the nearest first decimal place.  Exercise 3 '7
+46
+For free distribution          V  =     4
+3πr3                                                             
+        =    4
+3  3.142  0.643 
+         lg V =   lg  4
+3 3.142  0.643                  
+  =   lg 4 + lg 3.142 + 3 lg 0.64 – lg 3   
+  =  0.6021 + 0.4972 + 3   1−.8062 – 0.4771       
+               =   0.6021 + 0.4972 +  1−.4186 – 0.4771
+               =  0.5179 – 0.4771
+  =  0.0408
+      ∴    V =  antilog 0.0408
+              =  1.098    
+  ≈  1.1   (to the nearest first decimal place) 
+  ∴ The volume of the sphere is  1.1 cm3.
+Exercise 3 '8
+1. The mass of one cubic centimeter of iron is 7.86 g. Find the mass, to the nearest 
+kilogram, of a cuboidal shaped iron beam, of length, width and depth respectively  
+5.4 m, 0.36 m and 0.22 m.
+2. Find the value of g, if g is given by  g = 4π2l
+T2  where,  π = 3.142, l = 1.75 and                 
+T = 2.7
+ 
+3. A circular shaped portion of radius 0.07 m was removed from a thin circular 
+metal sheet of radius  0.75 m.  
+(i)  Show that the area of the remaining part is π   0.82  0.68.
+(ii)  Taking π as 3.142, find the area of the remaining part using the table of 
+ logarithms.   
+4. The figure shows a right triangular block of land. If the P
+  0.94  mQ Rdimensions of two sides are 3.75 m and  0.94 m, show that 
+the length of PR is   4.69  2.81 and find the length of PR 
+in metres to the nearest second decimal place. 4π2l
+T2 g=
+√3.75 m
+47
+For free distribution3.9 Using a calculator
+Logarithms have been used for a long time to do complex numerical computations.   
+However, its use has now been replaced to a great extent by calculators. Computations 
+that can be done using an ordinary calculator is limited. For complex computations 
+one needs to use a scientific calculator. The keyboard of a scientific calculator is 
+much more complex than that of an ordinary calculator. 
+Evaluating powers using a calculator :
+5213 can be computed by entering 521   521  521 into an ordinary calculator.  
+However, this can be computed easily using a scientific calculator, by either using 
+the key indicating xn or by '
+Example  1
+Find the value of 2753 using a calculator.
+Show the sequence of keys that need to be activated to find  2753.
+  2  7  5   x n 3 = or  2  7  5  3 =                       20 796 875
+Evaluating roots using a calculator :
+You need to use the shift key, when finding roots. In addition to that, you also need 
+to activate the keys denoted by  √x '
+Example 1
+Show the sequence of keys that need to be activated to find    √   42313 441 using a 
+calculator.
+ 2 3 1  3            = 4 4 41 x n
+2 3 1 3 4 4 
+2 3 1 3 4 4 1
+14
+4x  n1=
+=nx√or
+orshift
+                                              393.75 m
+48
+For free distributionSimplifying expressions involving powers and roots using a 
+calculator :
+Show the sequence of keys that need to be activated to find the value of 
+                                           5.213  
+3275   √ 34.3
+5  .  2  1  x n 3  4  .  3  x  n1
+ 3 ..
+  3     2 7 5 =
+Exercise 3 '9 
+1. Show the sequence of keys that need to be activated to find each of the following  
+values. 
+    a.   9522         b.   √  475
+     c.   5.853        d.   √  3275.1
+    e.  3752    √         52    f.    √     4229  3522    
+    g.   372  853
+   √ 50                      h.              852
+   √ 36   √ 751
+3
+    i.               38.75    √ 1452 
+  98.2   j.                  5.412    √ 827.3     
+  9.743
+Miscellaneous Exercise
+1. Simplify using the table of logarithms. Verify your answer using a calculator. 
+   (i) 1
+   275.2            (ii) 1
+   √ 982.1       (iii) 1
+   √ 0.954
+  (iv) 0.56781
+3           (v) 0.7852 – 0.00722        (vi) 9.842 + 51.22         0.070219546
+49
+For free distribution2. Find the value of
+   (i)   a
+ b             
+  (ii) ( ab)2 
+when a = 0.8732 and b = 3.168 '
+3. In  A = p (1 + r
+100)n, find the value of A, when  P = 675, r = 3.5 and n = 3.
+4.  A sector with an angle of 73o subtended at the center, was removed from a thin 
+circular sheet.  
+     (i) What fraction of the area of the circle is the area of the sector?  
+    (ii)  If the radius of the circle is 17.8 cm, find the area of the sector. 
+50 51For free distribution For free distributionPyramid
+       
+Carefully observe the solid objects in the above figure. Note that their faces are 
+polygons. Of these faces, the horizontal face at the bottom is called the base. All the 
+faces, except the base are of triangular shape. The common point of these triangular 
+faces is called the "apex". A solid object with these properties is called a "pyramid". 
+Note that the bases of the Pyramids shown above are respectively, the shape of a 
+quadrilateral, a pentagon and a hexagon.
+Right pyramid with a square base
+Perpendicular 
+height
+Square baseTriangular face
+Slant 
+edgeThe base of the pyramid in the figure is a 
+square. All the remaining faces are triangular 
+in shape. If the line segment connecting the 
+apex and the midpoint of the square base (that 
+is the intersection point of the two diagonals) 
+is perpendicular to the base, then such a 
+pyramid is called a " square based right 
+pyramid ". The length of the line segment 
+connecting the apex and the midpoint of the 
+base is called the perpendicular height  (or 
+simply the height) of the pyramid. The edges of the triangular faces which are not 
+common to the base are called slant edges . In this lesson, we will only consider 
+finding the surface area of square  based right pyramids.  Surface area of solids 4
+By studying this lesson you will be able to " 
+ ² find the surface area of a right pyramid with a square base,
+ ² find the surface area of a right circular cone, and
+ ² find the surface area of a sphere. 
+50 51For free distribution For free distributionNote : A tetrahedron can also be considered as a pyramid. All the faces of a 
+tetrahedron are triangular in shape. Any one of the faces can be taken as the base.
+The concept of —right pyramid ˜ can be defined even when the base is not a square. 
+For example, we can define a right pyramid when the base of a pyramid is a 
+regular polygon, as follows. First note that all the axes of symmetry of a regular 
+polygon pass through a common point, which is called the centroid of the regular 
+polygon. A pyramid, having a base which is a regular polygon, is called a right 
+pyramid, if the line segment connecting the apex and the centroid of the base is 
+perpendicular to the base. 
+If you study mathematics further, you will learn how to define the centroid, even 
+when the base is not a regular polygon. 
+An important property of a square based right pyramid is that all its triangular faces 
+are congruent to each other. Therefore, all the triangular faces have the same area. 
+Moreover, note that each triangular face is an isosceles or an equilateral triangle, 
+with one side a side of the square base and the other two sides equal in length. 
+4.1 Surface area of a square based right pyramid
+To find the total surface area of a square based right pyramid we need to add the 
+areas of the base and the four triangular faces.
+Suppose the length of a side of the square base is —a˜ and  the perpendicular height 
+of a triangular face is " l".
+Perpendicular 
+height (h)Perpendicular height 
+of the triangular face  
+(l) a
+aandl
+a
+          Square base     Triangular face aa
+(There are 4 such 
+faces)
+Now, we can find the total surface area as follows. 
+52 53For free distribution For free distributionTotal surface area of 
+the square based right 
+pyramid  Area of the 
+square baseArea of a triangular 
+face = 
+= 
+= +   4  
+a  a  + 4  1
+2  a  l
+a2 + 2al  
+If the total surface area is A,
+= a2 + 2al A
+Let us now consider some solved examples on the surface area of a square based 
+right pyramid. 
+ Example 1
+The base length of a square based right pyramid is 10 cm and the perpendicular 
+height of a triangular face is 15 cm.  Find the total surface area of the pyramid. 
+Area of the base  =  10  10    
+ =  100
+Area of a triangular face  =  1
+2  10  15            15
+ cm
+10 cm 10 cm    
+ =  75
+Area of all four  triangular faces   =  75  4
+ =  300
+Total surface area of the pyramid   =  100 + 300
+ =  400
+∴ Total surface area is 400 cm2.  
+ Example 2
+Shown in the figure is a square based right pyramid of perpendicular height 8 cm 
+and base length 12 cm. Find
+    (i) the perpendicular height of a triangular face,          
+12 cml
+8 cm
+12 cm   (ii) the  area of a triangular face, and   
+  (iii) the total surface area of the pyramid.  
+Let us take the perpendicular height of a triangular face to 
+be l cm. 
+Consider the shaded triangle in the above figure. 
+52 53For free distribution For free distributionBy applying Pythagoras'  theorem to this triangle,
+(i)  l2 = 82 + 62   
+8 cm
+6 cml            
+12 cm
+6 cm
+12 cm = 64 + 36 
+ = 100
+	∴ l  = √100
+ = 10
+	 ∴	 Perpendicular height of a triangular face is  10 cm'     
+ (ii)    Area of a triangular face  =  1
+2  12  10
+ 
+=  60
+	 ∴		 Area of a triangular face is 60 cm2.
+                
+(iii) Total surface area of the pyramid   =  12  12 + 4  60
+                       =  144 + 240
+                       =  384
+	 ∴	 Total surface area is  384 cm2.
+                  
+Exercise 4.1
+                                                                                                15 cm
+20 cm20 cm1. The base length of  a square based right pyramid is                
+20 cm and the perpendicular height of a triangular face is 
+15 cm. Find the total surface area of the pyramid.  
+     
+2.  In a square based right pyramid, the length of a side of the square base is 8 cm 
+and the perpendicular height of a triangular face is 20 cm. What is the surface 
+area of the pyramid?   
+                                                                                                        
+3. 5 cm
+6 cm6 cmThe length of the slant edge of a square based right 
+pyramid is 5 cm, and the length of a side of the base is          
+6 cm. Find, the total surface area of the pyramid.
+54 55For free distribution For free distribution4. If the length of a side of the square base of a right pyramid is 20 cm and the 
+perpendicular height is 12 cm, find the total surface area of the pyramid.  
+5. The base length of a square based right pyramid is 16 cm and 
+16 cm16 cmthe perpendicular height is 6 cm. Find the
+                                                        
+  (i) perpendicular height of a triangular face.
+ (ii) the total surface area of the pyramid.        
+6.  Find the total surface area of a square based right pyramid of the length of slant 
+edge is 13 cm, and the side length of the base equal to 10 cm.                                                                                                                                                 
+      
+7.  The surface area of a square based right pyramid is 2400 cm2. If the length of a 
+side of the base is 30cm, find 
+  (i) the perpendicular distance from the apex to a side of the base, and  
+ (ii) the height of the pyramid.
+8.  The area of the fabric that is used to make a tent in the shape of a square based 
+right pyramid, is 80 m2. Find the height of the tent, if the fabric is not used for 
+the base of the tent and the length of a side of the base is 8cm.  
+9.  The height of a tent in the shape of a square based right pyramid is 4m and the 
+perpendicular height of a triangular face is 5 m.  If both the roof and the base of 
+the tent is to be made from fabric, how much material is required? 
+ 
+10.It is required to construct a tent in the shape of a square based pyramid of base 
+length 16 m and height 6 m. Find the fabric needed to construct the tent, also 
+covering the base.
+54 55For free distribution For free distributionCone
+           
+ Shown above are some conical (cone shaped) objects. A cone has a  circular 
+plane surface and a curved surface. The circular plane surface is called the base of 
+the cone. The point through which all the straight lines drawn on the curved surface 
+pass through is called the "apex" of the cone. 
+slant height  
+circular baseapex
+Curved 
+surface
+radiusperpendicular
+ height A cone is called a right circular  cone if 
+the line segment connecting the apex and 
+the centre of the circular base is 
+perpendicular to the circular base of a 
+right circle cone. The radius of the base 
+circle is called the radius of the cone. The 
+length of the line segment connecting the 
+centre of the base and the apex is the 
+perpendicular height of a right circular cone. Moreover, any line segment connecting 
+the apex and a point on the perimeter of the base circle is called a generator of the 
+cone. The length of a generator is called the "slant height " of the cone. 
+It is customary to use —r˜ for the radius, —h˜ for the height and —l˜ for the slant height 
+of a cone.
+4.2 Surface area of a right circular cone
+To explain a method to find the surface area of a right circular cone, consider a 
+hollow right circular cone made from a thin sheet. Observe that the base of such a 
+cone is a circular plane surface. Cutting open the curved surface along a generator, 
+gives a lamina, the shape of a circular sector. 
+Given the radius and the slant height of a right circular cone, one can find surface 
+area of the cone, by finding the area of the circular base and the area of the curved 
+surface.  We can use the formula πr2 to find the area of the circular base. We can find 
+the area of the circular sector as follows.  
+56 57For free distribution For free distribution A
+Ol
+Br
+o
+r
+Curved surface    Circular base2πr
+A
+l B
+    
+The surface area of the curved surface is equal to the area of the sector that is 
+obtained by cutting it open. Because the arc length of the sector is the circumference 
+of the base circle, the arc length of the sector is equal to 2 πr. Also note that the 
+radius of this sector is the slant height —l˜. Now, as you have learned in the lesson 
+on the perimeter of a circular sector in Grade 10, if the angle of the sector is θ then     
+θ
+360× 2πl=2πr.  ∴  θ=2πl2πr × 360  i . e,  θ=l360r
+The area of the sector with the above angle θ (as learnt in grade 10) is θ
+360× πl 2.
+By substituting θ from the  above equation, we get ×l360r
+360πl 2. Accordingly the 
+area of the curved surface of the cone is πrl. 
+Now we can add both areas, to get the total surface area of the cone. 
+ Total surface area of 
+the conearea of the curved 
+surface of the conearea of the circular 
+base=
+=  πrl + πr2+   
+If the total surface area is  A
+A=  πrl + πr 2
+Let us now consider some solved examples on the surface area of a cone. In this 
+lesson let us take the value of π as 22
+ 7.
+ Example 1
+Shown in the figure is a solid right circular cone. Its radius is 7 cm and slant height 
+is 12 cm.  Find the total surface area of the cone. 
+56 57For free distribution For free distributionArea of the curved surface     =  πrl   
+12 cm
+7 cm     =  22
+ 7 7  12
+     =  264     
+Area of the circular base    =  πr2
+     = 22
+ 7  7  7
+     = 154
+∴ Total surface area of the cone   = 264 + 154
+     = 418
+           
+Total surface area of the cone  is 418 cm2.
+ Example 2
+The circumference of the base of a right circular cone is 88 cm and its slant height 
+is 15 cm. Find the area of the curved surface. 
+      Circumference of the circular base   = 88 cm   
+        Let us take the radius as  r cm.          
+                Then,        2πr = 88
+   2   22
+ 7  r = 88                   15 cm
+r      r =  88   7 
+2   22
+         r   =  14 
+             Surface area of the curved surface  =  πrl   
+ =  22
+ 7   14  15
+ =  660 
+ ... Surface area of the curved surface of the cone is 660 cm2.         
+ Example 3                                                     
+Find,                 
+12 cm
+7 cml         
+(i) the slant height, 
+  (ii) the area of the curved surface, and
+ (iii) the total surface area of the cone, 
+accurate up to one decimal place, of a cone of radius 7 cm 
+and perpendicular height 12 cm.
+Take the slant height of the cone to be l cm.  
+58 59For free distribution For free distributionAccording to Pythagoras' theorem, 
+         (i)  l 2  = 72 + 122
+ = 49 + 144
+ = 193
+ l   = √193
+ = 13.8    ^Use the division method to find the square root)
+... The slant height of the cone is  13.8 cm.
+(ii)   The area of the curved surface   =  πrl   
+    =  22
+ 7   7   13.8
+   =  303.6  
+... The area of the curved surface is  303.6 cm2.
+(iii)                 Area of the circular base   =  πr2   
+ =  22
+ 7  7  7
+ =  154 
+          Total surface area of the cone   = 303.6 + 154
+ = 457.6 
+... Total surface area of the cone is  457.6 cm2.
+Exercise 4.2        
+1. Find the area of the curved surface of a right circular cone of base radius 14 cm 
+and  slant height 20 cm.  
+2. Of a right circular solid cone, the radius of the base is 7 cm and the height is            
+24 cm. Find, 
+  (i) the slant height, and 
+ (ii) the area of the curved surface.  
+3. If the slant height, of a conical shaped sand pile with a base circumference                
+44 cm, is 20 cm, find 
+   (i) the radius of the base, and  
+ (ii) the area of the curved surface. 
+4. Find the total surface area of a right circular cone of base radius 10.5 cm and slant 
+height 15 cm. 
+58 59For free distribution For free distribution5. The slant height of a conical shaped solid object is 14 cm. If the area of the 
+curved surface is 396  cm2 , find
+   (i) the radius of the cone, and  
+ (ii) the perpendicular height of the cone.    
+                                                                                                     
+6.  12 cm
+16 cm  6 cmShown in the picture, is a thin glass container in the shape 
+of a cone filled with a juice to half its height. The radius 
+of the glass is 12 cm and its height is 16 cm. Find the area 
+of the region on the glass surface that is in contact with 
+the juice. 
+ 
+Sphere
+           
+  
+                 
+                
+shot put tennis ball Foot ball
+There is no doubt that you know what properties a sphere has. In mathematics, 
+a sphere is defined as the set of points in three dimensional space that lies at  a 
+constant distance from a fixed point.  The fixed point is called the centre of the 
+sphere and the constant distance from the centre to a point on the sphere is called 
+the radius of the sphere. A sphere has only one curved surface, and has no edges or 
+vertices.
+     
+   radiuscurved surface
+r
+We will usually use " r" to indicate the radius of the sphere. 
+60 61For free distribution For free distribution4.3 Surface area of a sphere
+A cylinder with the same radius as the sphere and  height equal to the diameter of 
+the sphere is called the circumscribing  cylinder  of the sphere. The sphere will 
+tightly fit in the circumscribing cylinder of the sphere.
+2r
+A  D S
+RP
+Q C BrThe following fact regarding the surface area of a sphere 
+and its circumscribing cylinder was observed by the 
+Greek mathematician  Archimedes, who lived around 
+225 B.C. 
+When the sphere is inside the circumscribing cylinder, 
+any two planes parallel to the  flat circular surfaces 
+of the cylinder  will bound equal surface areas on the 
+curved surfaces of the sphere and cylinder.   
+For example, in the above figure, the area of the curved surface PQRS on the sphere 
+is the same as the area of the curved surface ABCD on the cylinder.   
+Now, if we apply this fact to the entire cylinder, we see that the surface area of 
+the sphere is equal to the surface area of the curved surface of the cylinder. We 
+can use the formulae 2 πrh to find the surface area of the curved surface of the 
+circumscribing cylinder. 
+Area of the curved surface of the circumscribing cylinder = 2 πr  2r
+                                          = 4πr2
+            Therefore, the surface area of the sphere =  4 πr2
+If the surface area is A,
+              A = 4πr 2
+ Example 1
+Find the surface area of a sphere of radius 7  cm.
+            Surface area of the sphere  = 4πr2
+     =  4   22
+ 7 7  7
+     = 616
+                    ...  surface area of the sphere is  616 cm2'
+60 61For free distribution For free distribution Example 2
+The surface area of a sphere is 1386  cm2. Find the radius of the sphere. 
+Let r be the radius. 
+Then, 4πr2  = 1386
+    4  22
+ 7 r2  = 1386
+     r2 = 1386  7
+ 4  22
+   = 441
+ 4
+          r =  4441
+   =  21
+ 2
+  = 10.5
+ ... radius of the sphere is  10.5 cm '
+Exercise 4.3       
+1. Find the surface area of a sphere of radius 3.5  cm.
+2. Find the surface area of a sphere of radius 14  cm.
+3.  Find the radius of a sphere of surface area  5544  cm2'
+4.  Find the (external) surface area of a hollow hemisphere of radius 7  cm'
+5.  Find the surface area of a solid sphere of diameter 0.5  cm.   
+6.  Find the radius of a solid hemisphere with a surface area of 1386  cm2'
+Summary
+² The surface area A of a square based right pyramid, of base length " a" and  height 
+"l" is
+ A  =  a2 + 2al   
+² The surface area A , of a right circular cone of radius  r and slant height l is 
+ A  =  π rl  +  π r2
+² The surface area A of a sphere of radius  r is
+ A  =  4πr2 '
+62 PBFor free distribution For free distributionMixed Exercise
+1. Shown below is a net used to make a pyramid. 
+5 cm
+5 cm5 cm5 cm a
+a
+b
+baa(i) Find the lengths indicated by a  and  b'   
+(ii) Give reasons as to why the resulting 
+        pyramid is not a right pyramid. 
+(iii) Find the total surface area of the 
+pyramid. 
+    
+2. A right circular cone was made using a lamina 
+in the shape of  the sector shown in the figure.  
+A circular lamina of the same radius is fixed to the  base 
+21 cm240oof the cone.                  
+(i) Find the radius of the cone.
+(ii) Find the total surface area of the cone. 
+3. The ratio between the slant height and the perpendicular height of a cone is               
+5 : 4. The radius of the base of the cone is 6 cm.    
+(i) Find the slant height of the cone '
+(ii) Find the surface area of the curved surface of the cone. 
+4. 
+7 cm2 cmOn a sphere of radius  7 cm, paint was applied from 
+the top downwards, a perpendicular distance of 2 cm. 
+Find the area of the painted region.  (Hint: make use 
+of knowledge on the circumscribing cylinder)   
+5. 7 cm7.7 cm
+The internal radius of a hemispherical clay pot is 7 cm 
+and the external radius is 7.7 cm. Find the total surface 
+area of the pot. 
+PB 63For free distribution For free distribution Volume of solids 5
+ 
+ By studying this lesson you will be able to
+  • compute the volume of a square based right pyramid, right circular cone and a 
+Review Exercise
+1. Shown below are figures of some solid objects that you have studied before. 
+Complete the given table by recalling how their volume was computed. 
+              
+aaa
+   Cube                                              
+ac
+b
+Cuboid  
+                                                                  
+            l
+h
+a
+Triangular prism
+                           h
+r
+Cylinder
+Object Cross-sectional area Volume
+Cube
+Cuboid
+Triangular Prism
+Cylindersphere.
+64 65For free distribution For free distribution 2. Find the volume of a cube of side length 10 cm. 
+3. Find the volume of a cuboid of length 15 cm, width 10 cm and height 8 cm. 
+4. Find the volume of a cylinder of radius 7 cm and height 20 cm. 
+5. Find the volume of the prism shown in the figure.        15 cm
+6 cm
+8 cm       
+ 
+5.1 Volume of a square based right pyramid
+Let us do the following activity to construct a formula to find the volume of a 
+square based right pyramid. 
+Activity
+Use a piece of cardboard to construct the hollow cuboid and the hollow pyramid, 
+shown in the following figure. The cuboid has a square base with 6 cm sides and is 
+of height 10 cm. It does not have a top. The right pyramid has a square base, again 
+with 6 cm sides, and the height of the pyramid is also 10 cm. Do not include a base, 
+so that you can fill it with sand. 
+         10 cm6 cm
+6 cm
+         10 cm
+6 cm6 cm          
+Completely fill the pyramid with sand and empty it into the cuboid. Find how many 
+times you need to do this to fill the cuboid.   
+You would have observed in the above activity, that filling the pyramid completely 
+with sand and emptying it into the cuboid thrice, will completely fill the cuboid 
+without any overflow.
+Let us consider a square based cuboid with side length a and height h, and a square 
+based right pyramid of side length a and height h.
+64 65For free distribution For free distributionAccording to the activity,
+  V olume of the Pyramid    3 = V olume of the Cuboid
+  ... V olume of the Pyramid  =  1
+3  V olume of the Cuboid
+ = 1
+3  Area of the Base   Perpendicular Height
+ = 1
+3  ( a  a )  h
+ = 1
+3 a2h
+  
+                        V olume of the Pyramid  = 1
+3a2h 
+Example 1
+Find the volume of a square based right pyramid, of height 10 cm and base length 
+15 cm. 
+V olume of t he Pyramid  = 1
+3 a2h                                   
+15 cm15 cm10 cm                  
+   =  1
+3   15   15   10
+  = 750
+... V olume of the Pyramid is  750 cm3'        
+Example 2
+The volume of a pyramid with a square base is 400 cm3' Find the length of a side 
+of the base, if its height is 12 cm. 
+Let us take the length of a side of the base to be " a" cm. 
+V olume of the Pyramid  = 1
+3 a2h
+               ...   1
+3 a2h = 400
+  ...   1
+3 a2   12 = 400
+                   ...   4a2 = 400
+                     ...   a2  = 100
+         = 102
+                      ...   a  = 10
+...  Length of a side of the base is  10 cm'
+66 67For free distribution For free distributionExercise 5.1
+1. The height of a pyramid with a square base is 9 cm. The length of a side of the 
+base is 5 cm. Find the volume of the pyramid. 
+2.  A square pyramid of height 10 cm has a base of area 36 cm2. Find the volume 
+of the pyramid. 
+3.  The volume of a square pyramid of height 12 cm is 256 cm3 . Find the length of  
+a side of the base. 
+4. The height of a square pyramid is 5 cm. Its volume is 60 cm3 . Find the area of 
+its base. 
+5. The volume of a square pyramid is 216 cm3 . The length of a side of its base is                 
+9 cm. Find the height of the pyramid. 
+6. The area of the base of a square pyramid is 16 cm2 and its volume is 80 cm3. Find 
+the height of the pyramid. 
+7. The side length of the base of a square pyramid is 12 cm and the slant height is 
+10 cm. Find   
+                             
+12 cm12 cm           
+    (i) the height, and      
+   (ii) the volume 
+  of the pyramid. 
+8. The side length of the base of a square pyramid is 10 cm and the slant height is 
+13 cm. Find                    
+   (i) the height, and     
+  (ii) the volume 
+  of the pyramid.  
+5.2 Volume of a right circular cone
+Let us consider constructing a formula for the volume of a right circular cone. Do 
+the following activity using a right circular cone and a right circular cylinder . 
+66 67For free distribution For free distribution Activity
+ As shown in the figure, using a cardboard, construct a cone without a base, and a            
+ cylinder with a base but without a lid,  of equal radii and equal height.  
+                6 cm
+               6 cm3 cm
+ Fill the cone completely with sand and empty it into the cylinder . Find how many    
+ times you need to do this in order to completely fill the cylinder .  
+ 
+You will be able to observe that, pouring three times from the cone will completely 
+fill the cylinder without any overflow. According to this observation,
+          V olume of the cone   3 = V olume of the cylinder
+              V olume of the cone  =  1
+3  V olume of the cylinder
+You have learned in a previous lesson that the volume of a cylinder, of radius r and 
+height h, is given by πr2h' Therefore, the volume of a cone of radius r and height 
+h is given by 1
+3 πr2h '
+  V olume of the cone   =  1
+3 πr2h 
+The value of  π is taken as  22
+7  in this lesson.
+Example 1
+Find the volume of a cone of radius 7 cm and height 12 cm.
+V olume of the cone =  1
+3πr2h         
+7 cm12 cm                                =  1
+3  22
+7  7  7  12                   
+       =  616
+   ... volume of the cone is  616 cm3' 
+68 69For free distribution For free distributionExample 2
+The circumference of the base of a cone is 44 cm. Its perpendicular height is 21 cm. 
+Find the volume of the cone. 
+Circumference of the base = 44 cm         
+Let us take the radius as r centimetres                               
+                  ... 2πr = 44                                         
+ 21 cm  2   22
+7   r = 44
+                     ... r =  44   7
+ 2   22
+   =  7 
+... radius of the cone is 7 cm'    
+V olume of the cone =  1
+3πr2h                                           
+      =  1
+3  22
+7   7   7   21
+      =  1078 
+                              
+... volume of the cone is  1078 cm3'
+Example 3
+Find, 
+ (i)  the height
+ (ii)  the volume  
+of a cone of radius 7 cm and slant height 25 cm.
+Let us indicate the height of the cone by h centimetres ' Let us apply Pythagoras' 
+Theorem to the indicated triangle of the cone.  
+     (i) h2 + 72 = 252                     
+h
+7 cm                                                         
+ h2 + 49 = 625                                   
+ h2 = 625 – 49
+ h   = 576
+ h = 24 
+...  height of the cone is  24 cm'
+                      
+68 69For free distribution For free distribution(ii) volume of the cone  =  1
+3 πr2h      
+     = 1
+3  22
+7  7  7  24
+     = 1232                    
+... volume of the cone is 1232 cm3'
+Example 4
+Find the perpendicular height of a cone of radius 3.5 cm and volume 154 cm3'
+Let us indicate the perpendicular height of the cone by h centimetres .
+ V olume of the cone  = 1
+3 πr 2h      
+                       ∴ 154 =   1
+3  22
+7   7
+2   7
+2  h            (because 3.5 =      )       7
+2        
+ 
+ ∴ h =  154  3  7  2  2 
+22  7  7   
+    =  12
+... perpendicular height of the cone is  12 cm'
+                   Exercise 5.2   
+1. Find the volume of a cone of radius 7 cm and height 12 cm. 
+2. Find the volume of a cone of diameter 21 cm and height 25 cm '
+3. Find the volume of a cone of slant height 13 cm and  base  radius 5 cm. 
+4. Find the volume of a cone of diameter 12 cm and slant height 10 cm '
+5. If the height of a cone, of  volume 616 cm3 is 12 cm, find the radius of the cone.  
+6. The volume of a cone is  6468 cm3  and its height is 14 cm. Find the diameter of 
+the cone. 
+7. The circumference of the base of a right cone is 44 cm and its slant height is          
+25 cm.  Compute the following. 
+    (i) Radius of the base
+   (ii) Height  
+  (iii) V olume  
+70 71For free distribution For free distribution8. The circumference of the base of a conical shaped container is 88 cm and its 
+perpendicular height is 12 cm. Find the volume of the container. 
+9. How many cones of radius 7 cm and height 15 cm can be made by melting a solid 
+ metal cylinder of base radius 14 cm and height 30 cm?
+                                                                                                       
+21 cm12 cm
+6 cm10. A container is of the form of an inverted right circular 
+cone. The radius of the cone is 12 cm and its height is                             
+21 cm. If the container is filled with water to half its height, 
+how much more water is required to fill it completely?
+                                                           
+5.3 Volume of a sphere
+Recall the circumscribing cylinder of a sphere, that we leaned about in the lesson on 
+the surface area of a sphere. Archimedes, the Greek mathematician who explained 
+the surface area of a sphere in terms of the circumscribing cylinder,  also explained  
+the volume of a sphere in terms of the volume of the circumscribing cylinder.  Let 
+us do the following activity to understand his finding. 
+ 
+ Activity
+ Find a small sphere of radius 3 cm. Using a piece of  cardboard, create a cylinder   
+ with the same radius as that of the sphere and height equal to the diameter of the     
+ sphere. Do not close the two ends of the cylinder. Now carefully insert the sphere  
+ into the cylinder.  
+                                     
+                          
+2rr
+ Take the cylinder, with the sphere inside it. Fill the top part of the cylinder, that is 
+70 71For free distribution For free distributionnot ocupied by the sphere with sand. Cover top with a piece of cardboad and flip it 
+over and fill the remaining part that is not occupied by the sphere also with sand.  
+Put the total amount of sand that you used to fill the remaining volume of the 
+cylinder after inserting the sphere into the cone that you made earlier. Note that the 
+volume of sand fills the cone completely. 
+    
+  2 rr
+    
+Let us formulate what you have observed in this activity. 
+V olume of the Circumscribing Cylinder  = V olume of the Sphere + V olume of the 
+Cone  
+Therefore, we can find the volume of the sphere by subtracting the volume of the 
+cone from the volume of the circumscribing cylinder.    
+V olume of the Sphere  = V olume of the Circumscribing Cylinder  – V olume of the 
+Cone
+ = πr2h  –  1
+3  πr2h  
+ =  2
+3 πr2h 
+ =  2
+3 πr2  2r  (Because h = 2r)
+  =  4
+3 πr3  
+                        V olume of the Sphere  =   4
+3 πr 3  
+Find the volume of a sphere of radius 21 cm.  
+V olume of the Sphere = 4
+3 πr3                                                 21 cm                  
+ 
+ =  4
+3  22
+7  21  21  21
+ = 38 808 
+... V olume of the sphere is  38 808 cm3'1
+3
+2
+3
+2
+3
+4
+3
+V olume of the Sphere  =   4
+3 πr 3  
+Example 1
+4
+321 cm
+4
+322
+7
+...
+72 73For free distribution For free distribution      
+Example 2
+Find the volume of a solid hemisphere of radius 7 cm.  
+V olume of the hemisphere  =  1
+2  4
+3 πr3                                                     
+      =  1
+2   4
+3  22
+7  7  7  7                         7 cm
+     = 718.67 
+       
+   ...  V olume of the hemisphere is approximately  718.67 cm3'
+Example 3
+Find the radius of a small spherical marble, of volume 1131
+7 cm3.
+Let us take the radius as  r centimetres.
+V olume of the sphere  =   4
+3 πr3                                                      
+                 ...   4
+3 πr3  =  113 1
+7 
+                       ...    r3  =  792
+7  3
+4   7
+22 
+                                                              =  27
+            = 33
+                       ...      r  =  3 
+... Radius of the sphere is 3 cm' 
+Exercise 5.3               
+1. Find the volume of a sphere of radius 7 centimeters. 
+2. Show that the volume of a sphere of diameter 9 centimeters is 381 6
+7 cm3. 
+3. Find the volume of a spherical celestial body of radius 2.1 kilometers. 
+4. Find the volume of a hemisphere of radius 10.5 centimeters.  
+5. The volume of a sphere is 11492 2
+3 cubic centimeters. Find the radius of the 
+sphere. 
+72 73For free distribution For free distribution6. Find the radius of the metal ball that is made by using all the metal obtained by 
+melting 8 metal balls, each of radius 7 cm. 
+7. Show that 32 metal balls of radius 3 cm can be made by melting a solid metal 
+hemisphere of radius 12 cm.     
+  
+            Summary
+² The volume V of a square based right pyramid, of base length " a" and  height " h" 
+is
+ V  =  1
+3 a2h'
+² The volume V, of a right circular cone of radius  r and height h is 
+ V  =  1
+3 πr2h'
+² The volume V of a sphere of radius  r is
+ V  =  4
+3 πr3'
+Miscellaneous Exercise
+1. Solid metal spheres of radius 3 cm were made by melting a metal block. The 
+metal block had a square crossection of 12 cm sides. The length of the metal 
+block was 22 cm. How many metal spheres were made?
+2. A solid metal sphere of radius 3.5 cm was melted and casted into a circular cone 
+of the same radius. Find the height of the cone, assuming there was no waste of 
+the metal in the molding process. 
+3. A cone of slant height r and apex O was constructed 
+1440Ousing a metal lamina in the shape of the sector shown 
+in the figure. The centre and the radius of the sector 
+are O and r respectively. n pieces of ice in the shape 
+of spheres of radius a are placed in this cone. (the 
+cone is held inverted) If the cone is filled completely 
+with water when all the ice melts show that               
+125na3 = 9r3.
+74 75For free distribution For free distribution Binomial Expressions 6
+ 
+By studying this lesson, you will be able to
+ expand the cube (third power) of a binomial expression. 
+You have learned in earlier lessons that, for a binomial expression of the form                  
+x + y, its square is denoted by ( x + y)2, and that what it means is ( x + y) (x + y), 
+and that when the product is expanded, the expression x2 + 2xy + y2  is obtained. 
+Moreover, recall that x2 – 2xy + y2  is obtained when (x – y)2  is expanded. 
+Do the following exercise to recall what you have learned about the expansion of 
+squares of binomial expressions.
+Review Exercise
+1. Fill in the blanks. 
+ a . (a + b)2  =  a2 + 2ab + .....   b.   (a – b)2  =  .... –  2ab + b2
+d.   (y + 3)2  =  y2 + .....   + 9
+f.  (b – 1)2  =  b2   ..... +  .....
+h.  (7 – t)2  =  49   .....     +  t2
+j.  (3b – 2)2  =  ...... – 12 b  ......            
+c. (x + 2)2  =   x2 + 4x + .....
+e. (a – 5)2  =   .....   – 10a + 25
+    g.   (4 + x)2    =  16 +.....   .....
+i. (2 x + 1)2  =  4x2  .....  +  1
+2. Expand. 
+ a. (2m + 3)2  b. ( 3x – 1)2  c. (5+2x)2
+ d. (2a + 3b)2  e. (3m – 2n)2    f. (2x + 5y)2
+3. Evaluate the following squares, by writing each as a square of a binomial 
+ expression.
+ a. 322 b. 1032 c. 182 d. 992
+6.1 Cube of a binomial expression
+The cube of the binomial expression a + b , is (a + b)3 . That is, the third power of    
+(a + b) ' Note that this is the same as multiplying ( a + b)2  again by ( a + b).
+74 75For free distribution For free distributionCarefully observe how the following expressions, involving a power of 3, are 
+written.  
+         33 = 3 × 32 = 3 × 3 × 3 = 27 
+         x3 = x × x 2 = x × x × x
+  (2x)3 = (2x) × (2 x)2 = (2x) × (2 x) × (2 x) = 8 x3
+In a similar way, we can write
+  (x + 1)3 = (x + 1)( x + 1)2  = (x + 1) ( x + 1) ( x + 1)
+ ( a – 2)3  =  (a – 2)( a – 2)2  = (a – 2) ( a – 2) ( a – 2)
+ (3 + m)3 = (3 + m)(3 + m)2 =  (3 + m) (3 + m) (3 + m)  
+The cube of a binomial expression can be expanded in a way similar to how the 
+square of a binomial expression was expanded. It is illustrated in the following 
+example ' 
+Example 1 
+(x + y)3  = (x + y) (x + y) 2
+                       
+  
+  = x3 + 2x2y + xy2 + x2y + 2xy2 + y3
+  = x3 + 3x2y + 3xy2 + y3 = (x + y)    (x2+ 2xy +y2)
+Accordingly,  let us remember the following pattern as a formula for the expansion 
+of the cube of the binomial expression ( x + y).  
+  (x + y)3  =  x3 +3x2y + 3xy2 +y3
+cube of the first term cube of the 
+second term 
+three times the product of  the 
+square of the first term and the 
+second term.
+three times the product of  the first term 
+and the square of the second term
+According to this, we can write   
+(m + n)3 =  m3 + 3m2n + 3mn2 + n3 
+76 77For free distribution For free distributionSimilarly, we can write (a + 2)3   =   a3 + 3a2 × 2 + 3 a × 22 + 23, and this can be further 
+simplified as " 
+a3 + 6a2 + 12a + 8 
+Now let us consider how the expansion of  (x – y)3 is obtained by taking products.
+  (x – y)3 = (x – y) (x – y)2
+                       
+  
+ = x3 – 2x2y + xy2 – x2y +2xy2 – y3
+ = x3 – 3x2y + 3xy2 – y3 = (x – y)    (x2– 2xy +y2)
+Now, let us consider how we can obtain the expansion of ( x – y)3, using another 
+method.
+First, note that we can write x – y as x +  (– y)' Therefore, we can treat ( x – y)3 as 
+an expression of the initial form, by writing it as { x + (– y)}3' Let us now consider 
+the expansion of this cube. 
+(x – y)3 = {x + (– y)}3 = x3 + 3 × x2 × (– y) + 3 × x × (– y)2 + (– y)3
+                       = x3 – 3x2y + 3xy2 – y3 
+                                     
+Note that we have used the properties (– y)2 = y 2  and  (– y)3 = – y 3 in the above 
+simplification. 
+ According to this, we can also write
+ ( m – n)3 =  m3 – 3m2n + 3mn2 – n3 
+ ( p – q)3 =  p3 – 3p2q + 3pq2 – q3 
+ 
+Either method can be used to obtain the expansion of ( x – y)3.  You may use any 
+method which is easy for you.
+Let us now consider how the cube of a binomial expression, involving numbers as 
+well, is expanded. 
+Example  2
+ (x + 5)3  =  x3 + 3 × x2 × 5 + 3 × x × 52 + 53
+   =  x3 + 15 x2 + 75 x + 125
+      
+Example  3
+ (1 + x)3  =  13 + 3 × 12 × x + 3 × 1 × x2 + x3  
+   =  1 + 3x + 3x2 + x3
+                                        
+76 77For free distribution For free distributionExample  4
+ (y – 4)3  =  y3 + 3 × y2 × (– 4) + 3 × y × (– 4)2 + (– 4)3  
+   =  y3 – 12 y2 + 48 y – 64
+       
+                               or
+ 
+ (y – 4)3  =  y3 – 3 × y2 × 4 + 3 × y × 42 – 43  
+   =  y3 – 12 y2 + 48 y – 64
+       
+Example  5
+ (5 – a)3  =  53 + 3 × 52 × (– a)  + 3 × 5 × (– a)2 + (– a)3  
+   =  125  – 75a + 15a2 – a3
+             
+      or
+ (5 – a)3  =  53 – 3 × 52 ×  a  + 3 × 5 ×  a2 – a3  
+   =  125  – 75a + 15a2 – a3
+            
+Example  6
+                    (– 2 + a)3  =  (–  2)3 + 3 × (–  2)2 × a + 3 ×(–  2) × a2 + a3
+    =  – 8 + 12 a – 6a2 + a3
+           
+Example  7
+                    (– 3 –  b)3   =  (–  3)3 + 3 × (–  3)2 × (–  b) + 3 × (–  3) × (– b)2 + (– b)3
+    =  – 27 – 27 b –9b2 – b3
+           
+      or
+  –1 (3 + b)3
+ =  (– 1)3   (3 + b)3  
+     =   – 1 (33 + 3 × 32 × b + 3 × 3 × b2 + b3)
+    =   – 1 (27 + 27 b + 9b2 + b3)
+    =   – 27 – 27b – 9b2 – b3
+                                    
+78 79For free distribution For free distribution Example  8
+Write the expansion of ( x – 3)3 and verify that  (4 – 3)3  = 43 – 32 × 42 + 33 × 4 – 33  
+(x – 3)3  =  x3 – 32 × x2  + 33 × x – 33
+Substituting x = 4
+Left s.  = (4 – 3)3  
+ = 1  
+Right s.  = 43 – 32 × 42 + 33 × 4 – 33 
+ = 1
+Left s. =  Right s.
+Therefore  (4 – 3)3  =  43 – 32 × 42 + 33 × 4  – 33 
+Exercise  6'1
+1. Fill in the blanks using suitable algebraic terms, symbols  (+ or  –) or 
+ numbers.  
+ a . (x + 3)3 = x3 + 3 × x2 × 3 + 3 × x  × 32 + 33 =  x3  +  +  + 27
+ b . (y + 2)3 = y3 + 3 ×  ×  + 3 ×  ×   + 23  = y3 + 6y2  +  + 
+ c . (a – 5)3 = a3 + 3 × a2 × (– 5)  + 3 × a × (– 5)2 + (– 5)3  =  a3 –  +  – 125
+ d . (3 + t)3  =   + 3 ×  ×  + 3 ×   ×  +   =  + 27 t +  + t3
+ e . (x – 2)3 = x3 3 ×  ×  + 3 ×  ×  +  (– 2)3 = x3   + 12 x – 
+2. Expand ' 
+ 
+ a. (m + 2)3 b. (x + 4)3 c. (b – 2)3 d. (t – 10)3
+ e. (5 + p)3 f. (6 + k)3 g. (1 + b)3 h. (4 – x)3
+ i. (2 – p)3 j. (9 – t)3 k. (–m + 3)3 l. (–5 – y)3
+ m. (ab + c)3 n. (2x + 3y)3 o. (3x + 4y)3 p. (2 a – 5b)3
+   
+3. Write as a cube of a binomial expression.     
+ a. a3 + 3a2b + 3ab2 + b3 b. c3 – 3c2d + 3cd 2 – d 3   
+ c. x3 + 6x2 + 12 x + 8 d. y3 – 18 y2 + 108 y – 216
+ e. 1 + 3 x + 3x2 + x3 f. 64 – 48 x + 12 x2 – x3
+  
+78 79For free distribution For free distribution 4.  Shown in the diagram is a cube with the length of each  
+a + 5a + 5
+a + 5 side ( a + 5) units. Write an expression for the volume of 
+ the cube and expand it.  
+    
+5. Expand ( x + 3)3 , and verify the result for the following 
+ cases.  
+ (i)  x = 2
+ (ii)  x = 4
+ '
+6. Use the knowledge on cubes of binomial expressions to evaluate the following  
+ numerical expressions. 
+ 
+ (i)  64 – 3 × 16 × 3 + 3 × 4 × 9 –  27
+ (ii)  216 – 3 × 36 × 5 + 3 × 6 × 25 –  125
+7. Find the value of each of the following, by writing each as a cube of a binomial
+  expression.  
+ a. 213   b. 1023   c. 173   d. 983
+8. Find the volume of a cube, with each side 2 a – 5 cm, in terms of  a'
+ 
+9. Write x3 – 3x2y + 3xy2 – y3 as a cube and use it to find the value of  
+ 253 – 3× 252× 23 + 3 × 25 ×232 – 233'
+ 
+80 81For free distribution For free distributionAlgebraic Fractions 7
+ 
+ By studying this lesson, you will understand
+  how algebraic fractions are multiplied and divided. 
+Do the following exercise to revise what you have learned before on adding and 
+subtracting algebraic fractions.  
+Review Exercise
+Simplify. 
+5a
+52a+x8
+x 3–3m7
+4m 3+m 8–
+x + 29
+x 1+m + 21  2–m + 3 a2 – 4 1+a + 2a + 3
+x2 – x – 2 1–x2 – 12
+x2 – 9x + 20 1–x2 – 11x + 301 a. b. c.
+f. e.   d.
+    g.    h.
+7.1 Multiplying algebraic fractions
+Two algebraic fractions can be multiplied in the same way that two numerical 
+fractions are multiplied. Let us consider the following example.
+2x
+6 x23 x×
+2 × 3x    x×  =
+=To perform this multiplication, we multiply the numerators and denominators of 
+the two fractions separately, and obtain a single fraction. That is, What we mean by performing the multiplication is to express this product as a 
+single fraction. 
+2    3x    x  ×
+If the terms in the numerator and the denominator can be further simplified, by 
+doing the simplification we can  express the answer in the simplest form. These 
+simplifications can be done either before multiplying the fractions or after 
+multiplying the fractions. Let us now consider multiplying two fractions where 
+such simplifications are possible.  
+80 81For free distribution For free distributiona8
+2b 3×
+ab12=a ×       b4     3×  =a8
+2b 3×   =4
+1Consider 
+Here, we can cancel the common factor 2, of the numerator 8 of the first fraction 
+and the denominator 2 b of the second fraction. We perform this simplification as 
+follows. 
+Now, by multiplying the expressions in the numerators and denominators of the 
+two fractions separately, we get a single fraction as given below.a8
+2b 3×
+a8
+2b 3×  
+.
+  
+We can also cancel the common factors after multiplying the fractions. Consider 
+the following example.   
+     
+ab=2a3
+32b×6a6b=
+However, by cancelling the common factors before doing this the multiplication, 
+you can minimise long multiplications and divisions. Therefore, doing this is 
+encouraged.
+Observe how the following algebraic expressions are simplified. 
+Example 1  
+    
+yx
+yx
+5y45x 4
+5x 4×  
+× =
+=y × 51    4×  =( Dividing by the common factor  x )
+11
+When multiplying fractions with algebraic expressions in the numerator and the 
+denominator, first factorise the expressions. This is done to cancel the common  
+factors if there are any. Consider the following example..
+82 83For free distribution For free distributionExample  2
+2
+x + 3 5×x2 + 3x
+2
+52x==x + 3 5×x(x + 3) ( Divide by the common factor  x + 3)2=x + 3 5×x(x + 3) ( Factorise  x 2+ 3x )Simplify
+2
+x + 3 5× x2 + 3x
+Let us now consider a slightly complex example.
+Example 3                                                                                 
+Simplify  a2 – 9
+5a a2 + a – 6×2a – 4
+a2 – 9 a2 – 32
+5a2 (a – 3) ==
+=5a
+5a 5a a2 + a – 6× ×
+×2a – 4 2 (a – 2)
+(a + 3) ( a – 2)
+(a – 3) ( a + 3)
+(a + 3) ( a – 2)2(a – 2) because a2 – 32  
+  =  (a – 3) ( a + 3) 
+because a2 + a – 6
+            = ( a + 3) ( a – 2) 
+     
+Exercise 7.1
+Multiply the following algebraic fractions. 
+2y  + 5×3xx2 
+m  + 1×m  + 2
+x2  – 1×x2  – 9g. h.
+i.x6
+3x 2×
+5n4m
+2m 3×5x
+xy 3×
+152a
+9 5×
+x + 1
+8 x + 1 2x×3a  1
+ ×a – 2a. b.
+d. c.
+f. e.3a – 6
+4y  + 10 m2  –  4  m2  + 2m + 1
+a2  – 2ab  +  b2×a2  + abj. a2 – b22a – 2b x2  – 5x + 6 x2  – 2x – 3
+82 83For free distribution For free distribution7.2 Dividing an algebraic fraction by another algebraic fraction
+Recall how you obtained the answer when dividing one fraction by another                 
+fraction. You multiplied the first fraction by the reciprocal of the second fraction. 
+Similarly, when dividing an algebraic fraction by another algebraic fraction, we can 
+instead multiply the first by the reciprocal of the second.
+Before we study how algebraic fractions are divided, let us consider the reciprocal 
+of an algebraic fraction.  
+Reciprocal of an algebraic fraction
+Recall the facts we have leaned regarding the reciprocal of a number. If the product 
+of two numbers is 1, then each number is the reciprocal or the multiplicative inverse 
+of the other number. 
+Because  2 ×  21=  1, reciprocal of  2 is  21 and reciprocal of  21 is 2.
+Because  × 331 =  1,  reciprocal of 31 is 3 and reciprocal of 3  is 31. 
+Because  ×    5445=  1,  reciprocal of   54  is 45 and reciprocal of   45 is 54. 
+The reciprocal of an algebraic fraction is also described similarly. That is,
+if the product of two algebraic fractions is 1, then each algebraic fraction is the 
+reciprocal of the other. 
+Let us multiply the two algebraic fractions x5 and 5x .
+×x5 15x 1=  = 1.
+Therefore, x5 is the reciprocal of  5x and 5x is the reciprocal of  x5 .
+Similarly, because
+ ×yy x + 1
+x + 11=  ,
+ yx + 1 is the reciprocal of   y
+x + 1 and   y
+x + 1 is the reciprocal of  yx + 1.
+Now it should be clear that, the reciprocal of an algebraic fraction can be obtained 
+84 85For free distribution For free distributionby simply interchanging the numerator and denominator, as you have done with 
+numerical fractions. 
+Observe the following algebraic fractions and their reciprocals.
+ 
+  algebraic fraction   reciprocal  
+4m
+m4
+a
+a + 2 aa + 2
+x – 3
+x2 + 5x + 6 x – 3x2 + 5x + 6
+Let us now consider how to divid an algebraic fraction by another. 
+Example 1
+÷x   3 4y
+    x 
+×x   3  x
+    4y 
+×x   3  x
+4y 
+4y3 =
+=
+=(Instead of dividing by4y
+   x we multiply by its reciprocal 
+ x
+4y )
+  
+(Dividing by  the common factor x)
+(Multiplying the numerators and denominators separately)Simplify
+÷x   3 4y
+    x 
+Let us consider a few more examples.
+Example 2
+÷÷
+bb
+   a   a
+ab
+    4 ab
+    4 
+×b   a 4
+    ab 
+×b   a  4
+ab 
+ b 24 =
+=
+=(Multiplying by the reciprocal)
+(Cancelling  a)Simplify
+84 85For free distribution For free distributionWhen there are algebraic expressions in both the numerator and the denominator, 
+we can first factor the expressions, so that the common factors can be easily found 
+and cancelled before simplifying.  
+Look at the following examples.
+Example 3
+(Factoring the expressions 
+and dividing by the common 
+factors)÷x2  + 2x x2  + 2x   3x    3x 5x
+ x2  –  4÷x2  + 2x   3x 5x
+ x2  –  4
+5x x2  –  4× = (Multiplying by the reciprocal)Simplify
+x (x + 2)   3x× =
+3 (x  – 2)
+   5x=5x (x   – 2) ( x  + 2)
+Example 4
+÷÷
+x2  + 3x – 10x2  + 3x – 10
+x2  + 3x – 10
+   x   x
+   xx2 – 25x2 – 25
+x2 – 25  x2  –  5x x2  –  5x
+ x2  –  5x×
+×=
+=
+x  – 2 =x  – 2
+   1=Simplify
+x (x   + 5) ( x  – 2)   x (x  – 5)
+  (x – 5) ( x  + 5)
+86 PBFor free distribution For free distributionExercise 7.2                                                                                                                                                                                                                                                                                                            
+Simplify the following algebraic fractions '
+x5
+x 10×
+ 2a2a – 4
+3 a – 2 ÷3nm
+2n2 m÷
+yx + 1
+x 2(x + 1)÷
+x2 + 4x
+3y  12y2 x2  – 16÷p2 – pr ÷p2 – r2
+a2 – 4a – 5÷a2  + 2a + 1a. b.
+d. c.
+g.f. e.
+h.
+i.p2 + pq p2 – q2
+4x2  – 1÷2x + 1x2y2 + 3xy xy  + 3
+m + 1÷m2 + 2m + 1m2 – 4 m  + 2
+x2  – 4x – 5×x3 – 8x2x  – 5j. x2 – 8x x2 + 2x + 1 x2 + 2x – 3a2 – 5a a2 – a – 2
+÷
+PB 87For free distribution For free distributionBy studying this lesson you will be able to
+   identify the theorems on the relationships between the areas of triangles and 
+parallelograms on the same base and between the same pair of parallel lines, 
+and solve problems related to them.   
+Introduction
+You have already learnt about various plane figures and how the areas of certain 
+special plane figures are found. Let us now recall how the areas of triangles and 
+parallelograms are found.
+When finding the areas of triangles and parallelograms, the terms altitude and base 
+are used.  Let us first recall what these terms mean.
+Let us consider the given triangle ABC  and the parallelogram PQRS .
+     A
+E
+C B D             P S
+R QN
+M
+When finding the area of a triangle, any one of its sides can be considered as the 
+base.  For example, the side BC of the triangle ABC can be considered as the base. 
+Then AD is the corresponding altitude; that is, the perpendicular dropped from the 
+vertex A to the side BC.
+We know that,
+area of triangle  ABC = 1
+2  BC  AD. 
+Similarly, if we consider the side AB to be the base, the corresponding altitude is 
+CE. Accordingly, we can also write,  
+area of triangle ABC = 1
+2  AB  CE. 
+We can similarly find the area of the triangle ABC  by taking AC as the base and 
+drawing the corresponding altitude from the vertex B.Areas of Plane Figures 
+between Parallel Lines 8
+88 89For free distribution For free distributionNow let us consider the parallelogram PQRS .  Here too, the area can be found by 
+considering any one of the sides as the base. If we consider the side QR as the base, 
+the corresponding altitude is the line segment PM. The length of PM is the distance 
+between the two parallel straight line segments QR and PS, the side opposite QR.
+We know that,
+the area of parallelogram PQRS = QR  PM. 
+Similarly, if we consider the side PQ as the base, the corresponding altitude is RN. 
+Therefore we can also write,
+the area of parallelogram  PQRS  = PQ  RN.
+Note
+The length of the altitude of a triangle or a parallelogram is also often called the 
+altitude. 
+To recall what has been learnt earlier regarding finding the areas of parallelograms 
+and triangles, do the following exercise by applying the above facts.
+Review Exercise
+1. Complete the given table by using the data  in each of the figures given below.
+    
+A B
+D CE F
+G I HJ N K
+L MA
+D BS
+V
+U TX Z W
+Y(i)
+(iv) (v) (vi)(ii) (iii)
+      
+88 89For free distribution For free distributionFigure Base Corresponding 
+AltitudeArea 
+(As a product of 
+lengths)
+  (i)  Triangle ABD 
+ (ii)  Triangle STU 
+(iii)  Triangle WXY 
+(iv)  Rectangle ABCD
+ (v)  Parallelogram EFGH
+ (v)  Parallelogram JKLM
+8.1 Parallelograms and triangles on the same base and between 
+the same pair of parallel lines
+Let us first see what is meant by parallelograms and triangles on the same base and 
+between the same pair of parallel lines. Consider the following figures.
+   DE
+B AC F D C
+BE
+AC D
+B AFigure (i) Figure (ii) Figure (iii)
+   Both the parallelograms ABCD  and ABEF  in figure (i) lie between the pair of 
+straight lines AB and DE. What is meant here by the word “between” is that a pair 
+of opposite sides of each of the parallelograms lies on the straight lines  AB and 
+DE. Further, the side AB is common to both parallelograms. In such a situation, 
+we say that the two parallelograms are on the same base and between the same 
+pair of parallel lines. Here, the common side AB has been considered as the base. 
+It is clear that corresponding to this common base, both the parallelograms have 
+the same altitude. This is equal to the perpendicular distance between the two 
+parallel lines AB and DE. 
+     Figure (ii) depicts a parallelogram and a triangle which lie on the same base and 
+between the same pair of parallel lines AB and DC. The parallelogram is ABCD 
+and the triangle is ABE. The common base is AB. Observe that in this case, one 
+side of the triangle and the opposite vertex lies on each parallel straight lines.
+     Figure (iii) depicts two triangles on the same base and between the same pair of 
+parallel lines. The two triangles are ABC  and ABD .   Both the parallelograms ABCD  and ABEF  in figure (i) lie between the pair of 
+straight lines AB and DE. What is meant here by the word “between” is that a pair 
+of opposite sides of each of the parallelograms lies on the straight lines  AB and 
+DE. Further, the side AB is common to both parallelograms. In such a situation, 
+we say that the two parallelograms are on the same base and between the same 
+pair of parallel lines. Here, the common side AB has been considered as the base. 
+It is clear that corresponding to this common base, both the parallelograms have 
+the same altitude. This is equal to the perpendicular distance between the two 
+parallel lines AB and DE. 
+     Figure (ii) depicts a parallelogram and a triangle which lie on the same base and 
+between the same pair of parallel lines AB and DC. The parallelogram is ABCD 
+and the triangle is ABE. The common base is AB. Observe that in this case, one 
+side of the triangle lies on one of the parallel lines while the opposite vertex lies 
+on the other line.
+     Figure (iii) depicts two triangles on the same base and between the same pair of 
+parallel lines. The two triangles are ABC  and ABD .
+90 91For free distribution For free distributionExercise 8.1
+1. Based on the information in the figure,                                      K L M N B
+P Q R DA
+C(i)  name four parallelograms.
+(ii)  name the two                                                             
+parallelograms with the 
+same base QR which 
+lie between the pair of 
+parallel lines  AB and CD. 
+                                                               
+2. Write down all the triangles with 
+C N O PL M QA
+the same base OP that lie 
+between the pair of parallel 
+straight lines AQ and CP in the 
+given figure. 
+      
+                                                       
+C T U R bSM K L Q P
+h
+aN B
+DA3. In the given figure, the 
+perpendicular distance between 
+the pair of parallel straight 
+lines AB and CD is denoted 
+by h and the base lengths of 
+the parallelograms by a and 
+b. Write down the areas of the 
+parallelograms PQRS, KLSR  
+and MNUT  in terms of these 
+symbols. 
+                                                                  4. The rectangle KLMN  and the 
+parallelogram PQMN  in the given 
+figure lie between the pair of parallel 
+straight lines AB and CD.  NM = 10 
+cm and LM = 8 cm.
+^i& Find the area of the rectangle  KLMN.
+^ii&  Find the area of the parallelogram  PQMN.
+^iii& What is the relationship between the area of the rectangle  KLMN and the    
+ parallelogram PQMN ?CA K P L QB
+N M DO
+90 91For free distribution For free distribution8.2 The areas of parallelograms on the same base and between 
+the same pair of parallel lines
+Next we look at the relationship between the areas of parallelograms on the 
+same base and between the same pair of parallel lines. Consider the given                      
+parallelograms . 
+              DE
+B AC F
+P
+Let us see whether the areas of the parallelograms ABCD  and ABEF  are equal.
+Observe that,
+area of parallelogram ABCD  = area of trapezium ABCF  + area of triangle AFD
+area of parallelogram ABEF  = area of trapezium ABCF  +  area of triangle BEC
+Therefore it is clear that, if 
+the area of triangle AFD  = the area of triangle BEC , 
+then the areas of the two parallelograms will be equal.
+In fact, these two triangles are congruent. Therefore their areas are equal. The 
+congruence of the two triangles under the conditions of SAS can be shown as 
+follows. 
+In the two triangles AFD  and BEC ,
+ AD = BC  (opposite sides of a parallelogram)
+ AF = BE       (opposite sides of a parallelogram)
+Also, since  DAB
+> = CBP
+> (corresponding angles) and FA B
+> = EBP
+> (corresponding 
+angles), by subtracting these equations we obtain
+ DAF
+> = CBE
+>.
+Accordingly, the two triangles AFD  and BEC  are congruent under the conditions 
+of SAS.
+Therefore we obtain,
+area of parallelogram ABCD  = area of parallelogram ABEF .
+We can write this as a theorem as follows.
+92 93For free distribution For free distributionTheorem:  Parallelograms on the same base and between the same pair of parallel 
+lines are equal in area.
+Now let us obtain an important result using this theorem. You have used the 
+following formula when finding the area of a parallelogram in previous grades and 
+in the above exercise.
+ Area of a parallelogram = Base  Perpendicular height
+Have you ever thought about how this result was obtained? We can now use the 
+above theorem to prove this result.
+The figure depicts a rectangle ABCD  (that is, a parallelogram) and a parallelogram 
+ABEF  on the same base and between the same pair of parallel lines. According to 
+the above theorem, their areas are equal. 
+  D F C E
+A B
+We know that,
+area of the parallelogram ABEF   =  Area of the rectangle ABCD
+                                    = AB  AD
+ = AB  perpendicular distance between the 
+     two parallel lines 
+ = base of the parallelogram   perpendicular height
+Let us now consider how calculations are done using this theorem.
+Example 1  
+The area of the parallelogram ABEF  in the figure is 80 cm2 while AB = 8 cm. 
+    F ED C
+A B
+92 93For free distribution For free distribution   (i)  Name the parallelograms in the figure that lie on the same base and between 
+the same pair of parallel lines.
+  (ii)  What is the area of the parallelogram ABCD ?
+ (iii)  Find the perpendicular distance between the parallel lines AB and FC.
+Now let us answer these questions.   
+   (i) ABEF  and ABCD.
+  (ii) Since the parallelograms  ABEF  and ABCD  lie on the same base AB and between 
+the same pair of parallel lines AB and FC, their areas are equal. Therefore, the 
+area of ABCD  = 80 cm2.
+(iii) Let us take the perpendicular distance between the pair of parallel lines as              
+h centimetres.  
+Then,
+ area of ABEF = AB  h.
+                       80 = 8   h
+                   ... h = 10
+     ... the perpendicular distance between the parallel lines is 10 cm.
+Now, by considering an example, let us see how riders are proved using this theorem.
+ Example 2
+   A
+R
+D Q PCX SB
+According to the information in the above figure,
+  (i) show that ABQD  and ABCP  are parallelograms.
+ (ii) show that the parallelograms ABQD  and ABCP  are of the same area.
+ ^iii& prove that  SPC      RDQ.
+ ^iv& prove that, area of parallelogram  AXQR = area of parallelogram  BXPS.
+ ^i& In the quadrilateral ABQD 
+  AB//DQ   (given) 
+  AD//BQ   (given)
+Since a quadrilateral with pairs of opposite sides parallel, is a parallelogram, ABQD 
+is a parallelogram. Similarly, since AB // PC  and AP // BC , we obtain that ABCP is 
+a parallelogram. 
+94 95For free distribution For free distribution ^ii&  Since the parallelograms ABQD and ABCP lie on the same base  AB and 
+between the same pair of parallel lines  AB and DC, by the above theorem, 
+their areas are equal.
+      ...  area of parallelogram  ABQD = area of parallelogram ABCP .
+      
+ ^iii& In the triangles SPC and RDQ  in the figure,  
+  
+              	 SPC  = RDQ >
+>  (since SP // AD, corresponding angles)  
+                 SCP  = RQD>
+>
+  (since SC // RQ, corresponding angles)
+         Further,  AB = PC (opposite sides of the parallelogram ABCP )
+AB = DQ (opposite sides of the parallelogram ABQD )                    
+     Therefore,  PC = DQ.
+...   SPC     RDQ. (AAS)
+               
+^iv& Area of parallelogram  ABQD = area of parallelogram  ABCP  (proved)  
+ Area of    RDQ  = area of   SPC (since  RDQ    SPC)
+Therefore, 
+ area of  ABQD  – area of ∆ RDQ  = area of ABCP  – area of ∆ SPC.
+Then, according to the figure,  
+area of trapezium ABQR  = area of trapezium ABSP .
+Therefore,
+by subtracting the area of the triangle ABX from both sides, we get
+ area of trapezium 
+ABQR    =   area of trapezium    
+     ABSP      – area of  ABX    –  area of    ABX
+ ... area of parallelogram AXQR = area of parallelogram  BXPS.
+Exercise 8.2                                                  
+                                                                                 
+S RP Q T U1. The figure shows two parallelograms that 
+lie between the pair of parallel lines PU and 
+SR. The area of the parallelogram PQRS  is                   
+40 cm2. With reasons, write down the area of 
+the parallelogram TURS .     
+                  
+                                                                        
+94 95For free distribution For free distribution2.  A   rectangle   ABCD   and      a      parallelogram  A BE F
+D CCDEF  are given in the figure. If                                                                                                                                              
+AD = 7 cm and  CD = 9 cm, with 
+reasons, write down the area of the 
+parallelogram CDEF .
+                                        
+3. The  figure  shows  two parallelograms 
+D S C RXB P Q AABCD and  PQRS that lie between 
+the pair of parallel lines  AQ and DR. 
+It is given that       DS = CR.
+  (i)  Show that DC = SR .
+(ii) Prove that the area of the 
+pentagon ABXSD  is equal to 
+the area of the pentagon PQRCX.
+(iii) Prove that the area of the trapezium 
+ APSD  is equal to the area of the trapezium BQRC.
+                                                                               
+4. Based on the information in the                  
+SP Q
+A
+D CB
+ER    figure,
+  (i) name two parallelograms which 
+are equal in area to the area of 
+the parallelogram PQRS.
+(ii) name two parallelograms which 
+are equal in area to the area of 
+the parallelogram ADCR .
+(iii) prove that the area of the parallelogram PECS  is equal to the area of the 
+parallelogram QADE.
+5.  Based on the information in the figure, proveD
+A BP C R
+ 
+that the area of triangle ADP  is equal to the area 
+of triangle BRC . 
+6. Construct the parallelogram ABCD  such that AB = 6 cm,  DAB  = 600> and                       
+AD = 5 cm. Construct the rhombus ABEF  equal in area to the area of ABCD and 
+lying on the same side of AB as the parallelogram. State the theorem that you 
+used for your construction.
+96 97For free distribution For free distribution8.3 The areas of parallelograms and triangles on the same base 
+and between the same pair of parallel lines
+You have used the following formula in previous grades to find the area of a triangle.
+ Area of the triangle = 1
+2    Base    Altitude
+Now we will explain why this formula is valid.
+Let us consider the following triangle ABC .
+   C
+B A
+Now let us draw a line parallel to AB through the point C, as shown in the figure, 
+and mark the point D on this line such that ABDC  is a parallelogram. In other words 
+let us mark the intersection point of the line drawn through B parallel to AC and the 
+line drawn through C parallel to AB, as D.
+   
+AC D
+B
+The area of the triangle ABC  is exactly half the area of the parallelogram ABDC . 
+This is because the diagonals of a parallelogram divide the parallelogram into two 
+congruent triangles. We learnt this in the lesson on parallelograms in Grade 10.
+Therefore,
+area of triangle ABC   = 1
+2 the area of parallelogram ABDC
+                                   =  1
+2   AB  perpendicular distance between AB and CD
+             
+             =  1
+2  AB  perpendicular height
+We have obtained the familiar formula for the area of a triangle.
+96 97For free distribution For free distributionConsider again the result that we observed here;
+area of triangle ABC  = 1
+2 the area of parallelogram ABDC .
+In section 8.2 of this lesson, we learnt that the areas of parallelograms on the same 
+base and between the same pair of parallel lines are equal. Therefore, in relation to 
+the above figure, the area of any parallelogram that lies on the same base AB and 
+between the same pair of parallel lines AB and CD is equal to the area of ABDC .
+Therefore,
+area of triangle  ABC = 1
+2  (area of any parallelogram with base AB lying between 
+the parallel lines AB and CD).
+This result is given below as a theorem.
+Theorem:  If a triangle and a parallelogram lie on the same base and between the 
+same pair of parallel lines, then the area of the triangle is exactly half 
+the area of the parallelogram.
+ 
+Let us now consider how calculations are performed using this theorem.
+ Example 1
+   P
+SX
+RT Q
+The figure illustrates a parallelogram PQRS  and a triangle STR on the same base 
+and between the same pair of parallel lines. The area of the parallelogram PQRS  is 
+60 cm2.
+  (i) Find the area of the triangle STR. Give reasons for your answer.
+ (ii) If ST = 6 cm, find the length of the perpendicular RX from R to ST.
+ (i)The parallelogram PQRS  and the triangle STR lie on the same base and 
+between the same pair of parallel lines. Therefore the area of triangle STR 
+is half the area of parallelogram PQRS .
+ ... area of ∆ STR = 30 cm2
+98 99For free distribution For free distribution (ii) Area of ∆ STR = 1
+2  ST  RX
+                   ... 30   =  1
+2   6  RX
+                   ... RX = 10 cm
+                                 
+ Example 2
+           A B
+F
+GE C D
+E is a point on the side  DC of the parallelogram  ABCD. The straight line drawn 
+through  B parallel to  AE, meets  DC produced at  F .  AE produced and  BC produced 
+meet at  G.
+Prove that,
+    (i) ABFE is a parallelogram.
+   (ii) the areas of the parallelograms  ABCD and ABFE are equal.
+  (iii) the area of   ACD = the area of   BFG.
+   (i) In the quadrilateral ABFE,
+         AE // BF  (data)
+        AB // EF    (data)
+ ... ABFE is a parallelogram (since pairs of opposite sides are parallel)
+  (ii) The parallelograms  ABCD and ABFE lie on the same base AB and between the 
+same pair of parallel lines  AB and D F.
+ ... according to the theorem,
+      area of parallelogram ABCD =  area of parallelogram  ABFE
+(iii) The parallelogram  ABCD and the triangle  ACD  lie on the same base  DC and 
+between the same pair of parallel lines  AB and DC.
+ ... according to the theorem,
+ 1
+2  the area of parallelogram  ABCD =  area of triangle  ACD.
+98 99For free distribution For free distributionSimilarly, 
+the parallelogram  ABFE and the triangle  BFG lie on the same base  BF and between 
+the same pair of parallel lines  BF and AG.
+Therefore,
+  1
+2  the area of parallelogram  ABFE =  area of triangle  BFG
+Since,   area of parallelogram ABCD =  area of parallelogram ABFE,
+   1
+2 the area of parallelogram  ABCD = 1
+2  the area of parallelogram  ABFE
+  ...  area of   ACD = area of   BFG
+Exercise 8.3
+1. The area of the parallelogram ABCD in the figure is 50 cm2.
+         A P B Q
+C D  (i) What is the area of triangle  PDC?
+  (ii) What is the area of triangle  DCQ?
+ 
+  
+2. A B
+Q C
+RP DThe point  P lies on the side  DC of the 
+parallelogram  ABCD. The straight line 
+drawn through  B parallel to  AP meets 
+DC produced at  Q. Further,   AP produced 
+and BC produced meet at  R. Prove that 
+the area of triangle  ADR is equal to the 
+area of triangle  BQR.
+  
+3. A P
+QB
+C RS
+DIn the figure, SQ has been drawn parallel 
+to the side AB of the parallelogram ABCD , 
+such that it meets the side AD at S and the 
+side BC at Q. Prove that the area of the 
+quadrilateral PQRS  is exactly half the area 
+of the parallelogram ABCD . 
+100 101For free distribution For free distribution4. A P B
+C D 
+ P is any point on the side  AB of the 
+parallelogram  ABCD.  Prove that,  
+ area of
+  APDarea of
+  BPCarea of
+  DPC+ = 
+5.A B Q
+C DPIn the figure, the point P lies on the side 
+AD of the parallelogram ABCD , and the 
+point Q lies on AB produced. Prove that, 
+area of   CPB = area of   CQD.
+6. 
+D EA B
+C FAB//DC and DC >AB in the trapezium  
+ABCD. 
+The point E lies on the side  CD such that 
+AB = CE. The point  F lies on the side 
+DE such that the area of the triangle AFE 
+is equal to the area of the triangle  ADF .  
+Prove that the area of the trapezium  ABFD 
+is exactly half the area of the trapezium  
+ABCD. 
+7. A
+D YO
+CX B
+ O is the midpoint of the side  BC of the 
+parallelogram ABCD and X is an arbitrary 
+point on AB. Also,  XO produced and  DC 
+produced meet at Y.
+Prove that,
+  (i) the area of  BOX = the area of   COY
+ (ii) the area of trapezium  AXYD = the area of parallelogram ABCD.
+(iii) the area of trapezium  AXYD is twice the area of triangle  ADO.
+100 101For free distribution For free distribution8.4  Triangles on the same base and between the same pair of 
+parallel lines   
+Now let us consider the two triangles PQR  and TQR  that lie on the same base QR 
+and between the same pair of parallel lines AB and CD. 
+   A
+C Q R DP T S U B
+As discussed in section 8.3 the parallelogram related to the triangle  PQR is PQRS , 
+and the parallelogram related to the triangle  TQR is TQRU.
+Since the parallelogram related to the triangle  PQR is PQRS,
+area of triangle PQR = 1
+2 the area of parallelogram  PQRS.
+Since the parallelogram related to the triangle TQR is TQRU,
+area of triangle  TQR = 1
+2 the area of parallelogram  TQRU.
+However, since the parallelograms  PQRS and TQRU lie on the same base  QR and 
+between the same pair of parallel lines, by the theorem,
+area of parallelogram PQRS = area of parallelogram  TQRU.
+... 1
+2 the area of parallelogram  PQRS = 1
+2 the area of parallelogram  TQRU
+That is, area of triangle PQR = area of triangle TQR.
+As stated previously, the areas of the two triangles  PQR and TQR which lie on the 
+same base QR and between the same pair of parallel lines  AB and CD are equal in 
+area.
+Triangles which satisfy the above given conditions in this manner are equal in area.
+This is stated as a theorem as follows.
+Theorem: Triangles on the same base and between the same pair of parallel lines 
+are equal in area.
+102 103For free distribution For free distributionLet us now consider through the following examples how problems are solved 
+using this theorem.
+Example 1
+  A
+OB
+D C
+In the given figure, AB//CD .
+  (i) Name a triangle that has the same area as triangle ACD . Write down the 
+theorem that your answer is based on.
+ (ii) If the area of triangle ABC  is 30 cm2, find the area of triangle ABD .
+    (iii) Prove that the area of triangle AOC  is equal to the area of triangle BOD .
+  (i) Triangle BCD .  
+Triangles on the same base and between the same pair of parallel lines are equal in 
+area.
+  (ii) Area of triangle ABD  = 30 cm2.
+ (iii) Area of  ACD = Area of  BCD. (On the same base CD and AB//CD. )
+According to the figure, the triangle  COD is common to both these triangles. When 
+this portion is removed,
+area of  ACD  –  area of  COD  =  area of   BCD –  area of  COD
+... area of  AOC = area of  BOD
+Example 2
+                                                                            A
+D
+CXB
+PThe point P lies on the side BC of the quadrilateral 
+ABCD . The line drawn though B parallel to AP 
+meets the line drawn through C parallel to  DP at 
+X. Prove that the area of triangle ADX  is equal to 
+the area of quadrilateral ABCD . 
+Proof:  Since the triangles APB and APX lie on the same base AP and between the 
+same pair of parallel lines AP and BX, according to the theorem, 
+102 103For free distribution For free distribution APB =   APX 1
+Similarly, since DP//CX ,
+ DPC =  DPX 2
+From 1  +  2"  ABP +  DPC =  APX +  DPX. 
+Let us add the area of triangle ADP  to both sides.
+Then,  ABP +  DPC  +  ADP  =  APX +  DPX  +  ADP 
+    ...  area of quadrilateral ABCD = area of the triangle  ADX
+Exercise 8.4         
+AC
+P
+DX
+B1. The area of triangle ABP which lies between the parallel 
+lines AB and CD in the figure is 25 cm2.
+   (i) What is the area of triangle ABC ?
+  (ii) If the area of triangle ABX is 10 cm2, what is the area of 
+triangle ACX ?
+ (iii) Explain with reasons what the relationship between the 
+areas of the triangles ACX  and BPX is.
+                                                                                          
+                                                                                   C D
+BX
+A2. The two triangles AXC  and BXD are equal in area.
+    Prove that
+   (i) the triangles ABC and ABD  are equal in area. 
+  (ii) AB // CD .
+                                                                                           
+3. In the figure,  DE is drawn parallel to the side BC of the
+D E
+C BA 
+triangle ABC , such that it touches the side AB at D and 
+the side AC at E.
+(i) Name a triangle which is equal in area to the 
+triangle BED .
+ (ii) Prove that the triangles ABE and ADC  are equal 
+in area.
+                                                                                      
+D CAB
+E4. The straight line drawn through the point B parallel 
+to the diagonal AC of the quadrilateral ABCD , 
+meets the side DC produced at E.
+ (i) Name a triangle which is equal in area to the                                                                                           
+2. In the figure,  DE is drawn parallel to the side BC of the
+D E
+C BA 
+triangle ABC , such that it touches the side AB at D and 
+the side AC at E.
+(i) Name a triangle which is equal in area to the 
+triangle BED .
+ (ii) Prove that the triangles ABE and ADC  are equal 
+in area.
+                                                                                      
+D CAB
+E3. The straight line drawn through the point B parallel 
+to the diagonal AC of the quadrilateral ABCD , 
+meets the side DC produced at E.
+ (i) Name a triangle which is equal in area to the          
+AC
+P
+DX
+B1. The area of triangle ABP which lies between the parallel 
+lines AB and CD in the figure is 25 cm2.
+   (i) What is the area of triangle ABC ?
+  (ii) If the area of triangle ABX is 10 cm2, what is the area of 
+triangle ACX ?
+ (iii) Explain with reasons what the relationship between the 
+areas of the triangles ACX  and BPX is.
+                                                                                                                                                  
+triangle ABC . Give reasons for your answer.
+ (ii)  Prove that the area of the quadrilateral ABCD  is equal to the area of 
+        the triangle ADE .triangle ABC . Give reasons for your answer.
+104 105For free distribution For free distributiontriangle ABC . Give reasons for your answer.
+ (ii)  Prove that the area of the quadrilateral ABCD  is equal to the area of the 
+triangle ADE .
+ 4. ABCD is a parallelogram. A straight line drawn 
+DC
+XYB A
+from  A intersects the side  DC at Y and  BC 
+produced at  X.
+    Prove that,
+    (i) the triangles  DYX and AYC are equal in area.
+   (ii) the triangles  BCY and DYX are equal in area.
+5. The point Y  lies on the side BC of the parallelogram ABCD.  The side AB produced 
+and DY produced meet at X.  Prove that the area of triangle AYX is equal to the 
+area of triangle BCX .
+6. BC is a fixed straight line segment of length 8 cm. With the aid of a sketch, 
+describe the locus of the point A such that the area of triangle ABC  is 40 cm2.
+7. Construct the triangle ABC  such that AB = 8 cm, AC = 7 cm and BC = 4 cm.   
+Construct the triangle P AB which is equal in area to the triangle ABC , with P 
+lying on the same side of AB as C, and P A = PB .
+         Miscellaneous Exercise
+                                                                                         
+12 cmPB A
+D CX 5 cm 1. The length of a side of the square  ABCD in the figure 
+is 12 cm. The point P lies on the side  BC such that                     
+BP = 5 cm.  Find the length of DX.
+ 
+                                                                          
+AB P
+X
+C D Q2. X is a point on the side  BC of the 
+parallelogram  ABCD. The side  AB produced 
+and DX produced meet at P and the side  
+DC produced and  AX produced meet at Q. 
+Prove that the area of the triangle PXQ is 
+exactly half of the area of the parallelogram 
+ABCD.
+104 105For free distribution For free distribution3. The diagonals of the parallelogram  PQRS intersect at  O.  The point A lies on the 
+side SR. Find the ratio of the area of the triangle  POQ to that of the triangle  P AQ.
+4. ABCD and ABEF are two parallelograms, unequal in area, drawn on either side 
+of AB.
+    Prove that,
+     (i) DCEF is a parallelogram.
+   (ii) the area of the parallelogram  DCEF is equal to the sum of the areas of the 
+parallelograms  ABCD and ABEF .
+5. ABCD is a parallelogram.  EF has been drawn parallel to  BD such that it intersects 
+the side  AB at E and the side AD at F.  
+    Prove that, 
+ (i) the triangles BEC and DFC are equal in area.
+    (ii) the triangles  AEC and AFC are equal in area.
+106 107For free distribution.For free distribution.Review Exercise – Term 1
+Part 1
+1. Simplify  2 3 – 3
+2. If  100.5247 = 3.348 find the value of lg 0.3348 '
+3.  According to the information in the figure, what fraction A F B
+C E Dof the area of  ABCE is the area of AFE? 
+4. If A3 = x3 – y3 – 3x2y + 3xy2 express  A in terms of  x and y'
+5. A new solid is constructed by pasting together the square bases of two identical 
+square based right pyramids. If the surface area of the new solid is 384 cm2, 
+find the area of a triangular face of each pyramid.
+6. Simplify:  x – 12  1–1 – x
+7. Evaluate:  log327 – log416
+8. The mass of a sphere made of a special type of material is 120 g. If the mass 
+of 1 cm3 of the material is 4g, find the volume of the sphere.
+9. B and C in the figure are two fixed points that 
+10 cm C Blie 10 cm from each other. Sketch the loci of 
+the point A such that the area of the triangle 
+ABC  is 20 cm2.
+10. If lg 5 = 0.6990 find the value of lg 20'  
+11. Show that the area of the curved surface of a cylinder of height the length of 
+its diameter, is equal to the surface area of a sphere of the same diameter.
+12. Find the value of  20 by taking that 5 = 2.23 .
+106 107For free distribution.For free distribution.13. Show that the area of the quadrilateral ABCD  in the 
+DCAB
+Efigure is equal to the area of the triangle ADE . 
+14. Evaluate:  75 × 2 3 .
+15. Simplify:  x2 – 13x  x (x – 1)×3
+Part II
+1.  (i) If x1x + = 3 then find the value of  x31x3 + . 
+ (ii) Simplify:  mn (m + 2n)m2 – 4n2÷m2n2m2 –  4mn + 4n2
+2.  (i) For what value of x is 2 lg x = lg 3 + lg (2 x – 3)
+  
+ (ii) If 2 lg x + lg 32 – lg 8 = 2 determine x.
+ 
+ (iii) Find the value without using the logarithms table.
+   
+        43lg2– 2 lg2+ lg 12 – 2163
+ (iv) Simplify using the logarithms table and give the answer to the nearest 
+  second decimal.   
+        0.835 ×0.752
+4.561
+        
+D CA
+X
+YB
+3. (a) The side CD of the parallelogram ABCD  in  
+  the figure has been produced to X.
+  The line drawn through C parallel to     
+  AX, meets the side AD produced at Y.
+    
+  
+  (i) Name a triangle which is equal in area to the triangle AXY.  Give   
+   reasons for your answer.
+  (ii) Prove that the area of the triangle XDY  is half the area of the    
+   parallelogram ABCD.  
+108 PBFor free distribution.For free distribution. (b) By using only a pair of compasses and a straight edge with a cm/mm 
+  scale,
+   (i) construct the triangle ABC such that AB = 5.5 cm,  ABC
+> = 60o and        
+   BC  = 4.2 cm.
+  (ii) construct the rhombus  ABPQ of area twice that of the area of triangle
+   ABC.
+  
+4. O is any point on the side BC of the parallelogram ABCD .  The line drawn 
+through A parallel to DO meets CB produced at P.  AO produced meets DC 
+produced at Q.
+ (i)  Based on the above information, sketch a figure and include the given data.
+ (ii) Write down the relationship between the area of the parallelogram  ABCD 
+  and the area of the triangle ADO.
+ (iii) Prove that the area of triangle ABP is equal to the area of triangle  BOQ.  
+  
+5. The base radius and perpendicular height of a solid right circular cone are 
+respectively 7 cm and 12 cm.  
+ (i) Find the volume of the cone.
+ (ii) If the base radius of the cone is kept fixed and the perpendicular height is
+  doubled, how many times more would the volume of the new cone be than 
+  that of the original cone?  
+ (iii) If the perpendicular height is kept fixed and the base radius is doubled,   
+ how many times more would the volume of the new cone be than that of   
+ the original cone?
+109
+For free distribution
+
+110
+For free distribution
+
+PB 111
+For free distribution  
+ A
+Algebraic Fractions   ùÔh Nd.  ml;rufzpjg; 
+        gpd;dq;fs;
+Area     j¾.M,h  gug;gsT
+  
+ B
+Bar     úhq;s   gpupNfhL
+Base     mdoh   mb
+Binomial Expression   oaúmo m%ldYk  <UWg;Gf; Nfhit
+  
+ C
+Characteristic    mQ¾KdxYh  rpwg;gpay;G
+Circular    jD;a;dldr  tl;l tbthd  
+Circumference    mßêh   gupjp 
+Common denominator   fmdÿ yrh  nghJg; gFjp
+Cone     fla;=j   $k;G 
+Cubed     >kdhs;h   fd  
+Curved Surface    jl% mDIaGh  tis Nkw;gug;gsT
+  
+ D        
+Denominator    yrh   Denominator  
+Division    fn§u   tFj;jy;
+  
+ E
+Entire surds    wÅ, lrKs  KOikr; NrL
+Expansion    m%idrKh  tpupT 
+  
+ F
+Finite decimals    wka; oYu  KbTW jrkk;  
+  
+ I
+Indices     o¾Yl   Rl;b 
+Infinite decimals    wkka; oYu  Kbtpy; jrkk;  
+Integers     ksÅ,   epiwntz;;fs;  
+Irrational numbers   wmßfïh ixLHd  tpfpjKwh vz;fs;Glossary
+112 113
+For free distribution  
+ L
+Least common multiple   l=vdu fmdÿ .=Kdldrh nghJklq;FfSs; 
+        rpwpaJ
+Logarithm    ,>q.Kl  klf;if
+  
+ M
+Mantissa    oYudxYh  jrkf; $l;L
+Multiplication    .=K lsÍu  ngUf;fy;
+   
+ N
+Numerator    ,jh   njhFjp  
+ 
+   
+ P
+Parallel lines    iudka;r f¾Ld  rkhe;juf; NfhLfs;
+Parallelogram    iudka;rdi%h  ,izfuk;
+Perpendicular height   ,ïn Wi  nrq;Fj;Jauk;
+Power     n,h   tY
+Prism     ms%iauh   mupak;   
+Pyramid    msróvh   $k;gfk;
+  
+ R
+Radius     wrh   Miu
+Rational numbers   mßfïh ixLHd 
+Real numbers    ;d;aúl ixLHd  nka; vz;fs;  
+Reciprocal    mriamrh  epfu;khW
+Recurring decimals   iudj¾; oYu  kPSk; jrkk;  
+Right circular cone    Rcq jD;a; fla;=j nrt;tl;lf;$k;G    
+Right pyramid    Rcq msróvh  nrq;$k;gfk;
+  
+ S 
+Scientific calculator   úoHd;aul .Kl  tpQ;QhdKiwf; 
+     hka;%h    fzpfUtp          
+Scientific notation   úoHd;aul wxlkh tpQ;QhdKiwf; 
+        Fwpg;gPL
+Slant height    we< Wi   rha; cauk;
+Sphere     f.da,h    Nfhsk;    
+Square shape    iup;=ri%dldr  rJu tbthd  
+112 113
+For free distributionSquared    j¾.dhs;h  tu;f;fk;  
+Surds     lrKs   NrL
+Surface Area    mDIaG j¾.M,h  Nkw;gug;gsT
+  
+ T
+Term     moh   cWg;G  
+Theorem    m%fïhh   Njw;wk;  
+Triangle    ;s%fldaKh  Kf;Nfhzp
+Triangular    ;s%fldaKdldr  Kf;Nfhz tbthd
+Trignometric Ratio   ;s%fldaKñ;sl wkqmd; jpupNfhz tpfpjq;fs;
+  
+ V
+V olume     mßudj   fdtsT
+      
+Sequence of the Lessons
+Chapter of Textbook No.of Periods
+1 Term
+1.  Real Numbers
+2.  Indices and Logarithms  I
+ 3.  Indices and Logarithms  II
+ 4.  Surface Area of Solids
+ 5.  V olume of Solids
+ 6.  Binomial Expressions
+ 7.  Algebraic Fractions
+ 8. Areas of Plane Figures between  Parallel 
+     Lines     
+ 10
+08
+06
+05
+05
+04
+04
+12
+2 Term
+09. Percentages
+10. Share Market
+11. Central Limit Theorem 
+12. Graphs
+13. Formulae
+14. Equiangular Triangles
+15. Data representaion and Prediction
+16. Geometric Progressions06
+05
+05
+12
+10
+12
+12
+06
+3 Term
+17. Pythagoras Theorem
+18. Trignometry
+19. Matrices
+20. Inequalities
+21. Cyclic Quadrilaterals 
+22. Tangent
+23. Constructions
+24. Sets
+25. Probability04
+12
+08
+06
+10
+10
+05
+06
+07
+114
+For free distribution
