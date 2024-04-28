@@ -172,7 +172,7 @@ class LocalVectorStore:
 		    chunk_overlap=200
 		)
 		chunks = text_splitter.split_text(full_text)
-		self.save(i=6, text_chunks=chunks)
+		self.save(i=7, text_chunks=chunks)
 
 
 

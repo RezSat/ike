@@ -85,6 +85,7 @@ if __name__ == '__main__':
 		vector_store.entrepreneurship()
 		vector_store.civic()
 		vector_store.ict()
+		vector_store.mathematics()
 		with open('saved', 'w') as f:
 			f.write("TRUE")
 			f.close()
