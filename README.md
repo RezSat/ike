@@ -41,6 +41,7 @@ Tested on WSL (Ubuntu) and Python 3.10.12, use a Virtual Environment.
 ```bash
 git clone https://github.com/RezSat/ike
 cd ike
+-----> add the google api key inside config.py (for now its already there)
 pip install -r requirements.txt
 python app.py
 ```
