@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>IKE : An AI based Answer Engine</title>
+	<script src="https://cdn.tailwindcss.com"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body class="h-screen flex flex-col items-center justify-center bg-[#151313]">  
+
+
+	<i class="fa fa-arrow-circle-left mt-5 text-[#BEADFA] text-6xl" aria-hidden="true"></i>
+
+	<h1 class="text-2xl font-bold mb-30 mt-5 ml-10 mr-10 text-[#BEADFA]">Your Question: {{ question }}</h1> 
+
+	<h1 class="text-1xl font-bold mb-10 mt-10 text-[#BEADFA]">Answer:</h1> 
+
+	<div class="w-full max-h-screen overflow-y-auto rounded-lg bg-white shadow-md p-4">
+
+    <p class="text-gray-700 bg-[#FFF8C9] text-base leading-loose"> {{ answer }}
+    </p>
+  </div>
+</body>
+</html>
