@@ -5,3 +5,4 @@ google-generativeai
 langchain-text-splitters
 faiss-cpu
 deep-translator
+Flask-Markdown

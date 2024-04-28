@@ -1,14 +1,19 @@
 from flask import Flask, request, url_for, render_template
+from flask_markdown import Markdown
+
 from langchain_google_genai import GoogleGenerativeAIEmbeddings,ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.document_loaders import TextLoader
 from langchain_community.vectorstores import FAISS
 from deep_translator import GoogleTranslator
+
 from config import google_api_key
 from subject import Prompts, LocalVectorStore
 from file_finder import *
 
 app = Flask(__name__)
+Markdown(app)
+
 subj = {
 	0: "history",
 	1: "science",
