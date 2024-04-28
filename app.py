@@ -67,8 +67,8 @@ def answer(lang):
 		subject = request.form['subject']
 
 	if lang=='si':
-		question = sinhala2enlgish(question)
-		answer = english2sinhala(get_answer(question, subject))
+		question_m = sinhala2enlgish(question)
+		answer = english2sinhala(get_answer(question_m, subject))
 	else:
 		answer = get_answer(question, subject)
 
