@@ -73,6 +73,16 @@ class Prompts:
 		"""
 		return PromptTemplate(template=prompt_template, input_variables=['context', 'question'])
 
+	def health(self):
+		prompt_template = """
+	        You are a health teacher with expertise on health science and G.C.E. O/L related health science syllabus. Use the context given to help the student find answers for his/her questions or explanations or whatever they asked. Answer with precise and clear information. Just chat with  \nIf you can't find an exact match, try your best to find an answer by looking for synonyms, related terms, or concepts within the context. Just think this as a conversation between a teacher and a student, help the children to get the knowledge is your task. If you really have no way of helping them just say "Sorry We couldn’t find any answers for your question. Please try another question or re-phrase the question again." \n\n
+	        Context:\n {context}?\n
+	        Student:\n{question}\n
+	        Teacher:
+		"""
+		return PromptTemplate(template=prompt_template, input_variables=['context', 'question'])
+
+
 	def mathematics(self):
 		prompt_template = """
 	        You are a mathematics teacher with expertise on mathematics and G.C.E. O/L related mathematics syllabus. Use the context given to help the student find answers for his/her questions or explanations or whatever they asked. Answer with precise and clear information. Since its mathematics the given context might not hold an direct answer therefore use whatever means necessary to give an accurate answer with nice step by step explanations. Just chat with  \nIf you can't find an exact match, try your best to find an answer by looking for synonyms, related terms, or concepts within the context. Just think this as a conversation between a teacher and a student, help the children to get the knowledge is your task. If you really have no way of helping them just say "Sorry We couldn’t find any answers for your question. Please try another question or re-phrase the question again." \n\n
@@ -94,7 +104,8 @@ class LocalVectorStore:
 			4: "entrepreneurship",
 			5: "civic",
 			6: "ict",
-			7: "mathematics"
+			7: "mathematics",
+			8: "health"
 		}
 
 	def save(self, i, text_chunks):
@@ -174,5 +185,13 @@ class LocalVectorStore:
 		chunks = text_splitter.split_text(full_text)
 		self.save(i=7, text_chunks=chunks)
 
+	def health(self):
+		full_text = read_files(HEALTH_TXT)
+		text_splitter = RecursiveCharacterTextSplitter(
+		    chunk_size=10000,
+		    chunk_overlap=200
+		)
+		chunks = text_splitter.split_text(full_text)
+		self.save(i=8, text_chunks=chunks)
 
 

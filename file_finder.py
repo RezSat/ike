@@ -8,7 +8,7 @@ VECTOR_STORE = "vectors"
 
 BUSINESS_TXT = os.path.join(CWD, DATASETS, TEXT, "business")
 CIVIC_TXT = os.path.join(CWD, DATASETS, TEXT, "civic")
-ENGLISH_TXT = os.path.join(CWD, DATASETS, TEXT, "english")
+#ENGLISH_TXT = os.path.join(CWD, DATASETS, TEXT, "english")
 ENTREPRENEURSHIP_TXT = os.path.join(CWD, DATASETS, TEXT, "entrepreneurship")
 GEOGRAPHY_TXT = os.path.join(CWD, DATASETS, TEXT, "geography")
 HEALTH_TXT = os.path.join(CWD, DATASETS, TEXT, "health")

@@ -22,6 +22,7 @@ subj = {
 	5: "civic",
 	6: "ict",
 	7: "mathematics"
+	8: "health"
 
 }
 vector_store = LocalVectorStore()
@@ -90,6 +91,8 @@ if __name__ == '__main__':
 		vector_store.civic()
 		vector_store.ict()
 		vector_store.mathematics()
+		vector_store.health()
+		
 		with open('saved', 'w') as f:
 			f.write("TRUE")
 			f.close()
