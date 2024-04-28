@@ -77,7 +77,7 @@ def answer(lang):
 
 if __name__ == '__main__':
 	saved = open('saved', 'r').read()
-	if saved == 'FALSE':
+	if 'FALSE' in saved:
 		vector_store.history() 
 		vector_store.science()
 		vector_store.business()
