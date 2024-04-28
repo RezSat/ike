@@ -1,0 +1,7 @@
+langchain
+tiktoken
+langchain-google-genai
+google-generativeai
+langchain-text-splitters
+faiss-cpu
+googletrans
