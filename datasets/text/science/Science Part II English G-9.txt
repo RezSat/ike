@@ -279,7 +279,7 @@ battery, two carbon rods, a plastic container, connecting wires,
 two test tubes. 
 Method:- 
  ²Make two holes on the bottom of a plastic container. Pass two carbon rods through these holes and seal the holes with a substance such as wax. 
- ²Add acidulated water into the container and arrange the apparatus as shown in Figure 10.3.
+ ²Add acidulated water into the container and arrange the apparatus as shown in
  ²Observe well 
  ²Record observations.O2H2
 Acidulated
@@ -393,7 +393,7 @@ Science | Electrolysis 9 Science | Electrolysis 8(02) Give short answers.
 5. In addition to the liberation of gas bubbles at the electrodes, write an      
   observation that can be made during this electrolysis.
 6. Write a simple test to identify the gas liberated at each electrode. 
-(03) The diagram shows an electrolytic cell used to electroplate a copper  ring 
+(03) an electrolytic cell used to electroplate a copper  ring 
 with silver.
 Copper
 ringB
@@ -533,7 +533,7 @@ Liquid A
 (a)Water
 (b)Liquid C
 (c)
-Figure 11.4It is shown that the same hydrometer is made to float in three different liquids in figure 11.4. Figure 11.4 (b) shows how it floats in water. Immersed height of the hydrometer is less in liquid A, than in water (figure 11.4 (b)). It indicates that density of liquid A is higher than that of water. Immersed length of the hydrometer is more in liquid C than in water (figure 11.4 (c)). So, the density of liquid C is lower than that of water.
+Figure 11.4It is shown that the same hydrometer is made to float in three different liquids in Figure 11.4 (b) shows how it floats in water. Immersed height of the hydrometer is less in liquid A, than in water (figure 11.4 (b)). It indicates that density of liquid A is higher than that of water. Immersed length of the hydrometer is more in liquid C than in water (figure 11.4 (c)). So, the density of liquid C is lower than that of water.
 For extra knowledge
 The density of the salty water of the dead sea located in between Israel and Jordan is very high. It has the ability of floating a man without sinking. 
 Let us do activity 11.3 by using a hydrometer to know the density of some common 
@@ -642,7 +642,7 @@ Solution - ødjKh - Pøµ\À
 Science | Bio-diversity 19 Science | Bio-diversity PB
 12.1    Introduction to bio-diversity
 Recall the field visits you attended to study about the environment. During those 
-field visits you would have experienced different types of environments. They can be beaches, mangrove environments, forests, monsoon forests and grasslands.  A system that includes all living organisms (biotic factors) in an area as well as its physical environment (abiotic factors) interacting with one another as a unit is known as an ecosystem. Study the ecosystems in figure 12.1.
+field visits you would have experienced different types of environments. They can be beaches, mangrove environments, forests, monsoon forests and grasslands.  A system that includes all living organisms (biotic factors) in an area as well as its physical environment (abiotic factors) interacting with one another as a unit is known as an ecosystem. Study the ecosystems in
 Figure 12.1 - Some ecosystems
 A forest
 A grasslandA mangrove environment
@@ -680,7 +680,7 @@ Figure 12.3 - Humans of Homo sapiens sapiens with
 different  features
 Modern man belongs to the species Homo sapiens sapiens. Through the above activity you would have understood that even within the same species there are differences among the individuals.
 You can understand the differences 
-among the human by figure 12.3.
+among the human by
 The reason for these differences of a 
 certain species is genetic diversity. 
 You will learn about genes in grade 10 & 11.
@@ -1495,8 +1495,8 @@ Incident rayPoint of incidence
 Normal lineAngle of 
 IncidenceAngle of 
 reflectionReflecting ray
-Figure 14.1
-A diagram that shows the way the rays are traveling is known as a ray diagram.
+
+the way the rays are traveling is known as a ray diagram.
 Science | Reflection and refraction of waves 61 Science | Reflection and refraction of waves 60In the activity 14.1, what you have constructed is a ray diagram to show the reflection 
 of  a light ray from a plane mirror after its incidence. 
  ²The ray that falls on the mirror is called the incident ray.
@@ -1541,7 +1541,7 @@ You will need :- An electrical torch or a laser torch, A plane mirror , an alumi
 foil, a joss stick 
 Method:- 
  ²Aim a beam of light on to the plane mirror and the crushed aluminium foil 
-separately as shown in the figure 14.4
+separately
  ²Observe how the light is reflecting in each instance
  ²Discuss your observations in the class room
 (For clear observation, spread some smoke near the set-up using the joss stick)
@@ -1551,7 +1551,7 @@ aluminium
 layerLaser 
 torch
 Plain mirror
-Figure 14.4 (a) - Regular reflection Figure 14.4 (b) - Diffuse reflection
+ - Regular reflection  - Diffuse reflection
 Note :- Do not aim the laser rays into eyes, as they are harmful to eyes. 
 You may have observed that parallel light rays are reflected parallelly by plane 
 mirror (figure 14.4 a) and parallel light rays are reflected to various directions by crushed aluminium foil (figure 14.4 b). 
@@ -1705,16 +1705,11 @@ Plane mirrors are widely used for various tasks in day-to-day life. Some of them
 2. In shops to show the number of items increased (figure 14.13)3. To reflect light for laboratory activities (figure 14.14)4. To produce multiple images (figure 14.15)5. To observe the shape and the back side of costumes when selecting items for 
 fashion activities (figure 14.16)
 6. To observe backside of the head when one is having a haircut in a salon 
-(figure 14.17)
-Figure 14.15
-Figure 14.14
- Figure 14.12 Figure 14.13
-Figure 14.16
- Figure 14.17
+
 Science | Reflection and refraction of waves 69 Science | Reflection and refraction of waves 687. For making kaleidoscope
 Various colourful patterns can be observed through this, when small pieces of 
 petals, leaves or pieces of colourful papers are put into this.
-Figure 14.18 - Kaleidoscope Figure 14.19 - Vivid patterns seen 
+- Kaleidoscope  - Vivid patterns seen 
 through a kaleidoscope
 8.For making periscope
 Periscopes are used to observe objects which are located above or below the position of the observer. (to watch out side from a submarine or a bunker)
@@ -1740,7 +1735,7 @@ watch, two pieces of PVC tubes to the length of 30cm each (dia.2.5cm), two stand
 Method :- 
  ²Place the metal or glass sheet vertically on the table.
  ²Place the cardboard sheet perpendicular to it.
- ²Fix the PVC tube to a stand as shown in figure 14.21 and place the stop watch closer to one end of it.
+ ²Fix the PVC tube to a stand as shown in and place the stop watch closer to one end of it.
  ²Aim the other PVC tube to the glass sheet from the other side of the cardboard sheet. Adjust the position of the tube till a clear "tick" sound is heard through it. Mark the position of the tubes on the table.
  ²Now remove the glass sheet and listen for the "tick" sound of the watch.
  ²Repeat the activity, changing the position of the watch and using suitable sound sources instead of clock or stopwatch.
@@ -1877,7 +1872,7 @@ refractedPoint of
 incidenceIncident 
 rayAngle of 
 incident
-Interfacelight ray enters from air to water can be shown by a ray diagram as in figure 14.31.
+Interfacelight ray enters from air to water can be shown by a ray diagram as in
 Science | Reflection and refraction of waves 77 Science | Reflection and refraction of waves 76For extra knowledge
 Light travels in a definite velocity in a given medium. Velocity of light differs 
 from medium to medium. 
@@ -1896,17 +1891,17 @@ You will need :- A glass block, a sheet of white paper, four pins, an electrical
 torch or a laser torch, a pencil, a ruler
 Method :- 
  ²Spread the sheet of white paper on the table and place the glass block on it.
- ²Direct an inclined beam of light on to the glass block as shown in figure 14.32.
+ ²Direct an inclined beam of light on to the glass block as shown in
  ²Fix two pins on the path of incident ray and the other two pins on the path of 
 the light ray that travels away from the block. 
  ²Sketch the position of glass block using the pencil
  ²Remove the glass block, the pins and the torch. Complete the ray diagram.
-Figure 14.32 - How light refracts through a 
+ - How light refracts through a 
 glass block
 Glass 
 block
 Ray of light
-Figure 14.33 - Ray diagram to show how light 
+- Ray diagram to show how light 
 refracts through a glass blockIncident ray
 Glass 
 blockAir
@@ -1929,7 +1924,7 @@ Real depthWater
 NailBeaker
 Point that 
 the bottom can be seen
-Figure 14.34 - Real depth and apparent depth
+ - Real depth and apparent depth
 It is clear that the observable depth or the apparent depth when viewed from top, is 
 always less than the real depth from the water surface to the bottom. 
 It is important to think carefully before step down into a well or a reservoir because the real depth of it is more than the apparent depth. 
@@ -1939,7 +1934,7 @@ Place where the
 fish actually isPlace where 
 the fish 
 seems to be
-Science | Reflection and refraction of waves 79 Science | Reflection and refraction of waves 78Figure 14.35 - How a pencil 
+Science | Reflection and refraction of waves 79 Science | Reflection and refraction of waves - How a pencil 
 dipped in water seems to be
 Pencil
 Glass of water ²Pencil dipped partially in water seems to be 
@@ -1956,7 +1951,7 @@ Method :-
 of cardboard.
  ²Let the light that passes through the prism fall on the screen.
  ²Discuss the reason for your observations in the classroom. 
-Figure 14.36 - How white light passes through the glass prism
+ - How white light passes through the glass prism
 Thin, white 
 light beamPiece of 
 cardboard
@@ -1973,8 +1968,8 @@ Newton's disc is made by painting the segments, equally divided through the cent
 Rainbow is another elegant phenomenon that occurs due to refraction of light. There are various folktales among people that in connection with the rainbow. 
 When there is bright sunlight with mist or drizzle, a rainbow can be frequently 
 observed. Rainbow occurs because of refraction and internal refraction of sunlight by water droplets in the sky. Here white sunlight is dissociated into colours by water droplets. A large number of water droplets in the sky contribute to form a rainbow. 
-Figure 14.37 - How a rainbow is observed
- Figure 14.38 - Dispersion of light through 
+ - How a rainbow is observed
+  - Dispersion of light through 
 a single water droplet
 Science | Reflection and refraction of waves 81 Science | Reflection and refraction of waves 80Summary 
  ²Bouncing back of light to the same medium, after striking on a shiny surface 
@@ -2047,7 +2042,7 @@ Science | Simple Machines 85 Science | Simple Machines 84
 Since ancient time, man used machines to make their jobs easy. Let us recall some 
 instances where simple machines are used.  
 As you know, it is difficult to lift and 
-remove a large log or a rock with hands. You may have experienced in your day-to-day life, that one end of a metal rod is kept under the rock or the log and pushed down from the other rod. This mechanical device is known as a lever (Figure 15.1). 
+remove a large log or a rock with hands. You may have experienced in your day-to-day life, that one end of a metal rod is kept under the rock or the log and pushed down from the other rod. This mechanical device is known as a lever . 
 Can a single person lift a barrel of oil on 
 to the deck of a lorry? It is difficult. Let us find out the amount of force that has to be applied to lift an object directly upwards.
 Hang a piece of metal on a spring balance and take the reading. Then lift the piece 
@@ -2055,20 +2050,20 @@ of metal vertically up with your hand, while it is on the spring balance and obs
 When the piece of the metal was hanging on the balance, a force which is equal to 
 the weight of the piece of metal is exerted downwards on the balance. While you are lifting the piece of metal, you are applying a force, which is equal to the weight of it, upwards. Then, you will observe that the reading of the balance reaches zero. Thus, it is clear that a force which is equal to the weight of an object should be applied upwards to lift it vertically up. 
 Now keep a piece of long plank, inclined to the horizontal surface and draw the 
-same piece of metals along it, as shown in the figure 15.2. Observe the reading of the spring balance. You will realize that the force exerted to draw the piece of metal along the ramp is less than the force exerted to lift it directly upwards. Here the job is made easy. Simple Machines15
-Figure 15.2 – Drawing an object along an 
+same piece of metals along it, as shown in the Observe the reading of the spring balance. You will realize that the force exerted to draw the piece of metal along the ramp is less than the force exerted to lift it directly upwards. Here the job is made easy. Simple Machines15
+Drawing an object along an 
 inclined plane
-Figure 15.1 – A lever
+ A lever
 Science | Simple Machines 85 Science | Simple Machines 84
-Figure 15.3 – Loading a barrel of oil to a lorry 
+Loading a barrel of oil to a lorry 
 using an inclined planeHere the device used to lift the piece of 
-metal is known as inclined plane. When a barrel of oil is to be loaded to a lorry, it is easy to push it along a ramp as shown in the figure 15.3. 
-Figure 15.4 – Lifting an object 
+metal is known as inclined plane. When a barrel of oil is to be loaded to a lorry, it is easy to push it along a ramp 
+Lifting an object 
 using a pulleyWhen you want to pull a bucket of water from a well, you can tie one end of a rope to the bucket, send the bucket into the well and draw it upwards by pulling it from the other end of the rope. Here the force that should be applied is equal to the weight of the bucket full of water.  
 Let us consider an easier way to do this job. Lifting 
-the bucket of water can be easily done by sending the rope round a pulley and drawing the other end of the rope downwards, as shown in the figure 15.4. Drawing sometimes down is easier than drawing it up. Pulley is used to change the direction of force as we want. 
-Figure 15.5 – Using a screw driverTo sink a screw nail into something, the force is applied 
-by turning the handle of screw driver (figure 15.5). It is common experience that this job is made easier by the screw driver. Here the device used is known as the wheel and axle. 
+the bucket of water can be easily done by sending the rope round a pulley and drawing the other end of the rope downwards, as shown in the Drawing sometimes down is easier than drawing it up. Pulley is used to change the direction of force as we want. 
+– Using a screw driverTo sink a screw nail into something, the force is applied 
+by turning the handle of screw driver . It is common experience that this job is made easier by the screw driver. Here the device used is known as the wheel and axle. 
 Strategies used to make the job easy are known as simple machines.
 There are four types of simple machines;
  ²Lever
@@ -2077,7 +2072,7 @@ There are four types of simple machines;
  ²Wheel and axle
 Let us discuss about these simple machines, in detail.
 Science | Simple Machines 87 Science | Simple Machines 86
-Figure 15.6 – Using a crowbar15.1   Lever
+– Using a crowbar15.1   Lever
 As we have discussed earlier, a metal rod or a 
 crowbar can be used to lift a wooden log or a rock. Let us consider it again.  
 It is difficult to lift the rock to some height. The 
@@ -2092,7 +2087,7 @@ Method :-
  ●Weigh the book, using the Newton spring 
 balance. 
  ●Keep the wooden strip on a piece of wood as a support P to balance it.
- ●Place the book on the end of the strip as shown in figure 15.7. Couple the Newton balance to the other end of the strip using a book and pull the balance vertically downwards, holding its stem.
+ ●Place the book on the end of the strip as shown in Couple the Newton balance to the other end of the strip using a book and pull the balance vertically downwards, holding its stem.
  ●Take the reading of the balance.
  ●Keep the distance from the book to the support a constant and take several readings by changing the distance from the support to the place where the balance x is coupled. (Take several readings by keeping the value of  greater 
 than a and less than a). 
@@ -2128,7 +2123,7 @@ Effort
 =36 N
 12 N3
 Science | Simple Machines 89 Science | Simple Machines 88To remove the lid of a tin can, you can lift it with your fingers. But, it is difficult. An 
-easier way is shown in figure 15.9.
+easier way is shown in
 Figure 15.9Here the handle of a spoon is used as a 
 lever. One end of the handle of spoon holds the lid of tin (load). One point of the handle rests on the edge of tin can. This point is the fulcrum. When a small force (effort) is applied at the free end and of the handle, the lid is thrown up. So, the load of the can is removed easily.
 Consider the position of the fulcrum of the levers mentioned above. It is positional 
@@ -2153,7 +2148,7 @@ Science | Simple Machines 89 Science | Simple Machines 88Second order levers
 Levers in which the load acts between effort and fulcrum are referred to as second order levers. Nut cracker is an example. 
 LoadFulcrumEffort
 Figure 15.12
-Some examples for second order levers are given in figure 15.13. 
+Some examples for second order levers are given in 
 Figure 15.13 – Second order levers
 Nut-cracker Wheelbarrow
 The blade and the rod of the nut cracker turns round the pin, by which they are coupled. Therefore, that pin is the fulcrum. Load acts on the object that is to be cut. Effort is applied at the far end of the handle.  
@@ -2378,7 +2373,7 @@ You will need :-  A pulley, a suitable string,
 a Newton spring balance, a piece of stone or a suitable load
 Method :-                                       
  ²Measure the weight of stone using the Newton spring balance. 
- ²Now tie the string to the stone and pull it over the pulley using the Newton spring balance as shown in the figure 15.23. Note down the reading of the balance.
+ ²Now tie the string to the stone and pull it over the pulley using the Newton spring balance as shown in the Note down the reading of the balance.
 Figure 15.23
 Compare the weight of the stone and the force necessary to pull it over the pulley. You will realize that both readings are more or less the same. (There may be a slight difference due to the friction of the pulley)
 When we are lifting something straight upwards, the force should be applied 
@@ -2640,7 +2635,7 @@ You will need :- Bristol board,
 glue, a pair of 
 scissors
 Method :- 
- ²Take a photocopy of the picture in figure 16.18. Paste it on a bristol board and cut the block.
+ ²Take a photocopy of the picture in Paste it on a bristol board and cut the block.
  ²Join the letters together A-A, B-B, C-C and D-D, using glue on the foil-out tabs.
  ²You wiil end up having a ring and 2 caps.
  ²Stick the five flaps of each cap onto the 5 hexagon edges of the ring.
@@ -3317,7 +3312,7 @@ Recently, scientists have observed that, in addition to natural causes, some act
  yConstructing very large buildings of great heights and weights 
 18.3    Tsunami
 On the 26th December 2004 we had to face the most ruinous natural disaster which 
-affected Sri Lanka in recent times. It was the tsunami disaster. A part of a newspaper article published 12 years after the incident is given in the figure 18.20. 
+affected Sri Lanka in recent times. It was the tsunami disaster. A part of a newspaper article published 12 years after the incident is given in the 
 Figure 18.2026th of Friday, December 2016
 12 years for Tsunami
 'Tsunami' train stops at Paraliya for 5 minutes for the 
@@ -3825,7 +3820,7 @@ r
 s  Prevention   er
 osion V oluntary contribution of school children is taken for replanting those areas.
 Plants as a natural resource from cradle to 
-grave, man extensively uses plants. Some services rendered by plants to man and environment are shown in figure 19.11.
+grave, man extensively uses plants. Some services rendered by plants to man and environment are shown in
 Study figure 19.11 well and answer the 
 following questions.
 1.Mention five material benefits   

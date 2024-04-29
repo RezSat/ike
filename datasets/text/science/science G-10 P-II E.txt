@@ -1492,7 +1492,7 @@ submerged in it.
 submerged in the fluid so that an upthrust equal to the weight of the object acts 
 on it.
 Hydrometer
-Lead shotsScaleGlass stem and bulbHydrometers are used to measure the density of liquids and solutions. It is made of glass. It has a cylindrical stem and a bulb as shown in the diagram. Mercury or lead shots are found inside the bulb to enable it to float vertically in the liquid .The liquid or the solution is taken to a vessel and the hydrometer is put in to it. Then the density of the liquid or the solution can be read directly by the scale given on the hydrometer.
+Lead shotsScaleGlass stem and bulbHydrometers are used to measure the density of liquids and solutions. It is made of glass. It has a cylindrical stem and a bulb . Mercury or lead shots are found inside the bulb to enable it to float vertically in the liquid .The liquid or the solution is taken to a vessel and the hydrometer is put in to it. Then the density of the liquid or the solution can be read directly by the scale given on the hydrometer.
 Hydrometer has been made in accordance with the 
 Archimedes' principle. The hydrometer immerses in the liquid to a height so as to displace a weight equal to the weight of the hydrometer. The volume of the liquid or the solution displaced is equal to the volume of the  immersed part of the hydrometer. As 
 a small volume of the liquid is displaced in a high density liquid, the hydrometer is immersed to only small depth. But when it is put in a low density liquid it immerses more because more liquid should displace, to produce the upthrust required to balance it

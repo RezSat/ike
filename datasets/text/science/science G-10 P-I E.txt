@@ -2728,7 +2728,7 @@ Study of plant cells (onion peel cells)
 Materials Required - Onion peel, Watch glass, Glass slide, Cover slip, Paint 
 brush, Microscope, Water
 Method
-Cut an onion and obtain an inner fleshy tissue as shown in the diagram. Remove a peel from inner or outer surface of it and transfer it on to a watch glass containing water. Put a water drop on to a clean glass slide and transfer the specimen on to the slide using a paint brush. Cover it with a cover slip without trapping any air bubbles and observe it through the microscope.
+Cut an onion and obtain an inner fleshy tissue . Remove a peel from inner or outer surface of it and transfer it on to a watch glass containing water. Put a water drop on to a clean glass slide and transfer the specimen on to the slide using a paint brush. Cover it with a cover slip without trapping any air bubbles and observe it through the microscope.
 Figure 6.3 (a)
 Figure 6.3 (b)
 The appearance of stained onion peel 
@@ -3513,7 +3513,7 @@ water
 A apparatus B apparatus
 Figure 8.9- A practical demonstration to show absorption of oxygen in respiration
 Method
-Close the  flask with the cork lid connected to a rubber tube and a U tube as shown in the diagram. After sometime tighten the rubber tube and observe the water level in the U tube.  
+Close the  flask with the cork lid connected to a rubber tube and a U tube . After sometime tighten the rubber tube and observe the water level in the U tube.  
 when the flasks are closed with cork lids air inside is released through the rubber tube and pressure comes to equilibrium. Then rubber tubes are tightened to avoid gas exchange.
 CO
 2 released during respiration of seeds in apparatus A dissolves in KOH. O2 in the 

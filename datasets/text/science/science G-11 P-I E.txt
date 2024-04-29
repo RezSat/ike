@@ -1553,10 +1553,10 @@ Method :- Crush a few spinach leaves thoroughly using mortar and the pestle
 available in the laboratory. Collect the chlorophyll extract onto a watch glass  by placing the crushed paste on a piece of thin silk cloth and squeezing it.
 • Cut a strip of chromatography/filter/A
 4 paper
-• Take a little bit of the chlorophyll extract to a capillary tube and place it on the strip of the paper a little above the end of it as shown in the diagram. The solvent vaporizes leaving chlorophyll on the paper. Place another drop on same spot.
+• Take a little bit of the chlorophyll extract to a capillary tube and place it on the strip of the paper a little above the end of it . The solvent vaporizes leaving chlorophyll on the paper. Place another drop on same spot.
 Figure 3.3.7
 • Connect a piece of string to the end of the paper strip opposite to that with the chlorophyll drop.
-• Add a solvent such as acetone/kerosene/petrol to the boiling tube and stopper it. Leave it to saturate. Connect a hook to the stopper as shown in the diagram and suspend the strip on the hook so that its other end dips in the solvent. Ensure that the sides of the strip do not touch the walls of the boiling tube.
+• Add a solvent such as acetone/kerosene/petrol to the boiling tube and stopper it. Leave it to saturate. Connect a hook to the stopper  and suspend the strip on the hook so that its other end dips in the solvent. Ensure that the sides of the strip do not touch the walls of the boiling tube.
 strip of paper
 boiling tube
 drop of chlorophyllhook
@@ -3329,7 +3329,7 @@ A
 Materials required :- Small bell jar,  gas tube, a cork 
 bore, two rubber balloons,  balloon membrane or 
 polythene sheath,  several rubber bands
-Method :- Set the apparatus as shown in the diagram. Push and release the balloon membrane and observe the condition of balloonsActivity - - 6'1
+Method :- Set the apparatus . Push and release the balloon membrane and observe the condition of balloonsActivity - - 6'1
 When rubber membrane is pulled down in the above activity the volume inside the 
 bell jar increases. Then external gas enters and balloons get inflated. When rubber sheath is released, gas inside balloons go out as the volume of bell jar decreases. Likewise gas exchange between external environment and lungs occurs due to changes of volume of lungs.
 The system involved in entering O
