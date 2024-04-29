@@ -1,6 +1,6 @@
 # Ike: An AI-Based Answer Engine
 
-"Okay, yes, there is an API key in here, but I'll remove it and revoke it after the end of the Google AI Hackathon. Until then, the API key can sit here, no big deal."
+"Okay, yes, there is an API key in here, but I'll remove it or revoke it after the end of the Google AI Hackathon. Until then, the API key can sit here, no big deal."
 
 ### Content
 
@@ -12,7 +12,7 @@
 
 ## Project Description
 
-As the name suggests, Ike is an AI-powered Answer Engine. However, this Answer Engine is specifically tailored for the G.C.E. O/L specification. Now, explaining what that entails might be as tricky as quantum physics, so let me walk you through my process to shed some light on it.
+As the name suggests, Ike is an AI-powered Answer Engine. However, this Answer Engine is specifically tailored for the G.C.E. O/L specification. Now, explaining what that entails might be as tricky hehe, so let me walk you through my process to shed some light on it.
 
 First, I went on a digital treasure hunt and snagged the freely available textbooks from the [Educational Publication Department](http://www.edupub.gov.lk/BooksDownload.php) of Sri Lanka. I grabbed the Grade-9, Grade-10, and Grade-11 textbooks since the G.C.E. O/L examination relies heavily on these three grades. These textbooks covered subjects like:
 
@@ -48,7 +48,7 @@ python app.py
 
 That's it! Just run it and visit the provided URL, e.g., http://127.0.0.1:5000.
 
-Sorry for not hosting it somewhere; I couldn't find a suitable free hosting platform.
+DEMO: https://yehanwasura.pythonanywhere.com/
 
 ## Preview Images
 
