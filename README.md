@@ -69,3 +69,4 @@ Yes, there are a few known issues that should be as easy to solve as finding you
 - Not properly rendering answers for the Sinhala version
 - The image answer option is taking a snooze (heheh)
 - Sometimes it decides to crash with a Reason: OTHER (yeah, I don't really get what that is either.)
+- It sometimes gives stupid results for the same questions, I guess that can be overcome by refining the dataset more
