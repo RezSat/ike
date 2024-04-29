@@ -21,7 +21,7 @@ subj = {
 	4: "entrepreneurship",
 	5: "civic",
 	6: "ict",
-	7: "mathematics"
+	7: "mathematics",
 	8: "health"
 
 }
