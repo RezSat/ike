@@ -1,7 +1,5 @@
 # Ike: An AI-Based Answer Engine
 
-"Okay, yes, there is an API key in here, but I'll remove it or revoke it after the end of the Google AI Hackathon. Until then, the API key can sit here, no big deal."
-
 ### Content
 
 - Project Description
