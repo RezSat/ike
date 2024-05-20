@@ -1,4 +1,4 @@
-# Ike: An AI-Based Answer Engine
+# Ike: An AI-Based Answer Engine.
 
 ### Content
 
