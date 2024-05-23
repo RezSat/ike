@@ -1,5 +1,7 @@
 # Ike: An AI-Based Answer Engine.
 
+| **Note**L This is an hackathon project.
+
 ### Content
 
 - Project Description
